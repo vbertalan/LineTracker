@@ -1,0 +1,4 @@
+- ERROR - /localdisk/6500_repo/tools/copera/bin/runjob.py.main(214) : Job Type: _6500_build.cc Name: ctmp had an exception
+- ERROR - /localdisk/6500_repo/tools/copera/bin/runjob.py.main(215) : Job Type: _6500_build.cc Name: ctmp had an exception
+- ERROR - /localdisk/6500_repo/tools/copera/bin/runjob.py.main(215) : Job Type: _6500_build.cc Name: ctmp had an exception
+- ERROR - /localdisk/6500_repo/tools/copera/bin/runjob.py.main(216) : Job Type: _6500_build.cc Name: ctmp had an exception
