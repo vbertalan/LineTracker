@@ -1,0 +1,6 @@
+LineId,Content,EventId,EventTemplate,ParameterList
+1,- ERROR - /localdisk/6500_repo/tools/copera/bin/runjob.py.main(214) : Job Type: _6500_build.cc Name: ctmp had an exception,32d4d16c,- ERROR - <*> : Job Type: _6500_build.cc Name: ctmp had an exception,['/localdisk/6500_repo/tools/copera/bin/runjob.py.main(214)']
+2,- ERROR - /localdisk/6500_repo/tools/copera/bin/runjob.py.main(215) : Job Type: _6500_build.cc Name: ctmp had an exception,32d4d16c,- ERROR - <*> : Job Type: _6500_build.cc Name: ctmp had an exception,['/localdisk/6500_repo/tools/copera/bin/runjob.py.main(215)']
+3,- ERROR - /localdisk/6500_repo/tools/copera/bin/runjob.py.main(215) : Job Type: _6500_build.cc Name: ctmp had an exception,32d4d16c,- ERROR - <*> : Job Type: _6500_build.cc Name: ctmp had an exception,['/localdisk/6500_repo/tools/copera/bin/runjob.py.main(215)']
+4,- ERROR - /localdisk/6500_repo/tools/copera/bin/runjob.py.main(216) : Job Type: _6500_build.cc Name: ctmp had an exception,32d4d16c,- ERROR - <*> : Job Type: _6500_build.cc Name: ctmp had an exception,['/localdisk/6500_repo/tools/copera/bin/runjob.py.main(216)']
+5,ls: cannot access '/localdisk/gitlcb/data/6500/020403/*/TCSBASE69_P12_ppc': No such file or directory,134aa640,ls: cannot access '/localdisk/gitlcb/data/6500/020403/*/TCSBASE69_P12_ppc': No such file or directory,[]

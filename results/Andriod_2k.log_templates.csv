@@ -1,0 +1,120 @@
+EventId,EventTemplate,Occurrences
+814a8bdc,"03-17 16:13:38.811 1702 2395 D WindowManager: printFreezingDisplayLogsopening app wtoken = AppWindowToken{9f4ef63 token=Token{a64f992 ActivityRecord{de9231d u0 com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}}, allDrawn= false, startingDisplayed = false, startingMoved = false, isRelaunching = false",1
+48e6e977,"03-17 16:13:38.819 1702 8671 D PowerManagerService: acquire lock=233570404, flags=0x1, tag=""View Lock"", name=com.android.systemui, ws=null, uid=10037, pid=2227",1
+98e9a197,03-17 <*> 1702 <*> D PowerManagerService: <*>,199
+65f089eb,03-17 <*> 1702 <*> V WindowManager: Skipping <*> <*> <*> u0 <*> t761}}} -- going to hide,4
+65a3686d,03-17 <*> 2227 2227 D TextView: <*> is <*>,8
+a5b83fbe,03-17 <*> 2227 2227 D TextView: visible is <*> gt 0,2
+6baef028,"03-17 16:13:38.905 1702 10454 D PowerManagerService: release:lock=233570404, flg=0x0, tag=""View Lock"", name=com.android.systemui"", ws=null, uid=10037, pid=2227",1
+20316953,"03-17 <*> 2227 2227 I StackScrollAlgorithm: updateClipping <*> getTopPadding=333.0, <*>",65
+00c4364d,03-17 <*> 2227 2227 I <*> <*> <*>,120
+c4dfc808,03-17 <*> 1702 <*> W ActivityManager: <*> caller <*> does not hold REAL_GET_TASKS; limiting output,118
+1fca1792,"03-17 <*> 1702 <*> D PowerManagerService: <*> flg=0x0, <*> name=android"", <*> uid=1000, pid=1702",12
+2cde527d,"03-17 <*> 2227 2227 I PhoneStatusBar: setSystemUiVisibility <*> <*> <*> <*> <*> fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - <*> <*> dockedStackBounds=Rect(0, 0 - 0, 0)",200
+dc71aab3,03-17 <*> 2227 2227 I <*> <*>,93
+72a8e043,03-17 16:13:38.994 1702 27365 I WindowManager: Destroying surface Surface(name=SurfaceView - com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity) called by com.android.server.wm.WindowStateAnimator.destroyDeferredSurfaceLocked:942 com.android.server.wm.WindowManagerService.performDeferredDestroyWindow:3407 com.android.server.wm.Session.performDeferredDestroy:225 android.view.IWindowSession$Stub.onTransact:398 com.android.server.wm.Session.onTransact:136 android.os.Binder.execTransact:565 <bottom of call stack> <bottom of call stack>,1
+f5657024,03-17 <*> 1702 <*> I WindowManager: Destroying surface <*> called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 <*> <*> <*> <*> <*> <*>,24
+9a65f105,03-17 <*> 1702 <*> D PowerManagerService: userActivityNoUpdateLocked: <*> <*> <*> uid=1000,69
+cef9250a,"03-17 16:13:39.069 1702 1815 I WindowManager: orientation change is complete, call stopFreezingDisplayLocked",1
+e8b66b89,03-17 16:13:39.070 1702 1815 I WindowManager: Screen frozen for +1s0ms due to Window{ca98d5 u0 com.tencent.qt.qtl/com.tencent.qt.qtl.activity.info.NewsDetailXmlActivity},1
+fe03efc2,03-17 <*> 1702 1815 D WindowManager: startAnimation <*>,2
+c983918d,03-17 <*> 1702 <*> I AlarmManager: <*> <*> <*> broadcastIntent}}) changed bounds; rebatching,2
+748a6fb3,03-17 <*> 1702 <*> I WindowManager: <*> last=0); user=0 USER_ROTATION_LOCKED,3
+8ae18412,03-17 <*> 1702 <*> I WindowManager: Application requested orientation <*> got rotation 0 which has compatible metrics,3
+a48102ec,"03-17 <*> 1702 <*> D PowerManagerService: acquire <*> flags=0x1, <*> <*> ws=null, <*> <*>",15
+1fb7566f,03-17 <*> 2626 <*> W PhoneInterfaceManager: shouldBlockLocation running ...,37
+a485066d,03-17 <*> 2626 <*> I PhoneInterfaceManager: shouldBlockLocation <*>,37
+3d86043f,03-17 <*> 3664 3807 D TelephonyManager: getNeighboringCellInfo calling app is com.amap.android.ams,5
+2d72b5d6,"03-17 <*> 1702 <*> D PowerManagerService: <*> flg=0x0, tag=""RILJ_ACK_WL"", name=com.android.phone"", ws=null, uid=1001, pid=2626",7
+cd6ff7da,"03-17 <*> 1702 <*> D PowerManagerService: <*> flg=0x0, tag=""AudioMix"", name=audioserver"", ws=null, uid=1041, pid=0",6
+ee53fc18,"03-17 <*> 1702 <*> D PowerManagerService: <*> suspend blocker ""PowerManagerService.WakeLocks"".",66
+0ee6eef5,03-17 <*> 1702 1820 I DisplayPowerController: HBM <*> =38,170
+d7a12ed1,"03-17 <*> 1702 1820 D DisplayPowerController: Animating brightness: target=38, rate=200",85
+3ce26691,03-17 <*> 1702 <*> D WindowManager: interceptKeyTq <*> interactive=true keyguardActive=false policyFlags=2b000002 down <*> canceled false,14
+706d045b,"03-17 <*> 1702 <*> D WindowManager: interceptKeyBeforeQueueing: key <*> , result : 1",14
+bc7b275a,03-17 <*> <*> <*> V AudioManager: querySoundEffectsEnabled...,15
+c697d94a,"03-17 <*> 1702 <*> D PowerManagerService: acquire <*> flags=0x1, <*> name=android, <*> uid=1000, pid=1702",10
+4b152aff,03-17 16:13:45.466 1702 17632 W ActivityManager: Bad activity token: android.os.BinderProxy@2bd79ce,1
+6b5ef8b2,03-17 16:13:45.466 1702 17632 W ActivityManager: java.lang.ClassCastException: android.os.BinderProxy cannot be cast to com.android.server.am.ActivityRecord$Token,1
+50f2d4e4,03-17 <*> 2227 2227 I PanelView: <*> <*> <*>,2
+1d16fd0e,03-17 <*> 1702 <*> V AudioManager: getRingtonePlayer...,2
+00bb8729,03-17 <*> 2227 2227 D PhoneStatusBar: disable: < expand <*> alerts <*> back home recent clock navigationbar search quick_settings >,6
+dd5526f6,"03-17 <*> 1702 <*> I NotificationManager: updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == <*>",6
+ff94b412,"03-17 <*> 1702 <*> I NotificationManager: updateLightsLocked,turn off notificationLight",6
+e374fde2,"03-17 <*> 2227 2227 I StackScrollAlgorithm: <*> previousNotificationEnd:0.0, <*> location:4, i:0, getTopPadding:333.0, <*>",13
+c93f1bc4,"03-17 <*> 2227 2227 I PanelView: flingToHeight: <*> <*> <*> collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false",2
+db861a98,03-17 <*> 1702 <*> W ActivityManager: Sending non-protected broadcast com.android.systemui.statusbar.visible.change from system 2227:com.android.systemui/u0a37 pkg com.android.systemui,2
+89eb573c,03-17 <*> 2227 2318 I PhoneStatusBar: logNotificationVisibilityChanges runInThread <*>,12
+4490aa58,03-17 <*> 1702 <*> I NotificationManager: <*> <*>,12
+6b6d31ed,03-17 16:13:46.764 2227 2794 E KeyguardUpdateMonitor: isSimPinSecure mSimDatas is null or empty,1
+beaf84f6,03-17 <*> 2227 2794 W KeyguardUpdateMonitor: registerCallback not in UI.,3
+9cb98910,03-17 <*> 2227 2794 W KeyguardUpdateMonitor: android.util.AndroidRuntimeException: Must execute in UI,3
+720c7110,03-17 <*> 2227 2794 V KeyguardUpdateMonitor: *** <*> callback for <*>,3
+8c003238,03-17 16:13:46.778 2626 2839 D PhoneInterfaceManager: [PhoneIntfMgr] getDataEnabled: subId=1 <*>,2
+47377f60,"03-17 <*> 2227 2227 I PanelView: onInterceptTouchEvent MotionEvent { <*> actionButton=0, id[0]=0, <*> <*> toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, <*> <*> deviceId=3, source=0x1002 }, mBlockTouches=false",4
+c5d427a4,03-17 <*> 2227 <*> V AudioManager: <*> <*> 0,2
+de816038,03-17 <*> 2227 2227 I PhoneStatusBar: <*> <*> <*> <*>,8
+1b3e26a7,03-17 <*> 1702 <*> I ActivityManager: START u0 <*> <*> <*> <*> <*> from uid <*> on display 0,3
+66514c7a,03-17 <*> 1702 <*> I ActivityManager: <*> <*> <*> <*> euid: 0,10
+85a4f2f2,03-17 <*> 1702 1702 I NotificationManager: <*>,25
+e52b0c8d,"03-17 <*> 1702 1702 I NotificationManager: cancelNotification,cancelNotificationLocked,callingUid = <*> = <*>",2
+ed3a2551,"03-17 <*> 1702 1702 I NotificationManager: cancelNotificationLocked called,tell the app,reason = <*>",2
+19243199,03-17 <*> 1702 <*> E ActivityManager: applyOptionsLocked: Unknown animationType=0,2
+01bdc12a,"03-17 <*> 1702 <*> I WindowManager: Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], <*> <*> inRotation:[false], rot:[0]",4
+4baa2ac1,03-17 <*> 2227 2227 I PhoneStatusBar: updateNotificationShade: <*> <*>,13
+d2ff4fa1,03-17 <*> 1702 <*> I WindowManager: The change in focus caused us to need to do a layout <*>,12
+3d623944,03-17 <*> 2227 2227 V PhoneStatusBar: setLightsOn(true),181
+a74b9316,"03-17 <*> 1702 <*> D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }",14
+d98c76f3,"03-17 <*> 1702 <*> D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }",14
+ec2ade72,"03-17 <*> 1702 <*> D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { <*> <*> (has extras) }",21
+eeb9a25b,"03-17 <*> 1702 <*> D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }",7
+9751d463,"03-17 <*> 1702 <*> D ActivityManager: Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }",7
+891e89aa,03-17 <*> 1702 <*> D ActivityManager: getRecentTasks: <*>,28
+e6116dcc,"03-17 <*> 1702 <*> I NotificationManager: cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id <*>",20
+13a25acd,03-17 <*> 2227 2227 D PhoneStatusBar: makeExpandedInvisible: <*>,4
+412d9c56,03-17 <*> 23650 <*> V AudioManager: isMusicActive...,12
+9b6b3fea,"03-17 16:13:50.766 1702 3693 I ActivityManager: Start dump, calling from : pid=12782, uid=1000",1
+037dde63,03-17 <*> 1702 1702 V AudioManager: setWiredDeviceConnectionState type: <*> state: 0,2
+c0b41b15,"03-17 <*> 1702 <*> D ActivityManager: ActivityManagerService,attachApplication,callingPid = <*>",4
+2ff4e7b9,03-17 <*> 28601 28601 <*> AudioManager: <*>,6
+c002723e,03-17 <*> 2227 2514 V AudioManager: <*> <*> <*>,10
+7b051e5f,03-17 <*> 1702 <*> D ActivityManager: cleanUpApplicationRecord -- <*>,6
+c7d43810,"03-17 <*> 1702 <*> I ActivityManager: cleanUpApplicationRecordLocked, pid: <*> restart: false",6
+9d1f486d,03-17 <*> 1702 <*> I DisplayManagerService: stopWifiDisplayScanLocked <*>,12
+15ffa6a0,03-17 16:13:55.941 30852 30852 V AudioManager: getMode...,1
+80443cd4,03-17 16:13:55.944 30852 30852 V AudioManager: setSpeakerphoneOn on: true,1
+1fbff6b0,03-17 16:13:55.948 30852 30852 I AudioManager: setSpeakerphoneOn on:true,1
+42a6f03a,"03-17 <*> 1702 2096 I AlarmManager: sending alarm <*> type 3 when <*> <*> <*> <*> broadcastIntent}}},repeatInterval = 0,listenerTag <*>",5
+34813d75,03-17 <*> 1702 1702 V AlarmManager: Received TIME_TICK alarm; rescheduling,3
+5f151179,03-17 <*> 1702 1702 I <*> <*> <*> = <*>,5
+64b24017,03-17 <*> 2227 2227 D KeyguardUpdateMonitor: received broadcast <*>,4
+fb3934dd,03-17 <*> 2227 2227 D KeyguardUpdateMonitor: <*>,4
+7e2f8128,03-17 <*> <*> <*> V AudioManager: playSoundEffect effectType: 0,9
+6200c957,03-17 16:14:27.059 1702 17621 I ActivityManager: Killing 23484:com.android.calendar/u0a13 (adj 906): empty for 1810s,1
+4b07bbe3,03-17 16:15:03.502 1702 2639 W ActivityManager: Unable to start service Intent { act=com.tencent.android.tpush.action.keepalive cmp=com.qqgame.hlddz/com.tencent.android.tpush.service.XGPushService } U=0: not found,1
+1d1d7c41,"03-17 16:15:18.859 28601 12278 I MediaPlayer: [HSM] stayAwake false uid: 10111, pid: 28601",1
+a4db070b,03-17 16:15:18.866 28601 12278 I MediaPlayer: Pid:28601 MediaPlayer destructor,1
+44f25348,03-17 16:15:19.992 1702 2644 I ActivityManager: Process com.tencent.mobileqq:qzone (pid 12236) has died,1
+5ce51fff,03-17 16:15:19.993 1702 2644 W ActivityManager: Scheduling restart of crashed service com.tencent.mobileqq/cooperation.qzone.remote.logic.QzoneWebPluginProxyService in 1000ms,1
+ac9dc2ba,"03-17 16:15:20.995 1702 1765 I ActivityManager: new Process app=ProcessRecord{6eaaf00 0:com.tencent.mobileqq:qzone/u0a111}, name: com.tencent.mobileqq:qzone, euid: 0",1
+a55c26c6,03-17 16:15:21.065 1702 1765 I ActivityManager: Start proc 13003:com.tencent.mobileqq:qzone/u0a111 for service com.tencent.mobileqq/cooperation.qzone.remote.logic.QzoneWebPluginProxyService,1
+747a1735,03-17 16:15:33.419 1702 8290 I NotificationManager: enqueueNotificationInternal: pkg=com.tencent.mobileqq id=121 notification=Notification(pri=1 contentView=null vibrate=[100] sound=null tick defaults=0x0 flags=0x11 color=0x00000000 vis=PRIVATE),1
+710f8f26,03-17 <*> <*> <*> V AudioManager: getRingerMode...,2
+1c5db67a,03-17 <*> 1702 <*> I NotificationManager: Marking notification as seen <*>,2
+39725148,"03-17 <*> 1702 <*> D WindowManager: ACTIVITY check resid: com.example.android.notepad, <*>",2
+a00f1309,03-17 <*> 2626 <*> D PhoneInterfaceManager: getAllCellInfo is blocked by permission manager . callingPackage = com.tencent.mobileqq,3
+637170da,03-17 16:15:51.200 2626 2643 D PhoneInterfaceManager: getCellLocation is blocked by permission manager uid:10111 pid:28601,1
+5b287bf5,03-17 <*> 7111 7111 V AudioManager: <*>,2
+700a74b9,"03-17 16:16:00.489 7111 7111 I MediaPlayer: setDataSource(166, 0, 576460752303423487)",1
+7117c359,03-17 16:16:00.520 7111 7111 V AudioManager: getStreamVolume treamType: 5,1
+7d3efe3e,"03-17 16:16:02.895 1702 1820 D PowerManagerService: updateIsPoweredLocked: wasPowered=false, mIsPowered=false, oldPlugType=0, mPlugType=0, mBatteryLevel=23",1
+e202b11f,03-17 16:16:02.897 2227 2227 W KeyguardUpdateMonitor: ACTION_BATTERY_CHANGED AMP: 0; Volt: 0,1
+ba06b77e,03-17 16:16:02.898 1702 1702 I DeviceIdleController: updateChargingLocked: charging=false,1
+d509229d,03-17 16:16:02.899 1702 <*> D <*> <*> <*>,3
+35937372,03-17 16:16:02.899 1702 1702 D WifiService: ACTION_BATTERY_CHANGED pluggedType: 0,1
+1cdf87ce,03-17 16:16:02.899 1702 2121 D WifiController: battery changed pluggedType: 0,1
+6d6a3725,03-17 <*> 2227 2227 V KeyguardUpdateMonitor: RefreshBatteryInfo isBatteryLow: 23,2
+12c04384,03-17 16:16:02.899 2227 2227 W KeyguardUpdateMonitor: ChargingSpeed Wattage: -1 ST: 5000000 --> 7500000,1
+2585875b,03-17 16:16:04.598 1702 2644 I NotificationManager: enqueueNotificationInternal: pkg=com.tencent.mm id=4097 notification=Notification(pri=1 contentView=null vibrate=[] sound=null tick defaults=0x0 flags=0x101 color=0x00000000 category=msg vis=PRIVATE),1
+a0555ec5,03-17 16:16:06.772 1702 3137 I ActivityManager: START u0 {flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid 10112 on display 0,1
+b26d7963,03-17 16:16:06.785 1702 3137 W ActivityManager: startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras) },1
