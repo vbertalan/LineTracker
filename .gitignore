@@ -4,3 +4,8 @@ concat_matrix_pandas.csv
 concat_df_pandas.csv
 concat_mat_numpy.csv
 vectors/Andriod_2k.log_vectors_TFIDF.vec
+jac_distance.csv
+matrix_variaveis_teste.csv
+.gitignore
+tfidf_distance.csv
+var_distance.csv
