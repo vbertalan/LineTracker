@@ -1,3 +1,6 @@
 vectors/Ciena_error_lines_20220701-20220715.txt_vectors.vec
 matrix_variaveis.csv
 concat_matrix_pandas.csv
+concat_df_pandas.csv
+concat_mat_numpy.csv
+vectors/Andriod_2k.log_vectors_TFIDF.vec
