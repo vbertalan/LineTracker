@@ -1,5 +1,0 @@
-- ERROR - /localdisk/6500_repo/tools/copera/bin/runjob.py.main(214) : Job Type: _6500_build.cc Name: ctmp had an exception
-- ERROR - /localdisk/6500_repo/tools/copera/bin/runjob.py.main(215) : Job Type: _6500_build.cc Name: ctmp had an exception
-- ERROR - /localdisk/6500_repo/tools/copera/bin/runjob.py.main(215) : Job Type: _6500_build.cc Name: ctmp had an exception
-- ERROR - /localdisk/6500_repo/tools/copera/bin/runjob.py.main(216) : Job Type: _6500_build.cc Name: ctmp had an exception
-ls: cannot access '/localdisk/gitlcb/data/6500/020403/*/TCSBASE69_P12_ppc': No such file or directory
