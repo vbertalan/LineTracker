@@ -9,3 +9,7 @@ matrix_variaveis_teste.csv
 .gitignore
 tfidf_distance.csv
 var_distance.csv
+tfidf_distance.csv.npy
+var_distance.csv.npy
+count_distance.csv.npy
+cluster_5.txt
