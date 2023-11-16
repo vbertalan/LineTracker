@@ -14,3 +14,9 @@ var_distance.csv.npy
 count_distance.csv.npy
 cluster_5.txt
 my_model
+logs/trat3_production_1650_1700_20231411.json
+logs/trat3_production_1650_1700_20231411_raw.txt
+.gitignore
+results/trat3_production_1650_1700_20231411_raw.txt_templates.csv
+vectors/trat3_production_1650_1700_20231411_raw.txt_vectors_TFIDF.vec
+results/trat3_production_1650_1700_20231411_raw.txt_structured.csv

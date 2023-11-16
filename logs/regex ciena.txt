@@ -1,0 +1,6 @@
+#selecting raw lines
+"raw": "(?:[^"]|"")*",
+
+#finding unicodes
+\\u[0-9][0-9][0-9][0-9]
+\\u[0-9][0-9][0-9][A-Z]
