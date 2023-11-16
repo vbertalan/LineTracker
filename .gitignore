@@ -20,3 +20,4 @@ logs/trat3_production_1650_1700_20231411_raw.txt
 results/trat3_production_1650_1700_20231411_raw.txt_templates.csv
 vectors/trat3_production_1650_1700_20231411_raw.txt_vectors_TFIDF.vec
 results/trat3_production_1650_1700_20231411_raw.txt_structured.csv
+logs/trat3_production_1650_1700_20231411_correct.zip
