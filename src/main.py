@@ -35,9 +35,9 @@ default_model: ModelName = "meta-llama/Llama-2-13b-chat-hf"
 default_n_tokens_infered_max: int = 7364
 default_input_field: str = "description"
 if "USER" in os.environ:
-    default_folder_data: Path = Path(f"/project/def-aloise/{os.environ['USER']}/data")
+    default_folder_data: Path = Path(f"/scratch/{os.environ['USER']}/LineTracker/data")
 else:
-    default_folder_data: Path = Path(f"/project/def-aloise/rmoine/data")
+    default_folder_data: Path = Path(f"/scratch/rmoine/LineTracker/data")
 default_datasetname = "eclipse_72k"
 
 # typehint imports
@@ -323,8 +323,8 @@ def get_llama2_embeddings(
     use_cpu: bool = False,
     limit_tokens: int = -1,
     override: bool = False,
-    field_bug_id: str = "bug_id",
-    field_data: str = "description",
+    field_bug_id: str = "event_id",
+    field_data: str = "raw",
 ):
     """From a json file with the description use llama2 to generate the embeddings for each data sample. The intent of this function is to be called with multiple nodes on a slurm server to have faster results
 
@@ -347,7 +347,7 @@ def get_llama2_embeddings(
     folder_out.mkdir(parents=True, exist_ok=True)
     folder_data: Path = existing_path(folder_data, is_folder=True)
     path_data_preprocessed: Path = existing_path(
-        folder_data / f"{dataset_choice}.json", is_folder=False
+        folder_data / f"{dataset_choice}.hdf5", is_folder=False
     )
     assert_valid_token(token)
     model_name: ModelName = get_literal_value(model_name)
@@ -356,18 +356,18 @@ def get_llama2_embeddings(
     )
     tokenizer, model = initialize_model_inference(model_name, token, hidden_states=True, return_dict=True, quant=not use_cpu)  # type: ignore
     model.eval()
-    with open(path_data_preprocessed) as f:
-        data_preprocessed = json.load(f)
+    with h5py.File(path_data_preprocessed, "r") as f:
+        data = list(f)
+        n_data = len(f)
     start, end = generate_seeds(
-        n_data=len(data_preprocessed),
+        n_data=n_data,
         seed_start=seed_start,
         seed_end=seed_end,
         n_chunks=n_chunks,
         interval_idx=interval_idx,
     )
-    data = data_preprocessed
     if end == -1:
-        end = len(data)
+        end = n_data
     data = data[start:end]
     get_file_path = (
         lambda layer_id: folder_out
@@ -380,35 +380,36 @@ def get_llama2_embeddings(
     if get_file_path(layer_id).exists():
         with h5py.File(get_file_path(layer_id), "r") as fp:
             ids_already_there = set(list(fp.keys()))
-    for i, d in tqdm.tqdm(enumerate(data), total=len(data)):
-        already_computed = str(d[field_bug_id]) in ids_already_there
-        if already_computed and not override:
-            continue
-        tokenized_full_text = tokenizer.encode(d[field_data])
-        limit_tokens_sample = limit_tokens
-        if limit_tokens == -1:
-            limit_tokens_sample = len(tokenized_full_text)
-        tokenized_full_text = tokenized_full_text[:limit_tokens_sample]
-        logger.info(f"{len(tokenized_full_text)=}")
-        try:
-            input_tensor = torch.tensor([tokenized_full_text], dtype=torch.int32)
-            with torch.no_grad():
-                embeddings = model(input_tensor)  # type: ignore
-                embedding = embeddings.hidden_states[layer_id]
-                pooled_embedding = np.array(
-                    pooling_fn(embedding).tolist()[0], dtype=np.float32
-                )
-            with h5py.File(get_file_path(layer_id), "a") as fp:
-                id = str(d[field_bug_id])
-                if already_computed:
-                    del fp[id]
-                fp.create_dataset(id, data=pooled_embedding, dtype="f")
-            del embeddings
-            del input_tensor
-        except torch.cuda.OutOfMemoryError as e:
-            logger.info(f"Error for {len(tokenized_full_text)} tokens: {e}")
-        gc.collect()
-        torch.cuda.empty_cache()  # type: ignore
+    with h5py.File(path_data_preprocessed, "r") as f:
+        for data_key in tqdm.tqdm(data, total=len(data)):
+            already_computed = str(f[data_key].attrs[field_bug_id]) in ids_already_there
+            if already_computed and not override:
+                continue
+            tokenized_full_text = tokenizer.encode(f[data_key].attrs[field_data])
+            limit_tokens_sample = limit_tokens
+            if limit_tokens == -1:
+                limit_tokens_sample = len(tokenized_full_text)
+            tokenized_full_text = tokenized_full_text[:limit_tokens_sample]
+            logger.info(f"{len(tokenized_full_text)=}")
+            try:
+                input_tensor = torch.tensor([tokenized_full_text], dtype=torch.int32)
+                with torch.no_grad():
+                    embeddings = model(input_tensor)  # type: ignore
+                    embedding = embeddings.hidden_states[layer_id]
+                    pooled_embedding = np.array(
+                        pooling_fn(embedding).tolist()[0], dtype=np.float32
+                    )
+                with h5py.File(get_file_path(layer_id), "a") as fp:
+                    id = str(f[data_key].attrs[field_bug_id])
+                    if already_computed:
+                        del fp[id]
+                    fp.create_dataset(id, data=pooled_embedding, dtype="f")
+                del embeddings
+                del input_tensor
+            except torch.cuda.OutOfMemoryError as e:
+                logger.info(f"Error for {len(tokenized_full_text)} tokens: {e}")
+            gc.collect()
+            torch.cuda.empty_cache()  # type: ignore
 
 
 """End of extracted functions from repository https://github.com/AndressaStefany/severityPrediction"""
@@ -444,11 +445,25 @@ def extract_logs_from_file(
                         dataset.attrs[k] = v
 
 
+@print_args
+def gather_embeddings(folder_in: Path = default_folder_data, pattern: str = "*.hdf5", name_out: str = "embeddings.hdf5", folder_out: Path = default_folder_data):
+    folder_in = existing_path(folder_in,is_folder=True)
+    folder_out = existing_path(folder_out,is_folder=True)
+    with h5py.File(folder_out / name_out, "w") as fp_out:
+        files = list(folder_in.rglob(pattern=pattern))
+        for p in tqdm.tqdm(files,total=len(files)):
+            with h5py.File(p,"r") as fp_in:
+                for id,v in tqdm.tqdm(fp_in.items(),total=len(fp_in)):
+                    if id not in fp_out:
+                        fp_out.create_dataset(id, data=np.copy(v), dtype="f")
+
+
 if __name__ == "__main__":
     print("start")
     fire.Fire(
         {
             "get_llama2_embeddings": get_llama2_embeddings,
             "extract_logs_from_file": extract_logs_from_file,
+            "gather_embeddings": gather_embeddings
         }
     )

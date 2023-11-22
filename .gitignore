@@ -14,3 +14,4 @@ var_distance.csv.npy
 count_distance.csv.npy
 cluster_5.txt
 my_model
+data/input/

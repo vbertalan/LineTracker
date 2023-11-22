@@ -1,0 +1,11 @@
+#/bin/bash
+sbatch /scratch/rmoine/LineTracker/launches/embeddings/emb_0_trat3_production_1650_1700_20231411_v1
+sbatch /scratch/rmoine/LineTracker/launches/embeddings/emb_1_trat3_production_1650_1700_20231411_v1
+sbatch /scratch/rmoine/LineTracker/launches/embeddings/emb_2_trat3_production_1650_1700_20231411_v1
+sbatch /scratch/rmoine/LineTracker/launches/embeddings/emb_3_trat3_production_1650_1700_20231411_v1
+sbatch /scratch/rmoine/LineTracker/launches/embeddings/emb_4_trat3_production_1650_1700_20231411_v1
+sbatch /scratch/rmoine/LineTracker/launches/embeddings/emb_5_trat3_production_1650_1700_20231411_v1
+sbatch /scratch/rmoine/LineTracker/launches/embeddings/emb_6_trat3_production_1650_1700_20231411_v1
+sbatch /scratch/rmoine/LineTracker/launches/embeddings/emb_7_trat3_production_1650_1700_20231411_v1
+sbatch /scratch/rmoine/LineTracker/launches/embeddings/emb_8_trat3_production_1650_1700_20231411_v1
+sbatch /scratch/rmoine/LineTracker/launches/embeddings/emb_9_trat3_production_1650_1700_20231411_v1

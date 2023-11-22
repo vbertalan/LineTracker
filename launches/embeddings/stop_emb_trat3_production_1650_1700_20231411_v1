@@ -1,0 +1,11 @@
+#/bin/bash
+scancel -n emb_0_trat3_production_1650_1700_20231411_v1
+scancel -n emb_1_trat3_production_1650_1700_20231411_v1
+scancel -n emb_2_trat3_production_1650_1700_20231411_v1
+scancel -n emb_3_trat3_production_1650_1700_20231411_v1
+scancel -n emb_4_trat3_production_1650_1700_20231411_v1
+scancel -n emb_5_trat3_production_1650_1700_20231411_v1
+scancel -n emb_6_trat3_production_1650_1700_20231411_v1
+scancel -n emb_7_trat3_production_1650_1700_20231411_v1
+scancel -n emb_8_trat3_production_1650_1700_20231411_v1
+scancel -n emb_9_trat3_production_1650_1700_20231411_v1
