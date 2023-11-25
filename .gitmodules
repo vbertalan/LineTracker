@@ -1,0 +1,3 @@
+[submodule "libs/VNS_KMedoids"]
+	path = libs/VNS_KMedoids
+	url = https://github.com/vbertalan/VNS_KMedoids.git
