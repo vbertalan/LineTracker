@@ -35,11 +35,9 @@ pip install optuna --no-index
 
 # Execution of the script: replace by python path_to_your_script
 # Do not forget to change the pathes to absolute pathes (dont hesitate to use $USER variable)
-folder_out=/scratch/$USER/LineTracker/data/
-folder_in=/scratch/rmoine/LineTracker/data/embeddings/embeddings_trat3_production_1650_1700_20231411_v1_1000_meta-llama--Llama-2-13b-chat-hf/
+distance_name=euc
 
-
-python /scratch/$USER/LineTracker/main.py gather_embeddings --folder_out=$folder_out --folder_in=$folder_in
+python /scratch/$USER/LineTracker/main.py compute_distances --distance_name=$distance_name
 
 
 # Capture the end time

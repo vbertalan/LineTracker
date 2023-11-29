@@ -20,6 +20,8 @@ import random
 import fire
 import torch
 from torch import nn
+import itertools as it
+import DrainMethod
 
 """File of code: disclaimer functions comes from the repository https://github.com/AndressaStefany/severityPrediction"""
 # tye hints
@@ -456,14 +458,125 @@ def gather_embeddings(folder_in: Path = default_folder_data, pattern: str = "*.h
                 for id,v in tqdm.tqdm(fp_in.items(),total=len(fp_in)):
                     if id not in fp_out:
                         fp_out.create_dataset(id, data=np.copy(v), dtype="f")
+                        fp_out.flush()
 
+def get_distance_fn(distance_name: Literal['euc','cos']) -> Callable[[np.ndarray,np.ndarray],float]:
+    if distance_name == "euc":
+        return lambda x,y: np.sqrt(np.dot(x, x) - 2 * np.dot(x, y) + np.dot(y, y))
+    elif distance_name == "cos":
+        return lambda x,y: 1-np.dot(x, y) / (np.dot(x, x)*np.dot(y, y))
+    else:
+        raise ValueError(f"{distance_name} is not a valid distance_name")
 
+@print_args
+def split_embeddings(path_in: Optional[Path] = None, path_out: Optional[Path] = None):
+    """Split along the build logs"""
+    if path_in is None:
+        path_in = default_folder_data / "input" / "trat3_production_1650_1700_20231411_v1.hdf5"
+    if path_out is None:
+        path_out = default_folder_data / "splitted_event_ids.json"
+    path_in = existing_path(path_in, is_folder=False)
+    data = {}
+    with h5py.File(path_in, "r") as fp:
+        keys = list(fp)
+        for k in tqdm.tqdm(keys):
+            build_log_name = fp[k].attrs["planid"]+"--"+fp[k].attrs["log_name"]
+            if build_log_name not in data:
+                data[build_log_name] = []
+            data[build_log_name].append(k)
+    with open(path_out, "w") as fp:
+        json.dump(data,fp, indent=2)
+        
+@print_args
+def compute_distances(distance_name: Literal['euc','cos'], path_in: Optional[Path] = None, path_out: Optional[Path] = None, split_file: Optional[Path] = None):
+    if path_in is None:
+        path_in = default_folder_data / "embeddings.hdf5"
+    path_in = Path(path_in)
+    if path_out is None:
+        path_out = default_folder_data / f"distances_{distance_name}.hdf5"
+    path_out = Path(path_out)
+    if split_file is None:
+        split_file = default_folder_data / "splitted_event_ids.json"
+    split_file = Path(split_file)
+    with open(split_file, "r") as fp:
+        splits = json.load(fp)
+    distance = get_distance_fn(distance_name)
+    with h5py.File(path_in, "r") as fp_in:
+        keys = list(fp_in)
+        mapping_keys = {k:i for i,k in enumerate(keys)}
+        data = {}
+        for build_log_name, keys_build_logs in splits.items():
+            mapping_in_build_log = {k:i for i,k in enumerate(keys_build_logs)}
+            data[build_log_name] = {"distances":[],"mapping_keys_src":mapping_keys, "mapping_ids":{}, "mapping_in_build_log": mapping_in_build_log}
+            combinations = list(it.combinations(keys_build_logs, 2))
+            for i, (k1, k2) in tqdm.tqdm(enumerate(combinations),total=len(combinations)):
+                data[build_log_name]["mapping_ids"][i] = [k1,k2]
+                embedding1 = np.copy(fp_in[k1]) #type: ignore
+                embedding2 = np.copy(fp_in[k2]) #type: ignore
+                data[build_log_name]["distances"].append(distance(embedding1, embedding2))
+    with open(path_out, "w") as fp:
+        json.dump(data, fp)
+
+class JSONParserInput(TypedDict):
+    text: str 
+class ParserJSON(DrainMethod.LogParser):
+    """Parse the variable from data provided as json
+    
+    # Arguments:
+        - data: List[Dict]
+        - log_format: str, Format of the file, if there are different fields
+        - depth: int = 4, limit depth of which to search nodes
+        - similarity_threshold: float = 0.4, similarity threshold between leaves/log clusters
+        - maxChild: int = 3, max number of children of an internal node
+        - rex: Optional[list] = None, regular expressions used in preprocessing (step1)
+        - keep_para: bool = True, 
+    """
+    def __init__(self, data: List[JSONParserInput], log_format: str, depth: int = 4, similarity_threshold: float = 0.4, 
+                 maxChild: int = 3, rex: Optional[list] = None, keep_para: bool = True):
+        if rex is None:
+            rex = []
+        self.data = data
+        super().__init__(
+            log_format=log_format,
+            indir=None,
+            outdir=None,
+            depth=depth,
+            st=similarity_threshold,
+            maxChild=maxChild,
+            rex=rex,
+            keep_para=keep_para
+        )
+    def load_data(self):
+        headers, regex = self.generate_logformat_regex(self.log_format)
+        self.df_log = self.log_to_dataframe(regex, headers)
+
+    def log_to_dataframe(self, regex, headers):
+        log_messages = []
+        linecount = 0
+        for line in self.data:
+            try:
+                match = regex.search(line["text"].strip())
+                message = [match.group(header) for header in headers]
+                log_messages.append(message)
+                linecount += 1
+            except Exception as e:
+                pass
+        logdf = pd.DataFrame(log_messages, columns=headers)
+        logdf.insert(0, 'LineId', None)
+        logdf['LineId'] = [i + 1 for i in range(linecount)]
+        return logdf
+        
+def parse_logs(path_in: Optional[Path] = None):
+    log_format = '<Content>' # Format of the file, if there are different fields
+    regex = [] # Regex strings for Drain execution
 if __name__ == "__main__":
     print("start")
     fire.Fire(
         {
             "get_llama2_embeddings": get_llama2_embeddings,
             "extract_logs_from_file": extract_logs_from_file,
-            "gather_embeddings": gather_embeddings
+            "gather_embeddings": gather_embeddings,
+            "split_embeddings": split_embeddings,
+            "compute_distances": compute_distances,
         }
     )
