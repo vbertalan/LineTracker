@@ -5,10 +5,8 @@ pwd
 dos2unix ../launches/*;
 dos2unix ../launches/*/*;
 user=rmoine
-server=cedar
+server=graham
 scp -r ../launches $user@$server.computecanada.ca:/scratch/$user/LineTracker/
 scp -r ./*.py $user@$server.computecanada.ca:/scratch/$user/LineTracker/
 # scp -r ../data/input/*.hdf5 $user@$server.computecanada.ca:/scratch/$user/LineTracker/data/input/
-# scp -r ../../../data/llm/eclipse_72k.json $user@$server.computecanada.ca:/scratch/$user/data/
-# scp -r ../../../data/llm/mozilla_200k.json $user@$server.computecanada.ca:/scratch/$user/data/
 # scp -r ../../../data/template.json $user@$server.computecanada.ca:/scratch/$user/data/
