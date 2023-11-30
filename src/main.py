@@ -21,7 +21,14 @@ import fire
 import torch
 from torch import nn
 import itertools as it
+
+# import drainmethod_functionnal as drain_func
+# import DrainMethod
+import pandas as pd
+import contextlib
+import hashlib
 import DrainMethod
+import drainmethod_functionnal as drain_func
 
 """File of code: disclaimer functions comes from the repository https://github.com/AndressaStefany/severityPrediction"""
 # tye hints
@@ -100,7 +107,7 @@ except Exception:
     pass
 
 
-def existing_path(p: Union[str, Path], is_folder: bool) -> Path:
+def existing_path(p: Union[str, Path], *, is_folder: bool) -> Path:
     p = Path(p)
     if not p.exists():
         raise Exception(f"{p.resolve()} does not exists")
@@ -430,7 +437,7 @@ def extract_logs_from_file(
     if src_file is None:
         src_file = Path("./logs/trat3_production_1650_1700_20231411.json")
     if out_file is None:
-        out_file = Path("./logs/trat3_production_1650_1700_20231411_v1.json")
+        out_file = Path("./logs/trat3_production_1650_1700_20231411_v1.hdf5")
     with open(src_file) as fp:
         data_in = json.load(fp)
     with h5py.File(out_file, "w") as f:
@@ -448,31 +455,44 @@ def extract_logs_from_file(
 
 
 @print_args
-def gather_embeddings(folder_in: Path = default_folder_data, pattern: str = "*.hdf5", name_out: str = "embeddings.hdf5", folder_out: Path = default_folder_data):
-    folder_in = existing_path(folder_in,is_folder=True)
-    folder_out = existing_path(folder_out,is_folder=True)
+def gather_embeddings(
+    folder_in: Path = default_folder_data,
+    pattern: str = "*.hdf5",
+    name_out: str = "embeddings.hdf5",
+    folder_out: Path = default_folder_data,
+):
+    folder_in = existing_path(folder_in, is_folder=True)
+    folder_out = existing_path(folder_out, is_folder=True)
     with h5py.File(folder_out / name_out, "w") as fp_out:
         files = list(folder_in.rglob(pattern=pattern))
-        for p in tqdm.tqdm(files,total=len(files)):
-            with h5py.File(p,"r") as fp_in:
-                for id,v in tqdm.tqdm(fp_in.items(),total=len(fp_in)):
+        for p in tqdm.tqdm(files, total=len(files)):
+            with h5py.File(p, "r") as fp_in:
+                for id, v in tqdm.tqdm(fp_in.items(), total=len(fp_in)):
                     if id not in fp_out:
                         fp_out.create_dataset(id, data=np.copy(v), dtype="f")
                         fp_out.flush()
 
-def get_distance_fn(distance_name: Literal['euc','cos']) -> Callable[[np.ndarray,np.ndarray],float]:
+
+def get_distance_fn(
+    distance_name: Literal["euc", "cos"]
+) -> Callable[[np.ndarray, np.ndarray], float]:
     if distance_name == "euc":
-        return lambda x,y: np.sqrt(np.dot(x, x) - 2 * np.dot(x, y) + np.dot(y, y))
+        return lambda x, y: np.sqrt(np.dot(x, x) - 2 * np.dot(x, y) + np.dot(y, y))
     elif distance_name == "cos":
-        return lambda x,y: 1-np.dot(x, y) / (np.dot(x, x)*np.dot(y, y))
+        return lambda x, y: 1 - np.dot(x, y) / (np.dot(x, x) * np.dot(y, y))
     else:
         raise ValueError(f"{distance_name} is not a valid distance_name")
+
 
 @print_args
 def split_embeddings(path_in: Optional[Path] = None, path_out: Optional[Path] = None):
     """Split along the build logs"""
     if path_in is None:
-        path_in = default_folder_data / "input" / "trat3_production_1650_1700_20231411_v1.hdf5"
+        path_in = (
+            default_folder_data
+            / "input"
+            / "trat3_production_1650_1700_20231411_v1.hdf5"
+        )
     if path_out is None:
         path_out = default_folder_data / "splitted_event_ids.json"
     path_in = existing_path(path_in, is_folder=False)
@@ -480,15 +500,21 @@ def split_embeddings(path_in: Optional[Path] = None, path_out: Optional[Path] = 
     with h5py.File(path_in, "r") as fp:
         keys = list(fp)
         for k in tqdm.tqdm(keys):
-            build_log_name = fp[k].attrs["planid"]+"--"+fp[k].attrs["log_name"]
+            build_log_name = fp[k].attrs["planid"] + "--" + fp[k].attrs["log_name"]
             if build_log_name not in data:
                 data[build_log_name] = []
             data[build_log_name].append(k)
     with open(path_out, "w") as fp:
-        json.dump(data,fp, indent=2)
-        
+        json.dump(data, fp, indent=2)
+
+
 @print_args
-def compute_distances(distance_name: Literal['euc','cos'], path_in: Optional[Path] = None, path_out: Optional[Path] = None, split_file: Optional[Path] = None):
+def compute_distances(
+    distance_name: Literal["euc", "cos"],
+    path_in: Optional[Path] = None,
+    path_out: Optional[Path] = None,
+    split_file: Optional[Path] = None,
+):
     if path_in is None:
         path_in = default_folder_data / "embeddings.hdf5"
     path_in = Path(path_in)
@@ -503,72 +529,235 @@ def compute_distances(distance_name: Literal['euc','cos'], path_in: Optional[Pat
     distance = get_distance_fn(distance_name)
     with h5py.File(path_in, "r") as fp_in:
         keys = list(fp_in)
-        mapping_keys = {k:i for i,k in enumerate(keys)}
+        mapping_keys = {k: i for i, k in enumerate(keys)}
         data = {}
         for build_log_name, keys_build_logs in splits.items():
-            mapping_in_build_log = {k:i for i,k in enumerate(keys_build_logs)}
-            data[build_log_name] = {"distances":[],"mapping_keys_src":mapping_keys, "mapping_ids":{}, "mapping_in_build_log": mapping_in_build_log}
+            mapping_in_build_log = {k: i for i, k in enumerate(keys_build_logs)}
+            data[build_log_name] = {
+                "distances": [],
+                "mapping_keys_src": mapping_keys,
+                "mapping_ids": {},
+                "mapping_in_build_log": mapping_in_build_log,
+            }
             combinations = list(it.combinations(keys_build_logs, 2))
-            for i, (k1, k2) in tqdm.tqdm(enumerate(combinations),total=len(combinations)):
-                data[build_log_name]["mapping_ids"][i] = [k1,k2]
-                embedding1 = np.copy(fp_in[k1]) #type: ignore
-                embedding2 = np.copy(fp_in[k2]) #type: ignore
-                data[build_log_name]["distances"].append(distance(embedding1, embedding2))
+            for i, (k1, k2) in tqdm.tqdm(
+                enumerate(combinations), total=len(combinations)
+            ):
+                data[build_log_name]["mapping_ids"][i] = [k1, k2]
+                embedding1 = np.copy(fp_in[k1])  # type: ignore
+                embedding2 = np.copy(fp_in[k2])  # type: ignore
+                data[build_log_name]["distances"].append(
+                    distance(embedding1, embedding2)
+                )
     with open(path_out, "w") as fp:
         json.dump(data, fp)
 
-class JSONParserInput(TypedDict):
-    text: str 
-class ParserJSON(DrainMethod.LogParser):
-    """Parse the variable from data provided as json
-    
-    # Arguments:
-        - data: List[Dict]
-        - log_format: str, Format of the file, if there are different fields
-        - depth: int = 4, limit depth of which to search nodes
-        - similarity_threshold: float = 0.4, similarity threshold between leaves/log clusters
-        - maxChild: int = 3, max number of children of an internal node
-        - rex: Optional[list] = None, regular expressions used in preprocessing (step1)
-        - keep_para: bool = True, 
+
+def log_json_to_dataframe(
+    log_data: List[str], regex: re.Pattern[str], headers: List[str]
+) -> pd.DataFrame:
+    """Transforms log file to dataframe adding the line number of each line
+
+    # Arguments
+    - log_data: List[ParserInputDict], lines in order inside the same build log
+    - regex: re.Pattern, the pattern to match all headers together
+    - headers: List[str], the headers names in the regex named fields to extract: ex: ?P<fieldDate>.*?
+
+    # Returns:
+    - pd.DataFrame, dataframe with each header in a column plus the 'LineId'
+
+    Disclaimer: heavily inspired from drain_func.log_to_dataframe
     """
-    def __init__(self, data: List[JSONParserInput], log_format: str, depth: int = 4, similarity_threshold: float = 0.4, 
-                 maxChild: int = 3, rex: Optional[list] = None, keep_para: bool = True):
-        if rex is None:
-            rex = []
-        self.data = data
+    log_messages = []
+    linecount = 0
+    for line in log_data:
+        with contextlib.suppress(Exception):
+            match = regex.search(line.strip())
+            message = [match.group(header) for header in headers]
+            log_messages.append(message)
+            linecount += 1
+    logdf = pd.DataFrame(log_messages, columns=headers)
+    logdf.insert(0, "LineId", None)
+    logdf["LineId"] = [i + 1 for i in range(linecount)]
+    return logdf
+
+
+class JSONLogParser(DrainMethod.LogParser):
+    """Parse JSON data provided in argument. Heavily inspired bu DrainMethod.LogParser
+
+    # Arguments
+        - depth: int = 4, depth of all leaf nodes
+        - similarity_threshold: float = 0.4, similarity threshold
+        - max_children: int = 3, max number of children of an internal node
+        - regexes_preprocess: Optional[List] = None, regular expressions used in preprocessing (step1)
+    """
+
+    def __init__(
+        self,
+        *,
+        depth: int = 4,
+        similarity_threshold: float = 0.4,
+        max_children: int = 3,
+        regexes_preprocess: Optional[List] = None,
+    ):
+        if regexes_preprocess is None:
+            regexes_preprocess = []
+        # Note: as some attribute are used only in one function we pass them as arguments
         super().__init__(
-            log_format=log_format,
-            indir=None,
-            outdir=None,
+            log_format=None,  # type: ignore
+            indir=None,  # type: ignore
+            outdir=None,  # type: ignore
             depth=depth,
             st=similarity_threshold,
-            maxChild=maxChild,
-            rex=rex,
-            keep_para=keep_para
+            maxChild=max_children,
+            rex=regexes_preprocess,
+            keep_para=None,  # type: ignore
         )
-    def load_data(self):
-        headers, regex = self.generate_logformat_regex(self.log_format)
-        self.df_log = self.log_to_dataframe(regex, headers)
 
-    def log_to_dataframe(self, regex, headers):
-        log_messages = []
-        linecount = 0
-        for line in self.data:
-            try:
-                match = regex.search(line["text"].strip())
-                message = [match.group(header) for header in headers]
-                log_messages.append(message)
-                linecount += 1
-            except Exception as e:
-                pass
-        logdf = pd.DataFrame(log_messages, columns=headers)
-        logdf.insert(0, 'LineId', None)
-        logdf['LineId'] = [i + 1 for i in range(linecount)]
-        return logdf
-        
-def parse_logs(path_in: Optional[Path] = None):
-    log_format = '<Content>' # Format of the file, if there are different fields
-    regex = [] # Regex strings for Drain execution
+    def outputResult(
+        self,
+        logClustL: List[DrainMethod.Logcluster],
+        df_log: pd.DataFrame,
+        keep_parameters: bool = True,
+    ) -> Tuple[pd.DataFrame, pd.DataFrame]:
+        """Method to output the results
+
+        # Arguments:
+        - logClustL: List[DrainMethod.Logcluster], the log cluster returned by the parse method
+        - df_log: pd.DataFrame, the initial df_log with "Content"
+        - keep_parameters: bool = True, Choose wether if you want to keep the variables of the template (<*> values for each text)
+
+        # Returns:
+        - Tuple[pd.DataFrame, pd.DataFrame]
+            - df_log: pd.DataFrame, the initial df_log DataFrame with added columns 'EventId' (the template id (md5 hash) of the event) 'EventTemplate' (the template in itself with <*>), 'ParameterList' (if keep_parameters = True, the parameters in the template)
+            - df_event: pd.DataFrame, events found in the logs with columns 'EventId' (str, hash of the template), 'EventTemplate' (str, the template), 'Occurrences' (for each template the number of time it is seen over the full log file)
+        """
+        log_templates: List[str] = [""] * df_log.shape[0]
+        log_templateids: List[str] = [""] * df_log.shape[0]
+        df_events = []
+        for logClust in logClustL:
+            template_str = " ".join(logClust.logTemplate)
+            occurrence = len(logClust.logIDL)
+            template_id = hashlib.md5(template_str.encode("utf-8")).hexdigest()[0:8]
+            for logID in logClust.logIDL:
+                logID -= 1
+                log_templates[logID] = template_str
+                log_templateids[logID] = template_id
+            df_events.append([template_id, template_str, occurrence])
+
+        df_event = pd.DataFrame(
+            df_events, columns=["EventId", "EventTemplate", "Occurrences"]
+        )
+        df_log["EventId"] = log_templateids
+        df_log["EventTemplate"] = log_templates
+
+        if keep_parameters:
+            df_log["ParameterList"] = df_log.apply(self.get_parameter_list, axis=1)
+
+        occ_dict = dict(df_log["EventTemplate"].value_counts())
+        df_event = pd.DataFrame()
+        df_event["EventTemplate"] = df_log["EventTemplate"].unique()
+        df_event["EventId"] = df_event["EventTemplate"].map(
+            lambda x: hashlib.md5(x.encode("utf-8")).hexdigest()[0:8]
+        )
+        df_event["Occurrences"] = df_event["EventTemplate"].map(occ_dict)
+        return df_log, df_event
+
+    def parse(self, log_df: pd.DataFrame) -> List[DrainMethod.Logcluster]:
+        start_time = datetime.datetime.now()
+        rootNode = DrainMethod.Node()
+        logCluL = []
+
+        for _, line in tqdm.tqdm(
+            log_df.iterrows(), desc="Parsing Progress", total=len(log_df)
+        ):
+            logID = line["LineId"]
+
+            ## Tokenization by splits
+            logmessageL = self.preprocess(line["Content"]).strip().split()
+
+            matchCluster = self.treeSearch(rootNode, logmessageL)
+
+            ## Match no existing log cluster
+            if matchCluster is None:
+                newCluster = DrainMethod.Logcluster(
+                    logTemplate=logmessageL, logIDL=[logID]
+                )
+                logCluL.append(newCluster)
+                self.addSeqToPrefixTree(rootNode, newCluster)
+
+            ## Adds the new log message to the existing cluster
+            else:
+                newTemplate = self.getTemplate(logmessageL, matchCluster.logTemplate)
+                matchCluster.logIDL.append(logID)
+                if " ".join(newTemplate) != " ".join(matchCluster.logTemplate):
+                    matchCluster.logTemplate = newTemplate
+
+        if not os.path.exists(self.savePath):
+            os.makedirs(self.savePath)
+
+        print(
+            "Parsing done. [Time taken: {!s}]".format(
+                datetime.datetime.now() - start_time
+            )
+        )
+        return logCluL
+
+
+def parse_logs(
+    path_in: Optional[Path] = None,
+    path_split: Optional[Path] = None,
+    path_out: Optional[Path] = None,
+    depth: int = 5,
+    similarity_threshold: float = 0.5,
+    max_children: int = 3,
+    field_log: str = "text",
+):
+    # Prepare input/output pathes
+    if path_in is None:
+        path_in = default_folder_data / "trat3_production_1650_1700_20231411_v1.hdf5"
+    if path_split is None:
+        path_split = default_folder_data / "splitted_event_ids.json"
+    if path_out is None:
+        path_out = default_folder_data / "variables"
+    path_in = existing_path(path_in, is_folder=False)
+    path_split = existing_path(path_split, is_folder=True)
+    path_out = Path(path_out)
+    path_out.mkdir(parents=True, exist_ok=True)
+
+    with open(path_split) as fp:
+        build_logs_split = json.load(fp)
+    results = {}
+    for build_log_name, events_ids in tqdm.tqdm(build_logs_split.items()):
+        # First we gather the build logs from the hdf5 file using the event_id
+        build_log = []
+        with h5py.File(path_in, "r") as fp:
+            for event_id in events_ids:
+                build_log.append(fp[event_id].attrs[field_log])
+        # Then we parse the build log file with the parser
+        log_format = "<Content>"  # Format of the file, if there are different fields
+        # load the data
+        headers, regex = drain_func.generate_logformat_regex(log_format)
+        log_df = log_json_to_dataframe(build_log, regex=regex, headers=headers)# type: ignore
+        regex = []  # Regex strings for Drain execution
+        log_df = drain_func.preprocess_df(log_df, regex=regex)
+        parser = JSONLogParser(
+            depth=depth,
+            similarity_threshold=similarity_threshold,
+            max_children=max_children,
+            regexes_preprocess=None,
+        )
+        logCluL = parser.parse(log_df=log_df)
+        log_df, df_event = parser.outputResult(
+            logClustL=logCluL, df_log=log_df, keep_parameters=True
+        )
+        log_df = log_df.to_dict(orient="records")
+        df_event = df_event.to_dict(orient="records")
+        results[build_log_name] = {"log_df": log_df, "df_event": df_event}
+    with open(path_out, "w") as fp:
+        json.dump(results, fp)
+
+
 if __name__ == "__main__":
     print("start")
     fire.Fire(
@@ -578,5 +767,6 @@ if __name__ == "__main__":
             "gather_embeddings": gather_embeddings,
             "split_embeddings": split_embeddings,
             "compute_distances": compute_distances,
+            "parse_logs": parse_logs,
         }
     )

@@ -8,5 +8,6 @@ user=rmoine
 server=graham
 scp -r ../launches $user@$server.computecanada.ca:/scratch/$user/LineTracker/
 scp -r ./*.py $user@$server.computecanada.ca:/scratch/$user/LineTracker/
+scp -r ../data/splitted_event_ids.json $user@$server.computecanada.ca:/scratch/$user/LineTracker/data/
 # scp -r ../data/input/*.hdf5 $user@$server.computecanada.ca:/scratch/$user/LineTracker/data/input/
 # scp -r ../../../data/template.json $user@$server.computecanada.ca:/scratch/$user/data/

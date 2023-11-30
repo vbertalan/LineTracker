@@ -14,39 +14,50 @@ import pandas as pd
 import regex as re
 import hashlib
 import sys
+from typing import *
 import os
 
 ## Classes and methods using the Drain method
 
-## Class to represent log clusters inside tree leaves
 class Logcluster:
-    def __init__(self, logTemplate='', logIDL=None):
+    """Class to represent log clusters inside tree leaves"""
+    def __init__(self, logTemplate: Optional[List[str]] = None, logIDL=None):
+        if logTemplate is None:
+            logTemplate = []
         self.logTemplate = logTemplate
         if logIDL is None:
             logIDL = []
         self.logIDL = logIDL
 
-## Class to represent the node of the tree
+TokenLength = int
+Token = str
+Wildcard = str
 class Node:
-    def __init__(self, childD=None, depth=0, digitOrtoken=None):
-        """
-        Attributes
+    """
+    Class to represent the node of the tree
+    Attributes
         ----------
-            childD : dictionary representing lengths, sequences and wildcards
+            childD : dictionary where the key represents lengths, token or wildcards
             depth : depth of all leaf nodes
             digitOrtoken : variable to store the current token
-        """
+            
+    # Arguments
+    - childD: Optional[Dict[Union[TokenLength, Token, Wildcard],"Node"]], Node is the child found in the token
+    - depth: int, depth of the current node
+    - digitOrtoken: Union[str, int, None], the concrete data represented by the node
+    """
+    def __init__(self, childD: Optional[Dict[Union[TokenLength, Token, Wildcard],Union["Node",List[Logcluster]]]] = None, depth=0, digitOrtoken: Optional[Union[str,int]] = None):
         if childD is None:
             childD = dict()
-        self.childD = childD
+        self.childD: Dict[Union[int,str],Union["Node",List[Logcluster]]] = childD
         self.depth = depth
         self.digitOrtoken = digitOrtoken
 
-## Class to parse the logs
 class LogParser:
     def __init__(self, log_format, indir='./', outdir='./result/', depth=4, st=0.4, 
                  maxChild=3, rex=[], keep_para=True):
         """
+        Class to parse the logs
         Attributes
         ----------
             rex : regular expressions used in preprocessing (step1)
@@ -68,19 +79,26 @@ class LogParser:
         self.rex = rex
         self.keep_para = keep_para
 
-    ## Method to check numbers inside a sequence
-    def hasNumbers(self, s):
+    def hasNumbers(self, s: str) -> bool:
+        """Method to check if there are numbers inside a sequence"""
         return any(char.isdigit() for char in s)
 
-    ## Method to search for a sequence <<seq>> inside a node <<rn>> 
-    def treeSearch(self, rn, seq):
+    def treeSearch(self, rn: Node, seq: List[str]) -> Optional[Logcluster]:
+        """Method to search for a sequence <<seq>> inside a node <<rn>> 
+        
+        # Arguments:
+            - rn: Node, root node to start the search from
+            - seq: List[str], the sequence of tokens to process
+        """
         retLogClust = None
 
+        # Quick check by length of the tokens if it is in the root node
         seqLen = len(seq)
+        # If not there are no match, so we return None
         if seqLen not in rn.childD:
             return retLogClust
 
-        parentn = rn.childD[seqLen]
+        parentn: Node = rn.childD[seqLen] #type: ignore
 
         currentDepth = 1
         for token in seq:
@@ -101,9 +119,16 @@ class LogParser:
 
         return retLogClust
 
-    ## Method to add the sequence to the prefix tree, if not found before
-    def addSeqToPrefixTree(self, rn, logClust):
+    def addSeqToPrefixTree(self, rn: Node, logClust: Logcluster):
+        """Method to add a new sequence as a log cluster to the prefix tree, as it was not found before with treeSearch
+        
+        # Arguments:
+        - rn: Node, the root node of the file
+        - logClust: Logcluster, the new log cluster to add
+        
+        """
         seqLen = len(logClust.logTemplate)
+        ## If we dont have a node representing sequences of the same number of tokens. Then we get this node
         if seqLen not in rn.childD:
             firtLayerNode = Node(depth=1, digitOrtoken=seqLen)
             rn.childD[seqLen] = firtLayerNode
@@ -160,8 +185,14 @@ class LogParser:
             ## Goes further in depth
             currentDepth += 1
 
-    ## Method to measure the SimSeq between two sequences
-    def seqDist(self, seq1, seq2):
+    def seqDist(self, seq1: List[str], seq2: List[str]) -> Tuple[float, int]:
+        """Method to measure the SimSeq between two sequences seq1 and seq2
+        
+        # Return
+        - Tuple[float, int]
+            - retVal: float, the SimSeq between the two sequences
+            - numOfPar: the number of tokens <*>  in seq1
+        """
         assert len(seq1) == len(seq2)
         simTokens = 0
         numOfPar = 0
@@ -177,8 +208,17 @@ class LogParser:
 
         return retVal, numOfPar
 
-    ## Method to check the maximum similarity threshold between leaves/log clusters
-    def fastMatch(self, logClustL, seq):
+    def fastMatch(self, logClustL: List[Logcluster], seq: List[str]) -> Optional[Logcluster]:
+        """Method to check the maximum similarity threshold between leaves/log clusters. 
+        Chooses the closest cluster (based on seqDist) for which the template is the closest to seq and above the threshold st
+        
+        # Arguments
+        - logClustL: List[Logcluster], the clusters to compare the sequence to
+        - seq: List[str], the sequence to analyse
+        
+        # Returns
+        - Optional[Logcluster], either the maximum similarity cluster if above the threshold or None if no cluster found/above the threshold 
+        """
         retLogClust = None
 
         maxSim = -1
@@ -197,8 +237,21 @@ class LogParser:
 
         return retLogClust
 
-    ## Method to get the template of <<seq1>>
-    def getTemplate(self, seq1, seq2):
+    def getTemplate(self, seq1: List[str], seq2: List[str]) -> List[str]:
+        """Method to get the template of <<seq1>> based on its similar words with seq2
+        
+        Example:
+        seq1: I love books
+        seq2: I love food
+        Returns: I love <*>
+        
+        # Arguments 
+        - seq1: List[str], the first sequence to compare
+        - seq2: List[str], the second sequence to compare
+        
+        # Return
+        - List[str], the template, common tokens between the sequences and wildcards <*> for any different tokens
+        """
         assert len(seq1) == len(seq2)
         retVal = []
 
@@ -213,10 +266,11 @@ class LogParser:
 
         return retVal
 
-    ## Method to output the result to a CSV file
     def outputResult(self, logClustL):
-        log_templates = [0] * self.df_log.shape[0]
-        log_templateids = [0] * self.df_log.shape[0]
+        """Method to output the result to a CSV file"""
+        assert self.df_log is not None
+        log_templates: list = [0] * self.df_log.shape[0]
+        log_templateids: list = [0] * self.df_log.shape[0]
         df_events = []
         for logClust in logClustL:
             template_str = ' '.join(logClust.logTemplate)
@@ -292,10 +346,11 @@ class LogParser:
 
             matchCluster = self.treeSearch(rootNode, logmessageL)
 
-            ## Match no existing log cluster
+            ## If the log line does not match any existing log cluster
             if matchCluster is None:
                 newCluster = Logcluster(logTemplate=logmessageL, logIDL=[logID])
                 logCluL.append(newCluster)
+                ## We then add the new log cluster to the tree of the file
                 self.addSeqToPrefixTree(rootNode, newCluster)
 
             ## Adds the new log message to the existing cluster
@@ -317,8 +372,8 @@ class LogParser:
         headers, regex = self.generate_logformat_regex(self.log_format)
         self.df_log = self.log_to_dataframe(os.path.join(self.path, self.logName), regex, headers, self.log_format)
 
-    ## Method to preprocess file using regex
-    def preprocess(self, line):
+    def preprocess(self, line: str):
+        """Method to preprocess file using regex: replace in the line all self.rex regex specified by <*>"""
         for currentRex in self.rex:
             line = re.sub(currentRex, '<*>', line)
         return line
