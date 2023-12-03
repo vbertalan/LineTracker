@@ -514,24 +514,35 @@ def compute_distances(
     path_in: Optional[Path] = None,
     path_out: Optional[Path] = None,
     split_file: Optional[Path] = None,
+    interval_idx: Optional[int] = None,
+    n_chunks: Optional[int] = None,
 ):
     if path_in is None:
         path_in = default_folder_data / "embeddings.hdf5"
     path_in = Path(path_in)
-    if path_out is None:
-        path_out = default_folder_data / f"distances_{distance_name}.hdf5"
-    path_out = Path(path_out)
     if split_file is None:
         split_file = default_folder_data / "splitted_event_ids.json"
     split_file = Path(split_file)
     with open(split_file, "r") as fp:
         splits = json.load(fp)
+    split_idx_start, split_idx_end = generate_seeds(
+        n_data=len(splits),
+        seed_start=None,
+        seed_end=None,
+        n_chunks=n_chunks,
+        interval_idx=interval_idx
+    )
+    if path_out is None:
+        path_out = default_folder_data / "distances" / f"distances_{distance_name}_{split_idx_start}.json"
+    path_out = Path(path_out)
+    path_out.parent.mkdir(exist_ok=True, parents=True)
+    splits = splits[split_idx_start:split_idx_end]
     distance = get_distance_fn(distance_name)
     with h5py.File(path_in, "r") as fp_in:
         keys = list(fp_in)
         mapping_keys = {k: i for i, k in enumerate(keys)}
         data = {}
-        for build_log_name, keys_build_logs in splits.items():
+        for build_log_name, keys_build_logs in tqdm.tqdm(splits.items(),total=len(splits)):
             mapping_in_build_log = {k: i for i, k in enumerate(keys_build_logs)}
             data[build_log_name] = {
                 "distances": [],
@@ -540,9 +551,7 @@ def compute_distances(
                 "mapping_in_build_log": mapping_in_build_log,
             }
             combinations = list(it.combinations(keys_build_logs, 2))
-            for i, (k1, k2) in tqdm.tqdm(
-                enumerate(combinations), total=len(combinations)
-            ):
+            for i, (k1, k2) in enumerate(combinations):
                 data[build_log_name]["mapping_ids"][i] = [k1, k2]
                 embedding1 = np.copy(fp_in[k1])  # type: ignore
                 embedding2 = np.copy(fp_in[k2])  # type: ignore
@@ -703,7 +712,7 @@ class JSONLogParser(DrainMethod.LogParser):
         )
         return logCluL
 
-
+@print_args
 def parse_logs(
     path_in: Optional[Path] = None,
     path_split: Optional[Path] = None,
@@ -757,6 +766,7 @@ def parse_logs(
     with open(path_out, "w") as fp:
         json.dump(results, fp)
 
+def tfidf_conversion()
 
 if __name__ == "__main__":
     print("start")
