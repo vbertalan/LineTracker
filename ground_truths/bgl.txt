@@ -397,7 +397,7 @@ RAS KERNEL FATAL floating pt ex mode 0 enable......0
 RAS KERNEL FATAL rts panic! - stopping execution
 
 #summary:#
-stopping execution; 
+stopping execution;
 
 #17#
 RAS KERNEL FATAL debug interrupt enable............0
@@ -897,7 +897,7 @@ NULL DISCOVERY ERROR Found invalid node ecid in processor card slot J13 , ecid 0
 NULL DISCOVERY INFO Node card VPD check : U01 node in processor card slot J13 do not match. VPD ecid 075C04C0D27BFFFF08091B208ED4 , found 0000000000000000000000000000
 
 #summary:#
-card slot do not match; Found invalid node; 
+card slot do not match; Found invalid node;
 
 #37#
 NULL DISCOVERY ERROR Found invalid node ecid in processor card slot J10 , ecid 0000000000000000000000000000
@@ -922,7 +922,7 @@ NULL DISCOVERY INFO Node card VPD check : U01 node in processor card slot J02 do
 NULL DISCOVERY ERROR Found invalid node ecid in processor card slot J11 , ecid 0000000000000000000000000000
 
 #summary:#
-card slot do not match; Found invalid node; 
+card slot do not match; Found invalid node;
 
 #38#
 NULL DISCOVERY INFO Node card VPD check : missing U11 node , VPD ecid 07511056612FFFFF0A011BC0D8E2 in processor card slot J19
@@ -972,7 +972,7 @@ RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source fi
 RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
 
 #summary:#
-RAS MMCS ERROR; idoproxydb hit ASSERT condition; 
+RAS MMCS ERROR; idoproxydb hit ASSERT condition;
 
 #40#
 RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
