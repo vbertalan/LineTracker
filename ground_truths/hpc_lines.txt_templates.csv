@@ -1,0 +1,54 @@
+EventId,EventTemplate,Occurrences
+a307c527,unix.hw state_change.unavailable <*> 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = <*> ),60
+ef0c9f0e,boot_cmd success <*> 1 Command has completed successfully,39
+111af360,shutdown_cmd success 1112673625 1 Command has completed successfully,1
+64116bd5,boot_cmd new <*> 1 Targeting domains : <*> and nodes : <*>,24
+01962853,shutdown_cmd new 1077356974 1 Targeting domains : node-D4 and nodes : node- [ 133\ 135\ 140\ 142-143 ],1
+42ef9fe1,boot_cmd new 1077357108 1 Targeting domains : node-D4 and nodes : node- [ 133\ 135\ 140\ 142-143 ] child of command 2243,1
+c5e009e7,shutdown_cmd new <*> 1 Targeting domains : <*> and nodes : <*>,5
+683e8f3b,boot_cmd new <*> 1 Targeting domains : <*> and nodes : <*> child of command <*>,4
+a455dda7,shutdown_cmd new <*> 1 Targeting domains : node-D1 and nodes : node- [ <*> ],2
+c0235d42,boot_cmd new <*> 1 Targeting domains : <*> and nodes : node- [ <*> ] child of command <*>,17
+3d036ba6,boot_cmd new <*> 1 Targeting domains : <*> and nodes : node- [ <*> ],2
+f562fb2f,boot_cmd new <*> 1 Targeting domains : node-D [ 0-7 ] and nodes : node- [ 0-255 ],2
+65d2445c,<*> new <*> 1 Targeting domains : node-D4 and nodes : node-129,2
+4cc328bc,switch_module temphigh <*> 1 Temperature ( <*> ) exceeds warning threshold,20
+520ee170,unix.hw net.niff.down <*> 1 NIFF : node <*> detected a failed network connection on network 5.5.224.0 via interface alt0,40
+81e7d57f,node has detected a failed network connection;,1
+53db716f,switch_module fan <*> 1 Fan speeds ( <*> 3534 3375 <*> <*> 3479 ),100
+e28df8a1,switch_module bcast-error <*> 1 Link error on broadcast tree Interconnect-1T00 : 00 : <*> : <*>,20
+5b3426c9,clusterfilesystem clusterfilesystem.not_served <*> 1 ClusterFileSystem : ServerFileSystem domain <*> is no longer served by node <*>,140
+194f211d,partition status <*> <*> running,111
+178c3c2b,node status <*> <*> not responding,129
+6fe42b3f,partition status <*> 1 <*>,42
+78790709,node status <*> <*> configured out,247
+d8b2d8b7,node status <*> <*> running,370
+669b1034,domain status 1077443010 1 inconsistent nodesets node-63 0x1fffffffe <ok> node-62 0x1fffffffe <ok> node-61 0x1fffffffe <ok> node-60 0x3ffffffe <ok> node-32 0x3ffffffe <ok> node-33 0x3ffffffe <ok> node-34 0x3ffffffe <ok>,1
+d1740cce,node status <*> 1 active,38
+475d54d9,domain status <*> 1 inconsistent nodesets <*> 0x1fffffffe <ok> <*> 0x0000000e <ok> <*> 0x0000000e <ok> <*> 0x0000000e <ok>,3
+3ae9dfe0,domain status <*> 1 not responding,7
+a28240c5,domain status <*> 1 inconsistent nodesets <*> 0x1fffffffe <ok> <*> 0xfffffffe <ok> <*> 0xfffffffe <ok> <*> 0xfffffffe <ok> <*> 0xfffffffe <ok>,2
+884f2b94,domain status 1118546340 1 inconsistent nodesets node-193 0x000001fe <ok> node-194 0x000001fe <ok> node-192 0x000001fe <ok> node-198 0x0401fdfe <ok>,1
+d8f78674,domain status 1131558000 1 inconsistent nodesets node-4 0x000001fe <ok> node-7 0x000001fe <ok> node-0 0x000001fe <ok> node-6 0x000001fe <ok> node-3 0x000001fe <ok> node-2 0x000001fe <ok> node-5 0x000001fe <ok> node-1 0x000001fe <ok> node-14 0x0005fdfe <ok> node-13 0x0005fdfe <ok> node-15 0x0005fdfe <ok>,1
+78158009,tserver status <*> 1 <*>,4
+53912623,domain status 1131552510 1 inconsistent nodesets node-171 0x1fffffffe <ok> node-187 0x1fffffffe <ok> node-169 0x1fffffffe <ok> node-191 0x1fffffffe <ok> node-170 0x1fffffffe <ok> node-190 0x1fffffffe <ok> node-166 0x000001fe <ok>,1
+9e6a3bb2,domain status 1131551640 1 inconsistent nodesets node-151 0x1fffffffe <ok> node-145 0x1fffffffe <ok> node-150 0x1fffffffe <ok> node-141 0x1fffffffe <ok> node-128 0x1fffffffe <ok> node-129 0x1fffffffe <ok> node-136 0x1fffffffe <ok> node-130 0x1fffffffe <ok> node-153 0x1fffffffe <ok> node-134 0x1fffffffe <ok> node-154 0x1fffffffe <ok> node-142 0x09fffdfe <ok>,1
+93b0ba9c,domain status 1131548940 1 inconsistent nodesets <*> 0x1fffffffe <ok> <*> 0x1fffffffe <ok> <*> <*> <ok>,2
+b3860b59,gige temperature <*> 1 <*>,120
+a8c329b2,switch_module error <*> 1 Link <*>,87
+231f527c,switch_module error <*> 1 Link in reset,53
+5271ae4c,switch_module error <*> 1 Linkerror event interval expired,83
+e4425a43,install_cmd error 1074212466 1 Command Failed on : node-164,1
+0e31dd86,boot_cmd error 1086022089 1 Command Failed on : node-226\ node-225\ node-230\ node-228\ node-229\ node-224\ node-231\ node-227,1
+66f700e8,action error <*> 1 boot ( command 3002 ) Error : HALT asserted\ cannot continue,9
+8635ed59,action error <*> 1 boot ( command <*> ) Error : Unknown We failed to determine the state of this node,6
+fc319ee2,shutdown_cmd error 1085980335 1 Failed subcommands 2988\ 2989\ 2990\ 2991\ 2992\ 2994\ 2995,1
+cfc9ad87,shutdown_cmd error 1085980086 1 Failed subcommands 2979\ 2980\ 2986,1
+3501d527,shutdown_cmd error 1085979825 1 Command Failed on : node-1\ node-2\ node-3\ node-4\ node-5\ node-6\ node-7\ node-14\ node-8\ node-10\ node-11\ node-13\ node-12\ node-9\ node-15\ node-16\ node-17\ node-18\ node-20\ node-23\ node-21\ node-19\ node-22\ node-25\ node-24\ node-26\ node-28\ node-27\ node-29\ node-30\ node-31\ node-0,1
+efe2a8f9,shutdown_cmd error 1085979825 1 Command Failed on : node-254\ node-224\ node-226\ node-225\ node-227\ node-229\ node-228\ node-231\ node-230\ node-233\ node-232\ node-234\ node-235\ node-236\ node-238\ node-240\ node-239\ node-237\ node-241\ node-242\ node-243\ node-246\ node-244\ node-245\ node-248\ node-247\ node-250\ node-252\ node-249\ node-251\ node-255\ node-253,1
+2366c8de,switch_module error <*> 1 link errors remain current,73
+97e5bb13,boot_cmd error 1131216800 1 Failed subcommands 3934,1
+022468d9,boot_cmd error 1131216798 1 Command Failed on : node-127,1
+2796dc5c,boot_cmd error 1131216036 1 Command Failed on : node-161\ node-163\ node-165,1
+537b0488,unix.hw net.niff.up <*> 1 NIFF : node <*> has detected an available network connection on network <*> via interface <*>,80
+d3fb4f32,unix.hw state_change.available <*> 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = <*> ),40

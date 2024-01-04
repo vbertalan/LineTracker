@@ -1,0 +1,14 @@
+EventId,EventTemplate,Occurrences
+73096492,INFO dfs.DataNode$DataXceiver : Receiving block <*> src : <*> : <*> dest : <*> : 50010,402
+b44a1f83,INFO dfs.DataNode$PacketResponder : PacketResponder <*> for block <*> terminating,368
+1465024b,INFO dfs.DataNode$PacketResponder : Received block <*> of size <*> from <*>,366
+b3725122,INFO dfs.DataBlockScanner : Verification succeeded for <*>,52
+8a5b1f94,INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to <*> size <*>,249
+d08ff016,INFO dfs.FSNamesystem : BLOCK* NameSystem.allocateBlock : <*> <*>,77
+38174550,WARN dfs.DataNode$DataXceiver : <*> : 50010 : Got exception while serving <*> to <*> :,150
+81c53cf4,INFO dfs.DataNode$DataXceiver : <*> : 50010 Served block <*> to <*>,138
+3933bcff,INFO dfs.DataNode$DataXceiver : writeBlock blk_8773205518284318670 received exception java.io.IOException : Could not read from stream,1
+9fb04c85,INFO dfs.FSDataset : Deleting block <*> file <*>,155
+4f321606,WARN dfs.FSDataset : Unexpected error trying to delete block <*> BlockInfo not found in volumeMap.,20
+6ec2e15e,INFO dfs.FSNamesystem : BLOCK* ask <*> : 50010 to replicate <*> to datanode ( s ) <*> : 50010,20
+c7ad066a,INFO dfs.DataNode$BlockReceiver : Receiving empty packet for block <*>,2
