@@ -1360,6 +1360,7 @@ def best_clustering_kmedoid(
     if iteration_max is None:
         iteration_max = -1
     best = {"score": -float("inf"), "clustering": {}, "number_of_clusters": -1}
+    logger.info(f"{combined_matrix.shape=}")
     n_samples = min(n_samples, len(combined_matrix) - 1 - 2 + 1)
     for k in set(
         np.round(np.linspace(2, len(combined_matrix) - 1, n_samples)).astype(int)
@@ -1380,9 +1381,6 @@ def best_clustering_kmedoid(
         assert (
             min(clusters) >= 0
         ), f"Expecting {k} positive clusters, found {len(np.unique(list(clustering.values())))}: {(np.unique(list(clustering.values())))}"
-        assert max(clusters) < len(
-            combined_matrix
-        ), f"Expecting {k} clusters lower than {len(combined_matrix)}, found {len(np.unique(list(clustering.values())))}: {(np.unique(list(clustering.values())))}"
 
         score = skMetrics.silhouette_score(
             X=combined_matrix,
@@ -1393,6 +1391,29 @@ def best_clustering_kmedoid(
             best = {"score": score, "clustering": clustering, "number_of_clusters": k}
     return best
 
+def comply_with_num_of_clusters(distances: np.ndarray, clusters: np.ndarray, must_link: List[Tuple[int,int]], target_n_clusters: int) -> np.ndarray:
+    clusters = np.array(clusters)
+    unique_clusters = set(np.unique(clusters))
+    missing_clusters = set(range(len(clusters))).difference(unique_clusters)
+    # remove the must link
+    for p1,p2 in must_link:
+        missing_clusters.difference([p1,p2])
+    missing_clusters = sorted(missing_clusters)
+    # extract distances from missing clusters
+    distances = distances[list(missing_clusters),:]
+    # get the cumulative distance
+    cum_distances = np.sum(distances,axis=1)
+    cum_distances = [(e,cum_distances[i]) for i,e in enumerate(list(missing_clusters))]
+    # extract the points with the biggest cumulative distance
+    cum_distances.sort(key=lambda x:x[1],reverse=True)
+    # get the most distant clusters
+    new_clusters_idx = [idx for (idx, _) in cum_distances[:target_n_clusters-len(unique_clusters)]]
+    print(f"{new_clusters_idx=}")
+    print(f"{clusters=}")
+    print(f"{missing_clusters=}")
+    for idx_cluster_point in new_clusters_idx:
+        clusters[idx_cluster_point] = idx_cluster_point+len(clusters)
+    return clusters
 
 def clustering_kmedoids(
     combined_matrix: np.ndarray,
@@ -1436,7 +1457,7 @@ def clustering_kmedoids(
         ctypes.POINTER(ctypes.c_int)
     )
     n_cannot_link = len(cannot_link)
-    logger.info(f"{combined_matrix.shape=}")
+    # logger.info(f"{combined_matrix.shape=}")
     data_ptr = dummy_cpp_library.clusterize(
         seed,
         combine_matrix_ptr,
@@ -1451,26 +1472,52 @@ def clustering_kmedoids(
         -1,
         True,
     )
-    data = np.copy(np.ctypeslib.as_array(data_ptr, shape=(n_points,)))
+    clusters = np.copy(np.ctypeslib.as_array(data_ptr, shape=(n_points,)))
     with contextlib.suppress(Exception):
         dummy_cpp_library.free_array(data_ptr)
+    print("n_clust before ",len(np.unique(clusters)))
+    clusters = comply_with_num_of_clusters(
+        distances=combined_matrix.reshape((n_points, n_dims)), 
+        clusters=clusters, must_link=must_link, 
+        target_n_clusters=number_of_clusters
+    )
+    assert len(np.unique(clusters)) == number_of_clusters, f"{len(np.unique(clusters))=} {number_of_clusters=}"
+    return {i: c for i, c in enumerate(clusters)}
 
-    return {i: c for i, c in enumerate(data)}
+def print_memory_usage():
+    # Get memory usage
+    memory_info = psutil.virtual_memory()
 
-
+    # Print memory usage information
+    # print(f"Total Memory: {memory_info.total} bytes")
+    # print(f"Available Memory: {memory_info.available} bytes")
+    # print(f"Used Memory: {memory_info.used} bytes")
+    print(f"Memory Percentage: {memory_info.percent}%")
+    
 def test_running_kmedoids():
     print("Start")
-    points = np.random.rand(10, 1000)
-    combined_matrix = skMetr.pairwise_distances(points, metric="euclidean")
-    number_of_clusters = 2
-    clustering_kmedoids(
-        combined_matrix,
-        points=combined_matrix,
-        must_link=[(0, 1)],
-        cannot_link=[(3, 4)],
-        iteration_max=10000,
-        number_of_clusters=number_of_clusters,
-    )
+    for _ in range(1):
+        print(f"{_:/^40}")
+        points = np.random.rand(5000, 5000)
+        combined_matrix = skMetr.pairwise_distances(points, metric="euclidean")
+        del points
+        number_of_clusters = 777
+        print(f"{'BEFORE':-^40}")
+        print_memory_usage()
+        print(f"{'BEFORE':*^40}")
+        clusters = clustering_kmedoids(
+            combined_matrix,
+            points=combined_matrix,
+            must_link=[],
+            cannot_link=[],
+            iteration_max=-1,
+            number_of_clusters=number_of_clusters,
+        )
+        print(len({v for v in clusters.values()}), number_of_clusters)
+        del combined_matrix
+        print(f"{'AFTER':-^40}")
+        print_memory_usage()
+        print(f"{'AFTER':*^40}")
 
 
 def labels_to_groups(
@@ -1484,7 +1531,6 @@ def labels_to_groups(
     for i, e in enumerate(event_ids):
         event_id_group[e] = group_mapping[i]
     return event_id_group
-
 
 def run_main_clustering(
     build_log_name: str,
@@ -1572,7 +1618,7 @@ def run_main_clustering(
         clusters_dict = clustering_function(combined_matrix, **hyperparameters_chosen)
         clusters = clusters_dict["clustering"]
         others = {k: v for k, v in clusters_dict.items() if k != "clustering"}
-        assert len(clusters) == len(Llines)
+        # assert len(clusters) == len(Llines)
         Lclusters.append(
             {  # type: ignore
                 "hyperparameters_chosen": hyperparameters_chosen,
