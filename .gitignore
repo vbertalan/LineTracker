@@ -28,3 +28,4 @@ CienaFiles/emb_distances_benchmark__llama-13b__emb_dist_type-cosine__mean__1000.
 CienaFiles/emb_distances_benchmark__llama-13b__emb_dist_type-euclidean__mean__1000.hdf5
 CienaFiles/splitted_event_ids.json
 CienaFiles/trat3_production_1650_1700_20231411_v1.hdf5
+logs/ciena-full.txt
