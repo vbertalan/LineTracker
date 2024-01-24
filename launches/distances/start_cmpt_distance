@@ -1,51 +1,151 @@
 #/bin/bash
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_0
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_1
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_2
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_3
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_4
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_5
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_6
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_7
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_8
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_9
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_10
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_11
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_12
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_13
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_14
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_15
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_16
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_17
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_18
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_19
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_20
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_21
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_22
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_23
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_24
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_25
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_26
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_27
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_28
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_29
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_30
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_31
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_32
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_33
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_34
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_35
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_36
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_37
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_38
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_39
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_40
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_41
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_42
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_43
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_44
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_45
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_46
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_47
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_48
-scancel -n /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_49
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_0;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_1;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_2;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_3;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_4;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_5;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_6;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_7;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_8;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_9;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_10;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_11;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_12;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_13;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_14;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_15;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_16;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_17;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_18;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_19;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_20;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_21;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_22;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_23;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_24;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_25;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_26;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_27;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_28;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_29;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_30;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_31;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_32;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_33;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_34;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_35;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_36;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_37;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_38;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_39;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_40;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_41;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_42;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_43;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_44;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_45;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_46;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_47;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_48;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_49;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_50;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_51;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_52;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_53;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_54;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_55;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_56;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_57;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_58;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_59;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_60;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_61;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_62;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_63;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_64;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_65;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_66;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_67;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_68;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_69;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_70;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_71;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_72;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_73;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_74;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_75;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_76;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_77;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_78;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_79;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_80;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_81;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_82;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_83;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_84;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_85;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_86;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_87;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_88;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_89;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_90;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_91;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_92;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_93;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_94;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_95;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_96;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_97;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_98;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_99;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_100;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_101;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_102;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_103;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_104;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_105;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_106;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_107;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_108;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_109;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_110;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_111;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_112;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_113;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_114;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_115;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_116;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_117;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_118;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_119;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_120;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_121;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_122;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_123;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_124;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_125;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_126;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_127;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_128;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_129;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_130;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_131;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_132;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_133;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_134;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_135;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_136;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_137;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_138;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_139;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_140;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_141;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_142;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_143;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_144;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_145;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_146;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_147;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_148;
+sbatch /scratch/rmoine/LineTracker/launches/distances//cmpt_distance_149;

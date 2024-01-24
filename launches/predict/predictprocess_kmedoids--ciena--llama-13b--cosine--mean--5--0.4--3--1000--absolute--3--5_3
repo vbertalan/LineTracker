@@ -1,0 +1,61 @@
+#!/bin/bash
+#SBATCH --nodes=1
+#SBATCH --cpus-per-task=1 
+#SBATCH --time=00-2:59:00
+#SBATCH --output=log-%x-%j.out
+#SBATCH --error=log-%x-%j.err
+#SBATCH --mail-user=robin.moine456@gmail.com
+#SBATCH --mail-type=ALL
+#SBATCH --mem=8G 
+
+# Capture the start time
+start_time=$(date +"%Y-%m-%d %H:%M:%S")
+
+# loading modules
+module load StdEnv/2020  gcc/9.3.0  cuda/11.4 arrow python/3.10.2 cudnn
+virtualenv $SLURM_TMPDIR/MYENV
+source $SLURM_TMPDIR/MYENV/bin/activate
+
+pip install /home/rmoine/docstring_parser-0.15-py3-none-any.whl --no-index
+pip install /home/rmoine/shtab-1.6.4-py3-none-any.whl --no-index
+pip install /home/rmoine/tyro-0.5.10-py3-none-any.whl --no-index
+pip install /home/rmoine/trl-0.7.2-py3-none-any.whl --no-index
+
+pip install bitsandbytes==0.41.1 --no-index 
+pip install transformers torch peft accelerate xformers scikit-learn sentencepiece huggingface_hub protobuf tqdm nltk --no-index
+pip install datasets --no-index
+
+pip install seaborn --no-index
+pip install matplotlib --no-index
+pip install pandas --no-index
+pip install h5py --no-index
+pip install fire --no-index
+pip install optuna --no-index
+
+clustering_algorithm=kmedoids
+parser_type=ciena
+embedder_type=llama-13b
+emb_dist_type=cosine
+pooling_code=mean
+depth=5
+similarity_threshold=0.4
+max_children=3
+limit_tokens=1000
+count_matrix_mode=absolute
+n_elems_grid=3
+n_elems_grid_coef=5
+interval_idx=3
+n_chunks=50
+
+python /scratch/$USER/LineTracker/main.py run_generate_clusters_all_build_logs --clustering_algorithm=$clustering_algorithm --parser_type=$parser_type --embedder_type=$embedder_type --emb_dist_type=$emb_dist_type --pooling_code=$pooling_code --depth=$depth --similarity_threshold=$similarity_threshold --max_children=$max_children --limit_tokens=$limit_tokens --count_matrix_mode=$count_matrix_mode --n_elems_grid=$n_elems_grid --n_elems_grid_coef=$n_elems_grid_coef --interval_idx=$interval_idx --n_chunks=$n_chunks
+
+
+# Capture the end time
+end_time=$(date +"%Y-%m-%d %H:%M:%S")
+
+# Calculate and display the execution time
+start_seconds=$(date -d "$start_time" '+%s')
+end_seconds=$(date -d "$end_time" '+%s')
+execution_time=$((end_seconds - start_seconds))
+
+echo "Execution time: $execution_time seconds"
