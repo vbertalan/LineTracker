@@ -7,6 +7,7 @@ import gc
 import os
 from itertools import product
 from textwrap import wrap
+import warnings
 import argparse
 import abc
 import shutil
@@ -34,6 +35,8 @@ import functools as ft
 from sklearn.metrics import adjusted_rand_score, silhouette_score, jaccard_score
 from sklearn.metrics.cluster import rand_score
 from sklearn.metrics.pairwise import pairwise_distances
+from contextlib import redirect_stdout
+from io import StringIO
 
 try:
     import DrainMethod
@@ -1230,8 +1233,10 @@ def get_triplet_matrix(
         similarity_threshold=similarity_threshold,
         max_children=max_children,
     )
-    with h5py.File(path_matrix_variables, "r") as fp:
-        variables_matrix = np.array(fp[build_log_name])
+    fake_stdout = StringIO()
+    with redirect_stdout(fake_stdout):  # a deprecation warning that will be solved in a future version of h5py
+        with h5py.File(path_matrix_variables, "r") as fp:
+            variables_matrix = np.array(fp[build_log_name])
     ## No need to normalize as the jaccard distance is already between 0 and 1
     # get matrix embeddings distances
     path_embedding = get_default_emb_dist_matrix_cache(
@@ -1240,10 +1245,12 @@ def get_triplet_matrix(
         limit_tokens=limit_tokens,
         emb_dist_type=emb_dist_type,
     )
-    with h5py.File(path_embedding, "r") as fp:
-        logger.info(f"Before embedding {path_embedding.stem}")
-        embeddings_matrix = np.array(fp[build_log_name])
-    logger.info(f"After embedding {path_embedding.stem}")
+
+    with redirect_stdout(fake_stdout):  # a deprecation warning that will be solved in a future version of h5py
+        with h5py.File(path_embedding, "r") as fp:
+            # logger.info(f"Before embedding {path_embedding.stem}")
+            embeddings_matrix = np.array(fp[build_log_name])
+    # logger.info(f"After embedding {path_embedding.stem}")
     ## Normalize
     if emb_dist_type == "cosine":
         # as cosine distance is between 0 and 2
@@ -1358,9 +1365,9 @@ def best_clustering_kmedoid(
     if cannot_link is None:
         cannot_link = []
     if iteration_max is None:
-        iteration_max = -1
+        iteration_max = 10
     best = {"score": -float("inf"), "clustering": {}, "number_of_clusters": -1}
-    logger.info(f"{combined_matrix.shape=}")
+    # logger.info(f"{combined_matrix.shape=}")
     n_samples = min(n_samples, len(combined_matrix) - 1 - 2 + 1)
     for k in set(
         np.round(np.linspace(2, len(combined_matrix) - 1, n_samples)).astype(int)
@@ -1391,29 +1398,49 @@ def best_clustering_kmedoid(
             best = {"score": score, "clustering": clustering, "number_of_clusters": k}
     return best
 
-def comply_with_num_of_clusters(distances: np.ndarray, clusters: np.ndarray, must_link: List[Tuple[int,int]], target_n_clusters: int) -> np.ndarray:
+
+def comply_with_num_of_clusters(
+    distances: np.ndarray,
+    clusters: np.ndarray,
+    must_link: List[Tuple[int, int]],
+    target_n_clusters: int,
+) -> np.ndarray:
     clusters = np.array(clusters)
-    unique_clusters = set(np.unique(clusters))
-    missing_clusters = set(range(len(clusters))).difference(unique_clusters)
-    # remove the must link
-    for p1,p2 in must_link:
-        missing_clusters.difference([p1,p2])
-    missing_clusters = sorted(missing_clusters)
-    # extract distances from missing clusters
-    distances = distances[list(missing_clusters),:]
-    # get the cumulative distance
-    cum_distances = np.sum(distances,axis=1)
-    cum_distances = [(e,cum_distances[i]) for i,e in enumerate(list(missing_clusters))]
+    cum_distances = np.sum(distances, axis=1)
+    cum_distances = [(i, cum_distances[i]) for i in range(len(distances))]
     # extract the points with the biggest cumulative distance
-    cum_distances.sort(key=lambda x:x[1],reverse=True)
-    # get the most distant clusters
-    new_clusters_idx = [idx for (idx, _) in cum_distances[:target_n_clusters-len(unique_clusters)]]
-    print(f"{new_clusters_idx=}")
-    print(f"{clusters=}")
-    print(f"{missing_clusters=}")
-    for idx_cluster_point in new_clusters_idx:
-        clusters[idx_cluster_point] = idx_cluster_point+len(clusters)
+    cum_distances.sort(key=lambda x: x[1], reverse=False)
+    unique_clusters, counts = np.unique(clusters, return_counts=True)
+    next_cluster = max(unique_clusters) + 1
+    while len(unique_clusters) != target_n_clusters:
+        potential_points = set(range(len(clusters)))
+        # remove points that are alreay single cluster
+        for p, c in zip(unique_clusters, counts):
+            if c == 1:
+                potential_points.difference([p])
+        # remove the must link
+        for p1, p2 in must_link:
+            potential_points.difference([p1, p2])
+        potential_points = sorted(potential_points)
+        # get the most distant clusters
+        i = None
+        while i is None or i not in potential_points:
+            i, _ = cum_distances.pop(-1)
+        if len(cum_distances) == 0:
+            raise Exception(
+                f"Cannot comply with the number of clusters due to constraints {must_link=} for {target_n_clusters=}: wwe have max {len(unique_clusters)=} with {unique_clusters=} and {clusters=} and potential clusters {[e for e,c in zip(unique_clusters,counts) if c > 1]} and {len(clusters)=}"
+            )
+        clusters[i] = next_cluster
+        next_cluster += 1
+        # print(
+        #     f"Adding {i} {next_cluster=}; We have now ",
+        #     len(unique_clusters),
+        #     " clusters: ",
+        #     unique_clusters,
+        # )
+        unique_clusters, counts = np.unique(clusters, return_counts=True)
     return clusters
+
 
 def clustering_kmedoids(
     combined_matrix: np.ndarray,
@@ -1430,7 +1457,7 @@ def clustering_kmedoids(
     if cannot_link is None:
         cannot_link = []
     if iteration_max is None:
-        iteration_max = -1
+        iteration_max = 10
     if number_of_clusters == 1:
         return {i: 0 for i, c in enumerate(range(len(combined_matrix)))}
     if number_of_clusters == len(combined_matrix):
@@ -1441,6 +1468,7 @@ def clustering_kmedoids(
         and iteration_max is not None
         and number_of_clusters is not None
     )
+    # print(combined_matrix.tolist())
     # Load the shared library
     n_points, n_dims = combined_matrix.shape
     combined_matrix = combined_matrix.flatten()
@@ -1448,41 +1476,67 @@ def clustering_kmedoids(
     path_lib = Path("./clustering_lib.so").resolve().as_posix()
     dummy_cpp_library = ctypes.CDLL(path_lib)
     dummy_cpp_library.clusterize.restype = ctypes.POINTER(ctypes.c_int)
-    combine_matrix_ptr = combined_matrix.ctypes.data_as(ctypes.POINTER(ctypes.c_double))
+    combine_matrix_ptr = np.ctypeslib.ndpointer(dtype=np.float64, ndim=1, flags="C")
+    # combine_matrix_ptr = combined_matrix.ctypes.data_as(ctypes.POINTER(ctypes.c_double))
     must_link_array = np.array(must_link).flatten().astype(np.int32)
-    must_link_array_ptr = must_link_array.ctypes.data_as(ctypes.POINTER(ctypes.c_int))
+    must_link_array_ptr = np.ctypeslib.ndpointer(dtype=np.int64, ndim=1, flags="C")
+    # must_link_array_ptr = must_link_array.ctypes.data_as(ctypes.POINTER(ctypes.c_int))
     n_must_link = len(must_link)
     cannot_link_array = np.array(cannot_link).flatten().astype(np.int32)
-    cannot_link_array_ptr = cannot_link_array.ctypes.data_as(
-        ctypes.POINTER(ctypes.c_int)
-    )
+    cannot_link_array_ptr = np.ctypeslib.ndpointer(dtype=np.int64, ndim=1, flags="C")
+    # cannot_link_array_ptr = cannot_link_array.ctypes.data_as(ctypes.POINTER(ctypes.c_int))
     n_cannot_link = len(cannot_link)
-    # logger.info(f"{combined_matrix.shape=}")
+    clusters_ptr = np.ctypeslib.ndpointer(dtype=np.int64, ndim=1, flags="C")
+
+    dummy_cpp_library.clusterize.argtypes = [
+        ctypes.c_int,
+        combine_matrix_ptr,
+        ctypes.c_size_t,
+        ctypes.c_size_t,
+        ctypes.c_int,
+        must_link_array_ptr,
+        ctypes.c_size_t,
+        cannot_link_array_ptr,
+        ctypes.c_size_t,
+        ctypes.c_int,
+        ctypes.c_int,
+        ctypes.c_bool,
+    ]
+    # dummy_cpp_library.clusterize.restype = clusters_ptr
+    # logger.info(f"{iteration_max=}")
     data_ptr = dummy_cpp_library.clusterize(
         seed,
-        combine_matrix_ptr,
+        combined_matrix.astype(np.float64),
         int(n_points),
         int(n_dims),
         int(number_of_clusters),
-        must_link_array_ptr,
+        must_link_array.astype(np.int64),
         int(n_must_link),
-        cannot_link_array_ptr,
+        cannot_link_array.astype(np.int64),
         n_cannot_link,
         iteration_max,
         -1,
         True,
     )
     clusters = np.copy(np.ctypeslib.as_array(data_ptr, shape=(n_points,)))
+    unique_clusters = np.unique(clusters)
+    assert (
+        len(unique_clusters) <= number_of_clusters
+    ), f"Expecting {number_of_clusters=} or less but found {len(unique_clusters)=} with {unique_clusters=} {clusters=}\n{combined_matrix.reshape((n_points, n_dims)).tolist()=}"
     with contextlib.suppress(Exception):
         dummy_cpp_library.free_array(data_ptr)
-    print("n_clust before ",len(np.unique(clusters)))
+    # print("n_clust before ",len(np.unique(clusters)))
     clusters = comply_with_num_of_clusters(
-        distances=combined_matrix.reshape((n_points, n_dims)), 
-        clusters=clusters, must_link=must_link, 
-        target_n_clusters=number_of_clusters
+        distances=combined_matrix.reshape((n_points, n_dims)),
+        clusters=clusters,
+        must_link=must_link,
+        target_n_clusters=number_of_clusters,
     )
-    assert len(np.unique(clusters)) == number_of_clusters, f"{len(np.unique(clusters))=} {number_of_clusters=}"
+    assert (
+        len(np.unique(clusters)) == number_of_clusters
+    ), f"{len(np.unique(clusters))=} {number_of_clusters=}"
     return {i: c for i, c in enumerate(clusters)}
+
 
 def print_memory_usage():
     # Get memory usage
@@ -1493,15 +1547,341 @@ def print_memory_usage():
     # print(f"Available Memory: {memory_info.available} bytes")
     # print(f"Used Memory: {memory_info.used} bytes")
     print(f"Memory Percentage: {memory_info.percent}%")
-    
+
+
 def test_running_kmedoids():
     print("Start")
-    for _ in range(1):
+    for _ in range(10000):
+        np.random.seed(_)
         print(f"{_:/^40}")
-        points = np.random.rand(5000, 5000)
-        combined_matrix = skMetr.pairwise_distances(points, metric="euclidean")
-        del points
-        number_of_clusters = 777
+        combined_matrix = np.array(
+            [
+                [
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                ],
+                [
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                ],
+                [
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                ],
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                ],
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                ],
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                ],
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                ],
+                [
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                ],
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                ],
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                ],
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                ],
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                ],
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                ],
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                ],
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    1.0,
+                ],
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                ],
+                [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                ],
+            ]
+        )
+        number_of_clusters = 2
         print(f"{'BEFORE':-^40}")
         print_memory_usage()
         print(f"{'BEFORE':*^40}")
@@ -1512,7 +1892,11 @@ def test_running_kmedoids():
             cannot_link=[],
             iteration_max=-1,
             number_of_clusters=number_of_clusters,
+            seed=_,
         )
+        if len(np.unique(list(clusters.values()))) > number_of_clusters:
+            print(f"Error for {_}")
+            raise Exception(f"Error for {_}")
         print(len({v for v in clusters.values()}), number_of_clusters)
         del combined_matrix
         print(f"{'AFTER':-^40}")
@@ -1531,6 +1915,7 @@ def labels_to_groups(
     for i, e in enumerate(event_ids):
         event_id_group[e] = group_mapping[i]
     return event_id_group
+
 
 def run_main_clustering(
     build_log_name: str,
@@ -1615,6 +2000,7 @@ def run_main_clustering(
     for hyperparameters_chosen in tqdm.tqdm(generate_combinations(hyperparameters)):
         combined_matrix = combine_matrices(triplet_matrix, **hyperparameters_chosen)
         assert not np.isnan(combined_matrix).any(), f"Nan matrix  for {build_log_name}"
+        assert not np.isinf(combined_matrix).any(), f"Inf matrix  for {build_log_name}"
         clusters_dict = clustering_function(combined_matrix, **hyperparameters_chosen)
         clusters = clusters_dict["clustering"]
         others = {k: v for k, v in clusters_dict.items() if k != "clustering"}

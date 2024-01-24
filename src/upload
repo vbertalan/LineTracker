@@ -2,12 +2,20 @@
 script_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )";
 cd "$script_dir";
 pwd
-dos2unix ../launches/*;
-dos2unix ../launches/*/*;
+# dos2unix ../launches/*;
+# dos2unix ../launches/*/*;
 user=rmoine
-server=graham
-scp -r ../launches $user@$server.computecanada.ca:/scratch/$user/LineTracker/
-scp -r ./*.py $user@$server.computecanada.ca:/scratch/$user/LineTracker/
-scp -r ../data/splitted_event_ids.json $user@$server.computecanada.ca:/scratch/$user/LineTracker/data/
+server=cedar
+# rsync -avz --info=progress2 ../launches $user@$server.computecanada.ca:/scratch/$user/LineTracker/
+# dos2unix ../data/input/vithor/*.txt;
+# scp -r ../data/input/vithor/*.txt $user@$server.computecanada.ca:/scratch/$user/LineTracker/data/
+# rsync -avz --info=progress2 ../data/input/split_*.json $user@$server.computecanada.ca:/scratch/$user/LineTracker/data/
+# rsync -avz --info=progress2 ../data/input/datasets_benchmark.hdf5 $user@$server.computecanada.ca:/scratch/$user/LineTracker/data/
+# scp -r ../launches/merge_* $user@$server.computecanada.ca:/scratch/$user/LineTracker/launches
+rsync  -rltv --info=progress2  ./*.py $user@$server.computecanada.ca:/scratch/$user/LineTracker/
+rsync  -rltv --info=progress2  ./*.so $user@$server.computecanada.ca:/scratch/$user/LineTracker/
+# rsync -avz --info=progress2  ../libs/ $user@$server.computecanada.ca:/scratch/$user/LineTracker/
+# scp -r ../data/splitted_event_ids.json $user@$server.computecanada.ca:/scratch/$user/LineTracker/data/
 # scp -r ../data/input/*.hdf5 $user@$server.computecanada.ca:/scratch/$user/LineTracker/data/input/
 # scp -r ../../../data/template.json $user@$server.computecanada.ca:/scratch/$user/data/
+# scp -r ../data/embeddings_llama-13b__mean__1000.hdf5 $user@$server.computecanada.ca:/scratch/$user/LineTracker/data/
