@@ -54,6 +54,10 @@ PoolingFn = Callable[["torch.Tensor"], "torch.Tensor"]
 ModelName = Literal["meta-llama/Llama-2-13b-chat-hf", "meta-llama/Llama-2-7b-chat-hf"]
 DatasetName = Literal["eclipse_72k", "mozilla_200k"]
 BugId: int
+ParserTypes = Literal["drain"]
+EmbedderType = Literal["llama-13b", "tfidf"]
+EmbeddingDistanceType = Literal["cosine", "euclidean"]
+ClusteringType = Literal["kmedoid", "dbscan"]
 default_token: str = "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"
 default_model: ModelName = "meta-llama/Llama-2-13b-chat-hf"
 default_n_tokens_infered_max: int = 7364
@@ -364,6 +368,17 @@ class ClusteringOutput(TypedDict):
     clusters: List[int]
     texts: List[str]
 
+
+class ClusteringAlgorithmOutput(TypedDict):
+    type: str
+    clustering: Dict[int, int]
+    hyperparameters: Dict[str, Any]
+    
+class ClusteringAlgorithmOutputKMedoid(ClusteringAlgorithmOutput):
+    type: str
+    clustering: Dict[int, int]
+    hyperparameters: Dict[str, Any]
+    score: float
 
 def generate_combinations(params_dict):
     """
@@ -1009,7 +1024,7 @@ def run_embeddings(
     split_file: str = "splitted_event_ids",
     id: str = "",
     input_event_file: Optional[Path] = None,
-):  # TODO review in/out path with custom dataset
+):
     if input_event_file is None:
         input_event_file = default_event_hdf5_path
     input_event_file = existing_path(input_event_file, is_folder=False)
@@ -1176,7 +1191,7 @@ def get_parsing_drainparser(
 
 def get_variable_matrix(
     parsed_events: List[ParsingOutput],
-    variable_field: Literal["ParameterList", "variables"] = "ParameterList",
+    variable_field: Literal["ParameterList", "variables"] = "variables",
 ) -> np.ndarray:
     binarizer = skPrepro.MultiLabelBinarizer(sparse_output=False)
     matrix_variables = binarizer.fit_transform(
@@ -1190,7 +1205,7 @@ def get_variable_matrix(
 
 
 def get_distance_matrix(
-    log_emeddings_data: LogsEmbeddingData,
+    log_emeddings_data: np.ndarray,
     metric: Literal["jaccard", "cosine", "euclidean"],
 ) -> np.ndarray:
     return skMetrics.pairwise_distances(log_emeddings_data["embeddings"], metric=metric)
@@ -1234,7 +1249,9 @@ def get_triplet_matrix(
         max_children=max_children,
     )
     fake_stdout = StringIO()
-    with redirect_stdout(fake_stdout):  # a deprecation warning that will be solved in a future version of h5py
+    with redirect_stdout(
+        fake_stdout
+    ):  # a deprecation warning that will be solved in a future version of h5py
         with h5py.File(path_matrix_variables, "r") as fp:
             variables_matrix = np.array(fp[build_log_name])
     ## No need to normalize as the jaccard distance is already between 0 and 1
@@ -1246,7 +1263,9 @@ def get_triplet_matrix(
         emb_dist_type=emb_dist_type,
     )
 
-    with redirect_stdout(fake_stdout):  # a deprecation warning that will be solved in a future version of h5py
+    with redirect_stdout(
+        fake_stdout
+    ):  # a deprecation warning that will be solved in a future version of h5py
         with h5py.File(path_embedding, "r") as fp:
             # logger.info(f"Before embedding {path_embedding.stem}")
             embeddings_matrix = np.array(fp[build_log_name])
@@ -1272,9 +1291,6 @@ def get_triplet_matrix(
         count_matrix = get_count_distance_matrix(
             events=events, count_matrix_mode=count_matrix_mode
         )
-    count_matrix = (count_matrix - np.min(count_matrix)) / (
-        np.max(count_matrix) - np.min(count_matrix)
-    )
     return {
         "variables_matrix": variables_matrix,
         "embeddings_matrix": embeddings_matrix,
@@ -1328,13 +1344,13 @@ def clustering_dbscan(
     *,
     epsilon: float,
     **kwargs,
-) -> Dict[str, Dict[int, int]]:
+) -> ClusteringAlgorithmOutput:
     clusterer = DBSCAN(
         eps=epsilon, min_samples=2, metric="precomputed", algorithm="auto", n_jobs=-1
     )
     clusterer.fit(combined_matrix)
     labels = {i: v for i, v in enumerate(clusterer.labels_)}
-    return {"type": "dbscan", "clustering": labels}
+    return {"type": "dbscan", "clustering": labels, "hyperparameters":{}}
 
 
 def best_clustering_kmedoid(
@@ -1346,27 +1362,27 @@ def best_clustering_kmedoid(
     seed: int = 0,
     n_samples: int = 10,
     **kwargs,
-):
+) -> ClusteringAlgorithmOutputKMedoid:
     gc.collect()
     if len(combined_matrix) == 0:
         return {
             "type": "kmedoids",
-            "score": 1,
+            "score": 1.,
             "clustering": {},
-            "number_of_clusters": -1,
+            "hyperparameters": {"number_of_clusters":-1},
         }
     if len(combined_matrix) == 1:
-        return {"score": 1, "clustering": {0: 0}, "number_of_clusters": -1}
+        return {"type": "kmedoids","score": 1., "clustering": {0: 0}, "hyperparameters": {"number_of_clusters":1}}
     # done because silhouette score do not manage the case of 2 lines: in this case 1 custer per line is chosen
     if len(combined_matrix) == 2:
-        return {"score": 1, "clustering": {0: 0, 1: 1}, "number_of_clusters": -1}
+        return {"type": "kmedoid", "clustering": {0: 0, 1: 1}, "hyperparameters": {"number_of_clusters":-1}, "score": 1}
     if must_link is None:
         must_link = []
     if cannot_link is None:
         cannot_link = []
     if iteration_max is None:
         iteration_max = 10
-    best = {"score": -float("inf"), "clustering": {}, "number_of_clusters": -1}
+    best = {"type": "kmedoid", "clustering": {}, "hyperparameters": {"number_of_clusters":-1}, 'score': -float("inf")}
     # logger.info(f"{combined_matrix.shape=}")
     n_samples = min(n_samples, len(combined_matrix) - 1 - 2 + 1)
     for k in set(
@@ -1395,7 +1411,7 @@ def best_clustering_kmedoid(
             metric="precomputed",
         )
         if score > best["score"]:
-            best = {"score": score, "clustering": clustering, "number_of_clusters": k}
+            best = {"type": "kmedoid", "clustering": clustering, "hyperparameters": {"number_of_clusters":k}, 'score': score}
     return best
 
 
@@ -1432,12 +1448,6 @@ def comply_with_num_of_clusters(
             )
         clusters[i] = next_cluster
         next_cluster += 1
-        # print(
-        #     f"Adding {i} {next_cluster=}; We have now ",
-        #     len(unique_clusters),
-        #     " clusters: ",
-        #     unique_clusters,
-        # )
         unique_clusters, counts = np.unique(clusters, return_counts=True)
     return clusters
 
@@ -2283,6 +2293,119 @@ def txt_embeddings_to_hdf5(folder: Path):
         json.dump(split_unit, fp)
     with open(folder.parent / "split_file_datasets_benchmark.json", "w") as fp:
         json.dump(split_file, fp)
+
+
+def get_parser_fn(
+    parser_type: ParserTypes,
+) -> Callable[[List[LogData]], List[ParsingOutput]]:
+    """Get the function for the parser"""
+    if parser_type == "drain":
+        return lambda events: get_parsing_drainparser(
+            events,
+            depth=5,
+            similarity_threshold=0.4,
+            max_children=3,
+        )
+    else:
+        raise ValueError(f"Expecting parser type to be among {','.join(get_args(ParserTypes))}")
+
+def get_embedder(embedder_type: EmbedderType) -> Callable[[List[LogData]], Generator[LogEmbeddingData, None, None]]:
+    """Get the function to generate the embeddings"""
+    if embedder_type == "llama-13b":
+        return get_embedder_fn(embedder_type, pooling_code='mean', model_name='meta-llama/Llama-2-13b-chat-hf',limit_tokens=1000)
+    elif embedder_type == "tfidf":
+        return generate_tfidf_embeddings
+    else:
+        raise ValueError(f"Expecting embedder_type to be among {','.join(get_args(EmbedderType))}")
+
+def get_emb_dist_fn(embedding_distance: EmbeddingDistanceType) -> Callable[[np.ndarray], np.ndarray]:
+    """Get the function to generate the normalized (0-1) embeddings distances from the embeddings"""
+    if embedding_distance == 'cosine':
+        # in case of cosine distance that can take values between 0 and 2 we divide the result by 2 to come back between 0 and 1
+        return lambda data: get_distance_matrix(data, metric=embedding_distance)/2
+    elif embedding_distance == 'euclidean':
+        # in case of euclidean distance that can take values unbouded we do a standard 0-1 normalization
+        def fn_euclidean(data):
+            d = get_distance_matrix(data, metric=embedding_distance)
+            return (d-np.min(d))/(np.max(d)-np.min(d))
+        return fn_euclidean
+    else:
+        raise ValueError(f"Expecting embedding_distance to be among {','.join(get_args(EmbeddingDistanceType))}")
+        
+def get_clustering_fn(clustering_type: ClusteringType, must_link: Optional[List[Tuple[int,int]]] = None, cannot_link: Optional[List[Tuple[int,int]]] = None, epsilon: Optional[float] = None) -> Callable[[np.ndarray], ClusteringAlgorithmOutput]:
+    """Get the function to generate the clustering from the combined distance matrix"""
+    if clustering_type == 'kmedoid':
+        assert epsilon is None, "epsilon is not used for kmedoid"
+        return lambda combined_matrix: best_clustering_kmedoid(combined_matrix, must_link=must_link, cannot_link=cannot_link)
+    elif clustering_type == 'dbscan':
+        assert (must_link is None and cannot_link is None), f"For dbscan must_link and cannot_link must be None as this option is not supported ({must_link=}, {cannot_link=})"
+        assert epsilon is not None
+        return lambda combined_matrix: clustering_dbscan(combined_matrix, epsilon=epsilon)
+    else:
+        raise ValueError(f"Expecting embedding_distance to be among {','.join(get_args(ClusteringType))}")
+
+
+def execute_full_pipeline(
+    logs: List[LogData],
+    triplet_coefficient: TripletCoef,
+    parser: Callable[[List[LogData]], List[ParsingOutput]],
+    embedder: Callable[[List[LogData]], Generator[LogEmbeddingData, None, None]],
+    emb_dist_fn: Callable[[np.ndarray], np.ndarray],
+    clustering_fn: Callable[[np.ndarray], ClusteringAlgorithmOutput],
+    float_precision: type = np.float32,
+) -> ClusteringAlgorithmOutput:
+    """Cluster logs provided in argument into groups of related log lines
+    # Arguments
+    - logs: List[LogData], the log lines
+    - triplet_coefficient: TripletCoef, the three coefficients to use to ponderate the matrices
+    - parser: Callable[[List[LogData]], List[ParsingOutput]], a function that from the list of logs lines can generate for each line
+    - embedder: Callable[[List[LogData]], Generator[LogEmbeddingData, None, None]], the function that can generate embeddings from logs
+    - emb_dist_fn: Callable[[np.ndarray], np.ndarray], given all embeddings of each log lines of the same log file, generate the normalized (between 0 and 1) distances between all embeddings
+    - clustering_fn:  Callable[[np.ndarray], ClusteringAlgorithmOutput], taking the combined matrix with the coefficients provided, clusters the logs
+    - float_precision: type = np.float32, the precision to use for all floating point matrices
+    """
+    # 1. parse the logs
+    parsed_logs = parser(logs)
+    # 2. build the variable matrix (alreay normalized matrix as it has values between 0 and 1)
+    variables_matrix = get_variable_matrix(parsed_logs, variable_field="variables")
+    variables_distance_matrix: np.ndarray = get_distance_matrix(  #
+        variables_matrix,
+        metric="jaccard",
+    ).astype(float_precision)
+    del variables_matrix
+    # 3. build the embeddings
+    embeddings: np.ndarray = np.array(
+        [embedding["embedding"] for embedding in embedder(logs)]
+    ).astype(float_precision)
+    # 4. build the distance matrix
+    embeddings_distance_matrix = emb_dist_fn(embeddings).astype(float_precision)
+    max_v, min_v = np.max(embeddings_distance_matrix), np.min(
+        embeddings_distance_matrix
+    )
+    assert (
+        max_v <= 1 and min_v >= 0
+    ), f"Expecting the matrix to be normalized with values in the interval [0,1] but found values of embeddings distance between [{min_v},{max_v}]. check your emb_dist_fn"
+    del embeddings
+    # 5. build the count matrix
+    count_matrix = get_count_distance_matrix(logs, count_matrix_mode="absolute").astype(
+        float_precision
+    )
+    # 6. merge the matrices with triplet coefficient
+    combined_matrix = combine_matrices(
+        TripletMatrix(
+            variables_matrix=variables_distance_matrix,
+            embeddings_matrix=embeddings_distance_matrix,
+            count_matrix=count_matrix,
+        ),
+        triplet_coef=triplet_coefficient,
+    ).astype(float_precision)
+    # note: values will be between 0 and 3 (addition of 3 matrices normalized between 0 and 3)
+    del variables_distance_matrix
+    del embeddings_distance_matrix
+    # 7. run the clustering algorithm with the constraints
+    clustering_output = clustering_fn(combined_matrix)
+    # 8. return the result
+    return clustering_output
 
 
 if __name__ == "__main__":
