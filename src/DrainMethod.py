@@ -360,10 +360,10 @@ class LogParser:
                 if ' '.join(newTemplate) != ' '.join(matchCluster.logTemplate): 
                     matchCluster.logTemplate = newTemplate
 
-        if not os.path.exists(self.savePath):
-            os.makedirs(self.savePath)
+        # if not os.path.exists(self.savePath):
+        #     os.makedirs(self.savePath)
 
-        self.outputResult(logCluL)
+        # self.outputResult(logCluL)
 
         print('Parsing done. [Time taken: {!s}]'.format(datetime.now() - start_time))
 
