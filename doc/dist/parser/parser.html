@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 <meta name="generator" content="pdoc 0.10.0" />
-<title>dist.parser API documentation</title>
+<title>dist.parser.parser API documentation</title>
 <meta name="description" content="" />
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/sanitize.min.css" integrity="sha256-PK9q560IAAa6WVRRh76LtCaI8pjTJ2z11v0miyNNjrs=" crossorigin>
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/typography.min.css" integrity="sha256-7l/o7C8jubJiy74VsKTidCy1yBkRtiUGbVkYBylBqUg=" crossorigin>
@@ -19,7 +19,7 @@
 <main>
 <article id="content">
 <header>
-<h1 class="title">Module <code>dist.parser</code></h1>
+<h1 class="title">Module <code>dist.parser.parser</code></h1>
 </header>
 <section id="section-intro">
 <details class="source">
@@ -27,13 +27,9 @@
 <span>Expand source code</span>
 </summary>
 <pre><code class="python">import re
-from typing import *
-import hashlib
-import os
+from typing import *# type: ignore
 import uuid
-from collections import defaultdict, OrderedDict
-from dataclasses import dataclass, field
-import contextlib
+from collections import OrderedDict
 
 TokenLength = int
 Token = str
@@ -429,8 +425,8 @@ def get_parsing_drainparser(
 <section>
 <h2 class="section-title" id="header-functions">Functions</h2>
 <dl>
-<dt id="dist.parser.addSeqToPrefixTree"><code class="name flex">
-<span>def <span class="ident">addSeqToPrefixTree</span></span>(<span>rn: <a title="dist.parser.Node" href="#dist.parser.Node">Node</a>, logClust: <a title="dist.parser.Logcluster" href="#dist.parser.Logcluster">Logcluster</a>, depth: int = 2, max_child: int = 3)</span>
+<dt id="dist.parser.parser.addSeqToPrefixTree"><code class="name flex">
+<span>def <span class="ident">addSeqToPrefixTree</span></span>(<span>rn: <a title="dist.parser.parser.Node" href="#dist.parser.parser.Node">Node</a>, logClust: <a title="dist.parser.parser.Logcluster" href="#dist.parser.parser.Logcluster">Logcluster</a>, depth: int = 2, max_child: int = 3)</span>
 </code></dt>
 <dd>
 <div class="desc"><p>Method to add a new sequence as a log cluster to the prefix tree, as it was not found before with treeSearch</p>
@@ -518,8 +514,8 @@ def get_parsing_drainparser(
         currentDepth += 1</code></pre>
 </details>
 </dd>
-<dt id="dist.parser.fastMatch"><code class="name flex">
-<span>def <span class="ident">fastMatch</span></span>(<span>logClustL: List[<a title="dist.parser.Logcluster" href="#dist.parser.Logcluster">Logcluster</a>], seq: List[str], similarity_threshold: float = 0.4) ‑> Optional[<a title="dist.parser.Logcluster" href="#dist.parser.Logcluster">Logcluster</a>]</span>
+<dt id="dist.parser.parser.fastMatch"><code class="name flex">
+<span>def <span class="ident">fastMatch</span></span>(<span>logClustL: List[<a title="dist.parser.parser.Logcluster" href="#dist.parser.parser.Logcluster">Logcluster</a>], seq: List[str], similarity_threshold: float = 0.4) ‑> Optional[<a title="dist.parser.parser.Logcluster" href="#dist.parser.parser.Logcluster">Logcluster</a>]</span>
 </code></dt>
 <dd>
 <div class="desc"><p>Method to check the maximum similarity threshold between leaves/log clusters.
@@ -571,7 +567,7 @@ Chooses the closest cluster (based on seqDist) for which the template is the clo
     return retLogClust</code></pre>
 </details>
 </dd>
-<dt id="dist.parser.getTemplate"><code class="name flex">
+<dt id="dist.parser.parser.getTemplate"><code class="name flex">
 <span>def <span class="ident">getTemplate</span></span>(<span>seq1: List[str], seq2: List[str]) ‑> List[str]</span>
 </code></dt>
 <dd>
@@ -623,7 +619,7 @@ Returns: I love &lt;*&gt;</p>
     return retVal</code></pre>
 </details>
 </dd>
-<dt id="dist.parser.get_parameter_list"><code class="name flex">
+<dt id="dist.parser.parser.get_parameter_list"><code class="name flex">
 <span>def <span class="ident">get_parameter_list</span></span>(<span>template: str, text: str) ‑> List[str]</span>
 </code></dt>
 <dd>
@@ -650,8 +646,8 @@ Returns: I love &lt;*&gt;</p>
     return parameter_list</code></pre>
 </details>
 </dd>
-<dt id="dist.parser.get_parsing_drainparser"><code class="name flex">
-<span>def <span class="ident">get_parsing_drainparser</span></span>(<span>events: List[str], depth: int = 2, similarity_threshold: float = 0.4, max_children: int = 3) ‑> List[<a title="dist.parser.ParsedLine" href="#dist.parser.ParsedLine">ParsedLine</a>]</span>
+<dt id="dist.parser.parser.get_parsing_drainparser"><code class="name flex">
+<span>def <span class="ident">get_parsing_drainparser</span></span>(<span>events: List[str], depth: int = 2, similarity_threshold: float = 0.4, max_children: int = 3) ‑> List[<a title="dist.parser.parser.ParsedLine" href="#dist.parser.parser.ParsedLine">ParsedLine</a>]</span>
 </code></dt>
 <dd>
 <div class="desc"><p>From the list of log lines, returns for each line the emplate and the variables</p>
@@ -698,8 +694,8 @@ Returns: I love &lt;*&gt;</p>
     return variables</code></pre>
 </details>
 </dd>
-<dt id="dist.parser.get_templates_variables_per_lines"><code class="name flex">
-<span>def <span class="ident">get_templates_variables_per_lines</span></span>(<span>templates: Dict[str, <a title="dist.parser.TemplateGroup" href="#dist.parser.TemplateGroup">TemplateGroup</a>]) ‑> List[<a title="dist.parser.ParsedLine" href="#dist.parser.ParsedLine">ParsedLine</a>]</span>
+<dt id="dist.parser.parser.get_templates_variables_per_lines"><code class="name flex">
+<span>def <span class="ident">get_templates_variables_per_lines</span></span>(<span>templates: Dict[str, <a title="dist.parser.parser.TemplateGroup" href="#dist.parser.parser.TemplateGroup">TemplateGroup</a>]) ‑> List[<a title="dist.parser.parser.ParsedLine" href="#dist.parser.parser.ParsedLine">ParsedLine</a>]</span>
 </code></dt>
 <dd>
 <div class="desc"><p>Extract the template and variables associated with each line</p>
@@ -734,7 +730,7 @@ Returns: I love &lt;*&gt;</p>
     return list(L.values())</code></pre>
 </details>
 </dd>
-<dt id="dist.parser.hasNumbers"><code class="name flex">
+<dt id="dist.parser.parser.hasNumbers"><code class="name flex">
 <span>def <span class="ident">hasNumbers</span></span>(<span>s: str) ‑> bool</span>
 </code></dt>
 <dd>
@@ -747,8 +743,8 @@ Returns: I love &lt;*&gt;</p>
     return any(char.isdigit() for char in s)</code></pre>
 </details>
 </dd>
-<dt id="dist.parser.parse"><code class="name flex">
-<span>def <span class="ident">parse</span></span>(<span>preprocessed_texts: List[str], depth: int = 2, max_child: int = 3, similarity_threshold: float = 0.4) ‑> Tuple[List[<a title="dist.parser.Logcluster" href="#dist.parser.Logcluster">Logcluster</a>], Dict[str, <a title="dist.parser.TemplateGroup" href="#dist.parser.TemplateGroup">TemplateGroup</a>]]</span>
+<dt id="dist.parser.parser.parse"><code class="name flex">
+<span>def <span class="ident">parse</span></span>(<span>preprocessed_texts: List[str], depth: int = 2, max_child: int = 3, similarity_threshold: float = 0.4) ‑> Tuple[List[<a title="dist.parser.parser.Logcluster" href="#dist.parser.parser.Logcluster">Logcluster</a>], Dict[str, <a title="dist.parser.parser.TemplateGroup" href="#dist.parser.parser.TemplateGroup">TemplateGroup</a>]]</span>
 </code></dt>
 <dd>
 <div class="desc"><p>Parse the logs and update the templates iteratively</p>
@@ -815,7 +811,7 @@ Returns: I love &lt;*&gt;</p>
     return logCluL, templates</code></pre>
 </details>
 </dd>
-<dt id="dist.parser.seqDist"><code class="name flex">
+<dt id="dist.parser.parser.seqDist"><code class="name flex">
 <span>def <span class="ident">seqDist</span></span>(<span>seq1: List[str], seq2: List[str]) ‑> Tuple[float, int]</span>
 </code></dt>
 <dd>
@@ -857,8 +853,8 @@ in seq1</li>
     return retVal, numOfPar</code></pre>
 </details>
 </dd>
-<dt id="dist.parser.treeSearch"><code class="name flex">
-<span>def <span class="ident">treeSearch</span></span>(<span>rn: <a title="dist.parser.Node" href="#dist.parser.Node">Node</a>, seq: List[str], depth: int = 2, similarity_threshold: float = 0.4) ‑> Optional[<a title="dist.parser.Logcluster" href="#dist.parser.Logcluster">Logcluster</a>]</span>
+<dt id="dist.parser.parser.treeSearch"><code class="name flex">
+<span>def <span class="ident">treeSearch</span></span>(<span>rn: <a title="dist.parser.parser.Node" href="#dist.parser.parser.Node">Node</a>, seq: List[str], depth: int = 2, similarity_threshold: float = 0.4) ‑> Optional[<a title="dist.parser.parser.Logcluster" href="#dist.parser.parser.Logcluster">Logcluster</a>]</span>
 </code></dt>
 <dd>
 <div class="desc"><p>Method to search for a sequence &lt;<seq>&gt; inside a node &lt;<rn>&gt;</p>
@@ -917,7 +913,7 @@ in seq1</li>
 <section>
 <h2 class="section-title" id="header-classes">Classes</h2>
 <dl>
-<dt id="dist.parser.Logcluster"><code class="flex name class">
+<dt id="dist.parser.parser.Logcluster"><code class="flex name class">
 <span>class <span class="ident">Logcluster</span></span>
 <span>(</span><span>logTemplate: Optional[List[str]] = None, logIDL=None)</span>
 </code></dt>
@@ -940,9 +936,9 @@ in seq1</li>
         self.id = str(uuid.uuid4())</code></pre>
 </details>
 </dd>
-<dt id="dist.parser.Node"><code class="flex name class">
+<dt id="dist.parser.parser.Node"><code class="flex name class">
 <span>class <span class="ident">Node</span></span>
-<span>(</span><span>childD: Union[Dict[Union[int, str], ForwardRef('<a title="dist.parser.Node" href="#dist.parser.Node">Node</a>')], List[<a title="dist.parser.Logcluster" href="#dist.parser.Logcluster">Logcluster</a>], ForwardRef(None)] = None, depth=0, digitOrtoken: Union[str, int, ForwardRef(None)] = None)</span>
+<span>(</span><span>childD: Union[Dict[Union[int, str], ForwardRef('<a title="dist.parser.parser.Node" href="#dist.parser.parser.Node">Node</a>')], List[<a title="dist.parser.parser.Logcluster" href="#dist.parser.parser.Logcluster">Logcluster</a>], ForwardRef(None)] = None, depth=0, digitOrtoken: Union[int, str, ForwardRef(None)] = None)</span>
 </code></dt>
 <dd>
 <div class="desc"><p>Class to represent the node of the tree</p>
@@ -978,7 +974,7 @@ in seq1</li>
         self.digitOrtoken = digitOrtoken</code></pre>
 </details>
 </dd>
-<dt id="dist.parser.ParsedLine"><code class="flex name class">
+<dt id="dist.parser.parser.ParsedLine"><code class="flex name class">
 <span>class <span class="ident">ParsedLine</span></span>
 <span>(</span><span>*args, **kwargs)</span>
 </code></dt>
@@ -1007,17 +1003,17 @@ in seq1</li>
 </ul>
 <h3>Class variables</h3>
 <dl>
-<dt id="dist.parser.ParsedLine.template"><code class="name">var <span class="ident">template</span> : str</code></dt>
+<dt id="dist.parser.parser.ParsedLine.template"><code class="name">var <span class="ident">template</span> : str</code></dt>
 <dd>
 <div class="desc"></div>
 </dd>
-<dt id="dist.parser.ParsedLine.variables"><code class="name">var <span class="ident">variables</span> : List[str]</code></dt>
+<dt id="dist.parser.parser.ParsedLine.variables"><code class="name">var <span class="ident">variables</span> : List[str]</code></dt>
 <dd>
 <div class="desc"></div>
 </dd>
 </dl>
 </dd>
-<dt id="dist.parser.TemplateGroup"><code class="flex name class">
+<dt id="dist.parser.parser.TemplateGroup"><code class="flex name class">
 <span>class <span class="ident">TemplateGroup</span></span>
 <span>(</span><span>*args, **kwargs)</span>
 </code></dt>
@@ -1048,15 +1044,15 @@ dict(one=1, two=2)</p></div>
 </ul>
 <h3>Class variables</h3>
 <dl>
-<dt id="dist.parser.TemplateGroup.id"><code class="name">var <span class="ident">id</span> : str</code></dt>
+<dt id="dist.parser.parser.TemplateGroup.id"><code class="name">var <span class="ident">id</span> : str</code></dt>
 <dd>
 <div class="desc"></div>
 </dd>
-<dt id="dist.parser.TemplateGroup.lines"><code class="name">var <span class="ident">lines</span> : List[Tuple[int, str]]</code></dt>
+<dt id="dist.parser.parser.TemplateGroup.lines"><code class="name">var <span class="ident">lines</span> : List[Tuple[int, str]]</code></dt>
 <dd>
 <div class="desc"></div>
 </dd>
-<dt id="dist.parser.TemplateGroup.template"><code class="name">var <span class="ident">template</span> : List[str]</code></dt>
+<dt id="dist.parser.parser.TemplateGroup.template"><code class="name">var <span class="ident">template</span> : List[str]</code></dt>
 <dd>
 <div class="desc"></div>
 </dd>
@@ -1073,44 +1069,44 @@ dict(one=1, two=2)</p></div>
 <ul id="index">
 <li><h3>Super-module</h3>
 <ul>
-<li><code><a title="dist" href="index.html">dist</a></code></li>
+<li><code><a title="dist.parser" href="index.html">dist.parser</a></code></li>
 </ul>
 </li>
 <li><h3><a href="#header-functions">Functions</a></h3>
 <ul class="">
-<li><code><a title="dist.parser.addSeqToPrefixTree" href="#dist.parser.addSeqToPrefixTree">addSeqToPrefixTree</a></code></li>
-<li><code><a title="dist.parser.fastMatch" href="#dist.parser.fastMatch">fastMatch</a></code></li>
-<li><code><a title="dist.parser.getTemplate" href="#dist.parser.getTemplate">getTemplate</a></code></li>
-<li><code><a title="dist.parser.get_parameter_list" href="#dist.parser.get_parameter_list">get_parameter_list</a></code></li>
-<li><code><a title="dist.parser.get_parsing_drainparser" href="#dist.parser.get_parsing_drainparser">get_parsing_drainparser</a></code></li>
-<li><code><a title="dist.parser.get_templates_variables_per_lines" href="#dist.parser.get_templates_variables_per_lines">get_templates_variables_per_lines</a></code></li>
-<li><code><a title="dist.parser.hasNumbers" href="#dist.parser.hasNumbers">hasNumbers</a></code></li>
-<li><code><a title="dist.parser.parse" href="#dist.parser.parse">parse</a></code></li>
-<li><code><a title="dist.parser.seqDist" href="#dist.parser.seqDist">seqDist</a></code></li>
-<li><code><a title="dist.parser.treeSearch" href="#dist.parser.treeSearch">treeSearch</a></code></li>
+<li><code><a title="dist.parser.parser.addSeqToPrefixTree" href="#dist.parser.parser.addSeqToPrefixTree">addSeqToPrefixTree</a></code></li>
+<li><code><a title="dist.parser.parser.fastMatch" href="#dist.parser.parser.fastMatch">fastMatch</a></code></li>
+<li><code><a title="dist.parser.parser.getTemplate" href="#dist.parser.parser.getTemplate">getTemplate</a></code></li>
+<li><code><a title="dist.parser.parser.get_parameter_list" href="#dist.parser.parser.get_parameter_list">get_parameter_list</a></code></li>
+<li><code><a title="dist.parser.parser.get_parsing_drainparser" href="#dist.parser.parser.get_parsing_drainparser">get_parsing_drainparser</a></code></li>
+<li><code><a title="dist.parser.parser.get_templates_variables_per_lines" href="#dist.parser.parser.get_templates_variables_per_lines">get_templates_variables_per_lines</a></code></li>
+<li><code><a title="dist.parser.parser.hasNumbers" href="#dist.parser.parser.hasNumbers">hasNumbers</a></code></li>
+<li><code><a title="dist.parser.parser.parse" href="#dist.parser.parser.parse">parse</a></code></li>
+<li><code><a title="dist.parser.parser.seqDist" href="#dist.parser.parser.seqDist">seqDist</a></code></li>
+<li><code><a title="dist.parser.parser.treeSearch" href="#dist.parser.parser.treeSearch">treeSearch</a></code></li>
 </ul>
 </li>
 <li><h3><a href="#header-classes">Classes</a></h3>
 <ul>
 <li>
-<h4><code><a title="dist.parser.Logcluster" href="#dist.parser.Logcluster">Logcluster</a></code></h4>
+<h4><code><a title="dist.parser.parser.Logcluster" href="#dist.parser.parser.Logcluster">Logcluster</a></code></h4>
 </li>
 <li>
-<h4><code><a title="dist.parser.Node" href="#dist.parser.Node">Node</a></code></h4>
+<h4><code><a title="dist.parser.parser.Node" href="#dist.parser.parser.Node">Node</a></code></h4>
 </li>
 <li>
-<h4><code><a title="dist.parser.ParsedLine" href="#dist.parser.ParsedLine">ParsedLine</a></code></h4>
+<h4><code><a title="dist.parser.parser.ParsedLine" href="#dist.parser.parser.ParsedLine">ParsedLine</a></code></h4>
 <ul class="">
-<li><code><a title="dist.parser.ParsedLine.template" href="#dist.parser.ParsedLine.template">template</a></code></li>
-<li><code><a title="dist.parser.ParsedLine.variables" href="#dist.parser.ParsedLine.variables">variables</a></code></li>
+<li><code><a title="dist.parser.parser.ParsedLine.template" href="#dist.parser.parser.ParsedLine.template">template</a></code></li>
+<li><code><a title="dist.parser.parser.ParsedLine.variables" href="#dist.parser.parser.ParsedLine.variables">variables</a></code></li>
 </ul>
 </li>
 <li>
-<h4><code><a title="dist.parser.TemplateGroup" href="#dist.parser.TemplateGroup">TemplateGroup</a></code></h4>
+<h4><code><a title="dist.parser.parser.TemplateGroup" href="#dist.parser.parser.TemplateGroup">TemplateGroup</a></code></h4>
 <ul class="">
-<li><code><a title="dist.parser.TemplateGroup.id" href="#dist.parser.TemplateGroup.id">id</a></code></li>
-<li><code><a title="dist.parser.TemplateGroup.lines" href="#dist.parser.TemplateGroup.lines">lines</a></code></li>
-<li><code><a title="dist.parser.TemplateGroup.template" href="#dist.parser.TemplateGroup.template">template</a></code></li>
+<li><code><a title="dist.parser.parser.TemplateGroup.id" href="#dist.parser.parser.TemplateGroup.id">id</a></code></li>
+<li><code><a title="dist.parser.parser.TemplateGroup.lines" href="#dist.parser.parser.TemplateGroup.lines">lines</a></code></li>
+<li><code><a title="dist.parser.parser.TemplateGroup.template" href="#dist.parser.parser.TemplateGroup.template">template</a></code></li>
 </ul>
 </li>
 </ul>

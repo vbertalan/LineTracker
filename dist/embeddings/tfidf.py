@@ -6,11 +6,13 @@ from typing import *# type: ignore
 
 def generate_tfidf_embeddings(
     events: List[str],
+    precision = np.float32,
 ) -> Generator[np.ndarray, Any, Any]:
     """Generates tfidf embeddings as a generator. Raises a OutOfMemoryError whenever there is a ram or gpu memory error (often due to too big size of the text and model)
 
     # Arguments
     - events: List[str], the events text to generate the embeddings from
+    - precision=np.float32, the precision to use
 
     # Returns
     - Generator[np.ndarray, Any, Any], a generator that generates the embeddings of dimension (voc_size))
@@ -26,6 +28,6 @@ def generate_tfidf_embeddings(
     """
     vectorizer = skVec.TfidfVectorizer()
     embeddings = vectorizer.fit_transform(events)
-    embeddings = np.asarray(embeddings.todense())  # type: ignore
+    embeddings = np.asarray(embeddings.todense().astype(precision))  # type: ignore
     for embedding in embeddings:
         yield embedding

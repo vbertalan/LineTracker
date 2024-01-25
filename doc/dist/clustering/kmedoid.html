@@ -1,0 +1,804 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+<meta name="generator" content="pdoc 0.10.0" />
+<title>dist.clustering.kmedoid API documentation</title>
+<meta name="description" content="" />
+<link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/sanitize.min.css" integrity="sha256-PK9q560IAAa6WVRRh76LtCaI8pjTJ2z11v0miyNNjrs=" crossorigin>
+<link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/typography.min.css" integrity="sha256-7l/o7C8jubJiy74VsKTidCy1yBkRtiUGbVkYBylBqUg=" crossorigin>
+<link rel="stylesheet preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/github.min.css" crossorigin>
+<style>:root{--highlight-color:#fe9}.flex{display:flex !important}body{line-height:1.5em}#content{padding:20px}#sidebar{padding:30px;overflow:hidden}#sidebar > *:last-child{margin-bottom:2cm}.http-server-breadcrumbs{font-size:130%;margin:0 0 15px 0}#footer{font-size:.75em;padding:5px 30px;border-top:1px solid #ddd;text-align:right}#footer p{margin:0 0 0 1em;display:inline-block}#footer p:last-child{margin-right:30px}h1,h2,h3,h4,h5{font-weight:300}h1{font-size:2.5em;line-height:1.1em}h2{font-size:1.75em;margin:1em 0 .50em 0}h3{font-size:1.4em;margin:25px 0 10px 0}h4{margin:0;font-size:105%}h1:target,h2:target,h3:target,h4:target,h5:target,h6:target{background:var(--highlight-color);padding:.2em 0}a{color:#058;text-decoration:none;transition:color .3s ease-in-out}a:hover{color:#e82}.title code{font-weight:bold}h2[id^="header-"]{margin-top:2em}.ident{color:#900}pre code{background:#f8f8f8;font-size:.8em;line-height:1.4em}code{background:#f2f2f1;padding:1px 4px;overflow-wrap:break-word}h1 code{background:transparent}pre{background:#f8f8f8;border:0;border-top:1px solid #ccc;border-bottom:1px solid #ccc;margin:1em 0;padding:1ex}#http-server-module-list{display:flex;flex-flow:column}#http-server-module-list div{display:flex}#http-server-module-list dt{min-width:10%}#http-server-module-list p{margin-top:0}.toc ul,#index{list-style-type:none;margin:0;padding:0}#index code{background:transparent}#index h3{border-bottom:1px solid #ddd}#index ul{padding:0}#index h4{margin-top:.6em;font-weight:bold}@media (min-width:200ex){#index .two-column{column-count:2}}@media (min-width:300ex){#index .two-column{column-count:3}}dl{margin-bottom:2em}dl dl:last-child{margin-bottom:4em}dd{margin:0 0 1em 3em}#header-classes + dl > dd{margin-bottom:3em}dd dd{margin-left:2em}dd p{margin:10px 0}.name{background:#eee;font-weight:bold;font-size:.85em;padding:5px 10px;display:inline-block;min-width:40%}.name:hover{background:#e0e0e0}dt:target .name{background:var(--highlight-color)}.name > span:first-child{white-space:nowrap}.name.class > span:nth-child(2){margin-left:.4em}.inherited{color:#999;border-left:5px solid #eee;padding-left:1em}.inheritance em{font-style:normal;font-weight:bold}.desc h2{font-weight:400;font-size:1.25em}.desc h3{font-size:1em}.desc dt code{background:inherit}.source summary,.git-link-div{color:#666;text-align:right;font-weight:400;font-size:.8em;text-transform:uppercase}.source summary > *{white-space:nowrap;cursor:pointer}.git-link{color:inherit;margin-left:1em}.source pre{max-height:500px;overflow:auto;margin:0}.source pre code{font-size:12px;overflow:visible}.hlist{list-style:none}.hlist li{display:inline}.hlist li:after{content:',\2002'}.hlist li:last-child:after{content:none}.hlist .hlist{display:inline;padding-left:1em}img{max-width:100%}td{padding:0 .5em}.admonition{padding:.1em .5em;margin-bottom:1em}.admonition-title{font-weight:bold}.admonition.note,.admonition.info,.admonition.important{background:#aef}.admonition.todo,.admonition.versionadded,.admonition.tip,.admonition.hint{background:#dfd}.admonition.warning,.admonition.versionchanged,.admonition.deprecated{background:#fd4}.admonition.error,.admonition.danger,.admonition.caution{background:lightpink}</style>
+<style media="screen and (min-width: 700px)">@media screen and (min-width:700px){#sidebar{width:30%;height:100vh;overflow:auto;position:sticky;top:0}#content{width:70%;max-width:100ch;padding:3em 4em;border-left:1px solid #ddd}pre code{font-size:1em}.item .name{font-size:1em}main{display:flex;flex-direction:row-reverse;justify-content:flex-end}.toc ul ul,#index ul{padding-left:1.5em}.toc > ul > li{margin-top:.5em}}</style>
+<style media="print">@media print{#sidebar h1{page-break-before:always}.source{display:none}}@media print{*{background:transparent !important;color:#000 !important;box-shadow:none !important;text-shadow:none !important}a[href]:after{content:" (" attr(href) ")";font-size:90%}a[href][title]:after{content:none}abbr[title]:after{content:" (" attr(title) ")"}.ir a:after,a[href^="javascript:"]:after,a[href^="#"]:after{content:""}pre,blockquote{border:1px solid #999;page-break-inside:avoid}thead{display:table-header-group}tr,img{page-break-inside:avoid}img{max-width:100% !important}@page{margin:0.5cm}p,h2,h3{orphans:3;widows:3}h1,h2,h3,h4,h5,h6{page-break-after:avoid}}</style>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js" integrity="sha256-Uv3H6lx7dJmRfRvH8TH6kJD1TSK1aFcwgx+mdg3epi8=" crossorigin></script>
+<script>window.addEventListener('DOMContentLoaded', () => hljs.initHighlighting())</script>
+</head>
+<body>
+<main>
+<article id="content">
+<header>
+<h1 class="title">Module <code>dist.clustering.kmedoid</code></h1>
+</header>
+<section id="section-intro">
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">import contextlib
+import numpy as np
+import gc
+import ctypes
+import sklearn.metrics as skMetrics
+
+from .types import ClusteringAlgorithmOutput
+from pathlib import Path
+from typing import *  # type: ignore
+
+
+class ClusteringAlgorithmOutputKMedoid(ClusteringAlgorithmOutput):
+    &#34;&#34;&#34;Output of the clustering with kmedoid
+    
+    - type: str, the name of the clustering (will be kmedoid here)
+    - clustering: Dict[int, int], the clusters for each line {line_0: cluster_0, ...}
+    - hyperparameters: Dict[str, Any], {&#34;name_parameter_1&#34;: value, ...} and here will be {&#34;number_of_clusters&#34;: ...}
+    - score: float, the score found associated with the number of cluster (silhouette score)
+    &#34;&#34;&#34;
+    type: str
+    clustering: Dict[int, int]
+    hyperparameters: Dict[str, Any]
+    score: float
+
+
+def comply_with_num_of_clusters(
+    distances: np.ndarray,
+    clusters: np.ndarray,
+    must_link: List[Tuple[int, int]],
+    target_n_clusters: int,
+) -&gt; np.ndarray:
+    &#34;&#34;&#34;As the kmedoid algorithm can provide less clusters than asked, this method makes the missing clusters by using the most distant points as single clusters. The most distant points are the points with the biggest cumulative distance. We exclude points that are in must_link constraints and points that are already single point clusters
+
+    # Arguments
+    - distances: np.ndarray, (n_lines,n_lines) the distance matrix between all of the points
+    - clusters: np.ndarray, (n_lines,) the clusters chosen for each line that can be less than target_n_clusters
+    - must_link: List[Tuple[int, int]], the points that must be in the same cluster, to avoid them to be in different clusters
+    - target_n_clusters: int, the required number of clusters
+
+    # Returns
+    - np.ndarray, (n_lines,) the neww clusters for each line
+
+    # Example usage
+
+    ```python
+    &gt;&gt;&gt; n_lines = 10
+    &gt;&gt;&gt; target_n_clusters = 3
+    &gt;&gt;&gt; distances = np.random.rand(n_lines, n_lines)
+    &gt;&gt;&gt; distances = (distances+distances.T)/2.
+    &gt;&gt;&gt; np.fill_diagonal(distances, 0)
+    &gt;&gt;&gt; clusters = np.random.randint(0,2,(n_lines,))
+    &gt;&gt;&gt; must_link = []
+    &gt;&gt;&gt; comply_with_num_of_clusters(distances, clusters, must_link, target_n_clusters)
+    ```
+    &#34;&#34;&#34;
+    clusters = np.array(clusters)
+    # 1. Setup cumulated distances (dont change and will be consumed progressively), unique clusters and next_cluster index
+    # we will chose point with the biggest cumulative distance to all other points in priority
+    # cum_distance(point_i) = sum(distance(i,j) for j in range(n_points))
+    cum_distances = np.sum(distances, axis=1)
+    cum_distances = [(i, cum_distances[i]) for i in range(len(distances))]
+    # extract the points with the biggest cumulative distance
+    cum_distances.sort(key=lambda x: x[1], reverse=False)
+    # we initialize the unique clusters found and the next cluster name
+    unique_clusters, counts = np.unique(clusters, return_counts=True)
+    # this next cluster is taken bigger as the biggest cluster index
+    # an other incorrect solution would have been to use the point index as a unique cluster but it could have been used by the point and other points
+    next_cluster = max(unique_clusters) + 1
+    # 2. we loop up until we have the required number of clusters
+    while len(unique_clusters) != target_n_clusters:
+        # 2.1 build the potential points
+        potential_points = set(range(len(clusters)))
+        # remove points that are alreay single cluster
+        for p, c in zip(unique_clusters, counts):
+            if c == 1:
+                potential_points.difference([p])
+        # remove the must link, simplified reasoning as we want to create new single point clusters: impossible if a point is in one must link constraint
+        for p1, p2 in must_link:
+            potential_points.difference([p1, p2])
+        potential_points = sorted(potential_points)
+        # 2.2 get the most distant clusters that is in the allowed points as single point cluster
+        i = None
+        while i is None or i not in potential_points:
+            i, _ = cum_distances.pop(-1)
+        # 2.3 If we reached the end of potential points in cumulated distance, it means that it is not possible to comply with the requirements either because there are too many clusters required (target_n_clusters&gt;n_points) or because the must_link constraints limit the possibility
+        if len(cum_distances) == 0:
+            raise Exception(
+                f&#34;Cannot comply with the number of clusters due to constraints {must_link=} for {target_n_clusters=}: wwe have max {len(unique_clusters)=} with {unique_clusters=} and {clusters=} and potential clusters {[e for e,c in zip(unique_clusters,counts) if c &gt; 1]} and {len(clusters)=}&#34;
+            )
+        # 2.4 we update the new cluster and update the linked variables (next_cluster and unique_clusters, counts)
+        clusters[i] = next_cluster
+        next_cluster += 1
+        unique_clusters, counts = np.unique(clusters, return_counts=True)
+    # 3. When we reached the desired number of clusters, we can return the clusters
+    return clusters
+
+
+def clustering_kmedoids(
+    combined_matrix: np.ndarray,
+    *,
+    number_of_clusters: int,
+    must_link: Optional[List[Tuple[int, int]]] = None,
+    cannot_link: Optional[List[Tuple[int, int]]] = None,
+    iteration_max: Optional[int] = None,
+    seed: int = 0,
+    library_path: Union[str, Path] = &#34;./clustering_lib.so&#34;,
+    **kwargs,
+) -&gt; Dict[int, int]:
+    &#34;&#34;&#34;Function to call the c++ already compiled kmedoid.so library. Starting from a random clustering it iteratively improves it ensuring that points in must_link pars are always linked together and points in cannot_link are never linked together. **It ensures that the number_of_clusters asked is respected** by using comply_with_num_of_clusters
+    
+    # Arguments
+    - combined_matrix: np.ndarray, (n_lines, n_lines) assumes without any nan or inf
+    - *, to ensure that the following arguments are always provided by argument
+    - number_of_clusters: Optional[int] = None, required number of clusters
+    - must_link: Optional[List[Tuple[int, int]]] = None, if None [], each tuple represents the indexes of two points that must be linked together : example [(0,1),(2,0)] will ensure that the points at index 0 andd 1 and 2 are always in the same cluster (because 0 and 1 together and 2 and 0 together)
+    - cannot_link: Optional[List[Tuple[int, int]]] = None, if None [],  each tuple represents the indexes of two points that must not be linked together : example [(0,1),(2,0)] will ensure that the points at index 0 and 1 are never in the same cluster and that 2 and 0 are never in the same cluster (but here 1 and 2 can be together)
+    - iteration_max: Optional[int] = None, represents the number of loops done by the local search algorithm but also is linked to the number of shaking at each step
+    - seed: int = 0, the random seed to use for the algorithm (reproductubility not guaranteed at the time)
+    - library_path: Union[str, Path] = &#34;./clustering_lib.so&#34;, the path to the library to run the kmeoids c++ algorithm
+    
+    # Returns
+    - Dict[int, int], for each line number the cluster associated
+    &#34;&#34;&#34;
+    # 1. Prepare arguments, default values...
+    library_path = Path(library_path).resolve()
+    assert library_path.exists(), f&#34;{library_path.as_posix()=} does not exist&#34;
+    library_path = library_path.as_posix() #type: ignore
+    if must_link is None:
+        must_link = []
+    if cannot_link is None:
+        cannot_link = []
+    if iteration_max is None:
+        iteration_max = 10
+    if number_of_clusters == 1:
+        return {i: 0 for i in range(len(combined_matrix))}
+    if number_of_clusters == len(combined_matrix):
+        return {i: c for i, c in enumerate(range(len(combined_matrix)))}
+    # 2. Prepare the matrix (flatten as easier to transfer to c++)
+    n_points, n_dims = combined_matrix.shape
+    combined_matrix = combined_matrix.flatten()
+    # 3. Load the c++ library
+    dummy_cpp_library = ctypes.CDLL(library_path)
+    # 4. Prepare the arguments and their associated type for c++ transfer
+    combine_matrix_ptr = np.ctypeslib.ndpointer(dtype=np.float64, ndim=1, flags=&#34;C&#34;)
+    must_link_array = np.array(must_link).flatten().astype(np.int32)
+    must_link_array_ptr = np.ctypeslib.ndpointer(dtype=np.int64, ndim=1, flags=&#34;C&#34;)
+    n_must_link = len(must_link)
+    cannot_link_array = np.array(cannot_link).flatten().astype(np.int32)
+    cannot_link_array_ptr = np.ctypeslib.ndpointer(dtype=np.int64, ndim=1, flags=&#34;C&#34;)
+    n_cannot_link = len(cannot_link)
+    # 5. Prepare the function prototype: input arguments types and return type
+    dummy_cpp_library.clusterize.argtypes = [
+        ctypes.c_int,
+        combine_matrix_ptr,
+        ctypes.c_size_t,
+        ctypes.c_size_t,
+        ctypes.c_int,
+        must_link_array_ptr,
+        ctypes.c_size_t,
+        cannot_link_array_ptr,
+        ctypes.c_size_t,
+        ctypes.c_int,
+        ctypes.c_int,
+        ctypes.c_bool,
+    ]
+    dummy_cpp_library.clusterize.restype = ctypes.POINTER(ctypes.c_int)
+    # 6. Run the function
+    data_ptr = dummy_cpp_library.clusterize(
+        seed,
+        combined_matrix.astype(np.float64),
+        int(n_points),
+        int(n_dims),
+        int(number_of_clusters),
+        must_link_array.astype(np.int64),
+        int(n_must_link),
+        cannot_link_array.astype(np.int64),
+        n_cannot_link,
+        iteration_max,
+        -1,
+        True,
+    )
+    # 7. Convert and get the clustering result and check that no suspicious cluster is seen
+    clusters = np.copy(np.ctypeslib.as_array(data_ptr, shape=(n_points,)))
+    unique_clusters = np.unique(clusters)
+    assert (
+        len(unique_clusters) &lt;= number_of_clusters
+    ), f&#34;Expecting {number_of_clusters=} or less but found {len(unique_clusters)=} with {unique_clusters=} {clusters=}\n{combined_matrix.reshape((n_points, n_dims)).tolist()=}&#34;
+    # 8. Free the last pointer not already freed
+    with contextlib.suppress(Exception):
+        dummy_cpp_library.free_array(data_ptr)
+    # 9. Ensure that we comply with the required number of clusters
+    clusters = comply_with_num_of_clusters(
+        distances=combined_matrix.reshape((n_points, n_dims)),
+        clusters=clusters,
+        must_link=must_link,
+        target_n_clusters=number_of_clusters,
+    )
+    return {i: c for i, c in enumerate(clusters)}
+
+
+def get_clustering_kmedoid(
+    combined_matrix: np.ndarray,
+    *,
+    must_link: Optional[List[Tuple[int, int]]] = None,
+    cannot_link: Optional[List[Tuple[int, int]]] = None,
+    iteration_max: Optional[int] = None,
+    seed: int = 0,
+    library_path: Union[str, Path] = &#34;./clustering_lib.so&#34;,
+    n_samples: int = 10,
+    **kwargs,
+) -&gt; ClusteringAlgorithmOutputKMedoid:
+    &#34;&#34;&#34;Wrapper around the clustering_kmedoids function: the task of get_clustering_kmedoid is to automatically choose the best number of clusters based on the silhouette score (best score for choosing number of clusters when we do not know it)
+    
+    # Arguments
+    - combined_matrix: np.ndarray, (n_lines, n_lines) assumes without any nan or inf
+    - *, to ensure that the following arguments are always provided by argument
+    - must_link: Optional[List[Tuple[int, int]]] = None, if None [], each tuple represents the indexes of two points that must be linked together : example [(0,1),(2,0)] will ensure that the points at index 0 andd 1 and 2 are always in the same cluster (because 0 and 1 together and 2 and 0 together)
+    - cannot_link: Optional[List[Tuple[int, int]]] = None, if None [],  each tuple represents the indexes of two points that must not be linked together : example [(0,1),(2,0)] will ensure that the points at index 0 and 1 are never in the same cluster and that 2 and 0 are never in the same cluster (but here 1 and 2 can be together)
+    - iteration_max: Optional[int] = None, represents the number of loops done by the local search algorithm but also is linked to the number of shaking at each step
+    - seed: int = 0, the random seed to use for the algorithm (reproductubility not guaranteed at the time)
+    - library_path: Union[str, Path] = &#34;./clustering_lib.so&#34;, the path to the library to run the kmeoids c++ algorithm
+    - n_samples: int = 10, the number of clusters tested. Do not guarantee that we will test this many number of clusters: We can comply with this value if it is less than the limit number of clusters tested of (n_points-1) - 2 + 1: limits imposed by the silhouette score that the number of clusters is in the interval [2,n_points-1] see [https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html). 
+    
+    # Returns
+    - ClusteringAlgorithmOutputKMedoid, see documentation of ClusteringAlgorithmOutputKMedoid. The clusters of each line is especially in the clustering attribute
+    &#34;&#34;&#34;
+    # 1. We start to clean the memory of unused object (to avoid memory errors due to the c++ program calls)
+    gc.collect()
+    # 2. Exclude the simple cases: 0 lines, 1 lines -&gt; 1 cluster, !! 2 lines is chosen as 2 clusters !!
+    # We need to exclude the case of 2 lines because the silhouette score can only be computed for 2 -&gt; n-1 clusters with n the number of lines
+    if len(combined_matrix) == 0:
+        return {
+            &#34;type&#34;: &#34;kmedoids&#34;,
+            &#34;score&#34;: 1.0,
+            &#34;clustering&#34;: {},
+            &#34;hyperparameters&#34;: {&#34;number_of_clusters&#34;: -1},
+        }
+    if len(combined_matrix) == 1:
+        return {
+            &#34;type&#34;: &#34;kmedoids&#34;,
+            &#34;score&#34;: 1.0,
+            &#34;clustering&#34;: {0: 0},
+            &#34;hyperparameters&#34;: {&#34;number_of_clusters&#34;: 1},
+        }
+    if len(combined_matrix) == 2:
+        return {
+            &#34;type&#34;: &#34;kmedoid&#34;,
+            &#34;clustering&#34;: {0: 0, 1: 1},
+            &#34;hyperparameters&#34;: {&#34;number_of_clusters&#34;: -1},
+            &#34;score&#34;: 1,
+        }
+    # 3. Manages the default values
+    if must_link is None:
+        must_link = []
+    if cannot_link is None:
+        cannot_link = []
+    if iteration_max is None:
+        iteration_max = 10
+    # 4. Then we test the number of clusters to try to maximize the silhouette score (score in ClusteringAlgorithmOutputKMedoid dict)
+    best: ClusteringAlgorithmOutputKMedoid = {
+        &#34;type&#34;: &#34;kmedoid&#34;,
+        &#34;clustering&#34;: {},
+        &#34;hyperparameters&#34;: {&#34;number_of_clusters&#34;: -1},
+        &#34;score&#34;: -float(&#34;inf&#34;),
+    }
+    # 4.1 We will samples the number of clusters between the maximum number of clusters and the minimum number of clusters:
+    # The maximum number of samples will be either n_samples if we have a lot of lines or len(combined_matrix) - 1 - 2 + 1:
+    # len(combined_matrix) - 1 is the maximum number of samples supported by silhouette score
+    # 2 is the minimum number of samples supported by silhouette score
+    # len(combined_matrix) - 1 - 2 + 1 is the number of elements inside this interval
+    # so we choose either the maximum number of samples possible if n_samples is bigger than this limit or we choose n_samples if possible
+    n_samples = min(n_samples, len(combined_matrix) - 1 - 2 + 1)
+    clusters_to_test = set( # set to exclude duplicates due to round/int cast
+        np.round(
+            np.linspace(2, len(combined_matrix) - 1, n_samples) # comply with silhouette score requirements
+        ).astype(int) # have integers
+    )
+    for number_of_clusters_tested in clusters_to_test:
+        clustering = clustering_kmedoids(
+            combined_matrix,
+            must_link=must_link,
+            cannot_link=cannot_link,
+            iteration_max=iteration_max,
+            seed=seed,
+            number_of_clusters=number_of_clusters_tested,
+            library_path=library_path,
+        )
+        # 4.2 We check if there the silhouette score
+        score = float(
+            skMetrics.silhouette_score(
+                X=combined_matrix,
+                labels=[clustering[i] for i in range(len(combined_matrix))],
+                metric=&#34;precomputed&#34;,
+            )
+        )
+        # 4.3 Is this a better values, if so wee keep this clustering
+        if score &gt; best[&#34;score&#34;]:
+            best = {
+                &#34;type&#34;: &#34;kmedoid&#34;,
+                &#34;clustering&#34;: clustering,
+                &#34;hyperparameters&#34;: {&#34;number_of_clusters&#34;: number_of_clusters_tested},
+                &#34;score&#34;: score,
+            }
+    # 5. We return the best clustering found according to silhouette score
+    return best</code></pre>
+</details>
+</section>
+<section>
+</section>
+<section>
+</section>
+<section>
+<h2 class="section-title" id="header-functions">Functions</h2>
+<dl>
+<dt id="dist.clustering.kmedoid.clustering_kmedoids"><code class="name flex">
+<span>def <span class="ident">clustering_kmedoids</span></span>(<span>combined_matrix: numpy.ndarray, *, number_of_clusters: int, must_link: Optional[List[Tuple[int, int]]] = None, cannot_link: Optional[List[Tuple[int, int]]] = None, iteration_max: Optional[int] = None, seed: int = 0, library_path: Union[str, pathlib.Path] = './clustering_lib.so', **kwargs) ‑> Dict[int, int]</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Function to call the c++ already compiled kmedoid.so library. Starting from a random clustering it iteratively improves it ensuring that points in must_link pars are always linked together and points in cannot_link are never linked together. <strong>It ensures that the number_of_clusters asked is respected</strong> by using comply_with_num_of_clusters</p>
+<h1 id="arguments">Arguments</h1>
+<ul>
+<li>combined_matrix: np.ndarray, (n_lines, n_lines) assumes without any nan or inf</li>
+<li>*, to ensure that the following arguments are always provided by argument</li>
+<li>number_of_clusters: Optional[int] = None, required number of clusters</li>
+<li>must_link: Optional[List[Tuple[int, int]]] = None, if None [], each tuple represents the indexes of two points that must be linked together : example [(0,1),(2,0)] will ensure that the points at index 0 andd 1 and 2 are always in the same cluster (because 0 and 1 together and 2 and 0 together)</li>
+<li>cannot_link: Optional[List[Tuple[int, int]]] = None, if None [],
+each tuple represents the indexes of two points that must not be linked together : example [(0,1),(2,0)] will ensure that the points at index 0 and 1 are never in the same cluster and that 2 and 0 are never in the same cluster (but here 1 and 2 can be together)</li>
+<li>iteration_max: Optional[int] = None, represents the number of loops done by the local search algorithm but also is linked to the number of shaking at each step</li>
+<li>seed: int = 0, the random seed to use for the algorithm (reproductubility not guaranteed at the time)</li>
+<li>library_path: Union[str, Path] = "./clustering_lib.so", the path to the library to run the kmeoids c++ algorithm</li>
+</ul>
+<h1 id="returns">Returns</h1>
+<ul>
+<li>Dict[int, int], for each line number the cluster associated</li>
+</ul></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def clustering_kmedoids(
+    combined_matrix: np.ndarray,
+    *,
+    number_of_clusters: int,
+    must_link: Optional[List[Tuple[int, int]]] = None,
+    cannot_link: Optional[List[Tuple[int, int]]] = None,
+    iteration_max: Optional[int] = None,
+    seed: int = 0,
+    library_path: Union[str, Path] = &#34;./clustering_lib.so&#34;,
+    **kwargs,
+) -&gt; Dict[int, int]:
+    &#34;&#34;&#34;Function to call the c++ already compiled kmedoid.so library. Starting from a random clustering it iteratively improves it ensuring that points in must_link pars are always linked together and points in cannot_link are never linked together. **It ensures that the number_of_clusters asked is respected** by using comply_with_num_of_clusters
+    
+    # Arguments
+    - combined_matrix: np.ndarray, (n_lines, n_lines) assumes without any nan or inf
+    - *, to ensure that the following arguments are always provided by argument
+    - number_of_clusters: Optional[int] = None, required number of clusters
+    - must_link: Optional[List[Tuple[int, int]]] = None, if None [], each tuple represents the indexes of two points that must be linked together : example [(0,1),(2,0)] will ensure that the points at index 0 andd 1 and 2 are always in the same cluster (because 0 and 1 together and 2 and 0 together)
+    - cannot_link: Optional[List[Tuple[int, int]]] = None, if None [],  each tuple represents the indexes of two points that must not be linked together : example [(0,1),(2,0)] will ensure that the points at index 0 and 1 are never in the same cluster and that 2 and 0 are never in the same cluster (but here 1 and 2 can be together)
+    - iteration_max: Optional[int] = None, represents the number of loops done by the local search algorithm but also is linked to the number of shaking at each step
+    - seed: int = 0, the random seed to use for the algorithm (reproductubility not guaranteed at the time)
+    - library_path: Union[str, Path] = &#34;./clustering_lib.so&#34;, the path to the library to run the kmeoids c++ algorithm
+    
+    # Returns
+    - Dict[int, int], for each line number the cluster associated
+    &#34;&#34;&#34;
+    # 1. Prepare arguments, default values...
+    library_path = Path(library_path).resolve()
+    assert library_path.exists(), f&#34;{library_path.as_posix()=} does not exist&#34;
+    library_path = library_path.as_posix() #type: ignore
+    if must_link is None:
+        must_link = []
+    if cannot_link is None:
+        cannot_link = []
+    if iteration_max is None:
+        iteration_max = 10
+    if number_of_clusters == 1:
+        return {i: 0 for i in range(len(combined_matrix))}
+    if number_of_clusters == len(combined_matrix):
+        return {i: c for i, c in enumerate(range(len(combined_matrix)))}
+    # 2. Prepare the matrix (flatten as easier to transfer to c++)
+    n_points, n_dims = combined_matrix.shape
+    combined_matrix = combined_matrix.flatten()
+    # 3. Load the c++ library
+    dummy_cpp_library = ctypes.CDLL(library_path)
+    # 4. Prepare the arguments and their associated type for c++ transfer
+    combine_matrix_ptr = np.ctypeslib.ndpointer(dtype=np.float64, ndim=1, flags=&#34;C&#34;)
+    must_link_array = np.array(must_link).flatten().astype(np.int32)
+    must_link_array_ptr = np.ctypeslib.ndpointer(dtype=np.int64, ndim=1, flags=&#34;C&#34;)
+    n_must_link = len(must_link)
+    cannot_link_array = np.array(cannot_link).flatten().astype(np.int32)
+    cannot_link_array_ptr = np.ctypeslib.ndpointer(dtype=np.int64, ndim=1, flags=&#34;C&#34;)
+    n_cannot_link = len(cannot_link)
+    # 5. Prepare the function prototype: input arguments types and return type
+    dummy_cpp_library.clusterize.argtypes = [
+        ctypes.c_int,
+        combine_matrix_ptr,
+        ctypes.c_size_t,
+        ctypes.c_size_t,
+        ctypes.c_int,
+        must_link_array_ptr,
+        ctypes.c_size_t,
+        cannot_link_array_ptr,
+        ctypes.c_size_t,
+        ctypes.c_int,
+        ctypes.c_int,
+        ctypes.c_bool,
+    ]
+    dummy_cpp_library.clusterize.restype = ctypes.POINTER(ctypes.c_int)
+    # 6. Run the function
+    data_ptr = dummy_cpp_library.clusterize(
+        seed,
+        combined_matrix.astype(np.float64),
+        int(n_points),
+        int(n_dims),
+        int(number_of_clusters),
+        must_link_array.astype(np.int64),
+        int(n_must_link),
+        cannot_link_array.astype(np.int64),
+        n_cannot_link,
+        iteration_max,
+        -1,
+        True,
+    )
+    # 7. Convert and get the clustering result and check that no suspicious cluster is seen
+    clusters = np.copy(np.ctypeslib.as_array(data_ptr, shape=(n_points,)))
+    unique_clusters = np.unique(clusters)
+    assert (
+        len(unique_clusters) &lt;= number_of_clusters
+    ), f&#34;Expecting {number_of_clusters=} or less but found {len(unique_clusters)=} with {unique_clusters=} {clusters=}\n{combined_matrix.reshape((n_points, n_dims)).tolist()=}&#34;
+    # 8. Free the last pointer not already freed
+    with contextlib.suppress(Exception):
+        dummy_cpp_library.free_array(data_ptr)
+    # 9. Ensure that we comply with the required number of clusters
+    clusters = comply_with_num_of_clusters(
+        distances=combined_matrix.reshape((n_points, n_dims)),
+        clusters=clusters,
+        must_link=must_link,
+        target_n_clusters=number_of_clusters,
+    )
+    return {i: c for i, c in enumerate(clusters)}</code></pre>
+</details>
+</dd>
+<dt id="dist.clustering.kmedoid.comply_with_num_of_clusters"><code class="name flex">
+<span>def <span class="ident">comply_with_num_of_clusters</span></span>(<span>distances: numpy.ndarray, clusters: numpy.ndarray, must_link: List[Tuple[int, int]], target_n_clusters: int) ‑> numpy.ndarray</span>
+</code></dt>
+<dd>
+<div class="desc"><p>As the kmedoid algorithm can provide less clusters than asked, this method makes the missing clusters by using the most distant points as single clusters. The most distant points are the points with the biggest cumulative distance. We exclude points that are in must_link constraints and points that are already single point clusters</p>
+<h1 id="arguments">Arguments</h1>
+<ul>
+<li>distances: np.ndarray, (n_lines,n_lines) the distance matrix between all of the points</li>
+<li>clusters: np.ndarray, (n_lines,) the clusters chosen for each line that can be less than target_n_clusters</li>
+<li>must_link: List[Tuple[int, int]], the points that must be in the same cluster, to avoid them to be in different clusters</li>
+<li>target_n_clusters: int, the required number of clusters</li>
+</ul>
+<h1 id="returns">Returns</h1>
+<ul>
+<li>np.ndarray, (n_lines,) the neww clusters for each line</li>
+</ul>
+<h1 id="example-usage">Example usage</h1>
+<pre><code class="language-python">&gt;&gt;&gt; n_lines = 10
+&gt;&gt;&gt; target_n_clusters = 3
+&gt;&gt;&gt; distances = np.random.rand(n_lines, n_lines)
+&gt;&gt;&gt; distances = (distances+distances.T)/2.
+&gt;&gt;&gt; np.fill_diagonal(distances, 0)
+&gt;&gt;&gt; clusters = np.random.randint(0,2,(n_lines,))
+&gt;&gt;&gt; must_link = []
+&gt;&gt;&gt; comply_with_num_of_clusters(distances, clusters, must_link, target_n_clusters)
+</code></pre></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def comply_with_num_of_clusters(
+    distances: np.ndarray,
+    clusters: np.ndarray,
+    must_link: List[Tuple[int, int]],
+    target_n_clusters: int,
+) -&gt; np.ndarray:
+    &#34;&#34;&#34;As the kmedoid algorithm can provide less clusters than asked, this method makes the missing clusters by using the most distant points as single clusters. The most distant points are the points with the biggest cumulative distance. We exclude points that are in must_link constraints and points that are already single point clusters
+
+    # Arguments
+    - distances: np.ndarray, (n_lines,n_lines) the distance matrix between all of the points
+    - clusters: np.ndarray, (n_lines,) the clusters chosen for each line that can be less than target_n_clusters
+    - must_link: List[Tuple[int, int]], the points that must be in the same cluster, to avoid them to be in different clusters
+    - target_n_clusters: int, the required number of clusters
+
+    # Returns
+    - np.ndarray, (n_lines,) the neww clusters for each line
+
+    # Example usage
+
+    ```python
+    &gt;&gt;&gt; n_lines = 10
+    &gt;&gt;&gt; target_n_clusters = 3
+    &gt;&gt;&gt; distances = np.random.rand(n_lines, n_lines)
+    &gt;&gt;&gt; distances = (distances+distances.T)/2.
+    &gt;&gt;&gt; np.fill_diagonal(distances, 0)
+    &gt;&gt;&gt; clusters = np.random.randint(0,2,(n_lines,))
+    &gt;&gt;&gt; must_link = []
+    &gt;&gt;&gt; comply_with_num_of_clusters(distances, clusters, must_link, target_n_clusters)
+    ```
+    &#34;&#34;&#34;
+    clusters = np.array(clusters)
+    # 1. Setup cumulated distances (dont change and will be consumed progressively), unique clusters and next_cluster index
+    # we will chose point with the biggest cumulative distance to all other points in priority
+    # cum_distance(point_i) = sum(distance(i,j) for j in range(n_points))
+    cum_distances = np.sum(distances, axis=1)
+    cum_distances = [(i, cum_distances[i]) for i in range(len(distances))]
+    # extract the points with the biggest cumulative distance
+    cum_distances.sort(key=lambda x: x[1], reverse=False)
+    # we initialize the unique clusters found and the next cluster name
+    unique_clusters, counts = np.unique(clusters, return_counts=True)
+    # this next cluster is taken bigger as the biggest cluster index
+    # an other incorrect solution would have been to use the point index as a unique cluster but it could have been used by the point and other points
+    next_cluster = max(unique_clusters) + 1
+    # 2. we loop up until we have the required number of clusters
+    while len(unique_clusters) != target_n_clusters:
+        # 2.1 build the potential points
+        potential_points = set(range(len(clusters)))
+        # remove points that are alreay single cluster
+        for p, c in zip(unique_clusters, counts):
+            if c == 1:
+                potential_points.difference([p])
+        # remove the must link, simplified reasoning as we want to create new single point clusters: impossible if a point is in one must link constraint
+        for p1, p2 in must_link:
+            potential_points.difference([p1, p2])
+        potential_points = sorted(potential_points)
+        # 2.2 get the most distant clusters that is in the allowed points as single point cluster
+        i = None
+        while i is None or i not in potential_points:
+            i, _ = cum_distances.pop(-1)
+        # 2.3 If we reached the end of potential points in cumulated distance, it means that it is not possible to comply with the requirements either because there are too many clusters required (target_n_clusters&gt;n_points) or because the must_link constraints limit the possibility
+        if len(cum_distances) == 0:
+            raise Exception(
+                f&#34;Cannot comply with the number of clusters due to constraints {must_link=} for {target_n_clusters=}: wwe have max {len(unique_clusters)=} with {unique_clusters=} and {clusters=} and potential clusters {[e for e,c in zip(unique_clusters,counts) if c &gt; 1]} and {len(clusters)=}&#34;
+            )
+        # 2.4 we update the new cluster and update the linked variables (next_cluster and unique_clusters, counts)
+        clusters[i] = next_cluster
+        next_cluster += 1
+        unique_clusters, counts = np.unique(clusters, return_counts=True)
+    # 3. When we reached the desired number of clusters, we can return the clusters
+    return clusters</code></pre>
+</details>
+</dd>
+<dt id="dist.clustering.kmedoid.get_clustering_kmedoid"><code class="name flex">
+<span>def <span class="ident">get_clustering_kmedoid</span></span>(<span>combined_matrix: numpy.ndarray, *, must_link: Optional[List[Tuple[int, int]]] = None, cannot_link: Optional[List[Tuple[int, int]]] = None, iteration_max: Optional[int] = None, seed: int = 0, library_path: Union[str, pathlib.Path] = './clustering_lib.so', n_samples: int = 10, **kwargs) ‑> <a title="dist.clustering.kmedoid.ClusteringAlgorithmOutputKMedoid" href="#dist.clustering.kmedoid.ClusteringAlgorithmOutputKMedoid">ClusteringAlgorithmOutputKMedoid</a></span>
+</code></dt>
+<dd>
+<div class="desc"><p>Wrapper around the clustering_kmedoids function: the task of get_clustering_kmedoid is to automatically choose the best number of clusters based on the silhouette score (best score for choosing number of clusters when we do not know it)</p>
+<h1 id="arguments">Arguments</h1>
+<ul>
+<li>combined_matrix: np.ndarray, (n_lines, n_lines) assumes without any nan or inf</li>
+<li>*, to ensure that the following arguments are always provided by argument</li>
+<li>must_link: Optional[List[Tuple[int, int]]] = None, if None [], each tuple represents the indexes of two points that must be linked together : example [(0,1),(2,0)] will ensure that the points at index 0 andd 1 and 2 are always in the same cluster (because 0 and 1 together and 2 and 0 together)</li>
+<li>cannot_link: Optional[List[Tuple[int, int]]] = None, if None [],
+each tuple represents the indexes of two points that must not be linked together : example [(0,1),(2,0)] will ensure that the points at index 0 and 1 are never in the same cluster and that 2 and 0 are never in the same cluster (but here 1 and 2 can be together)</li>
+<li>iteration_max: Optional[int] = None, represents the number of loops done by the local search algorithm but also is linked to the number of shaking at each step</li>
+<li>seed: int = 0, the random seed to use for the algorithm (reproductubility not guaranteed at the time)</li>
+<li>library_path: Union[str, Path] = "./clustering_lib.so", the path to the library to run the kmeoids c++ algorithm</li>
+<li>n_samples: int = 10, the number of clusters tested. Do not guarantee that we will test this many number of clusters: We can comply with this value if it is less than the limit number of clusters tested of (n_points-1) - 2 + 1: limits imposed by the silhouette score that the number of clusters is in the interval [2,n_points-1] see <a href="https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html">https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html</a>. </li>
+</ul>
+<h1 id="returns">Returns</h1>
+<ul>
+<li>ClusteringAlgorithmOutputKMedoid, see documentation of ClusteringAlgorithmOutputKMedoid. The clusters of each line is especially in the clustering attribute</li>
+</ul></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">def get_clustering_kmedoid(
+    combined_matrix: np.ndarray,
+    *,
+    must_link: Optional[List[Tuple[int, int]]] = None,
+    cannot_link: Optional[List[Tuple[int, int]]] = None,
+    iteration_max: Optional[int] = None,
+    seed: int = 0,
+    library_path: Union[str, Path] = &#34;./clustering_lib.so&#34;,
+    n_samples: int = 10,
+    **kwargs,
+) -&gt; ClusteringAlgorithmOutputKMedoid:
+    &#34;&#34;&#34;Wrapper around the clustering_kmedoids function: the task of get_clustering_kmedoid is to automatically choose the best number of clusters based on the silhouette score (best score for choosing number of clusters when we do not know it)
+    
+    # Arguments
+    - combined_matrix: np.ndarray, (n_lines, n_lines) assumes without any nan or inf
+    - *, to ensure that the following arguments are always provided by argument
+    - must_link: Optional[List[Tuple[int, int]]] = None, if None [], each tuple represents the indexes of two points that must be linked together : example [(0,1),(2,0)] will ensure that the points at index 0 andd 1 and 2 are always in the same cluster (because 0 and 1 together and 2 and 0 together)
+    - cannot_link: Optional[List[Tuple[int, int]]] = None, if None [],  each tuple represents the indexes of two points that must not be linked together : example [(0,1),(2,0)] will ensure that the points at index 0 and 1 are never in the same cluster and that 2 and 0 are never in the same cluster (but here 1 and 2 can be together)
+    - iteration_max: Optional[int] = None, represents the number of loops done by the local search algorithm but also is linked to the number of shaking at each step
+    - seed: int = 0, the random seed to use for the algorithm (reproductubility not guaranteed at the time)
+    - library_path: Union[str, Path] = &#34;./clustering_lib.so&#34;, the path to the library to run the kmeoids c++ algorithm
+    - n_samples: int = 10, the number of clusters tested. Do not guarantee that we will test this many number of clusters: We can comply with this value if it is less than the limit number of clusters tested of (n_points-1) - 2 + 1: limits imposed by the silhouette score that the number of clusters is in the interval [2,n_points-1] see [https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html). 
+    
+    # Returns
+    - ClusteringAlgorithmOutputKMedoid, see documentation of ClusteringAlgorithmOutputKMedoid. The clusters of each line is especially in the clustering attribute
+    &#34;&#34;&#34;
+    # 1. We start to clean the memory of unused object (to avoid memory errors due to the c++ program calls)
+    gc.collect()
+    # 2. Exclude the simple cases: 0 lines, 1 lines -&gt; 1 cluster, !! 2 lines is chosen as 2 clusters !!
+    # We need to exclude the case of 2 lines because the silhouette score can only be computed for 2 -&gt; n-1 clusters with n the number of lines
+    if len(combined_matrix) == 0:
+        return {
+            &#34;type&#34;: &#34;kmedoids&#34;,
+            &#34;score&#34;: 1.0,
+            &#34;clustering&#34;: {},
+            &#34;hyperparameters&#34;: {&#34;number_of_clusters&#34;: -1},
+        }
+    if len(combined_matrix) == 1:
+        return {
+            &#34;type&#34;: &#34;kmedoids&#34;,
+            &#34;score&#34;: 1.0,
+            &#34;clustering&#34;: {0: 0},
+            &#34;hyperparameters&#34;: {&#34;number_of_clusters&#34;: 1},
+        }
+    if len(combined_matrix) == 2:
+        return {
+            &#34;type&#34;: &#34;kmedoid&#34;,
+            &#34;clustering&#34;: {0: 0, 1: 1},
+            &#34;hyperparameters&#34;: {&#34;number_of_clusters&#34;: -1},
+            &#34;score&#34;: 1,
+        }
+    # 3. Manages the default values
+    if must_link is None:
+        must_link = []
+    if cannot_link is None:
+        cannot_link = []
+    if iteration_max is None:
+        iteration_max = 10
+    # 4. Then we test the number of clusters to try to maximize the silhouette score (score in ClusteringAlgorithmOutputKMedoid dict)
+    best: ClusteringAlgorithmOutputKMedoid = {
+        &#34;type&#34;: &#34;kmedoid&#34;,
+        &#34;clustering&#34;: {},
+        &#34;hyperparameters&#34;: {&#34;number_of_clusters&#34;: -1},
+        &#34;score&#34;: -float(&#34;inf&#34;),
+    }
+    # 4.1 We will samples the number of clusters between the maximum number of clusters and the minimum number of clusters:
+    # The maximum number of samples will be either n_samples if we have a lot of lines or len(combined_matrix) - 1 - 2 + 1:
+    # len(combined_matrix) - 1 is the maximum number of samples supported by silhouette score
+    # 2 is the minimum number of samples supported by silhouette score
+    # len(combined_matrix) - 1 - 2 + 1 is the number of elements inside this interval
+    # so we choose either the maximum number of samples possible if n_samples is bigger than this limit or we choose n_samples if possible
+    n_samples = min(n_samples, len(combined_matrix) - 1 - 2 + 1)
+    clusters_to_test = set( # set to exclude duplicates due to round/int cast
+        np.round(
+            np.linspace(2, len(combined_matrix) - 1, n_samples) # comply with silhouette score requirements
+        ).astype(int) # have integers
+    )
+    for number_of_clusters_tested in clusters_to_test:
+        clustering = clustering_kmedoids(
+            combined_matrix,
+            must_link=must_link,
+            cannot_link=cannot_link,
+            iteration_max=iteration_max,
+            seed=seed,
+            number_of_clusters=number_of_clusters_tested,
+            library_path=library_path,
+        )
+        # 4.2 We check if there the silhouette score
+        score = float(
+            skMetrics.silhouette_score(
+                X=combined_matrix,
+                labels=[clustering[i] for i in range(len(combined_matrix))],
+                metric=&#34;precomputed&#34;,
+            )
+        )
+        # 4.3 Is this a better values, if so wee keep this clustering
+        if score &gt; best[&#34;score&#34;]:
+            best = {
+                &#34;type&#34;: &#34;kmedoid&#34;,
+                &#34;clustering&#34;: clustering,
+                &#34;hyperparameters&#34;: {&#34;number_of_clusters&#34;: number_of_clusters_tested},
+                &#34;score&#34;: score,
+            }
+    # 5. We return the best clustering found according to silhouette score
+    return best</code></pre>
+</details>
+</dd>
+</dl>
+</section>
+<section>
+<h2 class="section-title" id="header-classes">Classes</h2>
+<dl>
+<dt id="dist.clustering.kmedoid.ClusteringAlgorithmOutputKMedoid"><code class="flex name class">
+<span>class <span class="ident">ClusteringAlgorithmOutputKMedoid</span></span>
+<span>(</span><span>*args, **kwargs)</span>
+</code></dt>
+<dd>
+<div class="desc"><p>Output of the clustering with kmedoid</p>
+<ul>
+<li>type: str, the name of the clustering (will be kmedoid here)</li>
+<li>clustering: Dict[int, int], the clusters for each line {line_0: cluster_0, &hellip;}</li>
+<li>hyperparameters: Dict[str, Any], {"name_parameter_1": value, &hellip;} and here will be {"number_of_clusters": &hellip;}</li>
+<li>score: float, the score found associated with the number of cluster (silhouette score)</li>
+</ul></div>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">class ClusteringAlgorithmOutputKMedoid(ClusteringAlgorithmOutput):
+    &#34;&#34;&#34;Output of the clustering with kmedoid
+    
+    - type: str, the name of the clustering (will be kmedoid here)
+    - clustering: Dict[int, int], the clusters for each line {line_0: cluster_0, ...}
+    - hyperparameters: Dict[str, Any], {&#34;name_parameter_1&#34;: value, ...} and here will be {&#34;number_of_clusters&#34;: ...}
+    - score: float, the score found associated with the number of cluster (silhouette score)
+    &#34;&#34;&#34;
+    type: str
+    clustering: Dict[int, int]
+    hyperparameters: Dict[str, Any]
+    score: float</code></pre>
+</details>
+<h3>Ancestors</h3>
+<ul class="hlist">
+<li>builtins.dict</li>
+</ul>
+<h3>Class variables</h3>
+<dl>
+<dt id="dist.clustering.kmedoid.ClusteringAlgorithmOutputKMedoid.clustering"><code class="name">var <span class="ident">clustering</span> : Dict[int, int]</code></dt>
+<dd>
+<div class="desc"></div>
+</dd>
+<dt id="dist.clustering.kmedoid.ClusteringAlgorithmOutputKMedoid.hyperparameters"><code class="name">var <span class="ident">hyperparameters</span> : Dict[str, Any]</code></dt>
+<dd>
+<div class="desc"></div>
+</dd>
+<dt id="dist.clustering.kmedoid.ClusteringAlgorithmOutputKMedoid.score"><code class="name">var <span class="ident">score</span> : float</code></dt>
+<dd>
+<div class="desc"></div>
+</dd>
+<dt id="dist.clustering.kmedoid.ClusteringAlgorithmOutputKMedoid.type"><code class="name">var <span class="ident">type</span> : str</code></dt>
+<dd>
+<div class="desc"></div>
+</dd>
+</dl>
+</dd>
+</dl>
+</section>
+</article>
+<nav id="sidebar">
+<h1>Index</h1>
+<div class="toc">
+<ul></ul>
+</div>
+<ul id="index">
+<li><h3>Super-module</h3>
+<ul>
+<li><code><a title="dist.clustering" href="index.html">dist.clustering</a></code></li>
+</ul>
+</li>
+<li><h3><a href="#header-functions">Functions</a></h3>
+<ul class="">
+<li><code><a title="dist.clustering.kmedoid.clustering_kmedoids" href="#dist.clustering.kmedoid.clustering_kmedoids">clustering_kmedoids</a></code></li>
+<li><code><a title="dist.clustering.kmedoid.comply_with_num_of_clusters" href="#dist.clustering.kmedoid.comply_with_num_of_clusters">comply_with_num_of_clusters</a></code></li>
+<li><code><a title="dist.clustering.kmedoid.get_clustering_kmedoid" href="#dist.clustering.kmedoid.get_clustering_kmedoid">get_clustering_kmedoid</a></code></li>
+</ul>
+</li>
+<li><h3><a href="#header-classes">Classes</a></h3>
+<ul>
+<li>
+<h4><code><a title="dist.clustering.kmedoid.ClusteringAlgorithmOutputKMedoid" href="#dist.clustering.kmedoid.ClusteringAlgorithmOutputKMedoid">ClusteringAlgorithmOutputKMedoid</a></code></h4>
+<ul class="">
+<li><code><a title="dist.clustering.kmedoid.ClusteringAlgorithmOutputKMedoid.clustering" href="#dist.clustering.kmedoid.ClusteringAlgorithmOutputKMedoid.clustering">clustering</a></code></li>
+<li><code><a title="dist.clustering.kmedoid.ClusteringAlgorithmOutputKMedoid.hyperparameters" href="#dist.clustering.kmedoid.ClusteringAlgorithmOutputKMedoid.hyperparameters">hyperparameters</a></code></li>
+<li><code><a title="dist.clustering.kmedoid.ClusteringAlgorithmOutputKMedoid.score" href="#dist.clustering.kmedoid.ClusteringAlgorithmOutputKMedoid.score">score</a></code></li>
+<li><code><a title="dist.clustering.kmedoid.ClusteringAlgorithmOutputKMedoid.type" href="#dist.clustering.kmedoid.ClusteringAlgorithmOutputKMedoid.type">type</a></code></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</main>
+<footer id="footer">
+<p>Generated by <a href="https://pdoc3.github.io/pdoc" title="pdoc: Python API documentation generator"><cite>pdoc</cite> 0.10.0</a>.</p>
+</footer>
+</body>
+</html>
