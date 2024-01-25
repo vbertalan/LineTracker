@@ -37,13 +37,7 @@ from sklearn.metrics.cluster import rand_score
 from sklearn.metrics.pairwise import pairwise_distances
 from contextlib import redirect_stdout
 from io import StringIO
-
-try:
-    import DrainMethod
-    import drainmethod_functionnal as drain_func
-except ImportError:
-    import src.DrainMethod as DrainMethod
-    import src.drainmethod_functionnal as drain_func
+from dist.parser import get_parsing_drainparser, ParsedLine
 
 """File of code: disclaimer functions comes from the repository https://github.com/AndressaStefany/severityPrediction"""
 # tye hints
@@ -222,11 +216,47 @@ def get_clustering_fn(clustering_type: ClusteringType, must_link: Optional[List[
         raise ValueError(f"Expecting embedding_distance to be among {','.join(get_args(ClusteringType))}")
 
 
+def get_variable_matrix(
+    parsed_events: List[List[str]],
+) -> np.ndarray:
+    """Build the variable matrix from parsed logs
+    
+    # Arguments
+    - parsed_events: List[List[str]], for each log line the variables inside this line. !! warning !! can be empty if there are no variable for a line
+    
+    # Returns
+    - np.ndarray a one hot encoding indicating for each line if any of the variables inside the full log file is seen in this line
+    """
+    binarizer = skPrepro.MultiLabelBinarizer(sparse_output=False)
+    matrix_variables = binarizer.fit_transform(
+        parsed_events
+    )
+    if matrix_variables.shape[0] == 0:
+        raise EmptyLog("No logs in the logs provided", logs=parsed_events)  # type: ignore
+    if matrix_variables.shape[1] == 0:
+        raise NoVariable("No variables in the logs provided", logs=parsed_events)  # type: ignore
+    return matrix_variables.astype(bool)  # type: ignore
+
+def get_distance_matrix(
+    embeddings: np.ndarray,
+    metric: Literal["jaccard", "cosine", "euclidean"],
+) -> np.ndarray:
+    """Generate a matrix with the distance between each pairs of lines using the metric provided
+    
+    # Arguments
+    - embeddings: np.ndarray, (n_lines, size_embedding), for each log line the embedding associated
+    - metric: Literal["jaccard", "cosine", "euclidean"], the metric to use
+    
+    # Returns
+    - np.ndarray (n_lines, n_lines) the pairwise distance between the embeddings
+    """
+    return skMetrics.pairwise_distances(embeddings, metric=metric)
+
 def execute_full_pipeline(
     logs: List[LogData],
     triplet_coefficient: TripletCoef,
-    parser: Callable[[List[LogData]], List[ParsingOutput]],
-    embedder: Callable[[List[LogData]], Generator[LogEmbeddingData, None, None]],
+    parser: Callable[[List[LogData]], List[ParsedLine]],
+    embedder: Callable[[List[LogData]], Generator[np.ndarray, None, None]],
     emb_dist_fn: Callable[[np.ndarray], np.ndarray],
     clustering_fn: Callable[[np.ndarray], ClusteringAlgorithmOutput],
     float_precision: type = np.float32,
@@ -235,24 +265,25 @@ def execute_full_pipeline(
     # Arguments
     - logs: List[LogData], the log lines
     - triplet_coefficient: TripletCoef, the three coefficients to use to ponderate the matrices
-    - parser: Callable[[List[LogData]], List[ParsingOutput]], a function that from the list of logs lines can generate for each line
-    - embedder: Callable[[List[LogData]], Generator[LogEmbeddingData, None, None]], the function that can generate embeddings from logs
+    - parser: Callable[[List[LogData]], List[ParsedLine]], a function that from the list of logs lines can generate for each line
+    - embedder: Callable[[List[LogData]], Generator[np.ndarray, None, None]], the function that can generate embeddings from logs
     - emb_dist_fn: Callable[[np.ndarray], np.ndarray], given all embeddings of each log lines of the same log file, generate the normalized (between 0 and 1) distances between all embeddings
     - clustering_fn:  Callable[[np.ndarray], ClusteringAlgorithmOutput], taking the combined matrix with the coefficients provided, clusters the logs
     - float_precision: type = np.float32, the precision to use for all floating point matrices
     """
     # 1. parse the logs
-    parsed_logs = parser(logs)
+    parsed_logs: List[ParsedLine] = parser(logs)
+    parsed_variables = [e['variables'] for e in parsed_logs]
     # 2. build the variable matrix (alreay normalized matrix as it has values between 0 and 1)
-    variables_matrix = get_variable_matrix(parsed_logs, variable_field="variables")
-    variables_distance_matrix: np.ndarray = get_distance_matrix(  #
+    variables_matrix = get_variable_matrix(parsed_variables)
+    variables_distance_matrix: np.ndarray = get_distance_matrix(
         variables_matrix,
         metric="jaccard",
     ).astype(float_precision)
     del variables_matrix
     # 3. build the embeddings
     embeddings: np.ndarray = np.array(
-        [embedding["embedding"] for embedding in embedder(logs)]
+        [embedding for embedding in embedder(logs)]
     ).astype(float_precision)
     # 4. build the distance matrix
     embeddings_distance_matrix = emb_dist_fn(embeddings).astype(float_precision)

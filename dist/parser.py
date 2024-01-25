@@ -18,6 +18,15 @@ class TemplateGroup(TypedDict):
     lines: List[Tuple[int, str]]
     id: str
 
+class ParsedLine(TypedDict):
+    """Represents a parsed line
+    
+    - template: str, the template of this line
+    - variables: List[str], the variables associated with this line
+    """
+    template: str
+    variables: List[str]
+
 
 default_depth: int = 2
 default_max_child: int = 3
@@ -338,14 +347,22 @@ def parse(
     return logCluL, templates
 
 
-def get_variables_from_templates_lines(
+def get_templates_variables_per_lines(
     templates: Dict[str, TemplateGroup]
-) -> List[List[str]]:
+) -> List[ParsedLine]:
+    """Extract the template and variables associated with each line
+    
+    # Arguments:
+    - templates: Dict[str, TemplateGroup], the generated template object that contains the templates groups
+    
+    # Return
+    - List[ParsedLine], for each line the template and the variables
+    """
     L = OrderedDict()
     for _, template_group in templates.items():
         template_str = " ".join(template_group["template"])
         for i, l in template_group["lines"]:
-            L[i] = get_parameter_list(template_str, l)
+            L[i] = {"template":template_str, "variables":get_parameter_list(template_str, l)}
     return list(L.values())
 
 
@@ -354,7 +371,18 @@ def get_parsing_drainparser(
     depth: int = default_depth,
     similarity_threshold: float = default_similarity_threshold,
     max_children: int = default_max_child,
-) -> List[List[str]]:
+) -> List[ParsedLine]:
+    """From the list of log lines, returns for each line the emplate and the variables
+    
+    # Arguments:
+    - events: List[str], the list of log lines
+    - depth: int = default_depth, the depth of the log tree parser
+    - similarity_threshold: float = default_similarity_threshold, the minimum similarity between two lines to create a template, must be between 0 and 1
+    - max_children: int = default_max_child, the maximum number of children for one template
+    
+    # Return
+    - List[ParsedLine], for each line the template and the variables
+    """
     # load the data
     _, templates = parse(
         events,
@@ -362,5 +390,5 @@ def get_parsing_drainparser(
         max_child=max_children,
         similarity_threshold=similarity_threshold,
     )
-    variables = get_variables_from_templates_lines(templates)
+    variables = get_templates_variables_per_lines(templates)
     return variables
