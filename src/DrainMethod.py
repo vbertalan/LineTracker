@@ -106,9 +106,9 @@ class LogParser:
                 break
 
             if token in parentn.childD:
-                parentn = parentn.childD[token]
+                parentn = parentn.childD[token] #type: ignore
             elif '<*>' in parentn.childD:
-                parentn = parentn.childD['<*>']
+                parentn = parentn.childD['<*>'] #type: ignore
             else:
                 return retLogClust
             currentDepth += 1
@@ -319,10 +319,8 @@ class LogParser:
             self.printTree(node.childD[child], dep+1)
 
     ## Main method, parses the strings and calls other methods
-    def parse(self, logName):
-        print('Parsing file: ' + os.path.join(self.path, logName))
+    def parse(self):
         start_time = datetime.now()
-        self.logName = logName
         rootNode = Node()
         logCluL = []
 

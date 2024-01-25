@@ -1170,7 +1170,7 @@ def get_parsing_drainparser(
     log_df = log_json_to_dataframe([e["text"] for e in events], regex=regex, headers=headers)  # type: ignore
     log_df["event_id"] = [e["event_id"] for e in events]
     regex = []  # Regex strings for Drain execution
-    log_df = drain_func.preprocess_df(log_df, regex=regex)
+    log_df = drain_func.preprocess_df(log_df, regex=regex) #not useful as there are no regexes
     parser = JSONLogParser(
         depth=depth,
         similarity_threshold=similarity_threshold,
