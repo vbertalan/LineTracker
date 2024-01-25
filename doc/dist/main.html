@@ -26,11 +26,45 @@
 <summary>
 <span>Expand source code</span>
 </summary>
-<pre><code class="python">from typing import *  # type: ignore
+<pre><code class="python">from pathlib import Path
+from typing import *  # type: ignore
+import json
+import re
+import datetime
+import gc
+import os
+from itertools import product
+from textwrap import wrap
+import warnings
+import argparse
+import abc
+import shutil
+import logging
+import subprocess
 from typing import Any, Dict, List, Optional, Tuple, Union
+import psutil
+import multiprocessing as mp
+import functools
+import random
+import fire
 import torch
+from torch import nn
+import itertools as it
 import sklearn.preprocessing as skPrepro
 import sklearn.metrics as skMetrics
+from sklearn.feature_extraction.text import TfidfVectorizer
+import uuid
+import pandas as pd
+import contextlib
+import hashlib
+from sklearn.cluster import DBSCAN
+import ctypes
+import functools as ft
+from sklearn.metrics import adjusted_rand_score, silhouette_score, jaccard_score
+from sklearn.metrics.cluster import rand_score
+from sklearn.metrics.pairwise import pairwise_distances
+from contextlib import redirect_stdout
+from io import StringIO
 from dist.parser import get_parsing_drainparser, ParsedLine
 
 &#34;&#34;&#34;File of code: disclaimer functions comes from the repository https://github.com/AndressaStefany/severityPrediction&#34;&#34;&#34;
@@ -49,8 +83,24 @@ ClusteringType = Literal[&#34;kmedoid&#34;, &#34;dbscan&#34;]
 # typehint imports
 import transformers as trf
 import torch
+import torch.nn as nn
+import torch.utils.data as dt
+import huggingface_hub
 import pandas as pd
 import numpy as np
+import peft
+import trl
+import matplotlib.pyplot as plt
+import matplotlib
+import sklearn.metrics as skMetr
+import sklearn.model_selection as skMsel
+import tqdm
+import datasets
+import h5py
+import bitsandbytes as bnb
+import evaluate  # type: ignore
+import optuna
+import accelerate
 
 
 

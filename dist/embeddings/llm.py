@@ -1,17 +1,18 @@
+"""All the necessary functions to generates embeddings with a largelanguage model on huggingface"""
+
 import torch
 import gc
 import huggingface_hub
 import numpy as np
 import transformers as trf
 
-from typing import *
+from typing import *# type: ignore
 
 PoolingOperationCode = Literal["mean", "sum"]
 PoolingFn = Callable[["torch.Tensor"], "torch.Tensor"]
 """A function that reduces the dimensions of a tensor along the first dimension (seq_length of the large language model)"""
 ModelName = Literal["meta-llama/Llama-2-13b-chat-hf", "meta-llama/Llama-2-7b-chat-hf"]
 """The name of the model to use as described on huggingface hub"""
-
 
 class OutOfMemoryError(Exception):
     """An exception that occurs when the inference of the model can not be done due to a lack of memorye"""
@@ -32,10 +33,6 @@ class OutOfMemoryError(Exception):
         self.message = f"You are out of {self.type} memory for {number_of_tokens=} {model_name=} and {use_cpu=}\nText was {self.text}"
         print(self.message)
         super().__init__(self.message)
-
-
-"""---------------------------------------------------------- LLama2 part ----------------------------------------------------------"""
-
 
 def get_pooling_function(pooling_code: "PoolingOperationCode" = "mean") -> "PoolingFn":
     """Get the function to aggregate the large language model embedding over the sequence length
