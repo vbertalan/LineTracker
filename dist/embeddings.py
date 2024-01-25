@@ -1,11 +1,8 @@
 import torch
-import dotenv
-import os
 import gc
 import huggingface_hub
 import numpy as np
 import transformers as trf
-import dist.main as main
 
 from typing import *
 
@@ -14,13 +11,6 @@ PoolingFn = Callable[["torch.Tensor"], "torch.Tensor"]
 """A function that reduces the dimensions of a tensor along the first dimension (seq_length of the large language model)"""
 ModelName = Literal["meta-llama/Llama-2-13b-chat-hf", "meta-llama/Llama-2-7b-chat-hf"]
 """The name of the model to use as described on huggingface hub"""
-Embedding = np.ndarray
-"""
-The embedding result of the prediction of the model: np.ndarray, of shape (voc_size,) 
-"""
-
-dotenv.load_dotenv()
-LLAMA_TOKEN = os.getenv("LLAMA_TOKEN")
 
 
 class OutOfMemoryError(Exception):
@@ -144,7 +134,7 @@ def generate_embeddings_llm(
     cache_dir: Optional[str] = None,
     limit_tokens: int = -1,
     precision=np.float32,
-) -> Generator[Embedding, Any, Any]:
+) -> Generator[np.ndarray, Any, Any]:
     """Generates large language model embeddings as a generator. Raises a OutOfMemoryError whenever there is a ram or gpu memory error (often due to too big size of the text and model)
 
     # Arguments
@@ -158,7 +148,7 @@ def generate_embeddings_llm(
     - precision = np.float32, the precision to use after the conversion in the numpy array
 
     # Returns
-    - Generator[Embedding, Any, Any], a generator that generates the embedding of dimension (voc_size=4096 for llama models (can be modified but requires retraining))
+    - Generator[np.ndarray, Any, Any], a generator that generates the embedding of dimension (voc_size=4096 for llama models (can be modified but requires retraining))
         
     # Example usage
     
