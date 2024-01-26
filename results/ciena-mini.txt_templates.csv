@@ -1,3 +1,143 @@
 EventId,EventTemplate,Occurrences
-32d4d16c,- ERROR - <*> : Job Type: _6500_build.cc Name: ctmp had an exception,4
-134aa640,ls: cannot access '/localdisk/gitlcb/data/6500/020403/*/TCSBASE69_P12_ppc': No such file or directory,1
+0f3d44ce,jq: error (at <*> null (null) has no keys,30
+27d21de3,<*> line <*> <*> command not found,5
+cf75651f,cp: cannot stat <*> No such file or directory,2984
+12ca44fa,/bin/bash: cleartool: command not found,1
+66b0db4c,sed: can't read <*> No such file or directory,6
+f99708a5,<*> cannot <*> <*> No such file or directory,1407
+ceb0e1ff,<*> cleartool: Command not found,2
+98a65a4b,ldppc: cannot find <*>,8
+c2fd4f71,/usr/bin/objdump: 'ome_ccmdr.elf': No such file,1
+c71f6d91,/bin/bash: genBoundsData: command not found,1
+99d16fd4,/usr/bin/objdump: <*> No such file,61
+256811c1,sh: PCP_FPGA_LOAD_DATE: No such file or directory,1
+1e527a8e,sh: BUILD_NUMBER: No such file or directory,1
+0d6d901c,cat: <*> No such file or directory,3484
+804657ab,powerpc-e500-linux-gnuspe-gcc: smp.c: No such file or directory,1
+ad2239fa,powerpc-e500-linux-gnuspe-gcc: no input files,1
+a5ff3f41,<*> <*> No such file or directory,35
+63c558bd,ccppc: /: linker input file unused because linking not done,1
+38962e7f,<*> no such path <*> in HEAD,1005
+b4e8071b,COMMAND: '/usr/bin/git blame -p <*> failed. Error code <*> Proceeding...,247
+08016d38,fatal: not a git repository (or any parent up to mount point <*>,2
+8a713807,**fatal: not a git repository (or any parent up to mount point /nfs/tools),1
+7aaf27b2,fatal: not a git repository (or any of the parent directories): .git,1
+107453b6,<*> not a git repository (or any parent up to mount point <*>,6
+f681340a,cp: cannot stat '/localdisk/6500_repo/ome/vobs/viking_build/build/ome/txqoriq/sim/tpsr/*bld*po'++ true,1
+1d345076,: No such file or directory,1
+64d39d47,ERROR: dir-svc-1.6.0-alpha10_AUTOINC+8dc204bb8c-r0 do_compile: oe_runmake failed,1
+a7377ba0,ERROR: <*> do_compile: Execution of <*> failed with exit code <*>,6
+7f02141f,| find: <*> No such file or directory,2
+eb8fa757,| <*> <*> undefined reference to `mprSetSslBlock',2
+67432fb9,| collect2: error: ld returned 1 exit status,1
+624a33cc,| <*> *** <*> Error <*>,12
+035cc845,| ERROR: oe_runmake failed,1
+7c03f450,| ERROR: Execution of <*> failed with exit code <*>,6
+a829a053,ERROR: Task <*> failed with exit code '1',2
+7c5e17ec,Summary: 1 task failed:,1
+70ddc8d1,"Make FAILED, skipping postbuild step",1
+091f9008,Exiting due to make error <*>,2
+6b295f26,Exiting /localdisk/6500_repo/tools/citools/cloud_all_targets due to error <*>,2
+58ccf6e0,"CalledProcessError: Command '['/localdisk/6500_repo/tools/citools/jenkins_cloud_all_targets', <*> returned non-zero exit status <*>",9
+469d2a9e,- ERROR - /localdisk/6500_repo/tools/copera/bin/runjob.py.main(214) : Job Type: _6500_build.cc Name: <*> had an exception,8
+26c0d4b8,Unable to unzip/untar archive <*> Artifact instance has no attribute 'type',5892
+1fefbe06,<*> [Errno 2] No such file or directory: <*>,4
+c431dc9a,tput: No value for $TERM and no -T specified,1
+93ab4e7e,Error: Configuration file NOT found : <*>,8
+fc7b89b4,ERROR:root:Failed to write typedef <*> YANG type <*> not implemented,2
+08fadcd9,cccp: Invalid option `-mlongcall',1
+4ccaddce,/localdisk/6500_repo/ome/vobs/optnet_core/include/stlport/stl/config/_gcc.h:11: #error GNU compilers before 2.95 are not supported anymore.,1
+cb0bf832,/localdisk/6500_repo/ome/vobs/optnet_os/vxworks/vxworks-6.9/target/h/tool/common/private/toolMacrosP.h:54: #error unsupported toolchain,1
+6d0dd97b,==============FAIL =================,1
+db3777d0,6.3 compile failed using ..,1
+3c54e2ef,"cc1: error: unrecognized command line option ""-Werror=sign-compare""",1
+513516c4,<*> error: syntax error before <*>,7
+97eb557b,<*> error: syntax error before <*> token,9
+56a11152,<*> error: requested alignment is not a constant,2
+d93eff41,<*> error: <*> undeclared (first use in this function),3
+830d1382,/localdisk/6500_repo/ome/vobs/optnet_os/vxworks//vxworks-6.9/target/h/taskLib.h:789: error: (Each undeclared identifier is reported only once,1
+4ef131dd,/localdisk/6500_repo/ome/vobs/optnet_os/vxworks//vxworks-6.9/target/h/taskLib.h:789: error: for each function it appears in.),1
+d03acc9b,<*> error: conflicting types for <*>,9
+f15463f6,<*> error: previous <*> of <*> was here,2
+a40bec7b,<*> invalid suffix <*> on integer constant,37
+18f97f25,<*> error: enumerator value for <*> not integer constant,18
+989ee83c,cp: cannot stat '/localdisk/6500_repo/ome/vobs/equinox_ne_build/bctbuild/OME/BCT/./10gotsc_AB/OME_CCT_README': Too many levels of symbolic links,1
+72fbc1f1,[91mError: No .repo found[0m,1
+9f6e3471,ldppc: BFD 2.15 assertion fail ../../binutils-2.15/bfd/linker.c:619,1
+5c8717e4,/localdisk/6500_repo/ome/vobs/viking_build/build/tools/data_driven_framework/bin/xquery: line 9: exec: java: not found,1
+7192594d,<*> error: declaration of C function <*> <*> conflicts with,2
+cce6f11f,<*> error: previous declaration <*> <*> here,2
+0561e49d,<*> error: declaration of C function <*> <*> <*> conflicts with,2
+0647c0bb,<*> error: previous declaration <*> <*> <*> here,2
+e01163dc,ccpentium: /: linker input file unused because linking not done,1
+8d4fdf9e,*** ERROR: <*> version <*> is not available,5
+d533c018,cp: cannot overwrite directory <*> with non-directory,64
+b1073c72,<*> error: previous implicit declaration of <*> was here,10
+2aa377bb,error importing from stream,1
+09294878,"** Parsing error, line 1, uri null",1
+58d8b1e0,Content is not allowed in prolog.,1
+98632bcb,org.xml.sax.SAXParseException: Content is not allowed in prolog.,1
+3ead1e30,ldppc: <*> section .wrs_build_vars vma <*> overlaps previous sections,23
+4b71aeb1,"make[2]: *** No rule to make target '.depend', needed by '_depend'. Stop.",1
+d0dea68b,<*> recipe for target <*> failed,6
+5dd0fd88,<*> *** <*> Error 2,3
+0bcf88aa,cp: cannot copy cyclic symbolic link <*>,6
+8b519a44,XQuery error (255) processing <*>,3
+7cb61e0b,fire-xquery: nux.xom.xquery.XQueryException: net.sf.saxon.trans.DynamicError: org.xml.sax.SAXParseException: XML document structures must start and end within the same entity.,1
+83d0e10e,"HTTPSConnectionPool(host='6500.ciena.com', port=443): Read timed out. (read timeout=2)",1
+7fc4cc2c,*fatal: not a git repository (or any of the parent directories): .git,1
+3835948c,"ReadTimeout: HTTPSConnectionPool(host='6500.ciena.com', port=443): Read timed out. (read timeout=2)",1
+1abad72d,"Error response from daemon: Head ""https://artifactory.ciena.com/v2/6500/build/ome/ol-devops-ome/manifests/7-20210325-20220608"": Get ""https://artifactory.ciena.com/v2/token?account=6500-devsecops&scope=repository%3A6500%2Fbuild%2Fome%2Fol-devops-ome%3Apull&service=artifactory.ciena.com"": net/http: request canceled (Client.Timeout exceeded while awaiting headers)",1
+a342fa61,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.7:deploy-file (default-cli) on project optnet_datamodel: Failed to update metadata com.ciena.optnet:optnet_datamodel/maven-metadata.xml: Could not parse metadata /home/6500-build/.m2/repository/com/ciena/optnet/optnet_datamodel/maven-metadata-optnet-m2.xml: end tag name </ver> must match start tag name <version> from line 7804 (position: TEXT seen <*> @7804:38) -> [Help 1],3
+d3a0dc73,[ERROR],1
+fbef69ed,"[ERROR] For more information about the errors and possible solutions, please read the following articles:",1
+1e28310e,[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException,1
+5fd89c75,[Errno 20] Not a directory: <*>,10
+41247e86,[Errno 39] Directory not empty: <*>,4
+a4a01897,<*> Line <*> Column #19; AID Reference not found: <*>,23
+783afda5,file:///localdisk/6500_repo/ome/vobs/optnet_tl1_message_set/messages/../tools/tl1Xml2Html.xsl; Line #996; Column #19; AID Reference not found: <*> in <*>,3
+0a69825c,tar: platformTests: Cannot stat: No such file or directory,1
+71286404,tar: Exiting with failure status due to previous errors,1
+6a0ec9c7,"[ERROR] From server: org.springframework.orm.hibernate5.HibernateJdbcException: JDBC exception on Hibernate data access: SQLException for SQL [insert into defect_triage (current_action_id, current_classification_id, current_defect_attributes_id, current_fix_target_id, current_legacy_id, current_owner_user_id, current_severity_id, current_triage_state_id, merged_defect_id, triage_store_id, ver_num, id) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]; SQL state [25P02]; error code [0]; could not execute batch; nested exception is org.hibernate.exception.GenericJDBCException: could not execute batch",1
+ca00d7f1,"failed to commit coverity defects, rc=2",1
+421e9883,flgroups.h file not found,1
+f48e75fe,fire-xquery: nux.xom.xquery.XQueryException: net.sf.saxon.trans.DynamicError: java.io.FileNotFoundException: /localdisk/6500_repo/ome/vobs/optnet_tl1_message_set/messages/EquipmentAIDs.xml (No such file or directory),1
+8ba380d6,<*> error: <*> was not declared in this scope,3
+f44d966e,<*> *** <*> Error 1,2
+8f07bca7,Error in stage 2 of the build.,1
+b4001fba,Make stopped on errors,1
+75c71072,<*> <*> <*> <*> <*> No such file or directory,6
+875052d6,tar (child): Error is not recoverable: exiting now,1
+891c5738,tar: Error is not recoverable: exiting now,1
+774d61a9,failed to coverity build,1
+354adaec,Error response from daemon: Head <*> Get <*> net/http: TLS handshake timeout,2
+0a8b22dc,"<*> - , fail-status=23, downloadCache.sh script unexpected failure of",36
+f9bb7293,<*> curl: (23) Failed writing body (0 != 80),36
+96a77d3e,<*> Giving up after 4 times of trying ...,36
+113e391e,*** ERROR: Failed to close session,1
+d2e7df8c,gzip: stdin: not in gzip format,1
+63f39e20,Error response from daemon: <*> <*> net/http: TLS handshake timeout,4
+3b31ff37,./tl12yang_full_auto.sh: line 73: <*> Aborted (core dumped) $TOP/viking_build/build/tools/data_driven_framework/bin/xquery --query=${base}tl12yin.xqy --var=release:$relName --var=base:$base > $XQY_OUTPUT_FILE 2> $ERROR_LOG_FILE,2
+cd9b9fc7,"tl12yin.xml:1: parser error : Start tag expected, '<' not found",1
+f79f5002,make[1]: *** [/localdisk/6500_repo/ome/vobs/optnet_tl1_message_set/messages/http/tl1_http/tl1_http_data.c] Error 255,1
+9970a69f,[ERROR] Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.7:deploy-file (default-cli) on project optnet_datamodel: Failed to update metadata com.ciena.optnet:optnet_datamodel/maven-metadata.xml: Could not parse metadata /home/6500-build/.m2/repository/com/ciena/optnet/optnet_datamodel/maven-metadata-optnet-m2.xml: TEXT must be immediately followed by END_TAG and not START_TAG (position: START_TAG seen ...\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0\u0sion>\n <version>... @6245:16) -> [Help 1],1
+6cea37a2,+ - Removed enum: FAILED,1
+83d50977,- <text>Latest loopback test failed - TTI Fail.</text>,1
+a22e0a82,- <text>The last DOC action for this wavelength failed.</text>,1
+2e5008ab,- <text>Optical Signal Failed reporting is ON.</text>,1
+9358fded,- <text>Received frames discarded due to <*> error</text>,2
+be7a995e,- <text>Total received frames discarded due to Parity Error</text>,1
+289b5bec,- <text>Pre-FEC Bit Error Rate Maximum - Physical <*> <*>,2
+5180cdce,- <text>Post-FEC Bit Error Rate Estimate - OTU</text>,1
+32490c3f,- <text>Equipment Fail. Autonomous switch due to equipment failure.</text>,1
+73b3de5c,<*> error: type <*> not found in module ciena-6500-enums,4
+de94c6d6,Error : yang2yin :: Errors converting /localdisk/6500_repo/ome/vobs/optnet/data_model/yang/tools/convert/../../all/yang/ciena-6500-notifications.yang file to /localdisk/6500_repo/ome/vobs/optnet/data_model/yang/tools/convert/../../all/yin/ciena-6500-notifications.yin.. Exiting...,1
+944acec8,Error in yang2yin conversion so exiting...,1
+87930975,| *** [7;33mWARNING[0m: ccache not found. Install ccache.,1
+67dde1c2,| [32m/localdisk/6500_repo/yocto-build/build/tmp/hosttools/bash: <*> No such file or directory[0m,2
+b618ab47,| make: Target `adf' not remade because of errors.,1
+f8ab2d68,NOTE: recipe ofm1t2-32-gitrAUTOINC+9589a088de_408f1e5cd4_f25c9662bd-r0: task do_compile: Failed,1
+90778a96,"[ERROR] Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.7:deploy-file (default-cli) on project optnet_datamodel: Failed to update metadata com.ciena.optnet:optnet_datamodel/maven-metadata.xml: Could not read metadata /home/6500-build/.m2/repository/com/ciena/optnet/optnet_datamodel/maven-metadata-optnet-m2.xml: no more data available - expected end tags </version></versions></versioning></metadata> to close start tag <version> from line 7804 and start tag <versions> from line 9 and start tag <versioning> from line 6 and start tag <metadata> from line 2, parser stopped on TEXT seen ...<version>1410-20210124-QP</ver... @7804:37 -> [Help 1]",1
+956278a4,: no newline at end of file,1
+5f9b3322,rm: cannot remove ‘cache/pots-pts/u-boot-a9’: Directory not empty,1
+9f81f2b4,CC apps/osrpcp/protocols/PNNI/routing/comm/usr/bin/find: ‘/localdisk/6500_repo/6500_pots/build/pots-sim6500/fs/releasefs/release/chassis/i486-sim/rootfs/bin/str4qZWa’: No such file or directory,1
