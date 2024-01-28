@@ -36,3 +36,16 @@ CienaPOC/CienaFiles/emb_distances_benchmark__llama-13b__emb_dist_type-euclidean_
 CienaPOC/CienaFiles/file_descriptions.md
 CienaPOC/CienaFiles/splitted_event_ids.json
 CienaPOC/CienaFiles/trat3_production_1650_1700_20231411_v1.hdf5
+CienaPOC/count_distance.npy
+CienaPOC/tfidf_distance.npy
+CienaPOC/var_distance.npy
+CienaPOC/embeddings/emb_distances_benchmark__llama-13b__emb_dist_type-cosine__mean__1000.hdf5
+CienaPOC/embeddings/emb_distances_benchmark__llama-13b__emb_dist_type-euclidean__mean__1000.hdf5
+CienaPOC/logs/ciena-mini.txt
+CienaPOC/logs/log-lines.txt
+CienaPOC/logs/splitted_event_ids.json
+CienaPOC/logs/trat3_production_1650_1700_20231411_v1.hdf5
+CienaPOC/parsings/log-lines.txt_structured.csv
+CienaPOC/parsings/log-lines.txt_templates.csv
+CienaPOC/log-lines.txt
+CienaPOC/embeddings/log-lines.txt_vectors_TFIDF.vec
