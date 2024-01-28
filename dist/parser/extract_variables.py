@@ -19,8 +19,14 @@ class NoVariable(Exception):
         super().__init__(msg)
         self.logs = logs
 
+def pretty_print_matrix_variables(matrix_variables: np.ndarray, binarizer: skPrepro.MultiLabelBinarizer):
+    import pandas as pd
+    df = pd.DataFrame(matrix_variables, index=range(len(matrix_variables)), columns=[e if len(e) < 10 else e[:10]+"..." for e in binarizer.classes_])
+    print(df)
+    
 def get_variable_matrix(
     parsed_events: List[List[str]],
+    enable_optional_exception: bool = False
 ) -> np.ndarray:
     """Build the variable matrix from parsed logs
 
@@ -34,9 +40,14 @@ def get_variable_matrix(
     matrix_variables = binarizer.fit_transform(parsed_events)
     if matrix_variables.shape[0] == 0:
         raise EmptyLog("No logs in the logs provided", logs=parsed_events)  # type: ignore
-    if matrix_variables.shape[1] == 0:
-        raise NoVariable("No variables in the logs provided", logs=parsed_events)  # type: ignore
+    if enable_optional_exception:
+        if matrix_variables.shape[1] == 0:
+            raise NoVariable("No variables in the logs provided", logs=parsed_events)  # type: ignore
+    elif matrix_variables.shape[1] == 0:
+        # if not managing the exception we assume that we have no match between the variables
+        return np.zeros((matrix_variables.shape[0],matrix_variables.shape[0]))
     matrix_variables = matrix_variables.astype(bool)  # type: ignore
+    # pretty_print_matrix_variables(matrix_variables,binarizer)
     matrix_variables_distance = skMetrics.pairwise_distances(
         matrix_variables, metric="jaccard"
     )

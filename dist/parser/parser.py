@@ -40,6 +40,8 @@ class Logcluster:
             logIDL = []
         self.logIDL = logIDL
         self.id = str(uuid.uuid4())
+    def __str__(self) -> str:
+        return f"{self.logTemplate=}\n{self.logIDL=}\n{self.id=}"
 
 
 class Node:
@@ -138,7 +140,7 @@ def addSeqToPrefixTree(
     for token in logClust.logTemplate:
         ## Add current log cluster to the leaf node
         if currentDepth >= depth or currentDepth > seqLen:
-            assert isinstance(parentn.childD, list)
+            # assert isinstance(parentn.childD, list)
             if len(parentn.childD) == 0:
                 parentn.childD = [logClust]
             else:
@@ -328,7 +330,6 @@ def parse(
             matchCluster = Logcluster(logTemplate=logmessageL, logIDL=[logID])
             logCluL.append(matchCluster)
             addSeqToPrefixTree(rootNode, matchCluster, depth=depth, max_child=max_child)
-
         ## Adds the new log message to the existing cluster
         else:
             newTemplate = getTemplate(logmessageL, matchCluster.logTemplate)
@@ -340,6 +341,8 @@ def parse(
             templates[matchCluster.id] = TemplateGroup(
                 id=matchCluster.id, lines=[], template=matchCluster.logTemplate
             )
+        templates[matchCluster.id]['lines'].append((i,line))
+        templates[matchCluster.id]['template'] = matchCluster.logTemplate
     return logCluL, templates
 
 
@@ -354,13 +357,19 @@ def get_templates_variables_per_lines(
     # Return
     - List[ParsedLine], for each line the template and the variables
     """
-    L = OrderedDict()
+    L = []
     for _, template_group in templates.items():
         template_str = " ".join(template_group["template"])
         for i, l in template_group["lines"]:
-            L[i] = {"template":template_str, "variables":get_parameter_list(template_str, l)}
-    return list(L.values())
+            L.append({"line_number": i, "template":template_str, "variables":get_parameter_list(template_str, l), "line":l})
+    L.sort(key=lambda x:x['line_number'])
+    return [{"template": e["template"], "variables": e["variables"]} for e in L]
 
+def preprocess( line: str, rex):
+    """Method to preprocess file using regex: replace in the line all self.rex regex specified by <*>"""
+    for currentRex in rex:
+        line = re.sub(currentRex, '<*>', line)
+    return line
 
 def get_parsing_drainparser(
     events: List[str],
@@ -380,7 +389,7 @@ def get_parsing_drainparser(
     - List[ParsedLine], for each line the template and the variables
     """
     # load the data
-    _, templates = parse(
+    L, templates = parse(
         events,
         depth=depth,
         max_child=max_children,
