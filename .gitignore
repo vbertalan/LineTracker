@@ -17,3 +17,4 @@ my_model
 data/input/
 .env
 **/__pycache__/
+data/
