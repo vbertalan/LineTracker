@@ -3,6 +3,7 @@
 import numpy as np
 import sklearn.preprocessing as skPrepro
 import sklearn.metrics as skMetrics
+import scipy
 
 from typing import *  # type: ignore
 
@@ -32,6 +33,31 @@ def pretty_print_matrix_variables(matrix_variables: np.ndarray, binarizer: skPre
     df = pd.DataFrame(matrix_variables, index=range(len(matrix_variables)), columns=[e if len(e) < 10 else e[:10]+"..." for e in binarizer.classes_])
     print(df)
     
+
+def jaccard_distance(mat: scipy.sparse.csr_matrix):
+    """Compute the jaccard distance for a provided matrix
+    
+    # Arguments
+    - mat: np.ndarray, sparse matrix generated from parsed variables
+    # return - dense matrix with Jaccard distantes
+    """
+    # Intersection Samples A and B
+    rows_sum = mat.getnnz(axis=1)
+    ab = mat * mat.T
+    # Sample Set A
+    aa = np.repeat(rows_sum, ab.getnnz(axis=1))
+    # Sample Set B
+    bb = rows_sum[ab.indices]
+
+    # Calculates Jaccard similarity
+    similarities = ab.copy()
+    similarities.data = similarities.data/(aa + bb - ab.data)
+
+    # Calculates Jaccard distance
+    distance = 1 - similarities.todense()
+
+    return distance
+
 def get_variable_matrix(
     parsed_events: List[List[str]],
     enable_optional_exception: bool = False
@@ -56,7 +82,7 @@ def get_variable_matrix(
         return np.zeros((matrix_variables.shape[0],matrix_variables.shape[0]))
     matrix_variables = matrix_variables.astype(bool)  # type: ignore
     # pretty_print_matrix_variables(matrix_variables,binarizer)
-    matrix_variables_distance = skMetrics.pairwise_distances(
-        matrix_variables, metric="jaccard"
+    matrix_variables_distance = jaccard_distance(
+        scipy.sparse.csr_matrix(matrix_variables),
     )
     return matrix_variables_distance

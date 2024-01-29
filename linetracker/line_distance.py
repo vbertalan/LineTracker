@@ -16,8 +16,6 @@ def get_absolute_line_distance_matrix(
     - np.ndarray, the distance matrix of shape (len(events),len(events)) where matrix[i,j] = abs(i-j)
     """
     n = len(events)
-    matrix = np.array(
-        [[abs(i - j) for j in range(n)] for i in range(n)], dtype=np.float32
-    )
+    matrix = np.abs(np.arange(n)[:, np.newaxis] - np.arange(n))
     matrix = (matrix - np.min(matrix)) / (np.max(matrix) - np.min(matrix))  # type: ignore
     return matrix
