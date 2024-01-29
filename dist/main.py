@@ -74,7 +74,6 @@ def combine_matrices(
         combined_matrix += triplet_matrix[name] * triplet_coef[f"coef_{name}"]
     return combined_matrix
 
-
 def execute_full_pipeline(
     logs: List[LogData],
     triplet_coefficient: TripletCoef,
