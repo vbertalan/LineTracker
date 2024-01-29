@@ -16,5 +16,7 @@ cluster_5.txt
 my_model
 data/input/
 .env
+.vscode
+*.so
 **/__pycache__/
 data/
