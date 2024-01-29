@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 <meta name="generator" content="pdoc 0.10.0" />
-<title>dist.pretty_print API documentation</title>
+<title>linetracker.pretty_print API documentation</title>
 <meta name="description" content="Allow to visualize/convert logs: List[str], clustering: Dict[int, int] to console print or markdown/hmtl text" />
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/sanitize.min.css" integrity="sha256-PK9q560IAAa6WVRRh76LtCaI8pjTJ2z11v0miyNNjrs=" crossorigin>
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/typography.min.css" integrity="sha256-7l/o7C8jubJiy74VsKTidCy1yBkRtiUGbVkYBylBqUg=" crossorigin>
@@ -19,7 +19,7 @@
 <main>
 <article id="content">
 <header>
-<h1 class="title">Module <code>dist.pretty_print</code></h1>
+<h1 class="title">Module <code>linetracker.pretty_print</code></h1>
 </header>
 <section id="section-intro">
 <p>Allow to visualize/convert logs: List[str], clustering: Dict[int, int] to console print or markdown/hmtl text</p>
@@ -32,7 +32,6 @@
 from typing import *
 import colorsys
 import rich.console as c
-import collections
 
 
 class ColoredClustering(NamedTuple):
@@ -151,8 +150,8 @@ def generate_clustering_markdown_html(lines: List[ColoredClustering]) -&gt; str:
 <section>
 <h2 class="section-title" id="header-functions">Functions</h2>
 <dl>
-<dt id="dist.pretty_print.convert_clustering_to_colored_clustering"><code class="name flex">
-<span>def <span class="ident">convert_clustering_to_colored_clustering</span></span>(<span>logs: List[str], clustering: Dict[int, int]) ‑> List[<a title="dist.pretty_print.ColoredClustering" href="#dist.pretty_print.ColoredClustering">ColoredClustering</a>]</span>
+<dt id="linetracker.pretty_print.convert_clustering_to_colored_clustering"><code class="name flex">
+<span>def <span class="ident">convert_clustering_to_colored_clustering</span></span>(<span>logs: List[str], clustering: Dict[int, int]) ‑> List[<a title="linetracker.pretty_print.ColoredClustering" href="#linetracker.pretty_print.ColoredClustering">ColoredClustering</a>]</span>
 </code></dt>
 <dd>
 <div class="desc"><p>Convert a clustering of texts lines to a ColoredClustering</p>
@@ -199,8 +198,8 @@ def generate_clustering_markdown_html(lines: List[ColoredClustering]) -&gt; str:
     return L</code></pre>
 </details>
 </dd>
-<dt id="dist.pretty_print.generate_clustering_markdown_html"><code class="name flex">
-<span>def <span class="ident">generate_clustering_markdown_html</span></span>(<span>lines: List[<a title="dist.pretty_print.ColoredClustering" href="#dist.pretty_print.ColoredClustering">ColoredClustering</a>]) ‑> str</span>
+<dt id="linetracker.pretty_print.generate_clustering_markdown_html"><code class="name flex">
+<span>def <span class="ident">generate_clustering_markdown_html</span></span>(<span>lines: List[<a title="linetracker.pretty_print.ColoredClustering" href="#linetracker.pretty_print.ColoredClustering">ColoredClustering</a>]) ‑> str</span>
 </code></dt>
 <dd>
 <div class="desc"><p>Convert each colored clustered line provided to a markdown/html text where each cluster has a color in the format</p>
@@ -240,7 +239,7 @@ line_number2-cluster_id2: &lt;span style='color:...'&gt;text of the log1&lt;/spa
     return &#34;\n\n&#34;.join(html)</code></pre>
 </details>
 </dd>
-<dt id="dist.pretty_print.generate_hsv_palette"><code class="name flex">
+<dt id="linetracker.pretty_print.generate_hsv_palette"><code class="name flex">
 <span>def <span class="ident">generate_hsv_palette</span></span>(<span>num_colors: int, saturation: float = 1.0, value: float = 1.0) ‑> List[Tuple[int, int, int]]</span>
 </code></dt>
 <dd>
@@ -284,8 +283,8 @@ line_number2-cluster_id2: &lt;span style='color:...'&gt;text of the log1&lt;/spa
     return colors</code></pre>
 </details>
 </dd>
-<dt id="dist.pretty_print.print_colored_clustering_rich"><code class="name flex">
-<span>def <span class="ident">print_colored_clustering_rich</span></span>(<span>lines: List[<a title="dist.pretty_print.ColoredClustering" href="#dist.pretty_print.ColoredClustering">ColoredClustering</a>], force_jupyter: bool = False)</span>
+<dt id="linetracker.pretty_print.print_colored_clustering_rich"><code class="name flex">
+<span>def <span class="ident">print_colored_clustering_rich</span></span>(<span>lines: List[<a title="linetracker.pretty_print.ColoredClustering" href="#linetracker.pretty_print.ColoredClustering">ColoredClustering</a>], force_jupyter: bool = False)</span>
 </code></dt>
 <dd>
 <div class="desc"><p>Print in the terminal or jupyter notebood a clustering result where the colors for each line has already been computed</p>
@@ -324,7 +323,7 @@ line_number2-cluster_id2: &lt;span style='color:...'&gt;text of the log1&lt;/spa
 <section>
 <h2 class="section-title" id="header-classes">Classes</h2>
 <dl>
-<dt id="dist.pretty_print.ColoredClustering"><code class="flex name class">
+<dt id="linetracker.pretty_print.ColoredClustering"><code class="flex name class">
 <span>class <span class="ident">ColoredClustering</span></span>
 <span>(</span><span>text: str, color: str, cluster: int)</span>
 </code></dt>
@@ -355,15 +354,15 @@ line_number2-cluster_id2: &lt;span style='color:...'&gt;text of the log1&lt;/spa
 </ul>
 <h3>Instance variables</h3>
 <dl>
-<dt id="dist.pretty_print.ColoredClustering.cluster"><code class="name">var <span class="ident">cluster</span> : int</code></dt>
+<dt id="linetracker.pretty_print.ColoredClustering.cluster"><code class="name">var <span class="ident">cluster</span> : int</code></dt>
 <dd>
 <div class="desc"><p>Alias for field number 2</p></div>
 </dd>
-<dt id="dist.pretty_print.ColoredClustering.color"><code class="name">var <span class="ident">color</span> : str</code></dt>
+<dt id="linetracker.pretty_print.ColoredClustering.color"><code class="name">var <span class="ident">color</span> : str</code></dt>
 <dd>
 <div class="desc"><p>Alias for field number 1</p></div>
 </dd>
-<dt id="dist.pretty_print.ColoredClustering.text"><code class="name">var <span class="ident">text</span> : str</code></dt>
+<dt id="linetracker.pretty_print.ColoredClustering.text"><code class="name">var <span class="ident">text</span> : str</code></dt>
 <dd>
 <div class="desc"><p>Alias for field number 0</p></div>
 </dd>
@@ -380,25 +379,25 @@ line_number2-cluster_id2: &lt;span style='color:...'&gt;text of the log1&lt;/spa
 <ul id="index">
 <li><h3>Super-module</h3>
 <ul>
-<li><code><a title="dist" href="index.html">dist</a></code></li>
+<li><code><a title="linetracker" href="index.html">linetracker</a></code></li>
 </ul>
 </li>
 <li><h3><a href="#header-functions">Functions</a></h3>
 <ul class="">
-<li><code><a title="dist.pretty_print.convert_clustering_to_colored_clustering" href="#dist.pretty_print.convert_clustering_to_colored_clustering">convert_clustering_to_colored_clustering</a></code></li>
-<li><code><a title="dist.pretty_print.generate_clustering_markdown_html" href="#dist.pretty_print.generate_clustering_markdown_html">generate_clustering_markdown_html</a></code></li>
-<li><code><a title="dist.pretty_print.generate_hsv_palette" href="#dist.pretty_print.generate_hsv_palette">generate_hsv_palette</a></code></li>
-<li><code><a title="dist.pretty_print.print_colored_clustering_rich" href="#dist.pretty_print.print_colored_clustering_rich">print_colored_clustering_rich</a></code></li>
+<li><code><a title="linetracker.pretty_print.convert_clustering_to_colored_clustering" href="#linetracker.pretty_print.convert_clustering_to_colored_clustering">convert_clustering_to_colored_clustering</a></code></li>
+<li><code><a title="linetracker.pretty_print.generate_clustering_markdown_html" href="#linetracker.pretty_print.generate_clustering_markdown_html">generate_clustering_markdown_html</a></code></li>
+<li><code><a title="linetracker.pretty_print.generate_hsv_palette" href="#linetracker.pretty_print.generate_hsv_palette">generate_hsv_palette</a></code></li>
+<li><code><a title="linetracker.pretty_print.print_colored_clustering_rich" href="#linetracker.pretty_print.print_colored_clustering_rich">print_colored_clustering_rich</a></code></li>
 </ul>
 </li>
 <li><h3><a href="#header-classes">Classes</a></h3>
 <ul>
 <li>
-<h4><code><a title="dist.pretty_print.ColoredClustering" href="#dist.pretty_print.ColoredClustering">ColoredClustering</a></code></h4>
+<h4><code><a title="linetracker.pretty_print.ColoredClustering" href="#linetracker.pretty_print.ColoredClustering">ColoredClustering</a></code></h4>
 <ul class="">
-<li><code><a title="dist.pretty_print.ColoredClustering.cluster" href="#dist.pretty_print.ColoredClustering.cluster">cluster</a></code></li>
-<li><code><a title="dist.pretty_print.ColoredClustering.color" href="#dist.pretty_print.ColoredClustering.color">color</a></code></li>
-<li><code><a title="dist.pretty_print.ColoredClustering.text" href="#dist.pretty_print.ColoredClustering.text">text</a></code></li>
+<li><code><a title="linetracker.pretty_print.ColoredClustering.cluster" href="#linetracker.pretty_print.ColoredClustering.cluster">cluster</a></code></li>
+<li><code><a title="linetracker.pretty_print.ColoredClustering.color" href="#linetracker.pretty_print.ColoredClustering.color">color</a></code></li>
+<li><code><a title="linetracker.pretty_print.ColoredClustering.text" href="#linetracker.pretty_print.ColoredClustering.text">text</a></code></li>
 </ul>
 </li>
 </ul>

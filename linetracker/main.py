@@ -3,9 +3,9 @@ from typing import *  # type: ignore
 import torch
 import transformers as trf
 import numpy as np
-import dist.parser.parser as p
-import dist.clustering.types as c
-import dist.parser.variables_matrix as e
+import linetracker.parser.parser as p
+import linetracker.clustering.types as c
+import linetracker.parser.variables_matrix as e
 
 """File of code: disclaimer functions comes from the repository https://github.com/AndressaStefany/severityPrediction"""
 # tye hints

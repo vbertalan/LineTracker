@@ -4,8 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 <meta name="generator" content="pdoc 0.10.0" />
-<title>dist.parser.extract_variables API documentation</title>
-<meta name="description" content="" />
+<title>linetracker.clustering.dbscan API documentation</title>
+<meta name="description" content="Alternative to kmedoid: use DBSCAN. note that you need to provide the epsilon" />
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/sanitize.min.css" integrity="sha256-PK9q560IAAa6WVRRh76LtCaI8pjTJ2z11v0miyNNjrs=" crossorigin>
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/typography.min.css" integrity="sha256-7l/o7C8jubJiy74VsKTidCy1yBkRtiUGbVkYBylBqUg=" crossorigin>
 <link rel="stylesheet preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/github.min.css" crossorigin>
@@ -19,56 +19,40 @@
 <main>
 <article id="content">
 <header>
-<h1 class="title">Module <code>dist.parser.extract_variables</code></h1>
+<h1 class="title">Module <code>linetracker.clustering.dbscan</code></h1>
 </header>
 <section id="section-intro">
+<p>Alternative to kmedoid: use DBSCAN. note that you need to provide the epsilon</p>
 <details class="source">
 <summary>
 <span>Expand source code</span>
 </summary>
-<pre><code class="python">import numpy as np
-import sklearn.preprocessing as skPrepro
-import sklearn.metrics as skMetrics
+<pre><code class="python">&#34;&#34;&#34;Alternative to kmedoid: use DBSCAN. note that you need to provide the epsilon&#34;&#34;&#34;
 
-from typing import *  # type: ignore
+import numpy as np
+from .types import ClusteringAlgorithmOutput
+import sklearn.cluster as cl
 
-class EmptyLog(Exception):
-    &#34;&#34;&#34;Exception when no logs is found&#34;&#34;&#34;
-
-    def __init__(self, msg, logs: List[Dict[str, Any]]):
-        super().__init__(msg)
-        self.logs = logs
-
-
-class NoVariable(Exception):
-    &#34;&#34;&#34;Exception when no variables are inside log lines&#34;&#34;&#34;
-
-    def __init__(self, msg, logs: List[Dict[str, Any]]):
-        super().__init__(msg)
-        self.logs = logs
-
-def get_variable_matrix(
-    parsed_events: List[List[str]],
-) -&gt; np.ndarray:
-    &#34;&#34;&#34;Build the variable matrix from parsed logs
-
+def clustering_dbscan(
+    combined_matrix: np.ndarray,
+    *,
+    epsilon: float,
+    **kwargs,
+) -&gt; ClusteringAlgorithmOutput:
+    &#34;&#34;&#34;Execute a clustering algorithm using the dbscan algorithm with the epsilon provided. Can benefit from multithreading
+    
     # Arguments
-    - parsed_events: List[List[str]], for each log line the variables inside this line. !! warning !! can be empty if there are no variable for a line
-
+    - combined_matrix: np.ndarray, (n_lines, n_lines) assumes without any nan or inf
+    
     # Returns
-    - np.ndarray a one hot encoding indicating for each line if any of the variables inside the full log file is seen in this line
+    - ClusteringAlgorithmOutput, see documentation of ClusteringAlgorithmOutput. The clusters of each line is especially in the clustering attribute
     &#34;&#34;&#34;
-    binarizer = skPrepro.MultiLabelBinarizer(sparse_output=False)
-    matrix_variables = binarizer.fit_transform(parsed_events)
-    if matrix_variables.shape[0] == 0:
-        raise EmptyLog(&#34;No logs in the logs provided&#34;, logs=parsed_events)  # type: ignore
-    if matrix_variables.shape[1] == 0:
-        raise NoVariable(&#34;No variables in the logs provided&#34;, logs=parsed_events)  # type: ignore
-    matrix_variables = matrix_variables.astype(bool)  # type: ignore
-    matrix_variables_distance = skMetrics.pairwise_distances(
-        matrix_variables, metric=&#34;jaccard&#34;
+    clusterer = cl.DBSCAN(
+        eps=epsilon, min_samples=2, metric=&#34;precomputed&#34;, algorithm=&#34;auto&#34;, n_jobs=-1
     )
-    return matrix_variables_distance</code></pre>
+    clusterer.fit(combined_matrix)
+    labels = {i: v for i, v in enumerate(clusterer.labels_)}
+    return {&#34;type&#34;: &#34;dbscan&#34;, &#34;clustering&#34;: labels, &#34;hyperparameters&#34;: {}}</code></pre>
 </details>
 </section>
 <section>
@@ -78,99 +62,48 @@ def get_variable_matrix(
 <section>
 <h2 class="section-title" id="header-functions">Functions</h2>
 <dl>
-<dt id="dist.parser.extract_variables.get_variable_matrix"><code class="name flex">
-<span>def <span class="ident">get_variable_matrix</span></span>(<span>parsed_events: List[List[str]]) ‑> numpy.ndarray</span>
+<dt id="linetracker.clustering.dbscan.clustering_dbscan"><code class="name flex">
+<span>def <span class="ident">clustering_dbscan</span></span>(<span>combined_matrix: numpy.ndarray, *, epsilon: float, **kwargs) ‑> <a title="linetracker.clustering.types.ClusteringAlgorithmOutput" href="types.html#linetracker.clustering.types.ClusteringAlgorithmOutput">ClusteringAlgorithmOutput</a></span>
 </code></dt>
 <dd>
-<div class="desc"><p>Build the variable matrix from parsed logs</p>
+<div class="desc"><p>Execute a clustering algorithm using the dbscan algorithm with the epsilon provided. Can benefit from multithreading</p>
 <h1 id="arguments">Arguments</h1>
 <ul>
-<li>parsed_events: List[List[str]], for each log line the variables inside this line. !! warning !! can be empty if there are no variable for a line</li>
+<li>combined_matrix: np.ndarray, (n_lines, n_lines) assumes without any nan or inf</li>
 </ul>
 <h1 id="returns">Returns</h1>
 <ul>
-<li>np.ndarray a one hot encoding indicating for each line if any of the variables inside the full log file is seen in this line</li>
+<li>ClusteringAlgorithmOutput, see documentation of ClusteringAlgorithmOutput. The clusters of each line is especially in the clustering attribute</li>
 </ul></div>
 <details class="source">
 <summary>
 <span>Expand source code</span>
 </summary>
-<pre><code class="python">def get_variable_matrix(
-    parsed_events: List[List[str]],
-) -&gt; np.ndarray:
-    &#34;&#34;&#34;Build the variable matrix from parsed logs
-
+<pre><code class="python">def clustering_dbscan(
+    combined_matrix: np.ndarray,
+    *,
+    epsilon: float,
+    **kwargs,
+) -&gt; ClusteringAlgorithmOutput:
+    &#34;&#34;&#34;Execute a clustering algorithm using the dbscan algorithm with the epsilon provided. Can benefit from multithreading
+    
     # Arguments
-    - parsed_events: List[List[str]], for each log line the variables inside this line. !! warning !! can be empty if there are no variable for a line
-
+    - combined_matrix: np.ndarray, (n_lines, n_lines) assumes without any nan or inf
+    
     # Returns
-    - np.ndarray a one hot encoding indicating for each line if any of the variables inside the full log file is seen in this line
+    - ClusteringAlgorithmOutput, see documentation of ClusteringAlgorithmOutput. The clusters of each line is especially in the clustering attribute
     &#34;&#34;&#34;
-    binarizer = skPrepro.MultiLabelBinarizer(sparse_output=False)
-    matrix_variables = binarizer.fit_transform(parsed_events)
-    if matrix_variables.shape[0] == 0:
-        raise EmptyLog(&#34;No logs in the logs provided&#34;, logs=parsed_events)  # type: ignore
-    if matrix_variables.shape[1] == 0:
-        raise NoVariable(&#34;No variables in the logs provided&#34;, logs=parsed_events)  # type: ignore
-    matrix_variables = matrix_variables.astype(bool)  # type: ignore
-    matrix_variables_distance = skMetrics.pairwise_distances(
-        matrix_variables, metric=&#34;jaccard&#34;
+    clusterer = cl.DBSCAN(
+        eps=epsilon, min_samples=2, metric=&#34;precomputed&#34;, algorithm=&#34;auto&#34;, n_jobs=-1
     )
-    return matrix_variables_distance</code></pre>
+    clusterer.fit(combined_matrix)
+    labels = {i: v for i, v in enumerate(clusterer.labels_)}
+    return {&#34;type&#34;: &#34;dbscan&#34;, &#34;clustering&#34;: labels, &#34;hyperparameters&#34;: {}}</code></pre>
 </details>
 </dd>
 </dl>
 </section>
 <section>
-<h2 class="section-title" id="header-classes">Classes</h2>
-<dl>
-<dt id="dist.parser.extract_variables.EmptyLog"><code class="flex name class">
-<span>class <span class="ident">EmptyLog</span></span>
-<span>(</span><span>msg, logs: List[Dict[str, Any]])</span>
-</code></dt>
-<dd>
-<div class="desc"><p>Exception when no logs is found</p></div>
-<details class="source">
-<summary>
-<span>Expand source code</span>
-</summary>
-<pre><code class="python">class EmptyLog(Exception):
-    &#34;&#34;&#34;Exception when no logs is found&#34;&#34;&#34;
-
-    def __init__(self, msg, logs: List[Dict[str, Any]]):
-        super().__init__(msg)
-        self.logs = logs</code></pre>
-</details>
-<h3>Ancestors</h3>
-<ul class="hlist">
-<li>builtins.Exception</li>
-<li>builtins.BaseException</li>
-</ul>
-</dd>
-<dt id="dist.parser.extract_variables.NoVariable"><code class="flex name class">
-<span>class <span class="ident">NoVariable</span></span>
-<span>(</span><span>msg, logs: List[Dict[str, Any]])</span>
-</code></dt>
-<dd>
-<div class="desc"><p>Exception when no variables are inside log lines</p></div>
-<details class="source">
-<summary>
-<span>Expand source code</span>
-</summary>
-<pre><code class="python">class NoVariable(Exception):
-    &#34;&#34;&#34;Exception when no variables are inside log lines&#34;&#34;&#34;
-
-    def __init__(self, msg, logs: List[Dict[str, Any]]):
-        super().__init__(msg)
-        self.logs = logs</code></pre>
-</details>
-<h3>Ancestors</h3>
-<ul class="hlist">
-<li>builtins.Exception</li>
-<li>builtins.BaseException</li>
-</ul>
-</dd>
-</dl>
 </section>
 </article>
 <nav id="sidebar">
@@ -181,22 +114,12 @@ def get_variable_matrix(
 <ul id="index">
 <li><h3>Super-module</h3>
 <ul>
-<li><code><a title="dist.parser" href="index.html">dist.parser</a></code></li>
+<li><code><a title="linetracker.clustering" href="index.html">linetracker.clustering</a></code></li>
 </ul>
 </li>
 <li><h3><a href="#header-functions">Functions</a></h3>
 <ul class="">
-<li><code><a title="dist.parser.extract_variables.get_variable_matrix" href="#dist.parser.extract_variables.get_variable_matrix">get_variable_matrix</a></code></li>
-</ul>
-</li>
-<li><h3><a href="#header-classes">Classes</a></h3>
-<ul>
-<li>
-<h4><code><a title="dist.parser.extract_variables.EmptyLog" href="#dist.parser.extract_variables.EmptyLog">EmptyLog</a></code></h4>
-</li>
-<li>
-<h4><code><a title="dist.parser.extract_variables.NoVariable" href="#dist.parser.extract_variables.NoVariable">NoVariable</a></code></h4>
-</li>
+<li><code><a title="linetracker.clustering.dbscan.clustering_dbscan" href="#linetracker.clustering.dbscan.clustering_dbscan">clustering_dbscan</a></code></li>
 </ul>
 </li>
 </ul>

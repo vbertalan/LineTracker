@@ -4,8 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 <meta name="generator" content="pdoc 0.10.0" />
-<title>dist.clustering API documentation</title>
-<meta name="description" content="Contains all modules to run a clustering algorithm." />
+<title>linetracker API documentation</title>
+<meta name="description" content="Allows to clusterize log lines, print the log clustering and search for the best hyperparameters by providing the user with two clustering choices for …" />
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/sanitize.min.css" integrity="sha256-PK9q560IAAa6WVRRh76LtCaI8pjTJ2z11v0miyNNjrs=" crossorigin>
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/typography.min.css" integrity="sha256-7l/o7C8jubJiy74VsKTidCy1yBkRtiUGbVkYBylBqUg=" crossorigin>
 <link rel="stylesheet preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/github.min.css" crossorigin>
@@ -19,33 +19,82 @@
 <main>
 <article id="content">
 <header>
-<h1 class="title">Module <code>dist.clustering</code></h1>
+<h1 class="title">Package <code>linetracker</code></h1>
 </header>
 <section id="section-intro">
-<p>Contains all modules to run a clustering algorithm.</p>
+<p>Allows to clusterize log lines, print the log clustering and search for the best hyperparameters by providing the user with two clustering choices for the same logs</p>
+<h1 id="getting-started">Getting started</h1>
+<h2 id="how-to-use-the-kmedoid-c-library">How to use the KMedoid C++ library?</h2>
+<ol>
+<li>Clone the VNS_KMedoids repository</li>
+<li><a href="https://www.ibm.com/products/ilog-cplex-optimization-studio/pricing">Install the cplex library</a></li>
+<li>Adapt the path of the cplex library in the VNS_KMedoids Makefile</li>
+<li>Compile VNS_KMedoids with make and transfer the .so file to a known folder</li>
+<li>make your python program: </li>
+</ol>
+<pre><code class="language-python">&gt;&gt;&gt; import linetracker.clustering.kmedoid as clusting_kmedoid
+&gt;&gt;&gt; distance_matrix = ...
+&gt;&gt;&gt; clusting_kmedoid.get_clustering_kmedoid(distance_matrix, must_link=[...], cannot_link=[...], ...) # see doc
+{'type': 'kmedoid', 'clustering': {line0: cluster..., line1: cluster..., ...}, 'hyperparameters':{'number_of_clusters':...}, 'score': ...}
+</code></pre>
 <details class="source">
 <summary>
 <span>Expand source code</span>
 </summary>
 <pre><code class="python">&#34;&#34;&#34;
-Contains all modules to run a clustering algorithm.
+Allows to clusterize log lines, print the log clustering and search for the best hyperparameters by providing the user with two clustering choices for the same logs
+
+# Getting started
+
+## How to use the KMedoid C++ library?
+
+1. Clone the VNS_KMedoids repository
+2. [Install the cplex library](https://www.ibm.com/products/ilog-cplex-optimization-studio/pricing)
+3. Adapt the path of the cplex library in the VNS_KMedoids Makefile
+4. Compile VNS_KMedoids with make and transfer the .so file to a known folder
+3. make your python program: 
+
+```python
+&gt;&gt;&gt; import linetracker.clustering.kmedoid as clusting_kmedoid
+&gt;&gt;&gt; distance_matrix = ...
+&gt;&gt;&gt; clusting_kmedoid.get_clustering_kmedoid(distance_matrix, must_link=[...], cannot_link=[...], ...) # see doc
+{&#39;type&#39;: &#39;kmedoid&#39;, &#39;clustering&#39;: {line0: cluster..., line1: cluster..., ...}, &#39;hyperparameters&#39;:{&#39;number_of_clusters&#39;:...}, &#39;score&#39;: ...}
+```
 &#34;&#34;&#34;</code></pre>
 </details>
 </section>
 <section>
 <h2 class="section-title" id="header-submodules">Sub-modules</h2>
 <dl>
-<dt><code class="name"><a title="dist.clustering.dbscan" href="dbscan.html">dist.clustering.dbscan</a></code></dt>
+<dt><code class="name"><a title="linetracker.clustering" href="clustering/index.html">linetracker.clustering</a></code></dt>
 <dd>
-<div class="desc"><p>Alternative to kmedoid: use DBSCAN. note that you need to provide the epsilon</p></div>
+<div class="desc"><p>Contains all modules to run a clustering algorithm.</p></div>
 </dd>
-<dt><code class="name"><a title="dist.clustering.kmedoid" href="kmedoid.html">dist.clustering.kmedoid</a></code></dt>
+<dt><code class="name"><a title="linetracker.embeddings" href="embeddings/index.html">linetracker.embeddings</a></code></dt>
 <dd>
-<div class="desc"><p>Contains all function to do the kmedoid algorithm. Note that the c++ kmedoid should have been compiled before using these functions (the path to the …</p></div>
+<div class="desc"><p>Contains the modules to generate embeddings either with tfidf or with large language models</p></div>
 </dd>
-<dt><code class="name"><a title="dist.clustering.types" href="types.html">dist.clustering.types</a></code></dt>
+<dt><code class="name"><a title="linetracker.hyperparameters" href="hyperparameters.html">linetracker.hyperparameters</a></code></dt>
 <dd>
-<div class="desc"><p>Contain return types for the clustering algorithm</p></div>
+<div class="desc"><p>Provides class to search for the best hyperparameters of a clustering algorithm …</p></div>
+</dd>
+<dt><code class="name"><a title="linetracker.line_distance" href="line_distance.html">linetracker.line_distance</a></code></dt>
+<dd>
+<div class="desc"><p>Contains function to compute the distance matrix using line distance</p></div>
+</dd>
+<dt><code class="name"><a title="linetracker.main" href="main.html">linetracker.main</a></code></dt>
+<dd>
+<div class="desc"><p>Main file containing especially execute_full_pipeline to run the full pipeline. Main entry point.</p></div>
+</dd>
+<dt><code class="name"><a title="linetracker.parser" href="parser/index.html">linetracker.parser</a></code></dt>
+<dd>
+<div class="desc"><p>Package gathering all elements related to building the variable matrix:
+- extract the variables
+- build the variable matrix</p></div>
+</dd>
+<dt><code class="name"><a title="linetracker.pretty_print" href="pretty_print.html">linetracker.pretty_print</a></code></dt>
+<dd>
+<div class="desc"><p>Allow to visualize/convert logs: List[str], clustering: Dict[int, int] to console print or markdown/hmtl text</p></div>
 </dd>
 </dl>
 </section>
@@ -59,19 +108,23 @@ Contains all modules to run a clustering algorithm.
 <nav id="sidebar">
 <h1>Index</h1>
 <div class="toc">
-<ul></ul>
-</div>
-<ul id="index">
-<li><h3>Super-module</h3>
 <ul>
-<li><code><a title="dist" href="../index.html">dist</a></code></li>
+<li><a href="#getting-started">Getting started</a><ul>
+<li><a href="#how-to-use-the-kmedoid-c-library">How to use the KMedoid C++ library?</a></li>
 </ul>
 </li>
+</ul>
+</div>
+<ul id="index">
 <li><h3><a href="#header-submodules">Sub-modules</a></h3>
 <ul>
-<li><code><a title="dist.clustering.dbscan" href="dbscan.html">dist.clustering.dbscan</a></code></li>
-<li><code><a title="dist.clustering.kmedoid" href="kmedoid.html">dist.clustering.kmedoid</a></code></li>
-<li><code><a title="dist.clustering.types" href="types.html">dist.clustering.types</a></code></li>
+<li><code><a title="linetracker.clustering" href="clustering/index.html">linetracker.clustering</a></code></li>
+<li><code><a title="linetracker.embeddings" href="embeddings/index.html">linetracker.embeddings</a></code></li>
+<li><code><a title="linetracker.hyperparameters" href="hyperparameters.html">linetracker.hyperparameters</a></code></li>
+<li><code><a title="linetracker.line_distance" href="line_distance.html">linetracker.line_distance</a></code></li>
+<li><code><a title="linetracker.main" href="main.html">linetracker.main</a></code></li>
+<li><code><a title="linetracker.parser" href="parser/index.html">linetracker.parser</a></code></li>
+<li><code><a title="linetracker.pretty_print" href="pretty_print.html">linetracker.pretty_print</a></code></li>
 </ul>
 </li>
 </ul>

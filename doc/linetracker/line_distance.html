@@ -4,8 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 <meta name="generator" content="pdoc 0.10.0" />
-<title>dist.clustering.types API documentation</title>
-<meta name="description" content="Contain return types for the clustering algorithm" />
+<title>linetracker.line_distance API documentation</title>
+<meta name="description" content="Contains function to compute the distance matrix using line distance" />
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/sanitize.min.css" integrity="sha256-PK9q560IAAa6WVRRh76LtCaI8pjTJ2z11v0miyNNjrs=" crossorigin>
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/typography.min.css" integrity="sha256-7l/o7C8jubJiy74VsKTidCy1yBkRtiUGbVkYBylBqUg=" crossorigin>
 <link rel="stylesheet preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/github.min.css" crossorigin>
@@ -19,26 +19,37 @@
 <main>
 <article id="content">
 <header>
-<h1 class="title">Module <code>dist.clustering.types</code></h1>
+<h1 class="title">Module <code>linetracker.line_distance</code></h1>
 </header>
 <section id="section-intro">
-<p>Contain return types for the clustering algorithm</p>
+<p>Contains function to compute the distance matrix using line distance</p>
 <details class="source">
 <summary>
 <span>Expand source code</span>
 </summary>
-<pre><code class="python">&#34;&#34;&#34;Contain return types for the clustering algorithm&#34;&#34;&#34;
-from typing import *#type: ignore
+<pre><code class="python">&#34;&#34;&#34;Contains function to compute the distance matrix using line distance&#34;&#34;&#34;
+import numpy as np
 
-class ClusteringAlgorithmOutput(TypedDict):
+from typing import *# type: ignore
+from .main import LogData
+
+def get_absolute_line_distance_matrix(
+    events: List[LogData],
+) -&gt; np.ndarray:
+    &#34;&#34;&#34;Generate a matrix of shape (len(events),len(events)) where matrix[i,j] = abs(i-j)
+
+    # Arguments
+    - events: List[str], list of the text to generate the line distance matrix
+
+    # Returns
+    - np.ndarray, the distance matrix of shape (len(events),len(events)) where matrix[i,j] = abs(i-j)
     &#34;&#34;&#34;
-    - type: str, identifier for the clustering algorithm used
-    - clustering: Dict[int, int], mapping of each line to the cluster
-    - hyperparameters: Dict[str, Any], hyperparameters used {&#34;hyperparam1&#34;: value1, ...}
-    &#34;&#34;&#34;
-    type: str
-    clustering: Dict[int, int]
-    hyperparameters: Dict[str, Any]</code></pre>
+    n = len(events)
+    matrix = np.array(
+        [[abs(i - j) for j in range(n)] for i in range(n)], dtype=np.float32
+    )
+    matrix = (matrix - np.min(matrix)) / (np.max(matrix) - np.min(matrix))  # type: ignore
+    return matrix</code></pre>
 </details>
 </section>
 <section>
@@ -46,55 +57,47 @@ class ClusteringAlgorithmOutput(TypedDict):
 <section>
 </section>
 <section>
-</section>
-<section>
-<h2 class="section-title" id="header-classes">Classes</h2>
+<h2 class="section-title" id="header-functions">Functions</h2>
 <dl>
-<dt id="dist.clustering.types.ClusteringAlgorithmOutput"><code class="flex name class">
-<span>class <span class="ident">ClusteringAlgorithmOutput</span></span>
-<span>(</span><span>*args, **kwargs)</span>
+<dt id="linetracker.line_distance.get_absolute_line_distance_matrix"><code class="name flex">
+<span>def <span class="ident">get_absolute_line_distance_matrix</span></span>(<span>events: List[<a title="linetracker.main.LogData" href="main.html#linetracker.main.LogData">LogData</a>]) ‑> numpy.ndarray</span>
 </code></dt>
 <dd>
-<div class="desc"><ul>
-<li>type: str, identifier for the clustering algorithm used</li>
-<li>clustering: Dict[int, int], mapping of each line to the cluster</li>
-<li>hyperparameters: Dict[str, Any], hyperparameters used {"hyperparam1": value1, &hellip;}</li>
+<div class="desc"><p>Generate a matrix of shape (len(events),len(events)) where matrix[i,j] = abs(i-j)</p>
+<h1 id="arguments">Arguments</h1>
+<ul>
+<li>events: List[str], list of the text to generate the line distance matrix</li>
+</ul>
+<h1 id="returns">Returns</h1>
+<ul>
+<li>np.ndarray, the distance matrix of shape (len(events),len(events)) where matrix[i,j] = abs(i-j)</li>
 </ul></div>
 <details class="source">
 <summary>
 <span>Expand source code</span>
 </summary>
-<pre><code class="python">class ClusteringAlgorithmOutput(TypedDict):
+<pre><code class="python">def get_absolute_line_distance_matrix(
+    events: List[LogData],
+) -&gt; np.ndarray:
+    &#34;&#34;&#34;Generate a matrix of shape (len(events),len(events)) where matrix[i,j] = abs(i-j)
+
+    # Arguments
+    - events: List[str], list of the text to generate the line distance matrix
+
+    # Returns
+    - np.ndarray, the distance matrix of shape (len(events),len(events)) where matrix[i,j] = abs(i-j)
     &#34;&#34;&#34;
-    - type: str, identifier for the clustering algorithm used
-    - clustering: Dict[int, int], mapping of each line to the cluster
-    - hyperparameters: Dict[str, Any], hyperparameters used {&#34;hyperparam1&#34;: value1, ...}
-    &#34;&#34;&#34;
-    type: str
-    clustering: Dict[int, int]
-    hyperparameters: Dict[str, Any]</code></pre>
+    n = len(events)
+    matrix = np.array(
+        [[abs(i - j) for j in range(n)] for i in range(n)], dtype=np.float32
+    )
+    matrix = (matrix - np.min(matrix)) / (np.max(matrix) - np.min(matrix))  # type: ignore
+    return matrix</code></pre>
 </details>
-<h3>Ancestors</h3>
-<ul class="hlist">
-<li>builtins.dict</li>
-</ul>
-<h3>Class variables</h3>
-<dl>
-<dt id="dist.clustering.types.ClusteringAlgorithmOutput.clustering"><code class="name">var <span class="ident">clustering</span> : Dict[int, int]</code></dt>
-<dd>
-<div class="desc"></div>
-</dd>
-<dt id="dist.clustering.types.ClusteringAlgorithmOutput.hyperparameters"><code class="name">var <span class="ident">hyperparameters</span> : Dict[str, Any]</code></dt>
-<dd>
-<div class="desc"></div>
-</dd>
-<dt id="dist.clustering.types.ClusteringAlgorithmOutput.type"><code class="name">var <span class="ident">type</span> : str</code></dt>
-<dd>
-<div class="desc"></div>
 </dd>
 </dl>
-</dd>
-</dl>
+</section>
+<section>
 </section>
 </article>
 <nav id="sidebar">
@@ -105,19 +108,12 @@ class ClusteringAlgorithmOutput(TypedDict):
 <ul id="index">
 <li><h3>Super-module</h3>
 <ul>
-<li><code><a title="dist.clustering" href="index.html">dist.clustering</a></code></li>
+<li><code><a title="linetracker" href="index.html">linetracker</a></code></li>
 </ul>
 </li>
-<li><h3><a href="#header-classes">Classes</a></h3>
-<ul>
-<li>
-<h4><code><a title="dist.clustering.types.ClusteringAlgorithmOutput" href="#dist.clustering.types.ClusteringAlgorithmOutput">ClusteringAlgorithmOutput</a></code></h4>
+<li><h3><a href="#header-functions">Functions</a></h3>
 <ul class="">
-<li><code><a title="dist.clustering.types.ClusteringAlgorithmOutput.clustering" href="#dist.clustering.types.ClusteringAlgorithmOutput.clustering">clustering</a></code></li>
-<li><code><a title="dist.clustering.types.ClusteringAlgorithmOutput.hyperparameters" href="#dist.clustering.types.ClusteringAlgorithmOutput.hyperparameters">hyperparameters</a></code></li>
-<li><code><a title="dist.clustering.types.ClusteringAlgorithmOutput.type" href="#dist.clustering.types.ClusteringAlgorithmOutput.type">type</a></code></li>
-</ul>
-</li>
+<li><code><a title="linetracker.line_distance.get_absolute_line_distance_matrix" href="#linetracker.line_distance.get_absolute_line_distance_matrix">get_absolute_line_distance_matrix</a></code></li>
 </ul>
 </li>
 </ul>

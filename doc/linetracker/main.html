@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 <meta name="generator" content="pdoc 0.10.0" />
-<title>dist.main API documentation</title>
+<title>linetracker.main API documentation</title>
 <meta name="description" content="Main file containing especially execute_full_pipeline to run the full pipeline. Main entry point." />
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/sanitize.min.css" integrity="sha256-PK9q560IAAa6WVRRh76LtCaI8pjTJ2z11v0miyNNjrs=" crossorigin>
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/typography.min.css" integrity="sha256-7l/o7C8jubJiy74VsKTidCy1yBkRtiUGbVkYBylBqUg=" crossorigin>
@@ -19,7 +19,7 @@
 <main>
 <article id="content">
 <header>
-<h1 class="title">Module <code>dist.main</code></h1>
+<h1 class="title">Module <code>linetracker.main</code></h1>
 </header>
 <section id="section-intro">
 <p>Main file containing especially execute_full_pipeline to run the full pipeline. Main entry point.</p>
@@ -32,9 +32,9 @@ from typing import *  # type: ignore
 import torch
 import transformers as trf
 import numpy as np
-import dist.parser.parser as p
-import dist.clustering.types as c
-import dist.parser.variables_matrix as e
+import linetracker.parser.parser as p
+import linetracker.clustering.types as c
+import linetracker.parser.variables_matrix as e
 
 &#34;&#34;&#34;File of code: disclaimer functions comes from the repository https://github.com/AndressaStefany/severityPrediction&#34;&#34;&#34;
 # tye hints
@@ -167,8 +167,8 @@ def execute_full_pipeline(
 <section>
 <h2 class="section-title" id="header-functions">Functions</h2>
 <dl>
-<dt id="dist.main.combine_matrices"><code class="name flex">
-<span>def <span class="ident">combine_matrices</span></span>(<span>triplet_matrix: <a title="dist.main.TripletMatrix" href="#dist.main.TripletMatrix">TripletMatrix</a>, triplet_coef: <a title="dist.main.TripletCoef" href="#dist.main.TripletCoef">TripletCoef</a>, precision=numpy.float32, **kwargs) ‑> numpy.ndarray</span>
+<dt id="linetracker.main.combine_matrices"><code class="name flex">
+<span>def <span class="ident">combine_matrices</span></span>(<span>triplet_matrix: <a title="linetracker.main.TripletMatrix" href="#linetracker.main.TripletMatrix">TripletMatrix</a>, triplet_coef: <a title="linetracker.main.TripletCoef" href="#linetracker.main.TripletCoef">TripletCoef</a>, precision=numpy.float32, **kwargs) ‑> numpy.ndarray</span>
 </code></dt>
 <dd>
 <div class="desc"><p>Combine triplet matrices into one matrix using precision</p></div>
@@ -191,8 +191,8 @@ def execute_full_pipeline(
     return combined_matrix</code></pre>
 </details>
 </dd>
-<dt id="dist.main.execute_full_pipeline"><code class="name flex">
-<span>def <span class="ident">execute_full_pipeline</span></span>(<span>logs: List[<a title="dist.main.LogData" href="#dist.main.LogData">LogData</a>], triplet_coefficient: <a title="dist.main.TripletCoef" href="#dist.main.TripletCoef">TripletCoef</a>, parser: Callable[[List[<a title="dist.main.LogData" href="#dist.main.LogData">LogData</a>]], List[<a title="dist.parser.parser.ParsedLine" href="parser/parser.html#dist.parser.parser.ParsedLine">ParsedLine</a>]], embedder: Callable[[List[str]], Generator[numpy.ndarray, None, None]], embedding_distance_fn: Callable[[numpy.ndarray], numpy.ndarray], line_distance_fn: Callable[[List[<a title="dist.main.LogData" href="#dist.main.LogData">LogData</a>]], numpy.ndarray], clustering_fn: Callable[[numpy.ndarray], <a title="dist.clustering.types.ClusteringAlgorithmOutput" href="clustering/types.html#dist.clustering.types.ClusteringAlgorithmOutput">ClusteringAlgorithmOutput</a>], float_precision: type = numpy.float32) ‑> <a title="dist.clustering.types.ClusteringAlgorithmOutput" href="clustering/types.html#dist.clustering.types.ClusteringAlgorithmOutput">ClusteringAlgorithmOutput</a></span>
+<dt id="linetracker.main.execute_full_pipeline"><code class="name flex">
+<span>def <span class="ident">execute_full_pipeline</span></span>(<span>logs: List[<a title="linetracker.main.LogData" href="#linetracker.main.LogData">LogData</a>], triplet_coefficient: <a title="linetracker.main.TripletCoef" href="#linetracker.main.TripletCoef">TripletCoef</a>, parser: Callable[[List[<a title="linetracker.main.LogData" href="#linetracker.main.LogData">LogData</a>]], List[<a title="linetracker.parser.parser.ParsedLine" href="parser/parser.html#linetracker.parser.parser.ParsedLine">ParsedLine</a>]], embedder: Callable[[List[str]], Generator[numpy.ndarray, None, None]], embedding_distance_fn: Callable[[numpy.ndarray], numpy.ndarray], line_distance_fn: Callable[[List[<a title="linetracker.main.LogData" href="#linetracker.main.LogData">LogData</a>]], numpy.ndarray], clustering_fn: Callable[[numpy.ndarray], <a title="linetracker.clustering.types.ClusteringAlgorithmOutput" href="clustering/types.html#linetracker.clustering.types.ClusteringAlgorithmOutput">ClusteringAlgorithmOutput</a>], float_precision: type = numpy.float32) ‑> <a title="linetracker.clustering.types.ClusteringAlgorithmOutput" href="clustering/types.html#linetracker.clustering.types.ClusteringAlgorithmOutput">ClusteringAlgorithmOutput</a></span>
 </code></dt>
 <dd>
 <div class="desc"><p>Cluster logs provided in argument into groups of related log lines</p>
@@ -273,7 +273,7 @@ Callable[[np.ndarray], c.ClusteringAlgorithmOutput], taking the combined matrix 
 <section>
 <h2 class="section-title" id="header-classes">Classes</h2>
 <dl>
-<dt id="dist.main.LogData"><code class="flex name class">
+<dt id="linetracker.main.LogData"><code class="flex name class">
 <span>class <span class="ident">LogData</span></span>
 <span>(</span><span>*args, **kwargs)</span>
 </code></dt>
@@ -304,21 +304,21 @@ Callable[[np.ndarray], c.ClusteringAlgorithmOutput], taking the combined matrix 
 </ul>
 <h3>Class variables</h3>
 <dl>
-<dt id="dist.main.LogData.event_id"><code class="name">var <span class="ident">event_id</span> : str</code></dt>
+<dt id="linetracker.main.LogData.event_id"><code class="name">var <span class="ident">event_id</span> : str</code></dt>
 <dd>
 <div class="desc"></div>
 </dd>
-<dt id="dist.main.LogData.line_num"><code class="name">var <span class="ident">line_num</span> : str</code></dt>
+<dt id="linetracker.main.LogData.line_num"><code class="name">var <span class="ident">line_num</span> : str</code></dt>
 <dd>
 <div class="desc"></div>
 </dd>
-<dt id="dist.main.LogData.text"><code class="name">var <span class="ident">text</span> : str</code></dt>
+<dt id="linetracker.main.LogData.text"><code class="name">var <span class="ident">text</span> : str</code></dt>
 <dd>
 <div class="desc"></div>
 </dd>
 </dl>
 </dd>
-<dt id="dist.main.TripletCoef"><code class="flex name class">
+<dt id="linetracker.main.TripletCoef"><code class="flex name class">
 <span>class <span class="ident">TripletCoef</span></span>
 <span>(</span><span>*args, **kwargs)</span>
 </code></dt>
@@ -349,21 +349,21 @@ Callable[[np.ndarray], c.ClusteringAlgorithmOutput], taking the combined matrix 
 </ul>
 <h3>Class variables</h3>
 <dl>
-<dt id="dist.main.TripletCoef.coef_count_matrix"><code class="name">var <span class="ident">coef_count_matrix</span> : float</code></dt>
+<dt id="linetracker.main.TripletCoef.coef_count_matrix"><code class="name">var <span class="ident">coef_count_matrix</span> : float</code></dt>
 <dd>
 <div class="desc"></div>
 </dd>
-<dt id="dist.main.TripletCoef.coef_embeddings_matrix"><code class="name">var <span class="ident">coef_embeddings_matrix</span> : float</code></dt>
+<dt id="linetracker.main.TripletCoef.coef_embeddings_matrix"><code class="name">var <span class="ident">coef_embeddings_matrix</span> : float</code></dt>
 <dd>
 <div class="desc"></div>
 </dd>
-<dt id="dist.main.TripletCoef.coef_variables_matrix"><code class="name">var <span class="ident">coef_variables_matrix</span> : float</code></dt>
+<dt id="linetracker.main.TripletCoef.coef_variables_matrix"><code class="name">var <span class="ident">coef_variables_matrix</span> : float</code></dt>
 <dd>
 <div class="desc"></div>
 </dd>
 </dl>
 </dd>
-<dt id="dist.main.TripletMatrix"><code class="flex name class">
+<dt id="linetracker.main.TripletMatrix"><code class="flex name class">
 <span>class <span class="ident">TripletMatrix</span></span>
 <span>(</span><span>*args, **kwargs)</span>
 </code></dt>
@@ -394,15 +394,15 @@ Callable[[np.ndarray], c.ClusteringAlgorithmOutput], taking the combined matrix 
 </ul>
 <h3>Class variables</h3>
 <dl>
-<dt id="dist.main.TripletMatrix.count_matrix"><code class="name">var <span class="ident">count_matrix</span> : numpy.ndarray</code></dt>
+<dt id="linetracker.main.TripletMatrix.count_matrix"><code class="name">var <span class="ident">count_matrix</span> : numpy.ndarray</code></dt>
 <dd>
 <div class="desc"></div>
 </dd>
-<dt id="dist.main.TripletMatrix.embeddings_matrix"><code class="name">var <span class="ident">embeddings_matrix</span> : numpy.ndarray</code></dt>
+<dt id="linetracker.main.TripletMatrix.embeddings_matrix"><code class="name">var <span class="ident">embeddings_matrix</span> : numpy.ndarray</code></dt>
 <dd>
 <div class="desc"></div>
 </dd>
-<dt id="dist.main.TripletMatrix.variables_matrix"><code class="name">var <span class="ident">variables_matrix</span> : numpy.ndarray</code></dt>
+<dt id="linetracker.main.TripletMatrix.variables_matrix"><code class="name">var <span class="ident">variables_matrix</span> : numpy.ndarray</code></dt>
 <dd>
 <div class="desc"></div>
 </dd>
@@ -419,39 +419,39 @@ Callable[[np.ndarray], c.ClusteringAlgorithmOutput], taking the combined matrix 
 <ul id="index">
 <li><h3>Super-module</h3>
 <ul>
-<li><code><a title="dist" href="index.html">dist</a></code></li>
+<li><code><a title="linetracker" href="index.html">linetracker</a></code></li>
 </ul>
 </li>
 <li><h3><a href="#header-functions">Functions</a></h3>
 <ul class="">
-<li><code><a title="dist.main.combine_matrices" href="#dist.main.combine_matrices">combine_matrices</a></code></li>
-<li><code><a title="dist.main.execute_full_pipeline" href="#dist.main.execute_full_pipeline">execute_full_pipeline</a></code></li>
+<li><code><a title="linetracker.main.combine_matrices" href="#linetracker.main.combine_matrices">combine_matrices</a></code></li>
+<li><code><a title="linetracker.main.execute_full_pipeline" href="#linetracker.main.execute_full_pipeline">execute_full_pipeline</a></code></li>
 </ul>
 </li>
 <li><h3><a href="#header-classes">Classes</a></h3>
 <ul>
 <li>
-<h4><code><a title="dist.main.LogData" href="#dist.main.LogData">LogData</a></code></h4>
+<h4><code><a title="linetracker.main.LogData" href="#linetracker.main.LogData">LogData</a></code></h4>
 <ul class="">
-<li><code><a title="dist.main.LogData.event_id" href="#dist.main.LogData.event_id">event_id</a></code></li>
-<li><code><a title="dist.main.LogData.line_num" href="#dist.main.LogData.line_num">line_num</a></code></li>
-<li><code><a title="dist.main.LogData.text" href="#dist.main.LogData.text">text</a></code></li>
+<li><code><a title="linetracker.main.LogData.event_id" href="#linetracker.main.LogData.event_id">event_id</a></code></li>
+<li><code><a title="linetracker.main.LogData.line_num" href="#linetracker.main.LogData.line_num">line_num</a></code></li>
+<li><code><a title="linetracker.main.LogData.text" href="#linetracker.main.LogData.text">text</a></code></li>
 </ul>
 </li>
 <li>
-<h4><code><a title="dist.main.TripletCoef" href="#dist.main.TripletCoef">TripletCoef</a></code></h4>
+<h4><code><a title="linetracker.main.TripletCoef" href="#linetracker.main.TripletCoef">TripletCoef</a></code></h4>
 <ul class="">
-<li><code><a title="dist.main.TripletCoef.coef_count_matrix" href="#dist.main.TripletCoef.coef_count_matrix">coef_count_matrix</a></code></li>
-<li><code><a title="dist.main.TripletCoef.coef_embeddings_matrix" href="#dist.main.TripletCoef.coef_embeddings_matrix">coef_embeddings_matrix</a></code></li>
-<li><code><a title="dist.main.TripletCoef.coef_variables_matrix" href="#dist.main.TripletCoef.coef_variables_matrix">coef_variables_matrix</a></code></li>
+<li><code><a title="linetracker.main.TripletCoef.coef_count_matrix" href="#linetracker.main.TripletCoef.coef_count_matrix">coef_count_matrix</a></code></li>
+<li><code><a title="linetracker.main.TripletCoef.coef_embeddings_matrix" href="#linetracker.main.TripletCoef.coef_embeddings_matrix">coef_embeddings_matrix</a></code></li>
+<li><code><a title="linetracker.main.TripletCoef.coef_variables_matrix" href="#linetracker.main.TripletCoef.coef_variables_matrix">coef_variables_matrix</a></code></li>
 </ul>
 </li>
 <li>
-<h4><code><a title="dist.main.TripletMatrix" href="#dist.main.TripletMatrix">TripletMatrix</a></code></h4>
+<h4><code><a title="linetracker.main.TripletMatrix" href="#linetracker.main.TripletMatrix">TripletMatrix</a></code></h4>
 <ul class="">
-<li><code><a title="dist.main.TripletMatrix.count_matrix" href="#dist.main.TripletMatrix.count_matrix">count_matrix</a></code></li>
-<li><code><a title="dist.main.TripletMatrix.embeddings_matrix" href="#dist.main.TripletMatrix.embeddings_matrix">embeddings_matrix</a></code></li>
-<li><code><a title="dist.main.TripletMatrix.variables_matrix" href="#dist.main.TripletMatrix.variables_matrix">variables_matrix</a></code></li>
+<li><code><a title="linetracker.main.TripletMatrix.count_matrix" href="#linetracker.main.TripletMatrix.count_matrix">count_matrix</a></code></li>
+<li><code><a title="linetracker.main.TripletMatrix.embeddings_matrix" href="#linetracker.main.TripletMatrix.embeddings_matrix">embeddings_matrix</a></code></li>
+<li><code><a title="linetracker.main.TripletMatrix.variables_matrix" href="#linetracker.main.TripletMatrix.variables_matrix">variables_matrix</a></code></li>
 </ul>
 </li>
 </ul>

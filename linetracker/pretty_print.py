@@ -3,7 +3,6 @@
 from typing import *
 import colorsys
 import rich.console as c
-import collections
 
 
 class ColoredClustering(NamedTuple):

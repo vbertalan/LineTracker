@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 <meta name="generator" content="pdoc 0.10.0" />
-<title>dist.embeddings.llm API documentation</title>
+<title>linetracker.embeddings.llm API documentation</title>
 <meta name="description" content="All the necessary functions to generates embeddings with a largelanguage model on huggingface. Main class is generate_embeddings_llm" />
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/sanitize.min.css" integrity="sha256-PK9q560IAAa6WVRRh76LtCaI8pjTJ2z11v0miyNNjrs=" crossorigin>
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/typography.min.css" integrity="sha256-7l/o7C8jubJiy74VsKTidCy1yBkRtiUGbVkYBylBqUg=" crossorigin>
@@ -19,7 +19,7 @@
 <main>
 <article id="content">
 <header>
-<h1 class="title">Module <code>dist.embeddings.llm</code></h1>
+<h1 class="title">Module <code>linetracker.embeddings.llm</code></h1>
 </header>
 <section id="section-intro">
 <p>All the necessary functions to generates embeddings with a largelanguage model on huggingface. Main class is generate_embeddings_llm</p>
@@ -250,11 +250,11 @@ class generate_embeddings_llm:
 <section>
 <h2 class="section-title" id="header-variables">Global variables</h2>
 <dl>
-<dt id="dist.embeddings.llm.ModelName"><code class="name">var <span class="ident">ModelName</span></code></dt>
+<dt id="linetracker.embeddings.llm.ModelName"><code class="name">var <span class="ident">ModelName</span></code></dt>
 <dd>
 <div class="desc"><p>The name of the model to use as described on huggingface hub</p></div>
 </dd>
-<dt id="dist.embeddings.llm.PoolingFn"><code class="name">var <span class="ident">PoolingFn</span></code></dt>
+<dt id="linetracker.embeddings.llm.PoolingFn"><code class="name">var <span class="ident">PoolingFn</span></code></dt>
 <dd>
 <div class="desc"><p>A function that reduces the dimensions of a tensor along the first dimension (seq_length of the large language model)</p></div>
 </dd>
@@ -263,7 +263,7 @@ class generate_embeddings_llm:
 <section>
 <h2 class="section-title" id="header-functions">Functions</h2>
 <dl>
-<dt id="dist.embeddings.llm.get_model"><code class="name flex">
+<dt id="linetracker.embeddings.llm.get_model"><code class="name flex">
 <span>def <span class="ident">get_model</span></span>(<span>model_name: str, token: str, optimization: bool = True, use_cpu: bool = False, cache_dir: Optional[str] = None, *args, **kwargs) ‑> transformers.models.llama.modeling_llama.LlamaForCausalLM</span>
 </code></dt>
 <dd>
@@ -340,7 +340,7 @@ class generate_embeddings_llm:
     return model</code></pre>
 </details>
 </dd>
-<dt id="dist.embeddings.llm.get_pooling_function"><code class="name flex">
+<dt id="linetracker.embeddings.llm.get_pooling_function"><code class="name flex">
 <span>def <span class="ident">get_pooling_function</span></span>(<span>pooling_code: PoolingOperationCode = 'mean') ‑> Callable[[torch.Tensor], torch.Tensor]</span>
 </code></dt>
 <dd>
@@ -374,7 +374,7 @@ class generate_embeddings_llm:
         raise ValueError(f&#34;{pooling_code=} is not possible&#34;)</code></pre>
 </details>
 </dd>
-<dt id="dist.embeddings.llm.get_tokenizer"><code class="name flex">
+<dt id="linetracker.embeddings.llm.get_tokenizer"><code class="name flex">
 <span>def <span class="ident">get_tokenizer</span></span>(<span>model_name: str, token: str, cache_dir: Optional[str] = None, *args, **kwargs) ‑> transformers.tokenization_utils_fast.PreTrainedTokenizerFast</span>
 </code></dt>
 <dd>
@@ -422,7 +422,7 @@ class generate_embeddings_llm:
 <section>
 <h2 class="section-title" id="header-classes">Classes</h2>
 <dl>
-<dt id="dist.embeddings.llm.OutOfMemoryError"><code class="flex name class">
+<dt id="linetracker.embeddings.llm.OutOfMemoryError"><code class="flex name class">
 <span>class <span class="ident">OutOfMemoryError</span></span>
 <span>(</span><span>number_of_tokens: int, model_name: str, use_cpu: bool, type: Union[Literal['ram', 'gpu'], Set[str]], text: str)</span>
 </code></dt>
@@ -458,7 +458,7 @@ class generate_embeddings_llm:
 <li>builtins.BaseException</li>
 </ul>
 </dd>
-<dt id="dist.embeddings.llm.generate_embeddings_llm"><code class="flex name class">
+<dt id="linetracker.embeddings.llm.generate_embeddings_llm"><code class="flex name class">
 <span>class <span class="ident">generate_embeddings_llm</span></span>
 <span>(</span><span>model_name: Literal['meta-llama/Llama-2-13b-chat-hf', 'meta-llama/Llama-2-7b-chat-hf'], token: str, cache_dir: Optional[str] = None, use_cpu: bool = False, **kwargs)</span>
 </code></dt>
@@ -564,29 +564,29 @@ class generate_embeddings_llm:
 <ul id="index">
 <li><h3>Super-module</h3>
 <ul>
-<li><code><a title="dist.embeddings" href="index.html">dist.embeddings</a></code></li>
+<li><code><a title="linetracker.embeddings" href="index.html">linetracker.embeddings</a></code></li>
 </ul>
 </li>
 <li><h3><a href="#header-variables">Global variables</a></h3>
 <ul class="">
-<li><code><a title="dist.embeddings.llm.ModelName" href="#dist.embeddings.llm.ModelName">ModelName</a></code></li>
-<li><code><a title="dist.embeddings.llm.PoolingFn" href="#dist.embeddings.llm.PoolingFn">PoolingFn</a></code></li>
+<li><code><a title="linetracker.embeddings.llm.ModelName" href="#linetracker.embeddings.llm.ModelName">ModelName</a></code></li>
+<li><code><a title="linetracker.embeddings.llm.PoolingFn" href="#linetracker.embeddings.llm.PoolingFn">PoolingFn</a></code></li>
 </ul>
 </li>
 <li><h3><a href="#header-functions">Functions</a></h3>
 <ul class="">
-<li><code><a title="dist.embeddings.llm.get_model" href="#dist.embeddings.llm.get_model">get_model</a></code></li>
-<li><code><a title="dist.embeddings.llm.get_pooling_function" href="#dist.embeddings.llm.get_pooling_function">get_pooling_function</a></code></li>
-<li><code><a title="dist.embeddings.llm.get_tokenizer" href="#dist.embeddings.llm.get_tokenizer">get_tokenizer</a></code></li>
+<li><code><a title="linetracker.embeddings.llm.get_model" href="#linetracker.embeddings.llm.get_model">get_model</a></code></li>
+<li><code><a title="linetracker.embeddings.llm.get_pooling_function" href="#linetracker.embeddings.llm.get_pooling_function">get_pooling_function</a></code></li>
+<li><code><a title="linetracker.embeddings.llm.get_tokenizer" href="#linetracker.embeddings.llm.get_tokenizer">get_tokenizer</a></code></li>
 </ul>
 </li>
 <li><h3><a href="#header-classes">Classes</a></h3>
 <ul>
 <li>
-<h4><code><a title="dist.embeddings.llm.OutOfMemoryError" href="#dist.embeddings.llm.OutOfMemoryError">OutOfMemoryError</a></code></h4>
+<h4><code><a title="linetracker.embeddings.llm.OutOfMemoryError" href="#linetracker.embeddings.llm.OutOfMemoryError">OutOfMemoryError</a></code></h4>
 </li>
 <li>
-<h4><code><a title="dist.embeddings.llm.generate_embeddings_llm" href="#dist.embeddings.llm.generate_embeddings_llm">generate_embeddings_llm</a></code></h4>
+<h4><code><a title="linetracker.embeddings.llm.generate_embeddings_llm" href="#linetracker.embeddings.llm.generate_embeddings_llm">generate_embeddings_llm</a></code></h4>
 </li>
 </ul>
 </li>

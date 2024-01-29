@@ -4,8 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 <meta name="generator" content="pdoc 0.10.0" />
-<title>dist.line_distance API documentation</title>
-<meta name="description" content="Contains function to compute the distance matrix using line distance" />
+<title>linetracker.embeddings.tfidf API documentation</title>
+<meta name="description" content="All the necessary functions to generates embeddings with a tfidf." />
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/sanitize.min.css" integrity="sha256-PK9q560IAAa6WVRRh76LtCaI8pjTJ2z11v0miyNNjrs=" crossorigin>
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/typography.min.css" integrity="sha256-7l/o7C8jubJiy74VsKTidCy1yBkRtiUGbVkYBylBqUg=" crossorigin>
 <link rel="stylesheet preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/github.min.css" crossorigin>
@@ -19,37 +19,47 @@
 <main>
 <article id="content">
 <header>
-<h1 class="title">Module <code>dist.line_distance</code></h1>
+<h1 class="title">Module <code>linetracker.embeddings.tfidf</code></h1>
 </header>
 <section id="section-intro">
-<p>Contains function to compute the distance matrix using line distance</p>
+<p>All the necessary functions to generates embeddings with a tfidf.</p>
 <details class="source">
 <summary>
 <span>Expand source code</span>
 </summary>
-<pre><code class="python">&#34;&#34;&#34;Contains function to compute the distance matrix using line distance&#34;&#34;&#34;
+<pre><code class="python">&#34;&#34;&#34;All the necessary functions to generates embeddings with a tfidf. &#34;&#34;&#34;
 import numpy as np
+import sklearn.feature_extraction.text as skVec
 
 from typing import *# type: ignore
-from .main import LogData
 
-def get_absolute_line_distance_matrix(
-    events: List[LogData],
-) -&gt; np.ndarray:
-    &#34;&#34;&#34;Generate a matrix of shape (len(events),len(events)) where matrix[i,j] = abs(i-j)
+def generate_tfidf_embeddings(
+    events: List[str],
+    precision = np.float32,
+) -&gt; Generator[np.ndarray, Any, Any]:
+    &#34;&#34;&#34;Generates tfidf embeddings as a generator. Raises a OutOfMemoryError whenever there is a ram or gpu memory error (often due to too big size of the text and model)
 
     # Arguments
-    - events: List[str], list of the text to generate the line distance matrix
+    - events: List[str], the events text to generate the embeddings from
+    - precision=np.float32, the precision to use
 
     # Returns
-    - np.ndarray, the distance matrix of shape (len(events),len(events)) where matrix[i,j] = abs(i-j)
+    - Generator[np.ndarray, Any, Any], a generator that generates the embeddings of dimension (voc_size))
+        
+    # Example usage
+    
+    ```python
+    &gt;&gt;&gt; for text, embedding in zip(events, generate_tfidf_embeddings(events)):
+    ...    # either accumulate the embeddings or directly work on them here
+    ...    print(text,embedding)
+    &gt;&gt;&gt; 
+    ```
     &#34;&#34;&#34;
-    n = len(events)
-    matrix = np.array(
-        [[abs(i - j) for j in range(n)] for i in range(n)], dtype=np.float32
-    )
-    matrix = (matrix - np.min(matrix)) / (np.max(matrix) - np.min(matrix))  # type: ignore
-    return matrix</code></pre>
+    vectorizer = skVec.TfidfVectorizer()
+    embeddings = vectorizer.fit_transform(events)
+    embeddings = np.asarray(embeddings.todense().astype(precision))  # type: ignore
+    for embedding in embeddings:
+        yield embedding</code></pre>
 </details>
 </section>
 <section>
@@ -59,40 +69,57 @@ def get_absolute_line_distance_matrix(
 <section>
 <h2 class="section-title" id="header-functions">Functions</h2>
 <dl>
-<dt id="dist.line_distance.get_absolute_line_distance_matrix"><code class="name flex">
-<span>def <span class="ident">get_absolute_line_distance_matrix</span></span>(<span>events: List[<a title="dist.main.LogData" href="main.html#dist.main.LogData">LogData</a>]) ‑> numpy.ndarray</span>
+<dt id="linetracker.embeddings.tfidf.generate_tfidf_embeddings"><code class="name flex">
+<span>def <span class="ident">generate_tfidf_embeddings</span></span>(<span>events: List[str], precision=numpy.float32) ‑> Generator[numpy.ndarray, Any, Any]</span>
 </code></dt>
 <dd>
-<div class="desc"><p>Generate a matrix of shape (len(events),len(events)) where matrix[i,j] = abs(i-j)</p>
+<div class="desc"><p>Generates tfidf embeddings as a generator. Raises a OutOfMemoryError whenever there is a ram or gpu memory error (often due to too big size of the text and model)</p>
 <h1 id="arguments">Arguments</h1>
 <ul>
-<li>events: List[str], list of the text to generate the line distance matrix</li>
+<li>events: List[str], the events text to generate the embeddings from</li>
+<li>precision=np.float32, the precision to use</li>
 </ul>
 <h1 id="returns">Returns</h1>
 <ul>
-<li>np.ndarray, the distance matrix of shape (len(events),len(events)) where matrix[i,j] = abs(i-j)</li>
-</ul></div>
+<li>Generator[np.ndarray, Any, Any], a generator that generates the embeddings of dimension (voc_size))</li>
+</ul>
+<h1 id="example-usage">Example usage</h1>
+<pre><code class="language-python">&gt;&gt;&gt; for text, embedding in zip(events, generate_tfidf_embeddings(events)):
+...    # either accumulate the embeddings or directly work on them here
+...    print(text,embedding)
+&gt;&gt;&gt; 
+</code></pre></div>
 <details class="source">
 <summary>
 <span>Expand source code</span>
 </summary>
-<pre><code class="python">def get_absolute_line_distance_matrix(
-    events: List[LogData],
-) -&gt; np.ndarray:
-    &#34;&#34;&#34;Generate a matrix of shape (len(events),len(events)) where matrix[i,j] = abs(i-j)
+<pre><code class="python">def generate_tfidf_embeddings(
+    events: List[str],
+    precision = np.float32,
+) -&gt; Generator[np.ndarray, Any, Any]:
+    &#34;&#34;&#34;Generates tfidf embeddings as a generator. Raises a OutOfMemoryError whenever there is a ram or gpu memory error (often due to too big size of the text and model)
 
     # Arguments
-    - events: List[str], list of the text to generate the line distance matrix
+    - events: List[str], the events text to generate the embeddings from
+    - precision=np.float32, the precision to use
 
     # Returns
-    - np.ndarray, the distance matrix of shape (len(events),len(events)) where matrix[i,j] = abs(i-j)
+    - Generator[np.ndarray, Any, Any], a generator that generates the embeddings of dimension (voc_size))
+        
+    # Example usage
+    
+    ```python
+    &gt;&gt;&gt; for text, embedding in zip(events, generate_tfidf_embeddings(events)):
+    ...    # either accumulate the embeddings or directly work on them here
+    ...    print(text,embedding)
+    &gt;&gt;&gt; 
+    ```
     &#34;&#34;&#34;
-    n = len(events)
-    matrix = np.array(
-        [[abs(i - j) for j in range(n)] for i in range(n)], dtype=np.float32
-    )
-    matrix = (matrix - np.min(matrix)) / (np.max(matrix) - np.min(matrix))  # type: ignore
-    return matrix</code></pre>
+    vectorizer = skVec.TfidfVectorizer()
+    embeddings = vectorizer.fit_transform(events)
+    embeddings = np.asarray(embeddings.todense().astype(precision))  # type: ignore
+    for embedding in embeddings:
+        yield embedding</code></pre>
 </details>
 </dd>
 </dl>
@@ -108,12 +135,12 @@ def get_absolute_line_distance_matrix(
 <ul id="index">
 <li><h3>Super-module</h3>
 <ul>
-<li><code><a title="dist" href="index.html">dist</a></code></li>
+<li><code><a title="linetracker.embeddings" href="index.html">linetracker.embeddings</a></code></li>
 </ul>
 </li>
 <li><h3><a href="#header-functions">Functions</a></h3>
 <ul class="">
-<li><code><a title="dist.line_distance.get_absolute_line_distance_matrix" href="#dist.line_distance.get_absolute_line_distance_matrix">get_absolute_line_distance_matrix</a></code></li>
+<li><code><a title="linetracker.embeddings.tfidf.generate_tfidf_embeddings" href="#linetracker.embeddings.tfidf.generate_tfidf_embeddings">generate_tfidf_embeddings</a></code></li>
 </ul>
 </li>
 </ul>
