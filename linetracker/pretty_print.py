@@ -92,6 +92,25 @@ def print_colored_clustering_rich(
         console.print(f"{line_id:03d}-{cluster}: {text}", style=color, end="\n")
     console.print()
 
+def print_colored_paired_clustering_rich(
+    lines1: List[ColoredClustering], lines2: List[ColoredClustering], force_jupyter: bool = False
+):
+    """Print in the terminal or jupyter notebood a clustering result where the colors for each line has already been computed
+
+    # Arguments
+    - lines: List[ColoredClustering], the colored lines with their clusters associated (see doc of ColoredClustering)
+    - force_jupyter: bool = False, if used in a notebook to pass to console.print of rich (see https://github.com/Textualize/rich/blob/fd981823644ccf50d685ac9c0cfe8e1e56c9dd35/rich/console.py#L1624)
+    
+    """
+    # Initialize rich console
+    console = c.Console(
+        color_system="auto", highlight=False, force_jupyter=force_jupyter
+    )
+    console.print()
+    for line_id, ((text, color1, cluster1),(_, color2, cluster2)) in enumerate(zip(lines1,lines2)):
+        # print format is "line_number-cluster_id: text of the log"
+        console.print(f"{line_id:03d}-{cluster1}-{cluster2}: {text}", style=f"{color1} on {color2}", end="\n")
+    console.print()
 
 def generate_clustering_markdown_html(lines: List[ColoredClustering]) -> str:
     """Convert each colored clustered line provided to a markdown/html text where each cluster has a color in the format

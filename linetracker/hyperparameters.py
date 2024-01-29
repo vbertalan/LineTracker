@@ -75,23 +75,26 @@ def test_fn(
     import random
 
     L: List[str] = []
+    L2: List = []
     for _ in range(2):
         clustering = {i: random.randint(0, 3) for i in range(len(logs))}
         colored_clustering = pp.convert_clustering_to_colored_clustering(
             logs, clustering
         )
+        L2.append(colored_clustering)
         html = pp.generate_clustering_markdown_html(colored_clustering)
-        pp.print_colored_clustering_rich(colored_clustering)
+        # pp.print_colored_clustering_rich(colored_clustering)
         print("-"*100)
         L.append(html)
-    p = int(input("Which coef seem better to you?"))
+    pp.print_colored_paired_clustering_rich(L2[0],L2[1])
+    p = int(input("Which clustering seems better to you (0 or 1 for first or second)?"))
     return p, L[0], L[1]
 
 
 if __name__ == "__main__":
     import lorem_text.lorem as lt
     s = SearchClustering("tmp",test_fn)
-    logs = [lt.sentence() for _ in range(10)]
+    logs = [lt.sentence()[:200] for _ in range(5)]
     s.ask_best_clustering(logs)
     s.ask_best_clustering(logs)
     s.ask_best_clustering(logs)
