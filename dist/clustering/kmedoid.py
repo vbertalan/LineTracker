@@ -1,3 +1,5 @@
+"""Contains all function to do the kmedoid algorithm. Note that the c++ kmedoid should have been compiled before using these functions (the path to the c++ library is an argument of get_clustering_kmedoid)"""
+
 import contextlib
 import numpy as np
 import gc

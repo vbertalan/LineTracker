@@ -1,3 +1,5 @@
+"""Allow to parse the variables and templates using drain parser. Main function is get_parsing_drainparser. Note that if you want the template you can make again a function similar to get_parsing_drainparser by using parse and get_templates_variables_per_lines"""
+
 import re
 from typing import *# type: ignore
 import uuid

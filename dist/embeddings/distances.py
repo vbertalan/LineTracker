@@ -1,3 +1,4 @@
+"""Contains all possible normalized distances functions to compute distances between embeddings"""
 import numpy as np
 import sklearn.metrics as skMetrics
 

@@ -1,4 +1,4 @@
-"""All the necessary functions to generates embeddings with a largelanguage model on huggingface"""
+"""All the necessary functions to generates embeddings with a largelanguage model on huggingface. Main class is generate_embeddings_llm"""
 
 import torch
 import gc

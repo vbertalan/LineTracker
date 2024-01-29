@@ -1,4 +1,4 @@
-"""All the necessary functions to generates embeddings with a tfidf"""
+"""All the necessary functions to generates embeddings with a tfidf. """
 import numpy as np
 import sklearn.feature_extraction.text as skVec
 

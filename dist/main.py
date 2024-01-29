@@ -1,10 +1,11 @@
+"""Main file containing especially execute_full_pipeline to run the full pipeline. Main entry point."""
 from typing import *  # type: ignore
 import torch
 import transformers as trf
 import numpy as np
 import dist.parser.parser as p
 import dist.clustering.types as c
-import dist.parser.extract_variables as e
+import dist.parser.variables_matrix as e
 
 """File of code: disclaimer functions comes from the repository https://github.com/AndressaStefany/severityPrediction"""
 # tye hints

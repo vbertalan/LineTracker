@@ -1,3 +1,4 @@
+"""Contains function to compute the distance matrix using line distance"""
 import numpy as np
 
 from typing import *# type: ignore

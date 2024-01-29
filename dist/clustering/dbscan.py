@@ -1,3 +1,5 @@
+"""Alternative to kmedoid: use DBSCAN. note that you need to provide the epsilon"""
+
 import numpy as np
 from .types import ClusteringAlgorithmOutput
 import sklearn.cluster as cl

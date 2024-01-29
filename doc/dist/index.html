@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
 <meta name="generator" content="pdoc 0.10.0" />
 <title>dist API documentation</title>
-<meta name="description" content="" />
+<meta name="description" content="Allows to clusterize log lines, print the log clustering and search for the best hyperparameters by providing the user with two clustering choices for …" />
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/sanitize.min.css" integrity="sha256-PK9q560IAAa6WVRRh76LtCaI8pjTJ2z11v0miyNNjrs=" crossorigin>
 <link rel="preload stylesheet" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/11.0.1/typography.min.css" integrity="sha256-7l/o7C8jubJiy74VsKTidCy1yBkRtiUGbVkYBylBqUg=" crossorigin>
 <link rel="stylesheet preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/github.min.css" crossorigin>
@@ -22,29 +22,48 @@
 <h1 class="title">Package <code>dist</code></h1>
 </header>
 <section id="section-intro">
+<p>Allows to clusterize log lines, print the log clustering and search for the best hyperparameters by providing the user with two clustering choices for the same logs</p>
+<details class="source">
+<summary>
+<span>Expand source code</span>
+</summary>
+<pre><code class="python">&#34;&#34;&#34;
+Allows to clusterize log lines, print the log clustering and search for the best hyperparameters by providing the user with two clustering choices for the same logs
+&#34;&#34;&#34;</code></pre>
+</details>
 </section>
 <section>
 <h2 class="section-title" id="header-submodules">Sub-modules</h2>
 <dl>
 <dt><code class="name"><a title="dist.clustering" href="clustering/index.html">dist.clustering</a></code></dt>
 <dd>
-<div class="desc"></div>
+<div class="desc"><p>Contains all modules to run a clustering algorithm.</p></div>
 </dd>
 <dt><code class="name"><a title="dist.embeddings" href="embeddings/index.html">dist.embeddings</a></code></dt>
 <dd>
-<div class="desc"><p>Contains the files to generate embeddings either with tfidf or with large language models</p></div>
+<div class="desc"><p>Contains the modules to generate embeddings either with tfidf or with large language models</p></div>
+</dd>
+<dt><code class="name"><a title="dist.hyperparameters" href="hyperparameters.html">dist.hyperparameters</a></code></dt>
+<dd>
+<div class="desc"><p>Provides class to search for the best hyperparameters of a clustering algorithm …</p></div>
 </dd>
 <dt><code class="name"><a title="dist.line_distance" href="line_distance.html">dist.line_distance</a></code></dt>
 <dd>
-<div class="desc"></div>
+<div class="desc"><p>Contains function to compute the distance matrix using line distance</p></div>
 </dd>
 <dt><code class="name"><a title="dist.main" href="main.html">dist.main</a></code></dt>
 <dd>
-<div class="desc"></div>
+<div class="desc"><p>Main file containing especially execute_full_pipeline to run the full pipeline. Main entry point.</p></div>
 </dd>
 <dt><code class="name"><a title="dist.parser" href="parser/index.html">dist.parser</a></code></dt>
 <dd>
-<div class="desc"></div>
+<div class="desc"><p>Package gathering all elements related to building the variable matrix:
+- extract the variables
+- build the variable matrix</p></div>
+</dd>
+<dt><code class="name"><a title="dist.pretty_print" href="pretty_print.html">dist.pretty_print</a></code></dt>
+<dd>
+<div class="desc"><p>Allow to visualize/convert logs: List[str], clustering: Dict[int, int] to console print or markdown/hmtl text</p></div>
 </dd>
 </dl>
 </section>
@@ -65,9 +84,11 @@
 <ul>
 <li><code><a title="dist.clustering" href="clustering/index.html">dist.clustering</a></code></li>
 <li><code><a title="dist.embeddings" href="embeddings/index.html">dist.embeddings</a></code></li>
+<li><code><a title="dist.hyperparameters" href="hyperparameters.html">dist.hyperparameters</a></code></li>
 <li><code><a title="dist.line_distance" href="line_distance.html">dist.line_distance</a></code></li>
 <li><code><a title="dist.main" href="main.html">dist.main</a></code></li>
 <li><code><a title="dist.parser" href="parser/index.html">dist.parser</a></code></li>
+<li><code><a title="dist.pretty_print" href="pretty_print.html">dist.pretty_print</a></code></li>
 </ul>
 </li>
 </ul>

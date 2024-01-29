@@ -1,3 +1,5 @@
+"""Get the variable matrix from the parsed variables of each line. Main function is get_variable_matrix"""
+
 import numpy as np
 import sklearn.preprocessing as skPrepro
 import sklearn.metrics as skMetrics
@@ -20,6 +22,12 @@ class NoVariable(Exception):
         self.logs = logs
 
 def pretty_print_matrix_variables(matrix_variables: np.ndarray, binarizer: skPrepro.MultiLabelBinarizer):
+    """Allow to print the variable matrix with each line variable shown
+    
+    # Arguments
+    - matrix_variables: np.ndarray, the variable matrix
+    - binarizer: skPrepro.MultiLabelBinarizer, the binarizer used to get the matrix from the variables (see get_variable_matrix for example)
+    """
     import pandas as pd
     df = pd.DataFrame(matrix_variables, index=range(len(matrix_variables)), columns=[e if len(e) < 10 else e[:10]+"..." for e in binarizer.classes_])
     print(df)

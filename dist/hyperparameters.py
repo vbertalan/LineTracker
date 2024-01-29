@@ -1,3 +1,7 @@
+"""Provides class to search for the best hyperparameters of a clustering algorithm
+
+Currently only supports the search for alpha, beta, gamme hyperarameters.
+"""
 from typing import *
 import optuna
 from optuna_dashboard.preferential import create_study, PreferentialStudy

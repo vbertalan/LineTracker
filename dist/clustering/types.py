@@ -1,3 +1,4 @@
+"""Contain return types for the clustering algorithm"""
 from typing import *#type: ignore
 
 class ClusteringAlgorithmOutput(TypedDict):
