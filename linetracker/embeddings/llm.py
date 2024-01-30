@@ -133,7 +133,7 @@ def get_model(
 
 class generate_embeddings_llm:
     def __init__(self, 
-        model_name: ModelName,
+        model_name: str,
         token: str,
         cache_dir: Optional[str] = None,
         use_cpu: bool = False,

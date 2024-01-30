@@ -82,7 +82,10 @@ def get_variable_matrix(
         return np.zeros((matrix_variables.shape[0],matrix_variables.shape[0]))
     matrix_variables = matrix_variables.astype(bool)  # type: ignore
     # pretty_print_matrix_variables(matrix_variables,binarizer)
-    matrix_variables_distance = jaccard_distance(
-        scipy.sparse.csr_matrix(matrix_variables),
+    # matrix_variables_distance = jaccard_distance(
+    #     scipy.sparse.csr_matrix(matrix_variables),
+    # )
+    matrix_variables_distance = skMetrics.pairwise_distances(
+        matrix_variables, metric="jaccard"
     )
     return matrix_variables_distance
