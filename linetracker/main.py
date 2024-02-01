@@ -127,5 +127,7 @@ def execute_full_pipeline(
     del embeddings_distance_matrix
     # 7. run the clustering algorithm with the constraints
     clustering_output = clustering_fn(combined_matrix)
+    for coef,coef_val in triplet_coefficient.items():
+        clustering_output['hyperparameters'][coef] = coef_val
     # 8. return the result
     return clustering_output

@@ -17,5 +17,7 @@ def get_absolute_line_distance_matrix(
     """
     n = len(events)
     matrix = np.abs(np.arange(n)[:, np.newaxis] - np.arange(n))
+    if np.max(matrix) == 0:
+        return matrix
     matrix = (matrix - np.min(matrix)) / (np.max(matrix) - np.min(matrix))  # type: ignore
     return matrix

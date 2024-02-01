@@ -58,6 +58,14 @@ def jaccard_distance(mat: scipy.sparse.csr_matrix):
 
     return distance
 
+def exact_jaccard_distance(matrix: np.ndarray) -> np.ndarray:
+    matrix = matrix.astype(int)
+    intersection = np.dot(matrix, matrix.T)
+    # union(A,B) = A + B - A inter B
+    union = np.sum(matrix, axis=1, keepdims=True) + np.sum(matrix, axis=1, keepdims=True).T - intersection
+    distances = 1.0 - intersection / union
+    return distances
+    
 def get_variable_matrix(
     parsed_events: List[List[str]],
     enable_optional_exception: bool = False
@@ -82,10 +90,10 @@ def get_variable_matrix(
         return np.zeros((matrix_variables.shape[0],matrix_variables.shape[0]))
     matrix_variables = matrix_variables.astype(bool)  # type: ignore
     # pretty_print_matrix_variables(matrix_variables,binarizer)
-    matrix_variables_distance = jaccard_distance(
-        scipy.sparse.csr_matrix(matrix_variables),
-    )
-    # matrix_variables_distance = skMetrics.pairwise_distances(
-    #     matrix_variables, metric="jaccard"
+    # matrix_variables_distance = jaccard_distance(
+    #     scipy.sparse.csr_matrix(matrix_variables),
     # )
+    matrix_variables_distance = skMetrics.pairwise_distances(
+        matrix_variables, metric="jaccard"
+    )
     return matrix_variables_distance

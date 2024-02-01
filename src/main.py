@@ -851,7 +851,7 @@ class JSONLogParser(DrainMethod.LogParser):
         df_event["Occurrences"] = df_event["EventTemplate"].map(occ_dict)
         df_log = df_log.rename(
             {"EventTemplate": "template", "ParameterList": "variables"}
-        )
+        )   
         return df_log, df_event
 
     def parse(self, log_df: pd.DataFrame) -> List[DrainMethod.Logcluster]:
@@ -1195,7 +1195,7 @@ def get_variable_matrix(
 ) -> np.ndarray:
     binarizer = skPrepro.MultiLabelBinarizer(sparse_output=False)
     matrix_variables = binarizer.fit_transform(
-        (e[variable_field] for e in parsed_events)
+        (e[variable_field] for e in parsed_events)# type: ignore
     )
     if matrix_variables.shape[0] == 0:
         raise EmptyLog("No logs in the logs provided", logs=parsed_events)  # type: ignore
@@ -1205,10 +1205,10 @@ def get_variable_matrix(
 
 
 def get_distance_matrix(
-    log_emeddings_data: np.ndarray,
+    log_embeddings_data: np.ndarray,
     metric: Literal["jaccard", "cosine", "euclidean"],
 ) -> np.ndarray:
-    return skMetrics.pairwise_distances(log_emeddings_data["embeddings"], metric=metric)
+    return skMetrics.pairwise_distances(log_embeddings_data["embeddings"], metric=metric)
 
 
 def get_count_distance_matrix(
@@ -1301,6 +1301,7 @@ def get_triplet_matrix(
 def combine_matrices(
     triplet_matrix: TripletMatrix, triplet_coef: TripletCoef, **kwargs
 ) -> np.ndarray:
+    
     if triplet_coef["coef_variables_matrix"] == 0:
         combined_distance_matrix = triplet_matrix["embeddings_matrix"] * triplet_coef["coef_embeddings_matrix"] + triplet_matrix["count_matrix"] * triplet_coef["coef_count_matrix"]  # type: ignore
     else:
@@ -1460,6 +1461,7 @@ def clustering_kmedoids(
     iteration_max: Optional[int] = None,
     number_of_clusters: Optional[int] = None,
     seed: int = 0,
+    time_limit: float = 0.4,
     **kwargs,
 ) -> Dict[int, int]:
     if must_link is None:
@@ -1509,7 +1511,7 @@ def clustering_kmedoids(
         cannot_link_array_ptr,
         ctypes.c_size_t,
         ctypes.c_int,
-        ctypes.c_int,
+        ctypes.c_double,
         ctypes.c_bool,
     ]
     # dummy_cpp_library.clusterize.restype = clusters_ptr
@@ -1525,7 +1527,7 @@ def clustering_kmedoids(
         cannot_link_array.astype(np.int64),
         n_cannot_link,
         iteration_max,
-        -1,
+        time_limit,
         True,
     )
     clusters = np.copy(np.ctypeslib.as_array(data_ptr, shape=(n_points,)))
@@ -1561,358 +1563,41 @@ def print_memory_usage():
 
 def test_running_kmedoids():
     print("Start")
-    for _ in range(10000):
+    L = []
+    for _ in range(10):
         np.random.seed(_)
-        print(f"{_:/^40}")
-        combined_matrix = np.array(
-            [
-                [
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                ],
-                [
-                    1.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                ],
-                [
-                    1.0,
-                    1.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                ],
-                [
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                ],
-                [
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                ],
-                [
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                ],
-                [
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                ],
-                [
-                    1.0,
-                    1.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                ],
-                [
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                ],
-                [
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                ],
-                [
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                ],
-                [
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                ],
-                [
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                ],
-                [
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                ],
-                [
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0,
-                    0.0,
-                    1.0,
-                    1.0,
-                ],
-                [
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0,
-                    1.0,
-                ],
-                [
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    1.0,
-                    0.0,
-                ],
-            ]
-        )
+        # print(f"{_:/^40}")
+        size = 148
+        combined_matrix = np.abs(np.random.rand(size,size))
+        combined_matrix = (combined_matrix+combined_matrix.T)/2
+        np.fill_diagonal(combined_matrix, 0)
         number_of_clusters = 2
-        print(f"{'BEFORE':-^40}")
-        print_memory_usage()
-        print(f"{'BEFORE':*^40}")
+        # print(f"{'BEFORE':-^40}")
+        # print_memory_usage()
+        # print(f"{'BEFORE':*^40}")
+        import time, sys
+        start = time.perf_counter()
         clusters = clustering_kmedoids(
             combined_matrix,
             points=combined_matrix,
             must_link=[],
             cannot_link=[],
-            iteration_max=-1,
+            iteration_max=10,
             number_of_clusters=number_of_clusters,
             seed=_,
+            time_limit=0.5
         )
+        end = time.perf_counter()
+        print(end-start)
+        L.append(end-start)
         if len(np.unique(list(clusters.values()))) > number_of_clusters:
             print(f"Error for {_}")
             raise Exception(f"Error for {_}")
-        print(len({v for v in clusters.values()}), number_of_clusters)
         del combined_matrix
-        print(f"{'AFTER':-^40}")
-        print_memory_usage()
-        print(f"{'AFTER':*^40}")
-
+        # print(f"{'AFTER':-^40}")
+        # print_memory_usage()
+        # print(f"{'AFTER':*^40}")
+    print("Time: ",sum(L)/len(L),max(L))
 
 def labels_to_groups(
     build_log_name: str, group_mapping: Dict[int, int]

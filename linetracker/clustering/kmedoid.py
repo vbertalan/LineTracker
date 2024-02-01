@@ -106,6 +106,7 @@ def clustering_kmedoids(
     iteration_max: Optional[int] = None,
     seed: int = 0,
     library_path: Union[str, Path] = "./clustering_lib.so",
+    time_limit: float = 0.2,
     **kwargs,
 ) -> Dict[int, int]:
     """Function to call the c++ already compiled kmedoid.so library. Starting from a random clustering it iteratively improves it ensuring that points in must_link pars are always linked together and points in cannot_link are never linked together. **It ensures that the number_of_clusters asked is respected** by using comply_with_num_of_clusters
@@ -133,6 +134,8 @@ def clustering_kmedoids(
         cannot_link = []
     if iteration_max is None:
         iteration_max = 10
+    if time_limit is None:
+        time_limit = 0.2
     if number_of_clusters == 1:
         return {i: 0 for i in range(len(combined_matrix))}
     if number_of_clusters == len(combined_matrix):
@@ -162,7 +165,7 @@ def clustering_kmedoids(
         cannot_link_array_ptr,
         ctypes.c_size_t,
         ctypes.c_int,
-        ctypes.c_int,
+        ctypes.c_double,
         ctypes.c_bool,
     ]
     dummy_cpp_library.clusterize.restype = ctypes.POINTER(ctypes.c_int)
@@ -178,7 +181,7 @@ def clustering_kmedoids(
         cannot_link_array.astype(np.int64),
         n_cannot_link,
         iteration_max,
-        -1,
+        time_limit,
         True,
     )
     # 7. Convert and get the clustering result and check that no suspicious cluster is seen
