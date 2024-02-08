@@ -1,7 +1,7 @@
 """Contains all possible normalized distances functions to compute distances between embeddings"""
 import numpy as np
 import sklearn.metrics as skMetrics
-
+import tqdm
 from typing import *#type: ignore
 
 EmbeddingDistanceType = Literal["cosine", "euclidean"]
@@ -19,6 +19,38 @@ def normalized_cosine_distance(data: np.ndarray) -> np.ndarray:
     distance = skMetrics.pairwise_distances(data, metric="cosine")
     return distance / 2.0
 
+def cosine_similarity(embeddings: List[np.ndarray]) -> np.ndarray:
+    """pariwise cosine distance matrix
+
+    # Arguments
+    - data: np.ndarray, input embeddings to compute the pairwise distance from
+
+    # Returns
+    - np.ndarray, the pairwise cosine distance between each pair of embeddings (data.shape[0],data.shape[0])
+    """
+    n = len(embeddings)
+    m = np.zeros((n,n))
+    for i in tqdm.tqdm(range(n),total=n):
+        for j in range(i,n):
+            e1 = embeddings[i]
+            e2 = embeddings[j]
+            prod = e1 @ e2.T
+            print(i,j, prod.shape)
+            m[i,j] = np.mean(np.max(prod,axis=1))
+            m[j,i] = np.mean(np.max(prod,axis=0))
+    return m
+
+def normalized_cosine_distance2(embeddings: List[np.ndarray]) -> np.ndarray:
+    """pariwise cosine distance matrix
+
+    # Arguments
+    - data: np.ndarray, input embeddings to compute the pairwise distance from
+
+    # Returns
+    - np.ndarray, the pairwise cosine distance between each pair of embeddings (data.shape[0],data.shape[0])
+    """
+    m = cosine_similarity(embeddings)
+    return 1-(m-np.min(m))/(np.max(m)-np.min(m))
 
 def normalized_euclidean_distance(data: np.ndarray) -> np.ndarray:
     """Normalized pariwise euclidean distance matrix: euclidean distance does not have bounds  by itself so  we normalize it between 0 and 1 using min max of the distance

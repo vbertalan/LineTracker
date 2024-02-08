@@ -34,8 +34,8 @@ class OutOfMemoryError(Exception):
         print(self.message)
         super().__init__(self.message)
 
-def get_pooling_function(pooling_code: "PoolingOperationCode" = "mean") -> "PoolingFn":
-    """Get the function to aggregate the large language model embedding over the sequence length
+def get_pooling_function(pooling_code: "PoolingOperationCode" = "none") -> "PoolingFn":
+    """Get the function if you want aggregate the large language model embedding over the sequence length
 
     # Arguments
     - pooling_code: PoolingOperationCode, the name of the operation to use
@@ -47,6 +47,8 @@ def get_pooling_function(pooling_code: "PoolingOperationCode" = "mean") -> "Pool
         return lambda embedding: torch.mean(embedding, dim=0)
     elif pooling_code == "sum":
         return lambda embedding: torch.sum(embedding, dim=0)
+    elif pooling_code == "none":
+        return lambda embedding: embedding
     else:
         raise ValueError(f"{pooling_code=} is not possible")
 
@@ -144,6 +146,7 @@ class generate_embeddings_llm:
         self.model.eval()
         self.model_name = model_name
         self.use_cpu = use_cpu
+        self.preprompt = ""
     def __call__(self,
         events: List[str],
         pooling_fn: PoolingFn,
@@ -180,6 +183,7 @@ class generate_embeddings_llm:
         ```
         """
         for i, event in enumerate(events):
+            event = self.preprompt+event
             tokenized_full_text = self.tokenizer.encode(event)
             limit_tokens_sample = limit_tokens
             if limit_tokens == -1:

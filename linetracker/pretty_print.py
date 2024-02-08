@@ -3,6 +3,7 @@
 from typing import *
 import colorsys
 import rich.console as c
+import collections as col
 
 
 class ColoredClustering(NamedTuple):
@@ -65,7 +66,7 @@ def convert_clustering_to_colored_clustering(
     for i, text in enumerate(logs):
         r, g, b = cluster_color_mapping[clustering[i]]
         L.append(
-            ColoredClustering(
+            dict(
                 text=text, color=f"rgb({r},{g},{b})", cluster=clustering[i]
             )
         )
@@ -112,6 +113,16 @@ def print_colored_paired_clustering_rich(
         console.print(f"{line_id:03d}-{cluster1}-{cluster2}: {text}", style=f"{color1} on {color2}", end="\n")
     console.print()
 
+def print_clusters(lines: List[ColoredClustering]):
+    d = col.defaultdict(list)
+    for l in lines:
+        d[l["cluster"]].append(l)
+    for c, l_lines in d.items():
+        print(f"{f'Cluster {c}':-^100}")
+        for l in l_lines:
+            print(l['text'])
+        print()
+    
 def generate_clustering_markdown_html(lines: List[ColoredClustering]) -> str:
     """Convert each colored clustered line provided to a markdown/html text where each cluster has a color in the format
     

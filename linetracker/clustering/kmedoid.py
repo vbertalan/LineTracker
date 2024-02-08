@@ -9,6 +9,7 @@ import sklearn.metrics as skMetrics
 from .types import ClusteringAlgorithmOutput
 from pathlib import Path
 from typing import *  # type: ignore
+import time
 
 
 class ClusteringAlgorithmOutputKMedoid(ClusteringAlgorithmOutput):
@@ -108,7 +109,7 @@ def clustering_kmedoids(
     library_path: Union[str, Path] = "./clustering_lib.so",
     time_limit: float = 0.2,
     **kwargs,
-) -> Dict[int, int]:
+) -> Tuple[Dict[int, int], int, float]:
     """Function to call the c++ already compiled kmedoid.so library. Starting from a random clustering it iteratively improves it ensuring that points in must_link pars are always linked together and points in cannot_link are never linked together. **It ensures that the number_of_clusters asked is respected** by using comply_with_num_of_clusters
     
     # Arguments
@@ -168,8 +169,9 @@ def clustering_kmedoids(
         ctypes.c_double,
         ctypes.c_bool,
     ]
-    dummy_cpp_library.clusterize.restype = ctypes.POINTER(ctypes.c_int)
+    dummy_cpp_library.clusterize.restype = ctypes.POINTER(ctypes.c_double)
     # 6. Run the function
+    start_time = time.perf_counter()
     data_ptr = dummy_cpp_library.clusterize(
         seed,
         combined_matrix.astype(np.float64),
@@ -184,15 +186,17 @@ def clustering_kmedoids(
         time_limit,
         True,
     )
+    duration = time.perf_counter()-start_time
     # 7. Convert and get the clustering result and check that no suspicious cluster is seen
-    clusters = np.copy(np.ctypeslib.as_array(data_ptr, shape=(n_points,)))
+    data_out = np.copy(np.ctypeslib.as_array(data_ptr, shape=(n_points+2,)))
+    clusters = data_out[2:]
+    num_iter = int(data_out[0])
+    final_objective = data_out[1]
     unique_clusters = np.unique(clusters)
     assert (
         len(unique_clusters) <= number_of_clusters
     ), f"Expecting {number_of_clusters=} or less but found {len(unique_clusters)=} with {unique_clusters=} {clusters=}\n{combined_matrix.reshape((n_points, n_dims)).tolist()=}"
-    # 8. Free the last pointer not already freed
-    with contextlib.suppress(Exception):
-        dummy_cpp_library.free_array(data_ptr)
+    
     # 9. Ensure that we comply with the required number of clusters
     clusters = comply_with_num_of_clusters(
         distances=combined_matrix.reshape((n_points, n_dims)),
@@ -200,7 +204,13 @@ def clustering_kmedoids(
         must_link=must_link,
         target_n_clusters=number_of_clusters,
     )
-    return {i: c for i, c in enumerate(clusters)}
+    clusters = {i: c for i, c in enumerate(clusters)}
+    # 8. Free the last pointer not already freed
+    try:
+        dummy_cpp_library.free_array(data_ptr)
+    except Exception:
+        pass
+    return clusters, num_iter, final_objective, duration
 
 
 def get_clustering_kmedoid(
@@ -213,7 +223,7 @@ def get_clustering_kmedoid(
     library_path: Union[str, Path] = "./clustering_lib.so",
     n_samples: int = 10,
     **kwargs,
-) -> ClusteringAlgorithmOutputKMedoid:
+) -> List[ClusteringAlgorithmOutputKMedoid]:
     """Wrapper around the clustering_kmedoids function: the task of get_clustering_kmedoid is to automatically choose the best number of clusters based on the silhouette score (best score for choosing number of clusters when we do not know it)
     
     # Arguments
@@ -234,26 +244,26 @@ def get_clustering_kmedoid(
     # 2. Exclude the simple cases: 0 lines, 1 lines -> 1 cluster, !! 2 lines is chosen as 2 clusters !!
     # We need to exclude the case of 2 lines because the silhouette score can only be computed for 2 -> n-1 clusters with n the number of lines
     if len(combined_matrix) == 0:
-        return {
+        return [{
             "type": "kmedoids",
             "score": 1.0,
             "clustering": {},
             "hyperparameters": {"number_of_clusters": -1},
-        }
+        }]
     if len(combined_matrix) == 1:
-        return {
+        return [{
             "type": "kmedoids",
             "score": 1.0,
             "clustering": {0: 0},
             "hyperparameters": {"number_of_clusters": 1},
-        }
+        }]
     if len(combined_matrix) == 2:
-        return {
+        return [{
             "type": "kmedoid",
             "clustering": {0: 0, 1: 1},
             "hyperparameters": {"number_of_clusters": -1},
             "score": 1,
-        }
+        }]
     # 3. Manages the default values
     if must_link is None:
         must_link = []
@@ -262,12 +272,12 @@ def get_clustering_kmedoid(
     if iteration_max is None:
         iteration_max = 10
     # 4. Then we test the number of clusters to try to maximize the silhouette score (score in ClusteringAlgorithmOutputKMedoid dict)
-    best: ClusteringAlgorithmOutputKMedoid = {
-        "type": "kmedoid",
-        "clustering": {},
-        "hyperparameters": {"number_of_clusters": -1},
-        "score": -float("inf"),
-    }
+    # best: ClusteringAlgorithmOutputKMedoid = {
+    #     "type": "kmedoid",
+    #     "clustering": {},
+    #     "hyperparameters": {"number_of_clusters": -1},
+    #     "score": -float("inf"),
+    # }
     # 4.1 We will samples the number of clusters between the maximum number of clusters and the minimum number of clusters:
     # The maximum number of samples will be either n_samples if we have a lot of lines or len(combined_matrix) - 1 - 2 + 1:
     # len(combined_matrix) - 1 is the maximum number of samples supported by silhouette score
@@ -280,8 +290,9 @@ def get_clustering_kmedoid(
             np.linspace(2, len(combined_matrix) - 1, n_samples) # comply with silhouette score requirements
         ).astype(int) # have integers
     )
+    Lout = []
     for number_of_clusters_tested in clusters_to_test:
-        clustering = clustering_kmedoids(
+        clustering, num_iter, final_objective, duration = clustering_kmedoids(
             combined_matrix,
             must_link=must_link,
             cannot_link=cannot_link,
@@ -298,13 +309,14 @@ def get_clustering_kmedoid(
                 metric="precomputed",
             )
         )
-        # 4.3 Is this a better values, if so wee keep this clustering
-        if score > best["score"]:
-            best = {
+        Lout.append({
                 "type": "kmedoid",
                 "clustering": clustering,
                 "hyperparameters": {"number_of_clusters": number_of_clusters_tested},
                 "score": score,
-            }
+                "num_iter":num_iter, 
+                "final_objective":final_objective, 
+                "duration":duration,
+        })
     # 5. We return the best clustering found according to silhouette score
-    return best
+    return Lout

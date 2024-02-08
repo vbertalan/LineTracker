@@ -80,7 +80,7 @@ def execute_full_pipeline(
     triplet_coefficient: TripletCoef,
     parser: Callable[[List[LogData]], List[p.ParsedLine]],
     embedder: Callable[[List[str]], Generator[np.ndarray, None, None]],
-    embedding_distance_fn: Callable[[np.ndarray], np.ndarray],
+    embedding_distance_fn: Callable[[List[np.ndarray]], np.ndarray],
     line_distance_fn: Callable[[List[LogData]], np.ndarray],
     clustering_fn: Callable[[np.ndarray], c.ClusteringAlgorithmOutput],
     float_precision: type = np.float32,
@@ -91,7 +91,7 @@ def execute_full_pipeline(
     - triplet_coefficient: TripletCoef, the three coefficients to use to ponderate the matrices
     - parser: Callable[[List[LogData]], List[p.ParsedLine]], a function that from the list of logs lines can generate for each line
     - embedder: Callable[[List[str]], Generator[np.ndarray, None, None]], the function that can generate embeddings from logs
-    - embedding_distance_fn: Callable[[np.ndarray], np.ndarray], given all embeddings of each log lines of the same log file, generate the normalized (between 0 and 1) distances between all embeddings
+    - embedding_distance_fn: Callable[[List[np.ndarray]], np.ndarray], given all embeddings of each log lines of the same log file, generate the normalized (between 0 and 1) distances between all embeddings
     - line_distance_fn: Callable[[List[str]],np.ndarray], a function that can generate a matrix with the distance between each log line
     - clustering_fn:  Callable[[np.ndarray], c.ClusteringAlgorithmOutput], taking the combined matrix with the coefficients provided, clusters the logs
     - float_precision: type = np.float32, the precision to use for all floating point matrices
@@ -103,9 +103,7 @@ def execute_full_pipeline(
     # 2. build the variable matrix (alreay normalized matrix as it has values between 0 and 1)
     variables_distance_matrix = e.get_variable_matrix(parsed_variables).astype(float_precision)
     # 3. build the embeddings
-    embeddings: np.ndarray = np.array(
-        [embedding for embedding in embedder(logs_texts)]
-    ).astype(float_precision)
+    embeddings: List[np.ndarray] = [embedding for embedding in embedder(logs_texts)]
     # 4. build the distance matrix
     embeddings_distance_matrix = embedding_distance_fn(embeddings).astype(
         float_precision
@@ -127,7 +125,12 @@ def execute_full_pipeline(
     del embeddings_distance_matrix
     # 7. run the clustering algorithm with the constraints
     clustering_output = clustering_fn(combined_matrix)
-    for coef,coef_val in triplet_coefficient.items():
-        clustering_output['hyperparameters'][coef] = coef_val
+    if isinstance(clustering_output, list):
+        for i in range(len(clustering_output)):
+            for coef,coef_val in triplet_coefficient.items():
+                clustering_output[i]['hyperparameters'][coef] = coef_val
+    else:
+        for coef,coef_val in triplet_coefficient.items():
+            clustering_output['hyperparameters'][coef] = coef_val
     # 8. return the result
     return clustering_output
