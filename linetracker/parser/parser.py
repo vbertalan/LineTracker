@@ -297,6 +297,7 @@ def get_parameter_list(template: str, text: str) -> List[str]:
 
 def parse(
     preprocessed_texts: List[str],
+    reg_expressions: List[str],
     depth: int = default_depth,
     max_child: int = default_max_child,
     similarity_threshold: float = default_similarity_threshold,
@@ -317,7 +318,7 @@ def parse(
         logID = i
 
         ## Tokenization by splits
-        logmessage = line
+        logmessage = preprocess(line,reg_expressions)
         logmessageL = logmessage.strip().split()
 
         matchCluster = treeSearch(
@@ -367,14 +368,15 @@ def get_templates_variables_per_lines(
     L.sort(key=lambda x:x['line_number'])
     return [{"template": e["template"], "variables": e["variables"]} for e in L]
 
-def preprocess( line: str, rex):
+def preprocess( line: str, reg_expressions):
     """Method to preprocess file using regex: replace in the line all self.rex regex specified by <*>"""
-    for currentRex in rex:
+    for currentRex in reg_expressions:
         line = re.sub(currentRex, '<*>', line)
     return line
 
 def get_parsing_drainparser(
     events: List[str],
+    reg_expressions: List[str],
     depth: int = default_depth,
     similarity_threshold: float = default_similarity_threshold,
     max_children: int = default_max_child,
@@ -396,6 +398,7 @@ def get_parsing_drainparser(
         depth=depth,
         max_child=max_children,
         similarity_threshold=similarity_threshold,
+        reg_expressions=reg_expressions,
     )
     variables = get_templates_variables_per_lines(templates)
     return variables
