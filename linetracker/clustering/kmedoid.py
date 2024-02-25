@@ -173,7 +173,6 @@ def clustering_kmedoids(
     dummy_cpp_library.clusterize.restype = ctypes.POINTER(ctypes.c_double)
     # 6. Run the function
     start_time = time.perf_counter()
-    print(f"{must_link_array=}")
     data_ptr = dummy_cpp_library.clusterize(
         seed,
         combined_matrix.astype(np.float64),
