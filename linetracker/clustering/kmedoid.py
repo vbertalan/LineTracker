@@ -149,10 +149,11 @@ def clustering_kmedoids(
     # 4. Prepare the arguments and their associated type for c++ transfer
     combine_matrix_ptr = np.ctypeslib.ndpointer(dtype=np.float64, ndim=1, flags="C")
     must_link_array = np.array(must_link).flatten().astype(np.int32)
-    must_link_array_ptr = np.ctypeslib.ndpointer(dtype=np.int64, ndim=1, flags="C")
+    must_link_array_ptr = np.ctypeslib.ndpointer(dtype=np.int32, ndim=1, flags="C")
+    # must_link_array_ptr = must_link_array.ctypes.data_as(ctypes.POINTER(ctypes.c_int))
     n_must_link = len(must_link)
     cannot_link_array = np.array(cannot_link).flatten().astype(np.int32)
-    cannot_link_array_ptr = np.ctypeslib.ndpointer(dtype=np.int64, ndim=1, flags="C")
+    cannot_link_array_ptr = np.ctypeslib.ndpointer(dtype=np.int32, ndim=1, flags="C")
     n_cannot_link = len(cannot_link)
     # 5. Prepare the function prototype: input arguments types and return type
     dummy_cpp_library.clusterize.argtypes = [
@@ -172,15 +173,16 @@ def clustering_kmedoids(
     dummy_cpp_library.clusterize.restype = ctypes.POINTER(ctypes.c_double)
     # 6. Run the function
     start_time = time.perf_counter()
+    print(f"{must_link_array=}")
     data_ptr = dummy_cpp_library.clusterize(
         seed,
         combined_matrix.astype(np.float64),
         int(n_points),
         int(n_dims),
         int(number_of_clusters),
-        must_link_array.astype(np.int64),
+        must_link_array,
         int(n_must_link),
-        cannot_link_array.astype(np.int64),
+        cannot_link_array,
         n_cannot_link,
         iteration_max,
         time_limit,
