@@ -20,3 +20,12 @@ data/input/
 *.so
 **/__pycache__/
 data/
+tests/CienaFiles/data-10.json
+tests/CienaFiles/data.json
+tests/CienaFiles/jenkins_build_log
+tests/CienaFiles/jenkins_build_log.json
+tests/CienaFiles/pots-emotr
+tests/CienaFiles/pots-emotr.json
+tests/CienaFiles/pots-ome6500
+tests/CienaFiles/pots-sim6500
+tests/CienaFiles/pots-sim6500.json
