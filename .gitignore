@@ -29,3 +29,8 @@ tests/CienaFiles/pots-emotr.json
 tests/CienaFiles/pots-ome6500
 tests/CienaFiles/pots-sim6500
 tests/CienaFiles/pots-sim6500.json
+tests/CienaFiles/bintrace_headers
+tests/CienaFiles/bintrace_headers.json
+tests/bintrace_headers.html
+tests/demo.html
+tests/demo.html
