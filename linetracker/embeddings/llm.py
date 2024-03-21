@@ -74,6 +74,7 @@ def get_tokenizer(
         token=token,
         trust_remote_code=True,
     )  # type: ignore
+    tokenizer.enable_truncation(max_length=512)
     return tokenizer
 
 
