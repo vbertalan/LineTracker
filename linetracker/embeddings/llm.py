@@ -74,7 +74,6 @@ def get_tokenizer(
         token=token,
         trust_remote_code=True,
     )  # type: ignore
-    tokenizer.enable_truncation(max_length=512)
     return tokenizer
 
 
@@ -185,7 +184,7 @@ class generate_embeddings_llm:
         """
         for i, event in enumerate(events):
             event = self.preprompt+event
-            tokenized_full_text = self.tokenizer.encode(event)
+            tokenized_full_text = self.tokenizer.encode(event, truncation=True)
             limit_tokens_sample = limit_tokens
             if limit_tokens == -1:
                 limit_tokens_sample = len(tokenized_full_text)
