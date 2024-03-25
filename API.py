@@ -1,8 +1,15 @@
 import LineTracker as lt
-import os
+from fastapi import FastAPI
+from fastapi.responses import HTMLResponse
+from fastapi.responses import FileResponse
 
-lc = lt.LineTracker()
-token = "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"
-lc.cluster(logfile = "/home/vbertalan/Downloads/LineTracker/LineTracker/data-10.json", num_clusters = 2, token=token)
-#lc.cluster(logfile = "/home/vbertalan/Downloads/LineTracker/LineTracker/ctm-cmcp_sim", 
-#           num_clusters = 10, token = token)
+app = FastAPI()
+
+@app.get("/get-message")
+async def read_root():
+    return{"Message":"API connected."}
+
+@app.get("/cluster_html", response_class=HTMLResponse)
+async def cluster_html(logfile:str, token:str):
+    lc = lt.LineTracker()
+    return(lc.cluster(logfile = logfile, token=token))
