@@ -14,6 +14,7 @@ import linetracker.line_distance as ld
 import linetracker.parser.parser as p
 import linetracker.main as m
 
+
 from rich.console import Console
 from tqdm import tqdm
 import numpy as np
