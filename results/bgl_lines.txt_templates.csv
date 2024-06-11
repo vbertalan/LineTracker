@@ -1,15 +1,19 @@
 EventId,EventTemplate,Occurrences
 b3a36d95,RAS APP FATAL ciod : Error creating node map from file /home/pakin1/comms-conc/xyzt-1x1x32768x1.map : Bad address,20
-43708b7d,RAS KERNEL INFO <*> <*> <*> <*> <*>,161
+b80f2820,RAS KERNEL INFO instruction cache parity error corrected,121
 77d3d9df,RAS KERNEL INFO ciod : Message code 0 is not 51 or 4294967295,5
 9e5da10d,RAS KERNEL INFO ciod : cpu 0 at treeaddr <*> sent unrecognized message 0xffffffff,4
 12ce08bb,RAS KERNEL INFO generating <*>,8
 8a87eda8,"RAS KERNEL INFO ciod : for node <*> , read continuation request but ioState is 0",3
-ffd19bff,RAS KERNEL FATAL <*> <*> <*> <*>,91
-5df8c886,RAS KERNEL <*> <*> <*> <*>,120
-04137707,RAS KERNEL FATAL <*> <*> <*> <*> <*>,72
-737b9716,RAS KERNEL FATAL <*> <*> <*> <*> <*> <*>,69
+27f8f364,RAS KERNEL FATAL data TLB error interrupt,80
+f9189caa,RAS KERNEL FATAL <*> <*> <*>,100
+7f726d19,RAS KERNEL <*> program interrupt : <*> <*>,80
+ee642ace,RAS KERNEL FATAL data store interrupt caused by <*>,30
+d7d9bdee,RAS KERNEL FATAL program interrupt : fp cr update.............0,10
+0fecf01e,RAS KERNEL FATAL critical input interrupt enable...0,11
 eb26dedf,"RAS KERNEL FATAL problem state ( 0 = sup , 1 = usr ) .......0",10
+fafb7aab,RAS KERNEL FATAL rts panic! - stopping execution,12
+2ccb895a,RAS KERNEL FATAL floating pt ex mode 0 enable......0,9
 d76838ba,RAS KERNEL INFO 1 torus receiver <*> input pipe error ( s ) ( dcr <*> ) detected and corrected,2
 0f9a0477,"RAS KERNEL INFO CE sym <*> , at <*> , mask <*>",40
 9a31c75f,RAS KERNEL INFO total of <*> ddr error ( s ) detected and corrected,33
@@ -20,6 +24,8 @@ d76838ba,RAS KERNEL INFO 1 torus receiver <*> input pipe error ( s ) ( dcr <*> )
 83443b2f,RAS KERNEL INFO <*> double-hummer alignment exceptions,120
 77e29210,"RAS KERNEL INFO <*> ddr errors ( s ) detected and corrected on rank 0 , symbol <*> , bit <*>",20
 62d56865,RAS KERNEL INFO <*> L3 <*> error ( s ) ( dcr <*> ) detected and corrected,7
+e4d06314,RAS KERNEL INFO exception syndrome register : 0x08000000,20
+fc457cde,RAS KERNEL INFO floating point operation....................0,20
 a052f7e6,NULL DISCOVERY ERROR Node card status : no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.,24
 e179bea2,NULL DISCOVERY WARNING Node card is not fully functional,32
 20dd0df3,NULL DISCOVERY SEVERE Can not get assembly information for node card,24
@@ -31,6 +37,7 @@ ee555995,"NULL DISCOVERY <*> Node card VPD check : <*> node in processor card sl
 b9a9abcf,"NULL DISCOVERY INFO Node card VPD check : missing <*> node , VPD ecid <*> in processor card slot <*>",13
 e6efd819,NULL DISCOVERY INFO New ido chip inserted into the database : FF : F2 : 9F : <*> : <*> : <*> : 00 : 0D : 60 : <*> : <*> : <*> ip = <*> v = <*> t = <*>,9
 69602cc8,"RAS MMCS ERROR idoproxydb hit ASSERT condition : ASSERT expression = 0 Source file = idotransportmgr.cpp Source line = 1043 Function = int IdoTransportMgr : : SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )",80
+16f3859a,RAS KERNEL FATAL Error : unable to mount filesystem,20
 0782b863,NULL DISCOVERY INFO Ido chip status changed : FF : F2 : 9F : <*> : <*> : <*> : 00 : 0D : 60 : <*> : <*> : <*> ip = <*> v = 13 t = <*> status = M Tue Aug 09 10 : 08 : 17 PDT 2005,20
 94630e06,"RAS APP FATAL ciod : Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts : invalid or missing program image , Exec format error",60
 e442ed8c,RAS KERNEL FATAL rts : kernel terminated for reason <*>,40
