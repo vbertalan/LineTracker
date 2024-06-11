@@ -266,7 +266,7 @@ class LogParser:
 
     ## Main method, parses the strings and calls other methods
     def parse(self, logName):
-        print('Parsing file: ' + os.path.join(self.path, logName))
+        #print('Parsing file: ' + os.path.join(self.path, logName))
         start_time = datetime.now()
         self.logName = logName
         rootNode = Node()
@@ -275,7 +275,7 @@ class LogParser:
         ## Loads data to a dataframe
         self.load_data()
 
-        for idx, line in tqdm(self.df_log.iterrows(), desc="Parsing Progress", total=len(self.df_log)):
+        for idx, line in self.df_log.iterrows():
             logID = line['LineId']
 
             ## Tokenization by splits
@@ -310,7 +310,7 @@ class LogParser:
 
         self.outputResult(logCluL)
 
-        print('Parsing done. [Time taken: {!s}]'.format(datetime.now() - start_time))
+        #print('Parsing done. [Time taken: {!s}]'.format(datetime.now() - start_time))
 
     ## Method to generate regex to split strings, and to load the log file to dataframe
     def load_data(self):
