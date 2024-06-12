@@ -1,0 +1,60 @@
+EventId,EventTemplate,Occurrences
+43efcc37,WARN Send worker leaving thread,72
+6a611e72,INFO Received connection request <*> : <*>,82
+adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",84
+a6fada62,WARN Interrupting SendWorker,73
+6d4370a3,WARN Interrupted while waiting for message on queue,80
+da32e978,INFO Accepted socket connection from <*> : <*>,118
+f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,114
+25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,112
+52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,113
+a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,147
+dc800d8a,WARN caught end of stream exception,145
+9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded",247
+3c48ca42,INFO Processed session termination for sessionid : <*>,250
+6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,79
+4010f2f9,INFO Notification time out : <*>,37
+f0c04709,"INFO Notification : <*> ( n.leader ) , <*> ( n.zxid ) , <*> ( n.round ) , <*> ( n.state ) , <*> ( n.sid ) , <*> ( n.peerEPoch ) , <*> ( my state )",27
+b9a9700c,"<*> <*> : <*> : <*> , <*> - INFO [ QuorumPeer [ myid = <*> ] /0 : 0 : 0 : 0 : 0 : 0 : 0 : 0 : 2181 : <*> ] - <*>",7
+8fb448b2,INFO TCP NoDelay set to : true,3
+bf09ffe8,"INFO Server environment : zookeeper.version = 3.4.5--1 , built on 06/10/2013 17 : 26 GMT",3
+7a42de1b,INFO Server environment : <*> = <*>,27
+3914e9e9,INFO Server environment : java.vendor = Oracle Corporation,3
+15fe8608,INFO Server environment : java.class.path = /etc/zookeeper/conf : /usr/share/java/jline.jar : /usr/share/java/log4j-1.2.jar : /usr/share/java/xercesImpl.jar : /usr/share/java/xmlParserAPIs.jar : /usr/share/java/netty.jar : /usr/share/java/slf4j-api.jar : /usr/share/java/slf4j-log4j12.jar : /usr/share/java/zookeeper.jar,3
+5ef7c293,INFO Server environment : java.library.path = /usr/java/packages/lib/amd64 : /usr/lib/x86_64-linux-gnu/jni : /lib/x86_64-linux-gnu : /usr/lib/x86_64-linux-gnu : /usr/lib/jni : /lib : /usr/lib,3
+f74b5a20,INFO binding to port 0.0.0.0/0.0.0.0 : 2181,1
+21824fb0,INFO tickTime set to 2000,1
+728b7dc4,INFO minSessionTimeout set to -1,2
+daefd068,INFO <*> set to <*>,5
+7f00c768,INFO Reading snapshot <*>,5
+13d7405b,INFO My election bind port : 0.0.0.0/0.0.0.0 : 3888,3
+053785ba,"INFO New election. My id = <*> , proposed zxid = <*>",4
+2ce9e9f2,"INFO Have smaller server identifier , so dropping the connection : ( <*> , 1 )",2
+dbcb2fef,INFO Revalidating client : <*>,11
+f4086e14,INFO Shutting down,5
+2961939c,INFO shutting down,2
+82429f91,INFO FollowerRequestProcessor exited loop!,1
+ce2353be,INFO shutdown of request processor complete,1
+95e1f17f,INFO CommitProcessor exited loop!,1
+16d02e71,INFO SyncRequestProcessor exited!,1
+cbad1d2c,WARN ******* GOODBYE <*> : <*> ********,53
+e8820d88,ERROR Unexpected exception causing shutdown while sock still open,52
+c1efb6f3,WARN Exception when using channel : for id 3 my id = 2 error = java.net.SocketException : Broken pipe,2
+4a84e531,WARN Exception causing close of session 0x24ed93119420016 due to java.io.IOException : Connection reset by peer,1
+ea9b3b3a,INFO Follower sid : 1 : info : <*>,2
+ee251647,INFO Synchronizing with Follower sid : 1 maxCommittedLog = <*> minCommittedLog = <*> peerLastZxid = <*>,3
+49b8b663,INFO Sending DIFF,3
+96e1896c,INFO Created server with tickTime 2000 minSessionTimeout 4000 maxSessionTimeout 40000 datadir /var/lib/zookeeper/version-2 snapdir /var/lib/zookeeper/version-2,2
+46aa5cd8,INFO LEADING - LEADER ELECTION TOOK - 6255,1
+407b1e5b,INFO Snapshotting : 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd,1
+82cf096a,WARN Commiting zxid 0x500000000 from /10.10.34.12 : 2888 not first!,1
+d3628be1,WARN First is 0x0,1
+bccf3d72,INFO Have quorum of supporters ; starting up and setting last processed zxid : 0x500000000,1
+f98163e8,INFO Creating new log file : <*>,2
+fdf540e9,INFO Got user-level KeeperException when processing sessionid : 0x34ee30a5c53002d type : create cxid : <*> zxid : <*> txntype : -1 reqpath : n/a Error Path : <*> Error : KeeperErrorCode = NodeExists for <*>,4
+fc251fea,WARN Got zxid 0xa00000001 expected 0x1,1
+7f3401f0,INFO Shutdown called,1
+68808e18,INFO exception while shutting down acceptor : java.net.SocketException : Socket closed,1
+624184ea,INFO Closed socket connection for client /10.10.34.12 : <*> ( no session established for client ),7
+afc8f6dd,WARN Exception causing close of session 0x0 due to java.io.IOException : ZooKeeperServer not running,6
+ac305557,INFO Reading configuration from : /etc/zookeeper/conf/zoo.cfg,1
