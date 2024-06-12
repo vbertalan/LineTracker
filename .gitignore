@@ -51,3 +51,4 @@ CienaPOC/log-lines.txt
 CienaPOC/embeddings/log-lines.txt_vectors_TFIDF.vec
 ciena-mini.txt
 huggingface_token.txt
+huggingface_llama.txt
