@@ -40,23 +40,23 @@ parity cache instruction corrected error info kernel ras
 parity cache instruction corrected error info kernel ras  
 4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
 4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+vpd match card check node slot processor ecid u11 u01
 4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
 4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+vpd match card check node slot processor ecid u11 u01
 4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
 4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
 4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+vpd match card check node slot processor ecid u11 u01
 4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+vpd match card check node slot processor ecid u11 u01
+vpd match card check node slot processor ecid u11 u01
 4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+vpd match card check node slot processor ecid u11 u01
 4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+vpd match card check node slot processor ecid u11 u01
 4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+vpd match card check node slot processor ecid u11 u01
 4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
 tlb data interrupt fatal error kernel ras   
 tlb data interrupt fatal error kernel ras   
@@ -138,26 +138,26 @@ tlb data interrupt fatal error kernel ras
 tlb data interrupt fatal error kernel ras   
 tlb data interrupt fatal error kernel ras   
 tlb data interrupt fatal error kernel ras   
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
-storage data interrupt fatal kernel ras    
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
 illegal instruction interrupt program trap update privileged fp cr fatal
 illegal instruction interrupt program trap update privileged fp cr fatal
 illegal instruction interrupt program trap update privileged fp cr fatal
@@ -238,26 +238,26 @@ illegal instruction interrupt program trap update privileged fp cr fatal
 illegal instruction interrupt program trap update privileged fp cr fatal
 illegal instruction interrupt program trap update privileged fp cr fatal
 illegal instruction interrupt program trap update privileged fp cr fatal
-enable critical input interrupt fatal kernel debug ras  
+enable debug pt interrupt floating ex mode fatal kernel critical
 caused store icbi data dcbf interrupt fatal kernel ras 
-enable critical input interrupt fatal kernel debug ras  
+enable debug pt interrupt floating ex mode fatal kernel critical
 caused store icbi data dcbf interrupt fatal kernel ras 
-enable critical input interrupt fatal kernel debug ras  
+enable debug pt interrupt floating ex mode fatal kernel critical
 caused store icbi data dcbf interrupt fatal kernel ras 
-enable critical input interrupt fatal kernel debug ras  
+enable debug pt interrupt floating ex mode fatal kernel critical
 caused store icbi data dcbf interrupt fatal kernel ras 
-enable critical input interrupt fatal kernel debug ras  
+enable debug pt interrupt floating ex mode fatal kernel critical
 caused store icbi data dcbf interrupt fatal kernel ras 
-enable critical input interrupt fatal kernel debug ras  
+enable debug pt interrupt floating ex mode fatal kernel critical
 caused store icbi data dcbf interrupt fatal kernel ras 
-enable critical input interrupt fatal kernel debug ras  
+enable debug pt interrupt floating ex mode fatal kernel critical
 caused store icbi data dcbf interrupt fatal kernel ras 
-enable critical input interrupt fatal kernel debug ras  
+enable debug pt interrupt floating ex mode fatal kernel critical
 caused store icbi data dcbf interrupt fatal kernel ras 
 caused store icbi data dcbf interrupt fatal kernel ras 
-enable critical input interrupt fatal kernel debug ras  
+enable debug pt interrupt floating ex mode fatal kernel critical
 caused store icbi data dcbf interrupt fatal kernel ras 
-enable critical input interrupt fatal kernel debug ras  
+enable debug pt interrupt floating ex mode fatal kernel critical
 usr problem ordering byte sup state exception 3601796 fatal 0x01f0ce00
 caused store icbi data dcbf interrupt fatal kernel ras 
 usr problem ordering byte sup state exception 3601796 fatal 0x01f0ce00
@@ -279,65 +279,65 @@ caused store icbi data dcbf interrupt fatal kernel ras
 usr problem ordering byte sup state exception 3601796 fatal 0x01f0ce00
 caused store icbi data dcbf interrupt fatal kernel ras 
 illegal instruction interrupt program trap update privileged fp cr fatal
-debug enable interrupt fatal kernel ras    
+enable debug pt interrupt floating ex mode fatal kernel critical
 illegal instruction interrupt program trap update privileged fp cr fatal
-debug enable interrupt fatal kernel ras    
+enable debug pt interrupt floating ex mode fatal kernel critical
 illegal instruction interrupt program trap update privileged fp cr fatal
-debug enable interrupt fatal kernel ras    
+enable debug pt interrupt floating ex mode fatal kernel critical
 illegal instruction interrupt program trap update privileged fp cr fatal
-debug enable interrupt fatal kernel ras    
+enable debug pt interrupt floating ex mode fatal kernel critical
 illegal instruction interrupt program trap update privileged fp cr fatal
-debug enable interrupt fatal kernel ras    
+enable debug pt interrupt floating ex mode fatal kernel critical
 illegal instruction interrupt program trap update privileged fp cr fatal
-debug enable interrupt fatal kernel ras    
-debug enable interrupt fatal kernel ras    
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
 illegal instruction interrupt program trap update privileged fp cr fatal
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+enable debug pt interrupt floating ex mode fatal kernel critical
 illegal instruction interrupt program trap update privileged fp cr fatal
-debug enable interrupt fatal kernel ras    
+enable debug pt interrupt floating ex mode fatal kernel critical
 illegal instruction interrupt program trap update privileged fp cr fatal
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+enable debug pt interrupt floating ex mode fatal kernel critical
 illegal instruction interrupt program trap update privileged fp cr fatal
-stopping panic execution rts fatal kernel ras   
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-stopping panic execution rts fatal kernel ras   
-stopping panic execution rts fatal kernel ras   
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-stopping panic execution rts fatal kernel ras   
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-stopping panic execution rts fatal kernel ras   
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-stopping panic execution rts fatal kernel ras   
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-stopping panic execution rts fatal kernel ras   
-stopping panic execution rts fatal kernel ras   
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-stopping panic execution rts fatal kernel ras   
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-stopping panic execution rts fatal kernel ras   
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-stopping panic execution rts fatal kernel ras   
-debug enable interrupt fatal kernel ras    
-debug enable interrupt fatal kernel ras    
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-debug enable interrupt fatal kernel ras    
-enable critical input interrupt fatal kernel debug ras  
-debug enable interrupt fatal kernel ras    
-debug enable interrupt fatal kernel ras    
-debug enable interrupt fatal kernel ras    
-debug enable interrupt fatal kernel ras    
-debug enable interrupt fatal kernel ras    
-debug enable interrupt fatal kernel ras    
-debug enable interrupt fatal kernel ras    
-debug enable interrupt fatal kernel ras    
-debug enable interrupt fatal kernel ras    
-debug enable interrupt fatal kernel ras    
-debug enable interrupt fatal kernel ras    
-debug enable interrupt fatal kernel ras    
-debug enable interrupt fatal kernel ras    
-debug enable interrupt fatal kernel ras    
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+enable debug pt interrupt floating ex mode fatal kernel critical
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+enable debug pt interrupt floating ex mode fatal kernel critical
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+enable debug pt interrupt floating ex mode fatal kernel critical
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+enable debug pt interrupt floating ex mode fatal kernel critical
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+enable debug pt interrupt floating ex mode fatal kernel critical
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+enable debug pt interrupt floating ex mode fatal kernel critical
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+enable debug pt interrupt floating ex mode fatal kernel critical
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
+enable debug pt interrupt floating ex mode fatal kernel critical
 space address instruction fatal kernel ras    
 space address instruction fatal kernel ras    
 space address instruction fatal kernel ras    
@@ -424,20 +424,20 @@ ddr total detected corrected error info kernel ras
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 ddr total detected corrected error info kernel ras  
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 06 20 chdir login 18 09 2005 swl miniben performance
 06 20 chdir login 18 09 2005 swl miniben performance
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
+severed link reading socket ciostream prefix 96 172 116 message
+0x0b unit stream control torus wire read bit warning 16
+0x0b unit stream control torus wire read bit warning 16
+0x0b unit stream control torus wire read bit warning 16
+severed link reading socket ciostream prefix 96 172 116 message
+0x0b unit stream control torus wire read bit warning 16
+0x0b unit stream control torus wire read bit warning 16
+0x0b unit stream control torus wire read bit warning 16
+0x0b unit stream control torus wire read bit warning 16
+0x0b unit stream control torus wire read bit warning 16
 parity cache instruction corrected error info kernel ras  
 parity cache instruction corrected error info kernel ras  
 parity cache instruction corrected error info kernel ras  
@@ -482,22 +482,22 @@ sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 ddr total detected corrected error info kernel ras  
 ddr total detected corrected error info kernel ras  
 ddr total detected corrected error info kernel ras  
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 ddr total detected corrected error info kernel ras  
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 ddr total detected corrected error info kernel ras  
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 register syndrome 0x08000000 exception info kernel ras   
 register syndrome 0x08000000 exception info kernel ras   
 register syndrome 0x08000000 exception info kernel ras   
@@ -579,25 +579,25 @@ fully functional warning discovery null card node
 information assembly severe discovery null card node   
 information assembly severe discovery null card node   
 vpd match card check node slot processor ecid u11 u01
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
-hardware linkcard severe power module accessible u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
 1146800 hummer double exceptions alignment info kernel ras 2016000 
 1146800 hummer double exceptions alignment info kernel ras 2016000 
 1146800 hummer double exceptions alignment info kernel ras 2016000 
@@ -678,66 +678,66 @@ hardware linkcard severe power module accessible u58 fully null functional
 1146800 hummer double exceptions alignment info kernel ras 2016000 
 1146800 hummer double exceptions alignment info kernel ras 2016000 
 1146800 hummer double exceptions alignment info kernel ras 2016000 
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
-unavailable sequential resource mapfile temporarily auselton 64mps creating map stream
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
+64mps temporarily sequential resource unavailable auselton mapfile creating map bgl
 vpd match card check node slot processor ecid u11 u01
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
-vpd match card check node slot processor ecid u11 u01
-vpd match card check node slot processor ecid u11 u01
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
 vpd match card check node slot processor ecid u11 u01
 vpd match card check node slot processor ecid u11 u01
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
 vpd match card check node slot processor ecid u11 u01
 vpd match card check node slot processor ecid u11 u01
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
 vpd match card check node slot processor ecid u11 u01
 vpd match card check node slot processor ecid u11 u01
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
-vpd match card check node slot processor ecid u11 u01
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
 vpd match card check node slot processor ecid u11 u01
 vpd match card check node slot processor ecid u11 u01
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
 vpd match card check node slot processor ecid u11 u01
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
-vpd match card check node slot processor ecid u11 u01
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
 vpd match card check node slot processor ecid u11 u01
 vpd match card check node slot processor ecid u11 u01
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
+vpd match card check node slot processor ecid u11 u01
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
+vpd match card check node slot processor ecid u11 u01
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
 vpd match card check node slot processor ecid u11 u01
 vpd match card check node slot processor ecid u11 u01
 vpd match card check node slot processor ecid u11 u01
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
+vpd match card check node slot processor ecid u11 u01
+vpd match card check node slot processor ecid u11 u01
+ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
 vpd j19 card check node processor slot ecid u11 j18
 vpd j19 card check node processor slot ecid u11 j18
 vpd j19 card check node processor slot ecid u11 j18
@@ -749,15 +749,15 @@ vpd j19 card check node processor slot ecid u11 j18
 vpd j19 card check node processor slot ecid u11 j18
 vpd j19 card check node processor slot ecid u11 j18
 vpd j19 card check node processor slot ecid u11 j18
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+vpd match card check node slot processor ecid u11 u01
+0x0b unit stream control torus wire read bit warning 16
+vpd match card check node slot processor ecid u11 u01
+0x0b unit stream control torus wire read bit warning 16
+vpd match card check node slot processor ecid u11 u01
+vpd match card check node slot processor ecid u11 u01
+vpd match card check node slot processor ecid u11 u01
+0x0b unit stream control torus wire read bit warning 16
+0x0b unit stream control torus wire read bit warning 16
 source assert idotransportmgr cpp hit function condition bglctlpavtrace 1043 idoproxydb
 source assert idotransportmgr cpp hit function condition bglctlpavtrace 1043 idoproxydb
 source assert idotransportmgr cpp hit function condition bglctlpavtrace 1043 idoproxydb
@@ -998,14 +998,14 @@ swl sppm_chkpt prep ibm sppm 64 run functional apps files
 swl sppm_chkpt prep ibm sppm 64 run functional apps files
 swl sppm_chkpt prep ibm sppm 64 run functional apps files
 swl sppm_chkpt prep ibm sppm 64 run functional apps files
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
 spasm_static login chdir germann2 directory failed file home app ciod
 spasm_static login chdir germann2 directory failed file home app ciod
 spasm_static login chdir germann2 directory failed file home app ciod
 spasm_static login chdir germann2 directory failed file home app ciod
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
+storage data login_message interrupt reading link severed 96 prefix socket
 spasm_static login chdir germann2 directory failed file home app ciod
 spasm_static login chdir germann2 directory failed file home app ciod
 spasm_static login chdir germann2 directory failed file home app ciod
@@ -1013,10 +1013,10 @@ spasm_static login chdir germann2 directory failed file home app ciod
 spasm_static login chdir germann2 directory failed file home app ciod
 spasm_static login chdir germann2 directory failed file home app ciod
 spasm_static login chdir germann2 directory failed file home app ciod
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
+storage data login_message interrupt reading link severed 96 prefix socket
 spasm_static login chdir germann2 directory failed file home app ciod
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
-ecid 0000000000000000000000000000 processor slot login_message discovery null card j11 invalid
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
 spasm_static login chdir germann2 directory failed file home app ciod
 demo spasm_mpi germann2 128 generated files core bgl home program
 demo spasm_mpi germann2 128 generated files core bgl home program
@@ -1078,66 +1078,66 @@ retrying slept nfs seconds 14 mount failed 18 info bglio958
 retrying slept nfs seconds 14 mount failed 18 info bglio958
 retrying slept nfs seconds 14 mount failed 18 info bglio958
 retrying slept nfs seconds 14 mount failed 18 info bglio958
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+0x0b unit stream control torus wire read bit warning 16
 suppressing type interrupts info kernel ras    
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+0x0b unit stream control torus wire read bit warning 16
 suppressing type interrupts info kernel ras    
-wire unit 0x0b torus bit warning 0x06 0x03 0x07 critical
+severed link reading socket ciostream prefix 96 172 116 message
 suppressing type interrupts info kernel ras    
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-wire unit 0x0b torus bit warning 0x06 0x03 0x07 critical
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+severed link reading socket ciostream prefix 96 172 116 message
 suppressing type interrupts info kernel ras    
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 suppressing type interrupts info kernel ras    
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 ddr total detected corrected error info kernel ras  
-wire unit 0x0b torus bit warning 0x06 0x03 0x07 critical
+severed link reading socket ciostream prefix 96 172 116 message
 suppressing type interrupts info kernel ras    
-sender retransmission torus 0x02f6 pt new inserted database generating enable
-stopping panic execution rts fatal kernel ras   
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
-lustre gb1 point mount failed fatal bglio46 kernel ras bglio39
+0x0b unit stream control torus wire read bit warning 16
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
 _dev2 _hyperclaw _jag_work _pasci2 new3d mpi mf cxx_xl dev greeno
 _dev2 _hyperclaw _jag_work _pasci2 new3d mpi mf cxx_xl dev greeno
 _dev2 _hyperclaw _jag_work _pasci2 new3d mpi mf cxx_xl dev greeno
@@ -1305,59 +1305,59 @@ sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 ddr total detected corrected error info kernel ras  
 ddr total detected corrected error info kernel ras  
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 ddr total detected corrected error info kernel ras  
 ddr total detected corrected error info kernel ras  
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 ddr total detected corrected error info kernel ras  
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 ddr total detected corrected error info kernel ras  
-wire unit 0x0b torus bit warning 0x06 0x03 0x07 critical
+severed link reading socket ciostream prefix 96 172 116 message
 suppressing type interrupts info kernel ras    
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 suppressing type interrupts info kernel ras    
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 suppressing type interrupts info kernel ras    
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+0x0b unit stream control torus wire read bit warning 16
 suppressing type interrupts info kernel ras    
-wire unit 0x0b torus bit warning 0x06 0x03 0x07 critical
+0x0b unit stream control torus wire read bit warning 16
 suppressing type interrupts info kernel ras    
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 suppressing type interrupts info kernel ras    
 suppressing type interrupts info kernel ras    
 parity cache instruction corrected error info kernel ras  
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+0x0b unit stream control torus wire read bit warning 16
 suppressing type interrupts info kernel ras    
-wire unit 0x0b torus bit warning 0x06 0x03 0x07 critical
-suppressing type interrupts info kernel ras    
-tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
-load_message reading link severed 116 prefix ciostream 96 socket 172
-load_message reading link severed 116 prefix ciostream 96 socket 172
-load_message reading link severed 116 prefix ciostream 96 socket 172
-load_message reading link severed 116 prefix ciostream 96 socket 172
-load_message reading link severed 116 prefix ciostream 96 socket 172
-load_message reading link severed 116 prefix ciostream 96 socket 172
-enable critical input interrupt fatal kernel debug ras  
-tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
+hardware linkcard severe accessible module power u58 fully null functional
 suppressing type interrupts info kernel ras    
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
+load_message reading link severed 116 prefix ciostream 96 socket 172
+load_message reading link severed 116 prefix ciostream 96 socket 172
+load_message reading link severed 116 prefix ciostream 96 socket 172
+load_message reading link severed 116 prefix ciostream 96 socket 172
+load_message reading link severed 116 prefix ciostream 96 socket 172
+load_message reading link severed 116 prefix ciostream 96 socket 172
+enable debug pt interrupt floating ex mode fatal kernel critical
+tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
+suppressing type interrupts info kernel ras    
+tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 suppressing type interrupts info kernel ras    
 suppressing type interrupts info kernel ras    
-wire unit 0x0b torus bit warning 0x06 0x03 0x07 critical
+0x0b unit stream control torus wire read bit warning 16
 suppressing type interrupts info kernel ras    
-wire unit 0x0b torus bit warning 0x06 0x03 0x07 critical
+severed link reading socket ciostream prefix 96 172 116 message
 suppressing type interrupts info kernel ras    
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+0x0b unit stream control torus wire read bit warning 16
 suppressing type interrupts info kernel ras    
-wire unit 0x0b torus bit warning 0x06 0x03 0x07 critical
+severed link reading socket ciostream prefix 96 172 116 message
 gunnels vnm64 vnm urgent permission denied spelce1 hpcc_ibm image loading
 gunnels vnm64 vnm urgent permission denied spelce1 hpcc_ibm image loading
 gunnels vnm64 vnm urgent permission denied spelce1 hpcc_ibm image loading
@@ -1401,23 +1401,23 @@ vnm 32k urgent spelce1 hpcc_ibm generated files core rts home
 gunnels vnm64 vnm urgent permission denied spelce1 hpcc_ibm image loading
 gunnels vnm64 vnm urgent permission denied spelce1 hpcc_ibm image loading
 gunnels vnm64 vnm urgent permission denied spelce1 hpcc_ibm image loading
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 cop fftw_opt urgent spelce1 hpcc_ibm generated files core 62 rts
 cop fftw_opt urgent spelce1 hpcc_ibm generated files core 62 rts
 cop fftw_opt urgent spelce1 hpcc_ibm generated files core 62 rts
@@ -1478,15 +1478,15 @@ raptor 254 noprint followup permission denied apps bgl loading image
 raptor 254 noprint followup permission denied apps bgl loading image
 raptor 254 noprint followup permission denied apps bgl loading image
 raptor 254 noprint followup permission denied apps bgl loading image
-wire unit 0x0b torus bit warning 0x06 0x03 0x07 critical
+0x0b unit stream control torus wire read bit warning 16
 suppressing type interrupts info kernel ras    
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 suppressing type interrupts info kernel ras    
-wire unit 0x0b torus bit warning 0x06 0x03 0x07 critical
+0x0b unit stream control torus wire read bit warning 16
 suppressing type interrupts info kernel ras    
-wire unit 0x0b torus bit warning 0x06 0x03 0x07 critical
+0x0b unit stream control torus wire read bit warning 16
 suppressing type interrupts info kernel ras    
-wire unit 0x0b torus bit warning 0x06 0x03 0x07 critical
+0x0b unit stream control torus wire read bit warning 16
 suppressing type interrupts info kernel ras    
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 suppressing type interrupts info kernel ras    
@@ -1521,7 +1521,7 @@ suppressing type interrupts info kernel ras
 information assembly severe discovery null card node   
 active temperature asserted ok latch reset rail pgood clock volt
 fully functional warning discovery null card node   
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+fully functional warning discovery null card node   
 fully functional warning discovery null card node   
 fully functional warning discovery null card node   
 information assembly severe discovery null card node   
@@ -1537,27 +1537,27 @@ fully functional warning discovery null card node
 fully functional warning discovery null card node   
 fully functional warning discovery null card node   
 fully functional warning discovery null card node   
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+fully functional warning discovery null card node   
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
-sender retransmission torus 0x02f6 pt new inserted database generating enable
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 1146800 hummer double exceptions alignment info kernel ras 2016000 
 1146800 hummer double exceptions alignment info kernel ras 2016000 
 1146800 hummer double exceptions alignment info kernel ras 2016000 
@@ -1619,103 +1619,103 @@ received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
 18a src glosli g90 ddcmdbglv ddcmd1 ddcmd bin 128 generated
 18a src glosli g90 ddcmdbglv ddcmd1 ddcmd bin 128 generated
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
-link severed reading 116 prefix ciostream 96 socket 172 message
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
-link severed reading 116 prefix ciostream 96 socket 172 message
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
-link severed reading 116 prefix ciostream 96 socket 172 message
+severed link reading socket ciostream prefix 96 172 116 message
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
-link severed reading 116 prefix ciostream 96 socket 172 message
+severed link reading socket ciostream prefix 96 172 116 message
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
-link severed reading 116 prefix ciostream 96 socket 172 message
+severed link reading socket ciostream prefix 96 172 116 message
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
-link severed reading 116 prefix ciostream 96 socket 172 message
+severed link reading socket ciostream prefix 96 172 116 message
 microseconds calls correctable single rbs maximum instance handler signal spent
 microseconds calls correctable single rbs maximum instance handler signal spent
 interrupts critical input total microseconds max time spent 3686 10692
-interrupts critical input total microseconds max time spent 751 interrupt
+interrupts critical input total microseconds max time spent interrupt 751
 microseconds calls correctable single rbs maximum instance handler signal spent
 interrupts critical input total microseconds max time spent 3686 10692
 interrupts critical input total microseconds max time spent 3686 10692
-interrupts critical input total microseconds max time spent 751 interrupt
-interrupts critical input total microseconds max time spent 751 interrupt
-interrupts critical input total microseconds max time spent 751 interrupt
-microseconds calls correctable single rbs maximum instance handler signal spent
-interrupts critical input total microseconds max time spent 3686 10692
-interrupts critical input total microseconds max time spent 3686 10692
-microseconds calls correctable single rbs maximum instance handler signal spent
-interrupts critical input total microseconds max time spent 751 interrupt
-microseconds calls correctable single rbs maximum instance handler signal spent
-microseconds calls correctable single rbs maximum instance handler signal spent
-microseconds calls correctable single rbs maximum instance handler signal spent
-microseconds calls correctable single rbs maximum instance handler signal spent
-interrupts critical input total microseconds max time spent 751 interrupt
-microseconds calls correctable single rbs maximum instance handler signal spent
-microseconds calls correctable single rbs maximum instance handler signal spent
-interrupts critical input total microseconds max time spent 751 interrupt
-interrupts critical input total microseconds max time spent 751 interrupt
-interrupts critical input total microseconds max time spent 751 interrupt
-interrupts critical input total microseconds max time spent 751 interrupt
-interrupts critical input total microseconds max time spent 3686 10692
-interrupts critical input total microseconds max time spent 751 interrupt
-microseconds calls correctable single rbs maximum instance handler signal spent
-interrupts critical input total microseconds max time spent 751 interrupt
-interrupts critical input total microseconds max time spent 751 interrupt
-microseconds calls correctable single rbs maximum instance handler signal spent
-microseconds calls correctable single rbs maximum instance handler signal spent
-microseconds calls correctable single rbs maximum instance handler signal spent
+interrupts critical input total microseconds max time spent interrupt 751
+interrupts critical input total microseconds max time spent interrupt 751
+interrupts critical input total microseconds max time spent interrupt 751
 microseconds calls correctable single rbs maximum instance handler signal spent
 interrupts critical input total microseconds max time spent 3686 10692
 interrupts critical input total microseconds max time spent 3686 10692
 microseconds calls correctable single rbs maximum instance handler signal spent
-interrupts critical input total microseconds max time spent 751 interrupt
+interrupts critical input total microseconds max time spent interrupt 751
 microseconds calls correctable single rbs maximum instance handler signal spent
 microseconds calls correctable single rbs maximum instance handler signal spent
+microseconds calls correctable single rbs maximum instance handler signal spent
+microseconds calls correctable single rbs maximum instance handler signal spent
+interrupts critical input total microseconds max time spent interrupt 751
+microseconds calls correctable single rbs maximum instance handler signal spent
+microseconds calls correctable single rbs maximum instance handler signal spent
+interrupts critical input total microseconds max time spent interrupt 751
+interrupts critical input total microseconds max time spent interrupt 751
+interrupts critical input total microseconds max time spent interrupt 751
+interrupts critical input total microseconds max time spent interrupt 751
 interrupts critical input total microseconds max time spent 3686 10692
-interrupts critical input total microseconds max time spent 751 interrupt
+interrupts critical input total microseconds max time spent interrupt 751
 microseconds calls correctable single rbs maximum instance handler signal spent
-microseconds calls correctable single rbs maximum instance handler signal spent
-microseconds calls correctable single rbs maximum instance handler signal spent
-interrupts critical input total microseconds max time spent 3686 10692
-interrupts critical input total microseconds max time spent 751 interrupt
-microseconds calls correctable single rbs maximum instance handler signal spent
-microseconds calls correctable single rbs maximum instance handler signal spent
-interrupts critical input total microseconds max time spent 751 interrupt
-microseconds calls correctable single rbs maximum instance handler signal spent
-microseconds calls correctable single rbs maximum instance handler signal spent
+interrupts critical input total microseconds max time spent interrupt 751
+interrupts critical input total microseconds max time spent interrupt 751
 microseconds calls correctable single rbs maximum instance handler signal spent
 microseconds calls correctable single rbs maximum instance handler signal spent
 microseconds calls correctable single rbs maximum instance handler signal spent
 microseconds calls correctable single rbs maximum instance handler signal spent
 interrupts critical input total microseconds max time spent 3686 10692
 interrupts critical input total microseconds max time spent 3686 10692
-interrupts critical input total microseconds max time spent 3686 10692
 microseconds calls correctable single rbs maximum instance handler signal spent
-interrupts critical input total microseconds max time spent 751 interrupt
-interrupts critical input total microseconds max time spent 3686 10692
+interrupts critical input total microseconds max time spent interrupt 751
 microseconds calls correctable single rbs maximum instance handler signal spent
 microseconds calls correctable single rbs maximum instance handler signal spent
 interrupts critical input total microseconds max time spent 3686 10692
-interrupts critical input total microseconds max time spent 751 interrupt
+interrupts critical input total microseconds max time spent interrupt 751
 microseconds calls correctable single rbs maximum instance handler signal spent
 microseconds calls correctable single rbs maximum instance handler signal spent
-interrupts critical input total microseconds max time spent 751 interrupt
+microseconds calls correctable single rbs maximum instance handler signal spent
+interrupts critical input total microseconds max time spent 3686 10692
+interrupts critical input total microseconds max time spent interrupt 751
+microseconds calls correctable single rbs maximum instance handler signal spent
+microseconds calls correctable single rbs maximum instance handler signal spent
+interrupts critical input total microseconds max time spent interrupt 751
+microseconds calls correctable single rbs maximum instance handler signal spent
+microseconds calls correctable single rbs maximum instance handler signal spent
+microseconds calls correctable single rbs maximum instance handler signal spent
+microseconds calls correctable single rbs maximum instance handler signal spent
+microseconds calls correctable single rbs maximum instance handler signal spent
+microseconds calls correctable single rbs maximum instance handler signal spent
+interrupts critical input total microseconds max time spent 3686 10692
+interrupts critical input total microseconds max time spent 3686 10692
+interrupts critical input total microseconds max time spent 3686 10692
+microseconds calls correctable single rbs maximum instance handler signal spent
+interrupts critical input total microseconds max time spent interrupt 751
 interrupts critical input total microseconds max time spent 3686 10692
 microseconds calls correctable single rbs maximum instance handler signal spent
 microseconds calls correctable single rbs maximum instance handler signal spent
-interrupts critical input total microseconds max time spent 751 interrupt
+interrupts critical input total microseconds max time spent 3686 10692
+interrupts critical input total microseconds max time spent interrupt 751
+microseconds calls correctable single rbs maximum instance handler signal spent
+microseconds calls correctable single rbs maximum instance handler signal spent
+interrupts critical input total microseconds max time spent interrupt 751
 interrupts critical input total microseconds max time spent 3686 10692
 microseconds calls correctable single rbs maximum instance handler signal spent
 microseconds calls correctable single rbs maximum instance handler signal spent
-interrupts critical input total microseconds max time spent 751 interrupt
+interrupts critical input total microseconds max time spent interrupt 751
+interrupts critical input total microseconds max time spent 3686 10692
+microseconds calls correctable single rbs maximum instance handler signal spent
+microseconds calls correctable single rbs maximum instance handler signal spent
+interrupts critical input total microseconds max time spent interrupt 751
 interrupts critical input total microseconds max time spent 3686 10692
 microseconds calls correctable single rbs maximum instance handler signal spent
 dear iar 0x00544ea8 0x00544eb8 0x00544ee0 0x00544ef0 integer detected exceptions alignment
@@ -1838,26 +1838,26 @@ tested_copro tomandjeff permission denied bin spelce1 hpcc_ibm loading image rts
 tested_copro tomandjeff permission denied bin spelce1 hpcc_ibm loading image rts
 tested_copro tomandjeff permission denied bin spelce1 hpcc_ibm loading image rts
 tested_copro tomandjeff permission denied bin spelce1 hpcc_ibm loading image rts
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
 pollcontroldescriptors died debugger detected ciod info kernel ras  
 pollcontroldescriptors died debugger detected ciod info kernel ras  
 pollcontroldescriptors died debugger detected ciod info kernel ras  
@@ -1959,42 +1959,42 @@ parity cache instruction corrected error info kernel ras
 18a src glosli g90 ddcmdbglv ddcmd1 ddcmd bin 128 generated
 18a src glosli g90 ddcmdbglv ddcmd1 ddcmd bin 128 generated
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
-link severed reading 116 prefix ciostream 96 socket 172 message
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
-link severed reading 116 prefix ciostream 96 socket 172 message
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
-link severed reading 116 prefix ciostream 96 socket 172 message
+severed link reading socket ciostream prefix 96 172 116 message
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
-link severed reading 116 prefix ciostream 96 socket 172 message
+severed link reading socket ciostream prefix 96 172 116 message
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
-link severed reading 116 prefix ciostream 96 socket 172 message
+severed link reading socket ciostream prefix 96 172 116 message
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
-link severed reading 116 prefix ciostream 96 socket 172 message
-link severed reading 116 prefix ciostream 96 socket 172 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
-link severed reading 116 prefix ciostream 96 socket 172 message
+severed link reading socket ciostream prefix 96 172 116 message
 microseconds calls correctable single rbs maximum instance handler signal spent
 microseconds calls correctable single rbs maximum instance handler signal spent
 interrupts critical input total microseconds max time spent 3686 10692
-interrupts critical input total microseconds max time spent 751 interrupt
+interrupts critical input total microseconds max time spent interrupt 751
 microseconds calls correctable single rbs maximum instance handler signal spent
 interrupts critical input total microseconds max time spent 3686 10692
 interrupts critical input total microseconds max time spent 3686 10692
-interrupts critical input total microseconds max time spent 751 interrupt
-interrupts critical input total microseconds max time spent 751 interrupt
-interrupts critical input total microseconds max time spent 751 interrupt
+interrupts critical input total microseconds max time spent interrupt 751
+interrupts critical input total microseconds max time spent interrupt 751
+interrupts critical input total microseconds max time spent interrupt 751
 microseconds calls correctable single rbs maximum instance handler signal spent
 interrupts critical input total microseconds max time spent 3686 10692
 interrupts critical input total microseconds max time spent 3686 10692
 microseconds calls correctable single rbs maximum instance handler signal spent
-interrupts critical input total microseconds max time spent 751 interrupt
+interrupts critical input total microseconds max time spent interrupt 751
 microseconds calls correctable single rbs maximum instance handler signal spent
 microseconds calls correctable single rbs maximum instance handler signal spent
 microseconds calls correctable single rbs maximum instance handler signal spent
 microseconds calls correctable single rbs maximum instance handler signal spent
-interrupts critical input total microseconds max time spent 751 interrupt
+interrupts critical input total microseconds max time spent interrupt 751
