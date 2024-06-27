@@ -1,0 +1,2001 @@
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+unavailable component state 042 042alt0 state_change hwid change 1085737428 1084631134
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+1132154104 unavailable component state 042 state_change hwid change 042alt0 unix
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+shutdown_cmd targeting nodes new domains 1085979825 node subcommands 24 d0
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+successfully success completed command boot_cmd 1112720274 1114095839 1114095835 1114095834 1114095833
+targeting new domains nodes boot_cmd child d0 d6 command d4
+shutdown_cmd targeting nodes new domains 1085979825 node subcommands 24 d0
+targeting new domains nodes boot_cmd child d0 d6 command d4
+shutdown_cmd targeting nodes new domains 1085979825 node subcommands 24 d0
+targeting new domains nodes boot_cmd child d0 d6 command d4
+shutdown_cmd targeting nodes new domains 1085979825 node subcommands 24 d0
+targeting new domains nodes boot_cmd child d0 d6 command d4
+shutdown_cmd targeting nodes new domains 1085979825 node subcommands 24 d0
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+shutdown_cmd targeting nodes new domains 1085979825 node subcommands 24 d0
+targeting new domains nodes boot_cmd child d0 d6 command d4
+shutdown_cmd targeting nodes new domains 1085979825 node subcommands 24 d0
+targeting new domains nodes boot_cmd child d0 d6 command d4
+shutdown_cmd targeting nodes new domains 1085979825 node subcommands 24 d0
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+shutdown_cmd targeting nodes new domains 1085979825 node subcommands 24 d0
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+targeting new domains nodes boot_cmd child d0 d6 command d4
+threshold temphigh exceeds 42c 41c 1111832460 1111832430 warning temperature 1111832400
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+threshold temphigh exceeds 42c 41c 1111832460 1111832430 warning temperature 1111832400
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+threshold temphigh exceeds 42c 41c 1111832460 1111832430 warning temperature 1111832400
+threshold temphigh exceeds 42c 41c 1111832460 1111832430 warning temperature 1111832400
+threshold temphigh exceeds 42c 41c 1111832460 1111832430 warning temperature 1111832400
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+threshold temphigh exceeds 42c 41c 1111832460 1111832430 warning temperature 1111832400
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+threshold temphigh exceeds 42c 41c 1111832460 1111832430 warning temperature 1111832400
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+threshold temphigh exceeds 42c 41c 1111832460 1111832430 warning temperature 1111832400
+threshold temphigh exceeds 42c 41c 1111832460 1111832430 warning temperature 1111832400
+threshold temphigh exceeds 42c 41c 1111832460 1111832430 warning temperature 1111832400
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+threshold temphigh exceeds 42c 41c 1111832460 1111832430 warning temperature 1111832400
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+threshold temphigh exceeds 42c 41c 1111832460 1111832430 warning temperature 1111832400
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+failed 224 alt0 network niff 1084271026 connection detected net interface
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 speeds 3479 3375 3534 1125705946 4500 4141
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 speeds 3479 3375 3534 1125705946 4500 4141
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 speeds 3375 3479 3534 1125827458 1125827446 1125827703
+fan 3552 3515 speeds 3479 3375 3534 1125705946 4500 4141
+fan 3552 3515 speeds 3375 3479 3534 1125827458 1125827446 1125827703
+fan 3552 3515 speeds 3479 3375 3534 1125705946 4500 4141
+fan 3552 3515 speeds 3479 3375 3534 1125705946 4500 4141
+fan 3552 3515 speeds 3479 3375 3534 1125705946 4500 4141
+fan 3552 3515 speeds 3375 3479 3534 1125827458 1125827446 1125827703
+fan 3552 3515 speeds 3479 3375 3534 1125705946 4500 4141
+fan 3552 3515 speeds 3375 3479 3534 1125827458 1125827446 1125827703
+fan 3552 3515 speeds 3375 3479 3534 1125827458 1125827446 1125827703
+fan 3552 3515 speeds 3375 3479 3534 1125827458 1125827446 1125827703
+fan 3552 3515 speeds 3375 3479 3534 1125827458 1125827446 1125827703
+fan 3552 3515 speeds 3375 3479 3534 1125827458 1125827446 1125827703
+fan 3552 3515 speeds 3375 3479 3534 1125827458 1125827446 1125827703
+fan 3552 3515 speeds 3375 3479 3534 1125827458 1125827446 1125827703
+fan 3552 3515 speeds 3375 3479 3534 1125827458 1125827446 1125827703
+fan 3552 3515 speeds 3375 3479 3534 1125827458 1125827446 1125827703
+fan 3552 3515 speeds 3375 3479 3534 1125827458 1125827446 1125827703
+fan 3552 3515 speeds 3375 3479 3534 1125827458 1125827446 1125827703
+fan 3552 3515 speeds 3375 3479 3534 1125827458 1125827446 1125827703
+fan 3552 3515 speeds 3479 3375 3534 1125705946 4500 4141
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 speeds 3479 3375 3534 1125705946 4500 4141
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 speeds 3479 3375 3534 1125705946 4500 4141
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 speeds 3479 3375 3534 1125705946 4500 4141
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 speeds 3479 3375 3534 1125705946 4500 4141
+fan 3552 3515 speeds 3479 3375 3534 1125705946 4500 4141
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+fan 3552 3515 speeds 3479 3375 3534 1125705946 4500 4141
+fan 3552 3515 speeds 3479 3375 3534 1125705946 4500 4141
+fan 3552 3515 speeds 3479 3375 3534 1125705946 4500 4141
+fan 3552 3515 3479 3375 speeds 3534 switch_module 1121579653 1121579701
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+3497 3534 fan speeds 3479 3375 switch_module 4623 1143980991 1143980983
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+00 interconnect broadcast bcast 1t00 tree error link switch_module 1142700460
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+cluster_var_backup clusterfilesystem serverfilesystem not_served longer served domain 192 1077361477 1109421508
+cluster_usr_backup cluster_root_backup clusterfilesystem serverfilesystem served longer not_served 160 domain 32
+cluster_usr_backup cluster_root_backup clusterfilesystem serverfilesystem served longer not_served 160 domain 32
+cluster_var_backup clusterfilesystem serverfilesystem not_served longer served domain 192 1077361477 1109421508
+cluster_var_backup clusterfilesystem serverfilesystem not_served longer served domain 192 1077361477 1109421508
+cluster_usr_backup cluster_root_backup clusterfilesystem serverfilesystem served longer not_served 160 domain 32
+cluster_var_backup clusterfilesystem serverfilesystem not_served longer served domain 192 1077361477 1109421508
+cluster_usr_backup cluster_root_backup clusterfilesystem serverfilesystem served longer not_served 160 domain 32
+cluster_var_backup clusterfilesystem serverfilesystem not_served longer served domain 192 1077361477 1109421508
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem not_served served longer domain 1082035888 1077875542 1079069187 1077875541
+clusterfilesystem serverfilesystem longer not_served served domain 1079069188 1077875541 root22_domain root24_domain
+cluster_usr_backup cluster_root_backup clusterfilesystem serverfilesystem served longer not_served 160 domain 32
+cluster_usr_backup cluster_root_backup clusterfilesystem serverfilesystem served longer not_served 160 domain 32
+cluster_usr_backup cluster_root_backup clusterfilesystem serverfilesystem served longer not_served 160 domain 32
+cluster_usr_backup cluster_root_backup clusterfilesystem serverfilesystem served longer not_served 160 domain 32
+cluster_usr_backup cluster_root_backup clusterfilesystem serverfilesystem served longer not_served 160 domain 32
+cluster_usr_backup cluster_root_backup clusterfilesystem serverfilesystem served longer not_served 160 domain 32
+cluster_usr_backup cluster_root_backup clusterfilesystem serverfilesystem served longer not_served 160 domain 32
+cluster_var_backup clusterfilesystem serverfilesystem not_served longer served domain 192 1077361477 1109421508
+cluster_usr_backup cluster_root_backup clusterfilesystem serverfilesystem served longer not_served 160 domain 32
+cluster_var_backup clusterfilesystem serverfilesystem not_served longer served domain 192 1077361477 1109421508
+cluster_var_backup clusterfilesystem serverfilesystem not_served longer served domain 192 1077361477 1109421508
+cluster_usr_backup cluster_root_backup clusterfilesystem serverfilesystem served longer not_served 160 domain 32
+cluster_usr_backup cluster_root_backup clusterfilesystem serverfilesystem served longer not_served 160 domain 32
+cluster_usr_backup cluster_root_backup clusterfilesystem serverfilesystem served longer not_served 160 domain 32
+cluster_usr_backup cluster_root_backup clusterfilesystem serverfilesystem served longer not_served 160 domain 32
+cluster_var_backup clusterfilesystem serverfilesystem not_served longer served domain 192 1077361477 1109421508
+cluster_var_backup clusterfilesystem serverfilesystem not_served longer served domain 192 1077361477 1109421508
+cluster_var_backup clusterfilesystem serverfilesystem not_served longer served domain 192 1077361477 1109421508
+cluster_usr_backup cluster_root_backup clusterfilesystem serverfilesystem served longer not_served 160 domain 32
+cluster_var_backup clusterfilesystem serverfilesystem not_served longer served domain 192 1077361477 1109421508
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+1075931221 1077442530 configured 1072625730 status node    
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074098640 configured status node      
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217418 configured status node      
+1074217418 configured status node      
+1074217418 configured status node      
+1074217418 configured status node      
+1074217418 configured status node      
+1074217418 configured status node      
+1074217418 configured status node      
+1074217418 configured status node      
+1074217418 configured status node      
+1074217418 configured status node      
+1074217418 configured status node      
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1074288991 responding 1074288992 status node     
+1074288991 responding 1074288992 status node     
+1074288991 responding 1074288992 status node     
+1074288991 responding 1074288992 status node     
+1074288991 responding 1074288992 status node     
+1074288991 responding 1074288992 status node     
+1074288991 responding 1074288992 status node     
+1074288991 responding 1074288992 status node     
+1074288991 responding 1074288992 status node     
+1074288991 responding 1074288992 status node     
+1074288991 responding 1074288992 status node     
+1074288991 responding 1074288992 status node     
+1074288991 responding 1074288992 status node     
+1074288991 responding 1074288992 status node     
+1074288991 responding 1074288992 status node     
+1074288991 responding 1074288992 status node     
+1074288991 responding 1074288992 status node     
+1074288991 responding 1074288992 status node     
+1075931225 responding status node      
+1075931225 responding status node      
+1075931225 responding status node      
+1075931225 responding status node      
+1075931225 responding status node      
+1075931225 responding status node      
+1075931225 responding status node      
+1075931225 responding status node      
+1075931225 responding status node      
+1075931225 responding status node      
+1075931225 responding status node      
+1075931225 responding status node      
+1075931221 1077442530 configured 1072625730 status node    
+1075931221 1077442530 configured 1072625730 status node    
+1075931221 1077442530 configured 1072625730 status node    
+1075931221 1077442530 configured 1072625730 status node    
+1075931221 1077442530 configured 1072625730 status node    
+1075931221 1077442530 configured 1072625730 status node    
+1075931221 1077442530 configured 1072625730 status node    
+1075931221 1077442530 configured 1072625730 status node    
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076533037 configured 1077552270 status node     
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076619203 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+1076878960 running status node      
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+1075931221 1077442530 configured 1072625730 status node    
+1075931221 1077442530 configured 1072625730 status node    
+1075931221 1077442530 configured 1072625730 status node    
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+ok 0x1fffffffe 0x000001fe nodesets inconsistent 0x0000000e 0xfffffffe 0x3ffffffe 0x0005fdfe 190
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+1077649605 running status node      
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+1078470966 running 1077556485 status node     
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+1076533037 configured 1077552270 status node     
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077897241 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1077907194 running status node      
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078470966 running 1077556485 status node     
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1078414241 configured status node      
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079245563 1079245300 running 1079245475 status node    
+1079245563 1079245300 running 1079245475 status node    
+1079245563 1079245300 running 1079245475 status node    
+1079245563 1079245300 running 1079245475 status node    
+1079245563 1079245300 running 1079245475 status node    
+1079245563 1079245300 running 1079245475 status node    
+1079245563 1079245300 running 1079245475 status node    
+1079245563 1079245300 running 1079245475 status node    
+1079245563 1079245300 running 1079245475 status node    
+1079245563 1079245300 running 1079245475 status node    
+1079245563 1079245300 running 1079245475 status node    
+1138578390 active 1079245474 status node     
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+1079245563 1079245300 running 1079245475 status node    
+1079245563 1079245300 running 1079245475 status node    
+1079245563 1079245300 running 1079245475 status node    
+1079245563 1079245300 running 1079245475 status node    
+1079245563 1079245300 running 1079245475 status node    
+1079245563 1079245300 running 1079245475 status node    
+1079245563 1079245300 running 1079245475 status node    
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079218684 1079218685 running status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079072836 running status node      
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079013840 configured 1083221130 status node     
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615371 configured 1079615340 status node     
+1079615340 configured status node      
+1079615340 configured status node      
+1079615371 configured 1079615340 status node     
+ok 0x1fffffffe 0x000001fe nodesets inconsistent 0x0000000e 0xfffffffe 0x3ffffffe 0x0005fdfe 190
+ok 0x1fffffffe 0x000001fe nodesets inconsistent 0x0000000e 0xfffffffe 0x3ffffffe 0x0005fdfe 190
+1079143599 responding 1079615336 status node     
+1079143599 responding 1079615336 status node     
+1079618688 running status node      
+1079618688 running status node      
+1079618688 running status node      
+1079618688 running status node      
+1079618688 running status node      
+1079618688 running status node      
+1079618688 running status node      
+1079618688 running status node      
+1079618688 running status node      
+1079618688 running status node      
+1079618688 running status node      
+1079618688 running status node      
+1079618688 running status node      
+1079618688 running status node      
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1079615340 configured status node      
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1079615371 configured 1079615340 status node     
+1079615371 configured 1079615340 status node     
+1079615371 configured 1079615340 status node     
+1079615371 configured 1079615340 status node     
+1079615371 configured 1079615340 status node     
+1079615371 configured 1079615340 status node     
+1079615371 configured 1079615340 status node     
+1079615371 configured 1079615340 status node     
+1079615371 configured 1079615340 status node     
+1079615371 configured 1079615340 status node     
+1079615371 configured 1079615340 status node     
+1079615371 configured 1079615340 status node     
+1079615371 configured 1079615340 status node     
+1079615371 configured 1079615340 status node     
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+ok 0x1fffffffe 0x000001fe nodesets inconsistent 0x0000000e 0xfffffffe 0x3ffffffe 0x0005fdfe 190
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+1083307405 configured 1083262200 status node     
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+1081931516 1080167525 running 1083263185 1083222227 1080164262 status node  
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+1079013840 configured 1083221130 status node     
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+partition starting running 1077576923 status 1083263190 1079245304 1072621865 1072625765 1077804391
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1082041080 running status node      
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1083307405 configured 1083262200 status node     
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+ok 0x1fffffffe 0x000001fe nodesets inconsistent 0x0000000e 0xfffffffe 0x3ffffffe 0x0005fdfe 190
+blocked partition 1077576945 1072634520 1077604920 1083284130 1077804330 1077524520 1077804660 1072638240
+1098365336 1093627901 responding status node     
+1098365336 1093627901 responding status node     
+1098365336 1093627901 responding status node     
+1098365336 1093627901 responding status node     
+1098365336 1093627901 responding status node     
+1098365336 1093627901 responding status node     
+1098365336 1093627901 responding status node     
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1095341277 active status node      
+1095341277 active status node      
+1095341277 active status node      
+1095341277 active status node      
+1095341277 active status node      
+1095341277 active status node      
+1095341277 active status node      
+1095341277 active status node      
+1095341277 active status node      
+1095341277 active status node      
+1095341277 active status node      
+1095341277 active status node      
+1095341277 active status node      
+1095341277 active status node      
+1095341277 active status node      
+1095341277 active status node      
+1095341277 active status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1095349520 running status node      
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365340 1093627923 1093627924 configured status node    
+1098365336 1093627901 responding status node     
+1098365336 1093627901 responding status node     
+1098365336 1093627901 responding status node     
+1098365336 1093627901 responding status node     
+1098365336 1093627901 responding status node     
+1098365336 1093627901 responding status node     
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1098365336 1093627901 responding status node     
+1098365336 1093627901 responding status node     
+1098365336 1093627901 responding status node     
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+1098394862 1095341286 running 1095341285 status node    
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+blocked partition 1118546643 1107953970 1107951690 1107951510 1107951300 1107951240 1107950970 1107950730
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+blocked partition 1118546643 1107953970 1107951690 1107951510 1107951300 1107951240 1107950970 1107950730
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+1074935624 running 1104961275 1104956639 1104943622 1104072402 1074935254 1074935129 status node
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+1079046480 1079046481 configured 1104950640 1104946500 1104936780 status node  
+blocked partition 1118546643 1107953970 1107951690 1107951510 1107951300 1107951240 1107950970 1107950730
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+blocked partition 1118546643 1107953970 1107951690 1107951510 1107951300 1107951240 1107950970 1107950730
+1079261449 responding 1079046490 1072638510 status 1107953939 1104950606 1104946478 1104936735 1082302699
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+blocked partition 1118546643 1107953970 1107951690 1107951510 1107951300 1107951240 1107950970 1107950730
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+blocked partition 1118546643 1107953970 1107951690 1107951510 1107951300 1107951240 1107950970 1107950730
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+blocked partition 1118546643 1107953970 1107951690 1107951510 1107951300 1107951240 1107950970 1107950730
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+blocked partition 1118546643 1107953970 1107951690 1107951510 1107951300 1107951240 1107950970 1107950730
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+blocked partition 1118546643 1107953970 1107951690 1107951510 1107951300 1107951240 1107950970 1107950730
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+blocked partition 1118546643 1107953970 1107951690 1107951510 1107951300 1107951240 1107950970 1107950730
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+blocked partition 1118546643 1107953970 1107951690 1107951510 1107951300 1107951240 1107950970 1107950730
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+blocked partition 1118546643 1107953970 1107951690 1107951510 1107951300 1107951240 1107950970 1107950730
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+1118547724 1118546642 running status node     
+1118547724 1118546642 running status node     
+1118547724 1118546642 running status node     
+1118547724 1118546642 running status node     
+1118547724 1118546642 running status node     
+1118547724 1118546642 running status node     
+1118547724 1118546642 running status node     
+1118547724 1118546642 running status node     
+1118547724 1118546642 running status node     
+1118547724 1118546642 running status node     
+1118547724 1118546642 running status node     
+1118547724 1118546642 running status node     
+1118547724 1118546642 running status node     
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+blocked partition 1118546643 1107953970 1107951690 1107951510 1107951300 1107951240 1107950970 1107950730
+1118547724 1118546642 running status node     
+ok 0x1fffffffe 0x000001fe nodesets inconsistent 0x0000000e 0xfffffffe 0x3ffffffe 0x0005fdfe 190
+ok 0x1fffffffe 0x000001fe nodesets inconsistent 0x0000000e 0xfffffffe 0x3ffffffe 0x0005fdfe 190
+partition running 1104961295 1104943642 1107950643 1107950253 1107949743 1107951244 1104956653 1104950657
+1077875226 1074289646 configured 1087499940 1074288960 status 1118546166 1107953972 node 
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1118937765 running status node      
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+ok 0x1fffffffe 0x000001fe nodesets inconsistent 0x0000000e 0xfffffffe 0x3ffffffe 0x0005fdfe 190
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+ok 0x1fffffffe 0x000001fe nodesets inconsistent 0x0000000e 0xfffffffe 0x3ffffffe 0x0005fdfe 190
+ok 0x1fffffffe 0x000001fe nodesets inconsistent 0x0000000e 0xfffffffe 0x3ffffffe 0x0005fdfe 190
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+1074217414 responding tserver 1074289609 1074289619 1074289620 1074289613 1074289610 1074289621 1083221108
+ok 0x1fffffffe 0x000001fe nodesets inconsistent 0x0000000e 0xfffffffe 0x3ffffffe 0x0005fdfe 190
+ok 0x1fffffffe 0x000001fe nodesets inconsistent 0x0000000e 0xfffffffe 0x3ffffffe 0x0005fdfe 190
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+1138578390 active 1079245474 status node     
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+critical 1072509012 gige temperature 1119548823 1144788805 1119553324 1119548223 1072509013 1120312335
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+critical 1072509012 gige temperature 1119548823 1144788805 1119553324 1119548223 1072509013 1120312335
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+critical 1072509012 gige temperature 1119548823 1144788805 1119553324 1119548223 1072509013 1120312335
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+critical 1072509012 gige temperature 1119548823 1144788805 1119553324 1119548223 1072509013 1120312335
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+critical 1072509012 gige temperature 1119548823 1144788805 1119553324 1119548223 1072509013 1120312335
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+normal gige temperature 1119548525 1117702522 1119548398 1119548161 1119547925 1118436040 1118434539
+warning gige temperature 1117691421 1118429739 1119550324 1119549123 1119548825 1119548761 1119548524
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+critical 1072509012 gige temperature 1119548823 1144788805 1119553324 1119548223 1072509013 1120312335
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+warning gige temperature 1120304472 1120311734 1124712413 1124711868 1124710013 1124709713 1124714268
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+warning gige temperature 1144797143 1144795166 1144795105 1144794508 1144791206 1144791143 1144790608
+critical 1072509012 gige temperature 1119548823 1144788805 1119553324 1119548223 1072509013 1120312335
+warning gige temperature 1144797143 1144795166 1144795105 1144794508 1144791206 1144791143 1144790608
+warning gige temperature 1144797143 1144795166 1144795105 1144794508 1144791206 1144791143 1144790608
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+warning gige temperature 1144797143 1144795166 1144795105 1144794508 1144791206 1144791143 1144790608
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+critical 1072509012 gige temperature 1119548823 1144788805 1119553324 1119548223 1072509013 1120312335
+warning gige temperature 1144797143 1144795166 1144795105 1144794508 1144791206 1144791143 1144790608
+warning gige temperature 1144797143 1144795166 1144795105 1144794508 1144791206 1144791143 1144790608
+critical 1072509012 gige temperature 1119548823 1144788805 1119553324 1119548223 1072509013 1120312335
+warning gige temperature 1144797143 1144795166 1144795105 1144794508 1144791206 1144791143 1144790608
+warning gige temperature 1144797143 1144795166 1144795105 1144794508 1144791206 1144791143 1144790608
+normal gige temperature 1124713067 1124710668 1144790007 1124719913 1124718062 1124716613 1124715467
+critical 1072509012 gige temperature 1119548823 1144788805 1119553324 1119548223 1072509013 1120312335
+warning gige temperature 1144797143 1144795166 1144795105 1144794508 1144791206 1144791143 1144790608
+warning gige temperature 1144797143 1144795166 1144795105 1144794508 1144791206 1144791143 1144790608
+warning gige temperature 1144797143 1144795166 1144795105 1144794508 1144791206 1144791143 1144790608
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+critical 1072509012 gige temperature 1119548823 1144788805 1119553324 1119548223 1072509013 1120312335
+critical 1072509012 gige temperature 1119548823 1144788805 1119553324 1119548223 1072509013 1120312335
+critical 1072509012 gige temperature 1119548823 1144788805 1119553324 1119548223 1072509013 1120312335
+critical 1072509012 gige temperature 1119548823 1144788805 1119553324 1119548223 1072509013 1120312335
+critical 1072509012 gige temperature 1119548823 1144788805 1119553324 1119548223 1072509013 1120312335
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link 1072762696 1072762680 1072639967 error switch_module 1072638763 1072762676 1072640048
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+error 1073756859 link 1073750193 1073501498 1072762695 switch_module 1072504998 1073115721 1072762711
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+ok link error switch_module 1072639982 1073115718 1072762710 1072762694 1073500964 1073500753
+reset link error switch_module 1073115786 1073116016 1073234292 1073234906 1073115782 1073115719
+linkerror interval expired event error switch_module 1074120606 1074120632 1074120707 1074120700
+linkerror interval expired event error switch_module 1074120606 1074120632 1074120707 1074120700
+linkerror interval expired event error switch_module 1074120606 1074120632 1074120707 1074120700
+linkerror interval expired event error switch_module 1074120606 1074120632 1074120707 1074120700
+linkerror interval expired event error switch_module 1074120606 1074120632 1074120707 1074120700
+linkerror interval expired event error switch_module 1074120606 1074120632 1074120707 1074120700
+linkerror interval expired event error switch_module 1074120606 1074120632 1074120707 1074120700
+linkerror interval expired event error switch_module 1074120606 1074120632 1074120707 1074120700
+linkerror interval expired event error switch_module 1074120606 1074120632 1074120707 1074120700
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event error switch_module 1074120606 1074120632 1074120707 1074120700
+linkerror interval expired event error switch_module 1074120606 1074120632 1074120707 1074120700
+linkerror interval expired event error switch_module 1074120606 1074120632 1074120707 1074120700
+linkerror interval expired event error switch_module 1074120606 1074120632 1074120707 1074120700
+linkerror interval expired event error switch_module 1074120606 1074120632 1074120707 1074120700
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event error switch_module 1074120606 1074120632 1074120707 1074120700
+linkerror interval expired event error switch_module 1074120606 1074120632 1074120707 1074120700
+linkerror interval expired event error switch_module 1074120606 1074120632 1074120707 1074120700
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074131202 1074131296 error switch_module 1074131201 1074131288
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+linkerror interval expired event 1074177961 1074177954 1074177851 1074177943 error switch_module
+43c exceeds threshold temphigh 1077443501 1111832400 1111832430 warning 1073233457 1077381871
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+action boot 3002 continue halt asserted command unknown determine 1086022089
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+1131561040 linkerror interval expired event 1074212907 1082036370 1074211019 1074211187 1082036640
+action boot 3002 continue halt asserted command unknown determine 1086022089
+action boot 3002 continue halt asserted command unknown determine 1086022089
+action boot 3002 continue halt asserted command unknown determine 1086022089
+action boot 3002 continue halt asserted command unknown determine 1086022089
+action boot 3002 continue halt asserted command unknown determine 1086022089
+action boot 3002 continue halt asserted command unknown determine 1086022089
+action boot 3002 continue halt asserted command unknown determine 1086022089
+action boot 3002 continue halt asserted command unknown determine 1086022089
+action boot 3002 continue halt asserted command unknown determine 1086022089
+shutdown_cmd targeting nodes new domains 1085979825 node subcommands 24 d0
+shutdown_cmd targeting nodes new domains 1085979825 node subcommands 24 d0
+shutdown_cmd targeting nodes new domains 1085979825 node subcommands 24 d0
+shutdown_cmd targeting nodes new domains 1085979825 node subcommands 24 d0
+action boot 3002 continue halt asserted command unknown determine 1086022089
+action boot 3002 continue halt asserted command unknown determine 1086022089
+action boot 3002 continue halt asserted command unknown determine 1086022089
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+errors current remain link error switch_module 1127411965 1127965108 1127964566 1127963176
+successfully success completed command boot_cmd 1077810689 1077816987 1077810661 1077810662 1077817742
+action boot 3002 continue halt asserted command unknown determine 1086022089
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+action boot 3002 continue halt asserted command unknown determine 1086022089
+action boot 3002 continue halt asserted command unknown determine 1086022089
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+action boot 3002 continue halt asserted command unknown determine 1086022089
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+action boot 3002 continue halt asserted command unknown determine 1086022089
+action boot 3002 continue halt asserted command unknown determine 1086022089
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+remain errors current link error switch_module 1131216455 1131216446 1131873520 1131216163
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+224 alt0 niff network net interface detected connection available 1141676475
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+226 alt0 niff network interface net connection detected available unix
+ee0 10 128 niff network net interface connection detected available
+ee0 10 128 niff network net interface connection detected available
+224 alt0 niff network net interface detected connection available 1141676475
+ee0 10 128 niff network net interface connection detected available
+224 alt0 niff network net interface detected connection available 1141676475
+ee0 10 128 niff network net interface connection detected available
+224 alt0 niff network net interface detected connection available 1141676475
+ee0 10 128 niff network net interface connection detected available
+224 alt0 niff network net interface detected connection available 1141676475
+ee0 10 128 niff network net interface connection detected available
+224 alt0 niff network net interface detected connection available 1141676475
+ee0 10 128 niff network net interface connection detected available
+224 alt0 niff network net interface detected connection available 1141676475
+ee0 10 128 niff network net interface connection detected available
+224 alt0 niff network net interface detected connection available 1141676475
+ee0 10 128 niff network net interface connection detected available
+224 alt0 niff network net interface detected connection available 1141676475
+ee0 10 128 niff network net interface connection detected available
+224 alt0 niff network net interface detected connection available 1141676475
+ee0 10 128 niff network net interface connection detected available
+224 alt0 niff network net interface detected connection available 1141676475
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+1084642386 available component state 042alt0 change 042 hwid state_change 1084642389
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+partition running 1061531645 1061517672 1061516045 1061515896 1061510947 1061509476 1061491805 status
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw
+1085075265 available component state 042 hwid change state_change 042alt0 hw

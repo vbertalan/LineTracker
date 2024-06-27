@@ -40,6 +40,7 @@ parity cache instruction corrected error info kernel ras
 parity cache instruction corrected error info kernel ras  
 4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
 4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
+<<<<<<< HEAD
 torus 0x02f6 sender retransmission generating dcr seconds 0x06 wire unit
 4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
 4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
@@ -158,6 +159,126 @@ storage data interrupt fatal kernel ras
 storage data interrupt fatal kernel ras    
 storage data interrupt fatal kernel ras    
 storage data interrupt fatal kernel ras    
+=======
+vpd match card check node slot processor ecid u11 u01
+4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
+4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
+vpd match card check node slot processor ecid u11 u01
+4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
+4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
+4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
+vpd match card check node slot processor ecid u11 u01
+4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
+vpd match card check node slot processor ecid u11 u01
+vpd match card check node slot processor ecid u11 u01
+4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
+vpd match card check node slot processor ecid u11 u01
+4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
+vpd match card check node slot processor ecid u11 u01
+4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
+vpd match card check node slot processor ecid u11 u01
+4294967295 51 treeaddr sent unrecognized 0xffffffff cpu message request iostate
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+tlb data interrupt fatal error kernel ras   
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 illegal instruction interrupt program trap update privileged fp cr fatal
 illegal instruction interrupt program trap update privileged fp cr fatal
 illegal instruction interrupt program trap update privileged fp cr fatal
@@ -298,26 +419,26 @@ enable debug pt interrupt floating ex mode fatal kernel critical
 illegal instruction interrupt program trap update privileged fp cr fatal
 enable debug pt interrupt floating ex mode fatal kernel critical
 illegal instruction interrupt program trap update privileged fp cr fatal
-stopping panic execution rts fatal kernel ras   
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 enable debug pt interrupt floating ex mode fatal kernel critical
-stopping panic execution rts fatal kernel ras   
-stopping panic execution rts fatal kernel ras   
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 enable debug pt interrupt floating ex mode fatal kernel critical
-stopping panic execution rts fatal kernel ras   
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 enable debug pt interrupt floating ex mode fatal kernel critical
-stopping panic execution rts fatal kernel ras   
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 enable debug pt interrupt floating ex mode fatal kernel critical
 enable debug pt interrupt floating ex mode fatal kernel critical
-stopping panic execution rts fatal kernel ras   
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 enable debug pt interrupt floating ex mode fatal kernel critical
-stopping panic execution rts fatal kernel ras   
-stopping panic execution rts fatal kernel ras   
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 enable debug pt interrupt floating ex mode fatal kernel critical
-stopping panic execution rts fatal kernel ras   
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 enable debug pt interrupt floating ex mode fatal kernel critical
-stopping panic execution rts fatal kernel ras   
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 enable debug pt interrupt floating ex mode fatal kernel critical
-stopping panic execution rts fatal kernel ras   
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
 enable debug pt interrupt floating ex mode fatal kernel critical
 enable debug pt interrupt floating ex mode fatal kernel critical
 enable debug pt interrupt floating ex mode fatal kernel critical
@@ -424,10 +545,11 @@ ddr total detected corrected error info kernel ras
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 ddr total detected corrected error info kernel ras  
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 06 20 chdir login 18 09 2005 swl miniben performance
 06 20 chdir login 18 09 2005 swl miniben performance
+<<<<<<< HEAD
 tlb data interrupt fatal control stream read error kernel ras
 tlb data interrupt fatal control stream read error kernel ras
 tlb data interrupt fatal control stream read error kernel ras
@@ -438,6 +560,18 @@ tlb data interrupt fatal control stream read error kernel ras
 tlb data interrupt fatal control stream read error kernel ras
 tlb data interrupt fatal control stream read error kernel ras
 tlb data interrupt fatal control stream read error kernel ras
+=======
+severed link reading socket ciostream prefix 96 172 116 message
+0x0b unit stream control torus wire read bit warning 16
+0x0b unit stream control torus wire read bit warning 16
+0x0b unit stream control torus wire read bit warning 16
+severed link reading socket ciostream prefix 96 172 116 message
+0x0b unit stream control torus wire read bit warning 16
+0x0b unit stream control torus wire read bit warning 16
+0x0b unit stream control torus wire read bit warning 16
+0x0b unit stream control torus wire read bit warning 16
+0x0b unit stream control torus wire read bit warning 16
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 parity cache instruction corrected error info kernel ras  
 parity cache instruction corrected error info kernel ras  
 parity cache instruction corrected error info kernel ras  
@@ -482,22 +616,22 @@ sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 ddr total detected corrected error info kernel ras  
 ddr total detected corrected error info kernel ras  
 ddr total detected corrected error info kernel ras  
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 ddr total detected corrected error info kernel ras  
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 ddr total detected corrected error info kernel ras  
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 register syndrome 0x08000000 exception info kernel ras   
 register syndrome 0x08000000 exception info kernel ras   
 register syndrome 0x08000000 exception info kernel ras   
@@ -579,6 +713,7 @@ fully functional warning discovery null card node
 information assembly severe discovery null card node   
 information assembly severe discovery null card node   
 vpd match card check node slot processor ecid u11 u01
+<<<<<<< HEAD
 hardware linkcard severe power module accessible u58 fully null functional
 hardware linkcard severe power module accessible u58 fully null functional
 hardware linkcard severe power module accessible u58 fully null functional
@@ -598,6 +733,27 @@ hardware linkcard severe power module accessible u58 fully null functional
 hardware linkcard severe power module accessible u58 fully null functional
 hardware linkcard severe power module accessible u58 fully null functional
 hardware linkcard severe power module accessible u58 fully null functional
+=======
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+hardware linkcard severe accessible module power u58 fully null functional
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 1146800 hummer double exceptions alignment info kernel ras 2016000 
 1146800 hummer double exceptions alignment info kernel ras 2016000 
 1146800 hummer double exceptions alignment info kernel ras 2016000 
@@ -738,6 +894,7 @@ vpd match card check node slot processor ecid u11 u01
 vpd match card check node slot processor ecid u11 u01
 vpd match card check node slot processor ecid u11 u01
 ecid 0000000000000000000000000000 slot processor discovery null card invalid node j11
+<<<<<<< HEAD
 vpd j19 card check node slot processor ecid 0x0b u11
 vpd j19 card check node slot processor ecid 0x0b u11
 vpd j19 card check node slot processor ecid 0x0b u11
@@ -758,6 +915,28 @@ slept nfs retrying seconds 14 mount new inserted database failed
 slept nfs retrying seconds 14 mount new inserted database failed
 slept nfs retrying seconds 14 mount new inserted database failed
 slept nfs retrying seconds 14 mount new inserted database failed
+=======
+vpd j19 card check node processor slot ecid u11 j18
+vpd j19 card check node processor slot ecid u11 j18
+vpd j19 card check node processor slot ecid u11 j18
+vpd j19 card check node processor slot ecid u11 j18
+vpd j19 card check node processor slot ecid u11 j18
+vpd j19 card check node processor slot ecid u11 j18
+vpd j19 card check node processor slot ecid u11 j18
+vpd j19 card check node processor slot ecid u11 j18
+vpd j19 card check node processor slot ecid u11 j18
+vpd j19 card check node processor slot ecid u11 j18
+vpd j19 card check node processor slot ecid u11 j18
+vpd match card check node slot processor ecid u11 u01
+0x0b unit stream control torus wire read bit warning 16
+vpd match card check node slot processor ecid u11 u01
+0x0b unit stream control torus wire read bit warning 16
+vpd match card check node slot processor ecid u11 u01
+vpd match card check node slot processor ecid u11 u01
+vpd match card check node slot processor ecid u11 u01
+0x0b unit stream control torus wire read bit warning 16
+0x0b unit stream control torus wire read bit warning 16
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 source assert idotransportmgr cpp hit function condition bglctlpavtrace 1043 idoproxydb
 source assert idotransportmgr cpp hit function condition bglctlpavtrace 1043 idoproxydb
 source assert idotransportmgr cpp hit function condition bglctlpavtrace 1043 idoproxydb
@@ -858,6 +1037,7 @@ unable filesystem mount fatal error kernel ras
 unable filesystem mount fatal error kernel ras   
 unable filesystem mount fatal error kernel ras   
 unable filesystem mount fatal error kernel ras   
+<<<<<<< HEAD
 10 status tue aug pdt 08 changed 13 00 9f
 10 status tue aug pdt 08 changed 13 00 9f
 10 status tue aug pdt 08 changed 13 00 9f
@@ -878,6 +1058,28 @@ unable filesystem mount fatal error kernel ras
 10 status tue aug pdt 08 changed 13 00 9f
 10 status tue aug pdt 08 changed 13 00 9f
 10 status tue aug pdt 08 changed 13 00 9f
+=======
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+10 status tue pdt changed aug 08 13 0d ip
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 ddr total detected corrected error info kernel ras  
@@ -998,25 +1200,42 @@ swl sppm_chkpt prep ibm sppm 64 run functional apps files
 swl sppm_chkpt prep ibm sppm 64 run functional apps files
 swl sppm_chkpt prep ibm sppm 64 run functional apps files
 swl sppm_chkpt prep ibm sppm 64 run functional apps files
+<<<<<<< HEAD
 10 status tue aug pdt 08 changed 13 00 9f
 10 status tue aug pdt 08 changed 13 00 9f
 10 status tue aug pdt 08 changed 13 00 9f
+=======
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 spasm_static login chdir germann2 directory failed file home app ciod
 spasm_static login chdir germann2 directory failed file home app ciod
 spasm_static login chdir germann2 directory failed file home app ciod
 spasm_static login chdir germann2 directory failed file home app ciod
+<<<<<<< HEAD
+10 status tue aug pdt 08 changed 13 00 9f
+=======
+storage data login_message interrupt reading link severed 96 prefix socket
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
+spasm_static login chdir germann2 directory failed file home app ciod
+spasm_static login chdir germann2 directory failed file home app ciod
+spasm_static login chdir germann2 directory failed file home app ciod
+spasm_static login chdir germann2 directory failed file home app ciod
+spasm_static login chdir germann2 directory failed file home app ciod
+spasm_static login chdir germann2 directory failed file home app ciod
+spasm_static login chdir germann2 directory failed file home app ciod
+<<<<<<< HEAD
 10 status tue aug pdt 08 changed 13 00 9f
 spasm_static login chdir germann2 directory failed file home app ciod
-spasm_static login chdir germann2 directory failed file home app ciod
-spasm_static login chdir germann2 directory failed file home app ciod
-spasm_static login chdir germann2 directory failed file home app ciod
-spasm_static login chdir germann2 directory failed file home app ciod
-spasm_static login chdir germann2 directory failed file home app ciod
-spasm_static login chdir germann2 directory failed file home app ciod
-10 status tue aug pdt 08 changed 13 00 9f
-spasm_static login chdir germann2 directory failed file home app ciod
 10 status tue aug pdt 08 changed 13 00 9f
 10 status tue aug pdt 08 changed 13 00 9f
+=======
+storage data login_message interrupt reading link severed 96 prefix socket
+spasm_static login chdir germann2 directory failed file home app ciod
+storage data login_message interrupt reading link severed 96 prefix socket
+storage data login_message interrupt reading link severed 96 prefix socket
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 spasm_static login chdir germann2 directory failed file home app ciod
 demo spasm_mpi germann2 128 generated files core bgl home program
 demo spasm_mpi germann2 128 generated files core bgl home program
@@ -1058,6 +1277,7 @@ demo spasm_mpi germann2 128 generated files core bgl home program
 demo spasm_mpi germann2 128 generated files core bgl home program
 demo spasm_mpi germann2 128 generated files core bgl home program
 demo spasm_mpi germann2 128 generated files core bgl home program
+<<<<<<< HEAD
 slept nfs retrying seconds 14 mount new inserted database failed
 slept nfs retrying seconds 14 mount new inserted database failed
 slept nfs retrying seconds 14 mount new inserted database failed
@@ -1087,17 +1307,55 @@ severed reading link ciostream 96 116 172 socket prefix message
 suppressing type interrupts info kernel ras    
 symbol rank errors bit ddr detected l3 corrected 0x0157 edram
 severed reading link ciostream 96 116 172 socket prefix message
+=======
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+retrying slept nfs seconds 14 mount failed 18 info bglio958
+lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
+0x0b unit stream control torus wire read bit warning 16
 suppressing type interrupts info kernel ras    
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+0x0b unit stream control torus wire read bit warning 16
+suppressing type interrupts info kernel ras    
+severed link reading socket ciostream prefix 96 172 116 message
+suppressing type interrupts info kernel ras    
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+severed link reading socket ciostream prefix 96 172 116 message
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
+suppressing type interrupts info kernel ras    
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 suppressing type interrupts info kernel ras    
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 ddr total detected corrected error info kernel ras  
+<<<<<<< HEAD
 severed reading link ciostream 96 116 172 socket prefix message
 suppressing type interrupts info kernel ras    
 vpd j19 card check node slot processor ecid 0x0b u11
 stopping panic execution rts fatal kernel ras   
+=======
+severed link reading socket ciostream prefix 96 172 116 message
+suppressing type interrupts info kernel ras    
+0x0b unit stream control torus wire read bit warning 16
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
 lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
 lustre gb1 point mount failed fatal kernel bglio46 ras bglio39
@@ -1238,8 +1496,13 @@ source assert idotransportmgr cpp hit function condition bglctlpavtrace 1043 ido
 source assert idotransportmgr cpp hit function condition bglctlpavtrace 1043 idoproxydb
 source assert idotransportmgr cpp hit function condition bglctlpavtrace 1043 idoproxydb
 source assert idotransportmgr cpp hit function condition bglctlpavtrace 1043 idoproxydb
+<<<<<<< HEAD
 vpd j19 card check node slot processor ecid 0x0b u11
 vpd j19 card check node slot processor ecid 0x0b u11
+=======
+vpd j19 card check node processor slot ecid u11 j18
+vpd j19 card check node processor slot ecid u11 j18
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 vpd match card check node slot processor ecid u11 u01
 vpd match card check node slot processor ecid u11 u01
 vpd match card check node slot processor ecid u11 u01
@@ -1305,37 +1568,53 @@ sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 ddr total detected corrected error info kernel ras  
 ddr total detected corrected error info kernel ras  
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 ddr total detected corrected error info kernel ras  
 ddr total detected corrected error info kernel ras  
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 ddr total detected corrected error info kernel ras  
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 ddr total detected corrected error info kernel ras  
+<<<<<<< HEAD
 severed reading link ciostream 96 116 172 socket prefix message
+=======
+severed link reading socket ciostream prefix 96 172 116 message
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 suppressing type interrupts info kernel ras    
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 suppressing type interrupts info kernel ras    
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 suppressing type interrupts info kernel ras    
+<<<<<<< HEAD
 vpd j19 card check node slot processor ecid 0x0b u11
 suppressing type interrupts info kernel ras    
 torus 0x02f6 sender retransmission generating dcr seconds 0x06 wire unit
+=======
+0x0b unit stream control torus wire read bit warning 16
+suppressing type interrupts info kernel ras    
+0x0b unit stream control torus wire read bit warning 16
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 suppressing type interrupts info kernel ras    
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 suppressing type interrupts info kernel ras    
 suppressing type interrupts info kernel ras    
 parity cache instruction corrected error info kernel ras  
+<<<<<<< HEAD
 vpd j19 card check node slot processor ecid 0x0b u11
 suppressing type interrupts info kernel ras    
 torus 0x02f6 sender retransmission generating dcr seconds 0x06 wire unit
+=======
+0x0b unit stream control torus wire read bit warning 16
+suppressing type interrupts info kernel ras    
+hardware linkcard severe accessible module power u58 fully null functional
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 suppressing type interrupts info kernel ras    
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 load_message reading link severed 116 prefix ciostream 96 socket 172
@@ -1351,6 +1630,7 @@ tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 suppressing type interrupts info kernel ras    
 suppressing type interrupts info kernel ras    
+<<<<<<< HEAD
 torus 0x02f6 sender retransmission generating dcr seconds 0x06 wire unit
 suppressing type interrupts info kernel ras    
 severed reading link ciostream 96 116 172 socket prefix message
@@ -1358,6 +1638,15 @@ suppressing type interrupts info kernel ras
 vpd j19 card check node slot processor ecid 0x0b u11
 suppressing type interrupts info kernel ras    
 severed reading link ciostream 96 116 172 socket prefix message
+=======
+0x0b unit stream control torus wire read bit warning 16
+suppressing type interrupts info kernel ras    
+severed link reading socket ciostream prefix 96 172 116 message
+suppressing type interrupts info kernel ras    
+0x0b unit stream control torus wire read bit warning 16
+suppressing type interrupts info kernel ras    
+severed link reading socket ciostream prefix 96 172 116 message
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 gunnels vnm64 vnm urgent permission denied spelce1 hpcc_ibm image loading
 gunnels vnm64 vnm urgent permission denied spelce1 hpcc_ibm image loading
 gunnels vnm64 vnm urgent permission denied spelce1 hpcc_ibm image loading
@@ -1401,23 +1690,23 @@ vnm 32k urgent spelce1 hpcc_ibm generated files core rts home
 gunnels vnm64 vnm urgent permission denied spelce1 hpcc_ibm image loading
 gunnels vnm64 vnm urgent permission denied spelce1 hpcc_ibm image loading
 gunnels vnm64 vnm urgent permission denied spelce1 hpcc_ibm image loading
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 sym ce mask 0x10 0x04 0x40 0x02 26 35 0x0d94da40
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
-symbol rank errors bit ddr detected l3 corrected 0x0157 edram
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
 cop fftw_opt urgent spelce1 hpcc_ibm generated files core 62 rts
 cop fftw_opt urgent spelce1 hpcc_ibm generated files core 62 rts
 cop fftw_opt urgent spelce1 hpcc_ibm generated files core 62 rts
@@ -1478,6 +1767,7 @@ raptor 254 noprint followup permission denied apps bgl loading image
 raptor 254 noprint followup permission denied apps bgl loading image
 raptor 254 noprint followup permission denied apps bgl loading image
 raptor 254 noprint followup permission denied apps bgl loading image
+<<<<<<< HEAD
 torus 0x02f6 sender retransmission generating dcr seconds 0x06 wire unit
 suppressing type interrupts info kernel ras    
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
@@ -1487,6 +1777,17 @@ suppressing type interrupts info kernel ras
 torus 0x02f6 sender retransmission generating dcr seconds 0x06 wire unit
 suppressing type interrupts info kernel ras    
 torus 0x02f6 sender retransmission generating dcr seconds 0x06 wire unit
+=======
+0x0b unit stream control torus wire read bit warning 16
+suppressing type interrupts info kernel ras    
+tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
+suppressing type interrupts info kernel ras    
+0x0b unit stream control torus wire read bit warning 16
+suppressing type interrupts info kernel ras    
+0x0b unit stream control torus wire read bit warning 16
+suppressing type interrupts info kernel ras    
+0x0b unit stream control torus wire read bit warning 16
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 suppressing type interrupts info kernel ras    
 tree wire unit 0x0b bit warning 0x17 c1 a1 0x0f
 suppressing type interrupts info kernel ras    
@@ -1523,7 +1824,11 @@ active temperature asserted ok latch reset rail pgood clock volt
 fully functional warning discovery null card node   
 fully functional warning discovery null card node   
 fully functional warning discovery null card node   
+<<<<<<< HEAD
 torus 0x02f6 sender retransmission generating dcr seconds 0x06 wire unit
+=======
+fully functional warning discovery null card node   
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 information assembly severe discovery null card node   
 information assembly severe discovery null card node   
 information assembly severe discovery null card node   
@@ -1539,6 +1844,7 @@ fully functional warning discovery null card node
 fully functional warning discovery null card node   
 fully functional warning discovery null card node   
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
+<<<<<<< HEAD
 torus 0x02f6 sender retransmission generating dcr seconds 0x06 wire unit
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
 torus 0x02f6 sender retransmission generating dcr seconds 0x06 wire unit
@@ -1558,6 +1864,27 @@ receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
 torus 0x02f6 sender retransmission generating dcr seconds 0x06 wire unit
 receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
 torus 0x02f6 sender retransmission generating dcr seconds 0x06 wire unit
+=======
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+receiver pipe dcr 0x02ee 43 torus seconds detected synch 0x019a
+execution stopping panic 0x02f6 sender retransmission dcr seconds torus 48
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 1146800 hummer double exceptions alignment info kernel ras 2016000 
 1146800 hummer double exceptions alignment info kernel ras 2016000 
 1146800 hummer double exceptions alignment info kernel ras 2016000 
@@ -1619,6 +1946,7 @@ received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
 18a src glosli g90 ddcmdbglv ddcmd1 ddcmd bin 128 generated
 18a src glosli g90 ddcmdbglv ddcmd1 ddcmd bin 128 generated
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
+<<<<<<< HEAD
 severed reading link ciostream 96 116 172 socket prefix message
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
 severed reading link ciostream 96 116 172 socket prefix message
@@ -1638,6 +1966,27 @@ severed reading link ciostream 96 116 172 socket prefix message
 severed reading link ciostream 96 116 172 socket prefix message
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
 severed reading link ciostream 96 116 172 socket prefix message
+=======
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
+severed link reading socket ciostream prefix 96 172 116 message
+received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
+severed link reading socket ciostream prefix 96 172 116 message
+received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
+severed link reading socket ciostream prefix 96 172 116 message
+received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
+severed link reading socket ciostream prefix 96 172 116 message
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 microseconds calls correctable single rbs maximum instance handler signal spent
 microseconds calls correctable single rbs maximum instance handler signal spent
 interrupts critical input total microseconds max time spent 3686 10692
@@ -1838,6 +2187,7 @@ tested_copro tomandjeff permission denied bin spelce1 hpcc_ibm loading image rts
 tested_copro tomandjeff permission denied bin spelce1 hpcc_ibm loading image rts
 tested_copro tomandjeff permission denied bin spelce1 hpcc_ibm loading image rts
 tested_copro tomandjeff permission denied bin spelce1 hpcc_ibm loading image rts
+<<<<<<< HEAD
 severed reading link ciostream 96 116 172 socket prefix message
 severed reading link ciostream 96 116 172 socket prefix message
 severed reading link ciostream 96 116 172 socket prefix message
@@ -1858,6 +2208,28 @@ severed reading link ciostream 96 116 172 socket prefix message
 severed reading link ciostream 96 116 172 socket prefix message
 severed reading link ciostream 96 116 172 socket prefix message
 severed reading link ciostream 96 116 172 socket prefix message
+=======
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 pollcontroldescriptors died debugger detected ciod info kernel ras  
 pollcontroldescriptors died debugger detected ciod info kernel ras  
 pollcontroldescriptors died debugger detected ciod info kernel ras  
@@ -1959,6 +2331,7 @@ parity cache instruction corrected error info kernel ras
 18a src glosli g90 ddcmdbglv ddcmd1 ddcmd bin 128 generated
 18a src glosli g90 ddcmdbglv ddcmd1 ddcmd bin 128 generated
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
+<<<<<<< HEAD
 severed reading link ciostream 96 116 172 socket prefix message
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
 severed reading link ciostream 96 116 172 socket prefix message
@@ -1978,6 +2351,27 @@ severed reading link ciostream 96 116 172 socket prefix message
 severed reading link ciostream 96 116 172 socket prefix message
 received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
 severed reading link ciostream 96 116 172 socket prefix message
+=======
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
+severed link reading socket ciostream prefix 96 172 116 message
+received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
+severed link reading socket ciostream prefix 96 172 116 message
+received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+symbol rank errors bit ddr detected l3 corrected edram 0x0157
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
+severed link reading socket ciostream prefix 96 172 116 message
+received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
+severed link reading socket ciostream prefix 96 172 116 message
+severed link reading socket ciostream prefix 96 172 116 message
+received errno code 15 address signal 0x000001b0 0x000001f2 0x000001f5 ciod
+severed link reading socket ciostream prefix 96 172 116 message
+>>>>>>> 7799d09b422e3b905f2f1f3846cdf2651c24d5b2
 microseconds calls correctable single rbs maximum instance handler signal spent
 microseconds calls correctable single rbs maximum instance handler signal spent
 interrupts critical input total microseconds max time spent 3686 10692
