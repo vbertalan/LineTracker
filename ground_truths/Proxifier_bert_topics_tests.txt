@@ -1,2000 +1,2000 @@
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-
-proxy hk error edu cuhk cse 5070 connect code status
-
-
-
-
-
-bytes sent received lifetime kb close 64   
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy open https hk edu cuhk cse 64 5070 
-proxy com tcpconn bytes tencent 5070 cuhk open cse https
-proxy open https hk edu cuhk cse 64 5070 
-proxy com tcpconn bytes tencent 5070 cuhk open cse https
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent sec received proxy lifetime hk edu cuhk cse
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent sec received proxy lifetime hk edu cuhk cse
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-received proxy lifetime hk edu cuhk cse close bytes 5070
-
-bytes received proxy lifetime hk edu cuhk cse close 5070
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-bytes sent sec received proxy lifetime hk edu cuhk cse
-
-
-
-
-
-bytes sent received lifetime close 64    
-bytes received proxy lifetime hk edu cuhk cse close 5070
-bytes received proxy lifetime hk edu cuhk cse close 5070
-bytes received proxy lifetime hk edu cuhk cse close 5070
-bytes received proxy lifetime hk edu cuhk cse close 5070
-bytes received proxy lifetime hk edu cuhk cse close 5070
-bytes sec received sent lifetime close proxy open  
-bytes received proxy lifetime hk edu cuhk cse close 5070
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-bytes sent received proxy lifetime kb hk edu cuhk cse
-
-
-
-
-
-
-
-
-bytes sent received proxy lifetime kb hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-bytes sent sec received proxy lifetime hk edu cuhk cse
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-
-
-
-bytes sent sec received proxy lifetime hk edu cuhk cse
-bytes sent sec received proxy lifetime hk edu cuhk cse
-
-
-
-
-bytes sent sec received proxy lifetime hk edu cuhk cse
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-bytes sec received sent lifetime close proxy open  
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-received proxy lifetime hk edu cuhk cse close bytes 5070
-
-bytes sec received sent lifetime close proxy open  
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-bytes sec received sent lifetime close proxy open  
-bytes sec received sent lifetime close proxy open  
-bytes sec received sent lifetime close proxy open  
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-sec received proxy lifetime hk edu cuhk cse close bytes
-sec received proxy lifetime hk edu cuhk cse close bytes
-sec received proxy lifetime hk edu cuhk cse close bytes
-sec received proxy lifetime hk edu cuhk cse close bytes
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-bytes sent received lifetime close 64    
-received proxy lifetime hk edu cuhk cse close bytes 5070
-
-bytes sent received proxy lifetime kb hk edu cuhk cse
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-bytes sent received lifetime close 64    
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-
-proxy 64 bytes 5070 open https hk edu cuhk cse
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-
-
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-bytes sent received lifetime close 64    
-bytes received proxy lifetime hk edu cuhk cse close 5070
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes kb sent received proxy lifetime hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-bytes sent received lifetime close 64    
-bytes kb sent received proxy lifetime hk edu cuhk cse
-bytes kb sent received proxy lifetime hk edu cuhk cse
-bytes kb sent received proxy lifetime hk edu cuhk cse
-bytes kb sent received proxy lifetime hk edu cuhk cse
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-bytes kb sent received proxy lifetime hk edu cuhk cse
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-bytes kb sent received proxy lifetime hk edu cuhk cse
-bytes kb sent received proxy lifetime hk edu cuhk cse
-
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes kb sent received proxy lifetime hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-bytes sent received lifetime close 64    
-proxy open https hk edu cuhk cse 64 5070 
-proxy com tcpconn bytes tencent 5070 cuhk open cse https
-proxy open https hk edu cuhk cse 64 5070 
-proxy com tcpconn bytes tencent 5070 cuhk open cse https
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent sec received proxy lifetime hk edu cuhk cse
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent sec received proxy lifetime hk edu cuhk cse
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy edu hk cse cuhk 5070 https open com error
-proxy edu hk cse cuhk 5070 https open com error
-proxy edu hk cse cuhk 5070 https open com error
-
-
-
-
-
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-
-
-kb bytes sent sec received proxy lifetime hk edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime kb hk edu cuhk cse
-bytes sent received proxy lifetime kb hk edu cuhk cse
-
-sec received proxy lifetime hk edu cuhk cse close bytes
-sec received proxy lifetime hk edu cuhk cse close bytes
-sec received proxy lifetime hk edu cuhk cse close bytes
-
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-bytes sent sec received proxy lifetime hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-received proxy lifetime hk edu cuhk cse close bytes 5070
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-bytes sec received sent lifetime close proxy open  
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-sec received proxy lifetime hk edu cuhk cse close bytes
-sec received proxy lifetime hk edu cuhk cse close bytes
-sec received proxy lifetime hk edu cuhk cse close bytes
-sec received proxy lifetime hk edu cuhk cse close bytes
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent sec received proxy lifetime hk edu cuhk cse
-bytes sent sec received proxy lifetime hk edu cuhk cse
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-bytes sent sec received proxy lifetime hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-
-kb bytes sent sec received proxy lifetime hk edu cuhk
-kb bytes sent sec received proxy lifetime hk edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-
-
-
-received proxy lifetime hk edu cuhk cse close bytes 5070
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-
-bytes sent received proxy lifetime kb hk edu cuhk cse
-bytes sent received proxy lifetime kb hk edu cuhk cse
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-received proxy lifetime hk edu cuhk cse close bytes 5070
-
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent sec received proxy lifetime hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent sec received proxy lifetime hk edu cuhk cse
-bytes sent sec received proxy lifetime hk edu cuhk cse
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent sec received proxy lifetime hk edu cuhk cse
-
-kb bytes sent sec received proxy lifetime hk edu cuhk
-kb bytes sent sec received proxy lifetime hk edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-kb bytes sent sec received proxy lifetime hk edu cuhk
-kb bytes sent sec received proxy lifetime hk edu cuhk
-
-
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent sec received proxy lifetime hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy open        
-proxy open        
-proxy open        
-proxy open        
-
-
-
-bytes sent sec received proxy lifetime hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-proxy 403 5070 status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 64 bytes 5070 open https hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-proxy 64 bytes 5070 open https hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-received proxy lifetime hk edu cuhk cse close bytes 5070
-kb bytes sent sec received proxy lifetime hk edu cuhk
-kb bytes sent sec received proxy lifetime hk edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-bytes sent sec received proxy lifetime hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-
-bytes sent sec received proxy lifetime hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-proxy open https hk edu cuhk cse 64 5070 
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy open https hk edu cuhk cse 64 5070 
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent sec received proxy lifetime hk edu cuhk cse
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy open        
-proxy open        
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent sec received proxy lifetime hk edu cuhk cse
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy open        
-proxy open        
-proxy open        
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent sec received proxy lifetime hk edu cuhk cse
-
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received lifetime kb close 64   
-proxy 5070 target status server hk establish error edu cuhk
-
-
-bytes received proxy lifetime hk edu cuhk cse close 5070
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent sec received proxy lifetime hk edu cuhk cse
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 64 bytes 5070 open https hk edu cuhk cse
-proxy 64 bytes 5070 open https hk edu cuhk cse
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-bytes received proxy lifetime hk edu cuhk cse close 5070
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-proxy 5070 target status server hk establish error edu cuhk
-
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-proxy 5070 target status server hk establish error edu cuhk
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-
-
-
-received proxy lifetime hk edu cuhk cse close bytes 5070
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-sec received proxy lifetime hk edu cuhk cse close bytes
-received proxy lifetime hk edu cuhk cse close bytes 5070
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-
-
-
-
-
-sec received proxy lifetime hk edu cuhk cse close bytes
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-
-bytes received proxy lifetime hk edu cuhk cse close 5070
-bytes received proxy lifetime hk edu cuhk cse close 5070
-bytes received proxy lifetime hk edu cuhk cse close 5070
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-request error connection completion canceled     
-request error connection completion canceled     
-request error connection completion canceled     
-request error connection completion canceled     
-request error connection completion canceled     
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-sec received proxy lifetime hk edu cuhk cse close bytes
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-
-received proxy lifetime hk edu cuhk cse close bytes 5070
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-received proxy lifetime hk edu cuhk cse close bytes 5070
-
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-
-
-
-
-
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-
-
-
-request error connection completion canceled     
-
-proxy 403 5070 status server hk establish error edu cuhk
-proxy 403 5070 status server hk establish error edu cuhk
-proxy 403 5070 status server hk establish error edu cuhk
-proxy 403 5070 status server hk establish error edu cuhk
-proxy 403 5070 status server hk establish error edu cuhk
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent sec received proxy lifetime hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime kb close 64   
-
-
-
-
-request error connection completion canceled     
-
-
-request error connection completion canceled     
-request error connection completion canceled     
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent sec received proxy lifetime hk edu cuhk cse
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-proxy 5070 target status server hk establish error edu cuhk
-received proxy lifetime hk edu cuhk cse close bytes 5070
-
-received proxy lifetime hk edu cuhk cse close bytes 5070
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-bytes sent sec received proxy lifetime hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-received proxy lifetime hk edu cuhk cse close bytes 5070
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-bytes sent received lifetime close 64    
-
-
-bytes sent received lifetime kb close 64   
-
-bytes sent received lifetime kb close 64   
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-
-received proxy lifetime hk edu cuhk cse close bytes 5070
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-proxy 5070 target status server hk establish error edu cuhk
-received proxy lifetime hk edu cuhk cse close bytes 5070
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-received proxy lifetime hk edu cuhk cse close bytes 5070
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-received proxy lifetime hk edu cuhk cse close bytes 5070
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-request error connection completion canceled     
-request error connection completion canceled     
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-proxy 5070 target status server hk establish error edu cuhk
-bytes received proxy lifetime hk edu cuhk cse close 5070
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes received proxy lifetime hk edu cuhk cse close 5070
-proxy 5070 target status server hk establish error edu cuhk
-
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime kb hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-
-
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-received proxy lifetime hk edu cuhk cse close bytes 5070
-bytes received proxy lifetime hk edu cuhk cse close 5070
-bytes received proxy lifetime hk edu cuhk cse close 5070
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes received proxy lifetime hk edu cuhk cse close 5070
-bytes received proxy lifetime hk edu cuhk cse close 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-bytes sent received proxy lifetime kb hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-bytes received proxy lifetime hk edu cuhk cse close 5070
-bytes received proxy lifetime hk edu cuhk cse close 5070
-bytes received proxy lifetime hk edu cuhk cse close 5070
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-bytes received proxy lifetime hk edu cuhk cse close 5070
-bytes received proxy lifetime hk edu cuhk cse close 5070
-sec received proxy lifetime hk edu cuhk cse close bytes
-bytes received proxy lifetime hk edu cuhk cse close 5070
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-bytes received proxy lifetime hk edu cuhk cse close 5070
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-bytes sent received proxy lifetime kb hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime kb hk edu cuhk cse
-bytes sent received proxy lifetime kb hk edu cuhk cse
-bytes sent received proxy lifetime kb hk edu cuhk cse
-bytes sent received proxy lifetime kb hk edu cuhk cse
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-received proxy lifetime hk edu cuhk cse close bytes 5070
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-sec received proxy lifetime hk edu cuhk cse close bytes
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-
-
-
-
-
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-
-
-bytes sent sec received lifetime close    
-bytes sent sec received lifetime close    
-proxy open https hk edu cuhk cse 64 5070 
-bytes sent sec received lifetime close    
-request error connection completion canceled     
-request error connection completion canceled     
-bytes sent received lifetime close 64    
-request error connection completion canceled     
-request error connection completion canceled     
-bytes sent sec received lifetime close    
-bytes sent received lifetime close 64    
-request error connection completion canceled     
-request error connection completion canceled     
-bytes sent sec received lifetime close    
-bytes sent received lifetime close 64    
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-request error connection completion canceled     
-request error connection completion canceled     
-request error connection completion canceled     
-bytes sent received lifetime close 64    
-request error connection completion canceled     
-proxy open https hk edu cuhk cse 64 5070 
-bytes sent sec received lifetime close    
-proxy open https hk edu cuhk cse 64 5070 
-request error connection completion canceled     
-bytes sent received lifetime close 64    
-request error connection completion canceled     
-request error connection completion canceled     
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime kb close 64   
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy hk error edu cuhk cse 5070 connect code status
-proxy hk error edu cuhk cse 5070 connect code status
-proxy hk error edu cuhk cse 5070 connect code status
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent sec received proxy lifetime hk edu cuhk cse
-
-
-
-bytes sent received lifetime kb close 64   
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-
-bytes sent received lifetime kb close 64   
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-received proxy lifetime hk edu cuhk cse close bytes 5070
-
-proxy hk error edu cuhk cse 5070 connect code status
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-
-
-bytes sent sec received proxy lifetime hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-
-
-bytes received proxy lifetime hk edu cuhk cse close 5070
-
-proxy edu hk cse cuhk 5070 https open com error
-
-proxy edu hk cse cuhk 5070 https open com error
-
-proxy edu hk cse cuhk 5070 https open com error
-
-proxy edu hk cse cuhk 5070 https open com error
-
-
-
-
-
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent sec received proxy lifetime hk edu cuhk cse
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent sec received proxy lifetime hk edu cuhk cse
-bytes sent sec received proxy lifetime hk edu cuhk cse
-bytes sent sec received proxy lifetime hk edu cuhk cse
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime kb close 64   
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-request error connection completion canceled     
-proxy 5070 target status server hk establish error edu cuhk
-
-request error connection completion canceled     
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime close 64    
-proxy 5070 target status server hk establish error edu cuhk
-
-proxy 5070 target status server hk establish error edu cuhk
-bytes sent received lifetime kb close 64   
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-
-
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-
-
-
-
-
-
-
-
-request error connection completion canceled     
-request error connection completion canceled     
-
-
-request error connection completion canceled     
-request error connection completion canceled     
-request error connection completion canceled     
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-
-
-
-
-
-request error connection completion canceled     
-
-
-request error connection completion canceled     
-
-
-
-request error connection completion canceled     
-request error connection completion canceled     
-request error connection completion canceled     
-request error connection completion canceled     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-bytes kb sent received proxy lifetime hk edu cuhk cse
-bytes kb sent received proxy lifetime hk edu cuhk cse
-bytes kb sent received proxy lifetime hk edu cuhk cse
-bytes kb sent received proxy lifetime hk edu cuhk cse
-
-bytes kb sent received proxy lifetime hk edu cuhk cse
-
-proxy open https hk edu cuhk cse 64 5070 
-
-proxy open https hk edu cuhk cse 64 5070 
-
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-proxy 5070 target status server hk establish error edu cuhk
-
-
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-proxy open https hk edu cuhk cse 64 5070 
-
-bytes sent received lifetime kb close 64   
-
-proxy open https hk edu cuhk cse 64 5070 
-
-
-
-
-proxy open https hk edu cuhk cse 64 5070 
-received proxy lifetime hk edu cuhk cse close bytes 5070
-
-bytes sent received lifetime kb close 64   
-bytes received sent lifetime close 64 proxy hk edu cuhk
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy open https hk edu cuhk cse 64 5070 
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-
-
-
-
-
-bytes sent received lifetime kb close 64   
-bytes received sent lifetime close 64 proxy hk edu cuhk
-proxy open https hk edu cuhk cse 64 5070 
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy open https hk edu cuhk cse 64 5070 
-
-
-proxy open https hk edu cuhk cse 64 5070 
-
-
-bytes received sent lifetime close 64 proxy hk edu cuhk
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-bytes received sent lifetime close 64 proxy hk edu cuhk
-
-
-bytes sent received lifetime kb close 64   
-proxy open https hk edu cuhk cse 64 5070 
-bytes sent received lifetime kb close 64   
-proxy open https hk edu cuhk cse 64 5070 
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy open https hk edu cuhk cse 64 5070 
-bytes sent received proxy lifetime hk edu cuhk cse close
-proxy open https hk edu cuhk cse 64 5070 
-bytes sent received lifetime kb close 64   
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-proxy open https hk edu cuhk cse 64 5070 
-
-
-bytes sent received lifetime kb close 64   
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-
-
-bytes sent received lifetime kb close 64   
-bytes received sent lifetime close 64 proxy hk edu cuhk
-proxy open https hk edu cuhk cse 64 5070 
-proxy com tcpconn bytes tencent 5070 cuhk open cse https
-
-
-
-
-proxy open https hk edu cuhk cse 64 5070 
-bytes sent received lifetime kb close 64   
-
-bytes received sent lifetime close 64 proxy hk edu cuhk
-
-
-
-proxy open https hk edu cuhk cse 64 5070 
-
-
-bytes sent sec received lifetime close 64   
-
-bytes sent sec received lifetime close 64   
-bytes sent sec received lifetime close 64   
-bytes sent sec received lifetime close 64   
-
-bytes sent sec received lifetime close 64   
-
-bytes sent sec received lifetime close 64   
-
-bytes sent sec received lifetime close 64   
-
-bytes sent sec received lifetime close 64   
-bytes sent sec received lifetime close 64   
-
-
-received proxy lifetime hk edu cuhk cse close bytes 5070
-
-
-received proxy lifetime hk edu cuhk cse close bytes 5070
-
-
-
-
-
-
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-
-
-
-
-
-
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-
-
-
-
-
-
-
-
-
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-proxy 5070 target status server hk establish error edu cuhk
-
-sec received proxy lifetime hk edu cuhk cse close bytes
-
-
-
-sec received proxy lifetime hk edu cuhk cse close bytes
-
-
-
-sec received proxy lifetime hk edu cuhk cse close bytes
-
-
-
-
-sec received proxy lifetime hk edu cuhk cse close bytes
-
-
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-
-
-
-
-
-
-
-
-
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-proxy open https hk edu cuhk cse 64 5070 
-
-
-
-
-
-
-
-
-received proxy lifetime hk edu cuhk cse close bytes 5070
-received proxy lifetime hk edu cuhk cse close bytes 5070
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-bytes sent sec received lifetime close 64   
-bytes sent sec received lifetime close 64   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-proxy cuhk open cse https hk edu 5070 com tcpconn
-proxy open https hk edu cuhk cse 64 5070 
-
-
-
-proxy cuhk open cse https hk edu 5070 com tcpconn
-proxy open https hk edu cuhk cse 64 5070 
-
-
-bytes sent received proxy lifetime hk edu cuhk cse close
-
-proxy cuhk open cse https hk edu 5070 com tcpconn
-proxy open https hk edu cuhk cse 64 5070 
-proxy cuhk open cse https hk edu 5070 com tcpconn
-proxy open https hk edu cuhk cse 64 5070 
-proxy cuhk open cse https hk edu 5070 com tcpconn
-proxy open https hk edu cuhk cse 64 5070 
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-bytes sent received lifetime kb close 64   
-proxy cuhk open cse https hk edu 5070 com tcpconn
-proxy open https hk edu cuhk cse 64 5070 
-
-
-proxy cuhk open cse https hk edu 5070 com tcpconn
-proxy open https hk edu cuhk cse 64 5070 
-
-proxy cuhk open cse https hk edu 5070 com tcpconn
-proxy open https hk edu cuhk cse 64 5070 
-
-
-
-proxy cuhk open cse https hk edu 5070 com tcpconn
-proxy open https hk edu cuhk cse 64 5070 
-proxy cuhk open cse https hk edu 5070 com tcpconn
-proxy open https hk edu cuhk cse 64 5070 
-proxy cuhk open cse https hk edu 5070 com tcpconn
-proxy open https hk edu cuhk cse 64 5070 
-proxy cuhk open cse https hk edu 5070 com tcpconn
-proxy open https hk edu cuhk cse 64 5070 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+sec kb 26 1292 bytes sent received close lifetime 13
+sec kb 26 1292 bytes sent received close lifetime 13
+sec kb 26 1292 bytes sent received close lifetime 13
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes kb sent close received lifetime 1165 268 421
+sec kb 26 1292 bytes sent received close lifetime 13
+sec bytes kb sent close received lifetime 1165 268 421
+01 00 bytes received sent lifetime close 5070 edu cuhk
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
+tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
+tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
+qq weixin long com 443 open 64 https 80 connection
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+qq weixin long com 443 open 64 https 80 connection
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+sec kb 26 1292 bytes sent received close lifetime 13
+sec kb 26 1292 bytes sent received close lifetime 13
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+01 00 bytes received lifetime close sent 353 451 852
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+sec kb 26 1292 bytes sent received close lifetime 13
+sec kb 26 1292 bytes sent received close lifetime 13
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+sec kb 26 1292 bytes sent received close lifetime 13
+sec bytes sent lifetime close received 441 687 993 273
+01 00 bytes lifetime close received sent kb 32 18
+01 00 bytes lifetime close received sent kb 32 18
+01 00 bytes lifetime close received sent kb 32 18
+sec bytes sent lifetime close received 441 687 993 273
+kb bytes sent lifetime close received 02 00 01 04
+01 00 bytes received lifetime close sent 353 451 852
+01 00 bytes lifetime close received sent kb 32 18
+kb bytes sent lifetime close received 02 00 01 04
+sec bytes sent lifetime close received 441 687 993 273
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes kb sent close received lifetime 1165 268 421
+00 bytes lifetime close received sent kb 01 02 812
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes received sent lifetime close 5070 edu cuhk cse
+279 2279 592 00 22 52 02 1316 bytes 28
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes received sent lifetime close 5070 edu cuhk cse
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+01 00 bytes received lifetime close sent 353 451 852
+01 00 bytes received lifetime close sent 353 451 852
+01 00 bytes lifetime close received sent kb 32 18
+00 bytes lifetime close received sent kb 01 02 812
+00 bytes lifetime close received sent kb 01 02 812
+00 bytes lifetime close received sent kb 01 02 812
+kb bytes sent lifetime close received 02 00 01 04
+01 00 bytes lifetime close received sent kb 32 18
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+sec kb 26 1292 bytes sent received close lifetime 13
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+sec bytes sent received lifetime close kb 431 2501 388
+sec kb 26 1292 bytes sent received close lifetime 13
+sec kb 26 1292 bytes sent received close lifetime 13
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+kb bytes sent lifetime close received 02 00 01 04
+00 bytes lifetime close received sent kb 01 02 812
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes lifetime close received sent kb 32 18
+kb bytes sent lifetime close received 02 00 01 04
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes kb sent close received lifetime 1165 268 421
+sec kb 26 1292 bytes sent received close lifetime 13
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes sent received lifetime close kb 431 2501 388
+kb bytes sent lifetime close received 02 00 01 04
+sec kb 26 1292 bytes sent received close lifetime 13
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes sent received lifetime close kb 431 2501 388
+sec kb 26 1292 bytes sent received close lifetime 13
+sec kb 26 1292 bytes sent received close lifetime 13
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec kb 26 1292 bytes sent received close lifetime 13
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes sent received lifetime close kb 431 2501 388
+kb bytes sent lifetime close received 02 00 01 04
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+00 bytes lifetime close received sent kb 01 02 812
+01 00 bytes received sent lifetime close 5070 edu cuhk
+01 00 bytes received sent lifetime close 5070 edu cuhk
+01 00 bytes lifetime close received sent kb 32 18
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes sent received lifetime close kb 431 2501 388
+sec kb 26 1292 bytes sent received close lifetime 13
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes sent received lifetime close kb 431 2501 388
+sec kb 26 1292 bytes sent received close lifetime 13
+sec kb 26 1292 bytes sent received close lifetime 13
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec kb 26 1292 bytes sent received close lifetime 13
+sec kb 26 1292 bytes sent received close lifetime 13
+sec kb 26 1292 bytes sent received close lifetime 13
+sec kb 26 1292 bytes sent received close lifetime 13
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec kb 26 1292 bytes sent received close lifetime 13
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes received sent lifetime close 5070 edu cuhk cse
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+sec kb 26 1292 bytes sent received close lifetime 13
+sec kb 26 1292 bytes sent received close lifetime 13
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes received sent lifetime close 5070 edu cuhk cse
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes sent lifetime close received 441 687 993 273
+sec bytes received sent lifetime close 5070 edu cuhk cse
+tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
+tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
+tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
+qq weixin long com 443 open 64 https 80 connection
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+qq weixin long com 443 open 64 https 80 connection
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+sec kb 26 1292 bytes sent received close lifetime 13
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+sec kb 26 1292 bytes sent received close lifetime 13
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+01 00 bytes received lifetime close sent 353 451 852
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+00 bytes lifetime close received sent kb 01 02 812
+proxy https 5070 edu cuhk cse hk open 64 
+451 353 sec bytes received sent lifetime close 5070 edu
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+451 353 sec bytes received sent lifetime close 5070 edu
+01 00 bytes received lifetime close sent 353 451 852
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+proxy https 5070 edu cuhk cse hk open 64 
+com 443 dropbox github kb youdao bytes connection 00 80
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+00 bytes lifetime close received sent kb 01 02 812
+01 00 bytes received lifetime close sent 353 451 852
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+451 353 sec bytes received sent lifetime close 5070 edu
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes sent received lifetime close kb 431 2501 388
+kb bytes sent lifetime close received 02 00 01 04
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+451 353 sec bytes received sent lifetime close 5070 edu
+qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 connection
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+451 353 sec bytes received sent lifetime close 5070 edu
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+proxy https 5070 edu cuhk cse hk open 64 
+qq weixin long com 443 open 64 https 80 connection
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+451 353 sec bytes received sent lifetime close 5070 edu
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+451 353 sec bytes received sent lifetime close 5070 edu
+kb bytes sent lifetime close received 02 00 01 04
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+qq weixin long com 443 open 64 https 80 connection
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes lifetime close received sent kb 32 18
+01 00 bytes lifetime close received sent kb 32 18
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+451 353 sec bytes received sent lifetime close 5070 edu
+proxy https 5070 edu cuhk cse hk open 64 
+451 353 sec bytes received sent lifetime close 5070 edu
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+00 bytes lifetime close received sent kb 01 02 812
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+proxy https 5070 edu cuhk cse hk open 64 
+451 353 sec bytes received sent lifetime close 5070 edu
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+com 443 dropbox github kb youdao bytes connection 00 80
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+proxy https 5070 edu cuhk cse hk open 64 
+451 353 sec bytes received sent lifetime close 5070 edu
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+451 353 sec bytes received sent lifetime close 5070 edu
+proxy https 5070 edu cuhk cse hk open 64 
+451 353 sec bytes received sent lifetime close 5070 edu
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes sent received lifetime close kb 431 2501 388
+451 353 sec bytes received sent lifetime close 5070 edu
+qq weixin long com 443 open 64 https 80 connection
+1910 276 86 weixin long qq 443 28 64 00
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+com 443 dropbox github kb youdao bytes connection 00 80
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+451 353 sec bytes received sent lifetime close 5070 edu
+451 353 sec bytes received sent lifetime close 5070 edu
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+00 bytes lifetime close received sent kb 01 02 812
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
+oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
+oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
+oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
+01 00 bytes received lifetime close sent 353 451 852
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes sent received lifetime close kb 431 2501 388
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+error connect 11001 resolve server code target status establish 403
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+00 03 bytes sent close received lifetime 02 07 05
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+00 03 bytes sent close received lifetime 02 07 05
+00 03 bytes sent close received lifetime 02 07 05
+01 00 bytes lifetime close received sent kb 32 18
+00 03 bytes sent close received lifetime 02 07 05
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+01 00 bytes lifetime close received sent kb 32 18
+kb bytes sent lifetime close received 02 00 01 04
+com 443 dropbox github kb youdao bytes connection 00 80
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+com 443 dropbox github kb youdao bytes connection 00 80
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes lifetime close received sent kb 32 18
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
+oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
+01 00 bytes lifetime close received sent kb 32 18
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+451 353 sec bytes received sent lifetime close 5070 edu
+451 353 sec bytes received sent lifetime close 5070 edu
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+451 353 sec bytes received sent lifetime close 5070 edu
+sec bytes sent received lifetime close kb 431 2501 388
+451 353 sec bytes received sent lifetime close 5070 edu
+oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
+oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
+oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+3367 img 33 80 upload ydstatic com kb oimagec3 30
+qq weixin long com 443 open 64 https 80 connection
+1910 276 86 weixin long qq 443 28 64 00
+error connect 11001 resolve server code target status establish 403
+kb bytes sent lifetime close received 02 00 01 04
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+error connect 11001 resolve server code target status establish 403
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+proxy https 5070 edu cuhk cse hk open 64 
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+kb bytes sent lifetime close received 02 00 01 04
+00 bytes lifetime close received sent kb 01 02 812
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+190 91 443 216 kb bytes 125 33 sent received
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+190 91 443 216 kb bytes 125 33 sent received
+01 00 bytes received lifetime close sent 353 451 852
+190 91 443 216 kb bytes 125 33 sent received
+190 91 443 216 kb bytes 125 33 sent received
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes kb sent close received lifetime 1165 268 421
+kb bytes sent lifetime close received 02 00 01 04
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+00 bytes lifetime close received sent kb 01 02 812
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+190 91 443 216 kb bytes 125 33 sent received
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+kb bytes sent lifetime close received 02 00 01 04
+com 443 dropbox github kb youdao bytes connection 00 80
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+190 91 443 216 kb bytes 125 33 sent received
+190 91 443 216 kb bytes 125 33 sent received
+190 91 443 216 kb bytes 125 33 sent received
+190 91 443 216 kb bytes 125 33 sent received
+190 91 443 216 kb bytes 125 33 sent received
+00 bytes lifetime close received sent kb 01 02 812
+kb bytes sent lifetime close received 02 00 01 04
+01 00 bytes lifetime close received sent kb 32 18
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+00 bytes lifetime close received sent kb 01 02 812
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+qq weixin long com 443 open 64 https 80 connection
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+kb bytes sent lifetime close received 02 00 01 04
+01 00 bytes received lifetime close sent 353 451 852
+kb bytes sent lifetime close received 02 00 01 04
+01 00 bytes lifetime close received sent kb 32 18
+kb bytes sent lifetime close received 02 00 01 04
+01 00 bytes lifetime close received sent kb 32 18
+01 00 bytes lifetime close received sent kb 32 18
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+01 00 bytes lifetime close received sent kb 32 18
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+01 00 bytes received lifetime close sent 353 451 852
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+279 2279 592 00 22 52 02 1316 bytes 28
+279 2279 592 00 22 52 02 1316 bytes 28
+279 2279 592 00 22 52 02 1316 bytes 28
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+20 00 13 15 bytes received sent lifetime close 5070
+20 00 13 15 bytes received sent lifetime close 5070
+20 00 13 15 bytes received sent lifetime close 5070
+20 00 13 15 bytes received sent lifetime close 5070
+20 00 13 15 bytes received sent lifetime close 5070
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+qq weixin long com 443 open 64 https 80 connection
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+00 bytes lifetime close received sent kb 01 02 812
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes lifetime close received sent kb 32 18
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+00 bytes lifetime close received sent kb 01 02 812
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+451 353 sec bytes received sent lifetime close 5070 edu
+sec bytes sent received lifetime close kb 431 2501 388
+451 353 sec bytes received sent lifetime close 5070 edu
+proxy https 5070 edu cuhk cse hk open 64 
+279 2279 592 00 22 52 02 1316 bytes 28
+01 00 bytes lifetime close received sent kb 32 18
+00 bytes lifetime close received sent kb 01 02 812
+00 bytes lifetime close received sent kb 01 02 812
+00 bytes lifetime close received sent kb 01 02 812
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+20 00 13 15 bytes received sent lifetime close 5070
+01 00 bytes received lifetime close sent 353 451 852
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+190 91 443 216 kb bytes 125 33 sent received
+190 91 443 216 kb bytes 125 33 sent received
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received sent lifetime close 5070 edu cuhk
+01 00 bytes received sent lifetime close 5070 edu cuhk
+01 00 bytes received sent lifetime close 5070 edu cuhk
+01 00 bytes received sent lifetime close 5070 edu cuhk
+01 00 bytes received sent lifetime close 5070 edu cuhk
+01 00 bytes received sent lifetime close 5070 edu cuhk
+01 00 bytes received sent lifetime close 5070 edu cuhk
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+sec bytes received sent lifetime close 5070 edu cuhk cse
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received sent lifetime close 5070 edu cuhk
+kb bytes sent lifetime close received 02 00 01 04
+01 00 bytes lifetime close received sent kb 32 18
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+00 03 bytes sent close received lifetime 02 07 05
+20 00 13 15 bytes received sent lifetime close 5070
+20 00 13 15 bytes received sent lifetime close 5070
+00 03 bytes sent close received lifetime 02 07 05
+00 03 bytes sent close received lifetime 02 07 05
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+279 2279 592 00 22 52 02 1316 bytes 28
+279 2279 592 00 22 52 02 1316 bytes 28
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes lifetime close received sent kb 32 18
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes kb sent close received lifetime 1165 268 421
+279 2279 592 00 22 52 02 1316 bytes 28
+279 2279 592 00 22 52 02 1316 bytes 28
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes sent lifetime close received 441 687 993 273
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes kb sent close received lifetime 1165 268 421
+kb bytes sent lifetime close received 02 00 01 04
+01 00 bytes received sent lifetime close 5070 edu cuhk
+01 00 bytes received lifetime close sent 353 451 852
+01 00 bytes received sent lifetime close 5070 edu cuhk
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+01 00 bytes received sent lifetime close 5070 edu cuhk
+01 00 bytes received sent lifetime close 5070 edu cuhk
+01 00 bytes received sent lifetime close 5070 edu cuhk
+01 00 bytes received sent lifetime close 5070 edu cuhk
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes received sent lifetime close 5070 edu cuhk cse
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes lifetime close received sent kb 32 18
+279 2279 592 00 22 52 02 1316 bytes 28
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+279 2279 592 00 22 52 02 1316 bytes 28
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+com 443 dropbox github kb youdao bytes connection 00 80
+oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec kb 26 1292 bytes sent received close lifetime 13
+00 bytes lifetime close received sent kb 01 02 812
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+01 00 bytes lifetime close received sent kb 32 18
+01 00 bytes lifetime close received sent kb 32 18
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+00 bytes lifetime close received sent kb 01 02 812
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+00 bytes lifetime close received sent kb 01 02 812
+00 bytes lifetime close received sent kb 01 02 812
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+00 bytes lifetime close received sent kb 01 02 812
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes kb sent close received lifetime 1165 268 421
+00 bytes lifetime close received sent kb 01 02 812
+00 bytes lifetime close received sent kb 01 02 812
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+00 bytes lifetime close received sent kb 01 02 812
+279 2279 592 00 22 52 02 1316 bytes 28
+279 2279 592 00 22 52 02 1316 bytes 28
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes sent received lifetime close kb 431 2501 388
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+sec bytes kb sent close received lifetime 1165 268 421
+01 00 bytes received sent lifetime close 5070 edu cuhk
+01 00 bytes received sent lifetime close 5070 edu cuhk
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes received sent lifetime close 5070 edu cuhk cse
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+00 bytes lifetime close received sent kb 01 02 812
+proxy https 5070 edu cuhk cse hk open 64 
+00 03 bytes sent close received lifetime 02 07 05
+proxy https 5070 edu cuhk cse hk open 64 
+00 bytes lifetime close received sent kb 01 02 812
+00 bytes lifetime close received sent kb 01 02 812
+00 bytes lifetime close received sent kb 01 02 812
+00 bytes lifetime close received sent kb 01 02 812
+01 00 bytes received lifetime close sent 353 451 852
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+00 03 bytes sent close received lifetime 02 07 05
+00 03 bytes sent close received lifetime 02 07 05
+00 03 bytes sent close received lifetime 02 07 05
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 connection
+1910 276 86 weixin long qq 443 28 64 00
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+190 91 443 216 kb bytes 125 33 sent received
+com 443 dropbox github kb youdao bytes connection 00 80
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
+oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
+oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
+oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
+oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+3367 img 33 80 upload ydstatic com kb oimagec3 30
+kb bytes sent lifetime close received 02 00 01 04
+3367 img 33 80 upload ydstatic com kb oimagec3 30
+3367 img 33 80 upload ydstatic com kb oimagec3 30
+3367 img 33 80 upload ydstatic com kb oimagec3 30
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
+com 443 dropbox github kb youdao bytes connection 00 80
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
+oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
+oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
+oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
+oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
+oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
+oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received sent lifetime close 5070 edu cuhk
+01 00 bytes received sent lifetime close 5070 edu cuhk
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received sent lifetime close 5070 edu cuhk
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+sec bytes sent lifetime close received 441 687 993 273
+kb bytes sent lifetime close received 02 00 01 04
+00 03 bytes sent close received lifetime 02 07 05
+00 03 bytes sent close received lifetime 02 07 05
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+01 00 bytes lifetime close received sent kb 32 18
+20 00 13 15 bytes received sent lifetime close 5070
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes lifetime close received sent kb 32 18
+20 00 13 15 bytes received sent lifetime close 5070
+20 00 13 15 bytes received sent lifetime close 5070
+kb bytes sent lifetime close received 02 00 01 04
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+20 00 13 15 bytes received sent lifetime close 5070
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes kb sent close received lifetime 1165 268 421
+00 bytes lifetime close received sent kb 01 02 812
+sec bytes received sent lifetime close 5070 edu cuhk cse
+proxy https 5070 edu cuhk cse hk open 64 
+279 2279 592 00 22 52 02 1316 bytes 28
+01 00 bytes lifetime close received sent kb 32 18
+01 00 bytes lifetime close received sent kb 32 18
+01 00 bytes lifetime close received sent kb 32 18
+kb bytes sent lifetime close received 02 00 01 04
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes lifetime close received sent kb 32 18
+01 00 bytes lifetime close received sent kb 32 18
+01 00 bytes lifetime close received sent kb 32 18
+01 00 bytes received lifetime close sent 353 451 852
+sec kb 26 1292 bytes sent received close lifetime 13
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+sec bytes received sent lifetime close 5070 edu cuhk cse
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received lifetime close sent 353 451 852
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+sec bytes sent lifetime close received 441 687 993 273
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+proxy https 5070 edu cuhk cse hk open 64 
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+00 bytes lifetime close received sent kb 01 02 812
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes lifetime close received sent kb 32 18
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes lifetime close received sent kb 32 18
+01 00 bytes lifetime close received sent kb 32 18
+01 00 bytes lifetime close received sent kb 32 18
+kb bytes sent lifetime close received 02 00 01 04
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received sent lifetime close 5070 edu cuhk
+proxy https 5070 edu cuhk cse hk open 64 
+00 03 bytes sent close received lifetime 02 07 05
+00 03 bytes sent close received lifetime 02 07 05
+00 03 bytes sent close received lifetime 02 07 05
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+00 03 bytes sent close received lifetime 02 07 05
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent lifetime close received 441 687 993 273
+00 03 bytes sent close received lifetime 02 07 05
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes received sent lifetime close 5070 edu cuhk cse
+proxy https 5070 edu cuhk cse hk open 64 
+sec bytes sent received lifetime close kb 431 2501 388
+proxy https 5070 edu cuhk cse hk open 64 
+01 00 bytes received sent lifetime close 5070 edu cuhk
+proxy https 5070 edu cuhk cse hk open 64 
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 64 com 00 11 bytes 442 sent received
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 64 com 00 11 bytes 442 sent received
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 64 com 00 11 bytes 442 sent received
+com 443 dropbox github kb youdao bytes connection 00 80
+baidu 80 64 com 00 11 bytes 442 sent received
+baidu 80 64 com 00 11 bytes 442 sent received
+baidu 80 64 com 00 11 bytes 442 sent received
+baidu 80 64 com 00 11 bytes 442 sent received
+baidu 80 64 com 00 11 bytes 442 sent received
+baidu 80 64 com 00 11 bytes 442 sent received
+baidu 80 64 com 00 11 bytes 442 sent received
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 64 com 00 11 bytes 442 sent received
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+yuedu yuedust 126 baidu eclick net 443 hm 64 com
+baidu 80 64 com 00 11 bytes 442 sent received
+yuedu yuedust 126 baidu eclick net 443 hm 64 com
+yuedu yuedust 126 baidu eclick net 443 hm 64 com
+baidu 80 64 com 00 11 bytes 442 sent received
+baidu 80 64 com 00 11 bytes 442 sent received
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+yuedu yuedust 126 baidu eclick net 443 hm 64 com
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+yuedu yuedust 126 baidu eclick net 443 hm 64 com
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
+3367 img 33 80 upload ydstatic com kb oimagec3 30
+3367 img 33 80 upload ydstatic com kb oimagec3 30
+3367 img 33 80 upload ydstatic com kb oimagec3 30
+3367 img 33 80 upload ydstatic com kb oimagec3 30
+1910 276 86 weixin long qq 443 28 64 00
+3367 img 33 80 upload ydstatic com kb oimagec3 30
+baidu 80 64 com 00 11 bytes 442 sent received
+qq weixin long com 443 open 64 https 80 connection
+baidu 80 64 com 00 11 bytes 442 sent received
+qq weixin long com 443 open 64 https 80 connection
+baidu 80 64 com 00 11 bytes 442 sent received
+com 443 dropbox github kb youdao bytes connection 00 80
+baidu 80 64 com 00 11 bytes 442 sent received
+baidu 80 64 com 00 11 bytes 442 sent received
+yuedu yuedust 126 baidu eclick net 443 hm 64 com
+yuedu yuedust 126 baidu eclick net 443 hm 64 com
+yuedu yuedust 126 baidu eclick net 443 hm 64 com
+3367 img 33 80 upload ydstatic com kb oimagec3 30
+3367 img 33 80 upload ydstatic com kb oimagec3 30
+3367 img 33 80 upload ydstatic com kb oimagec3 30
+qq weixin long com 443 open 64 https 80 connection
+190 91 443 216 kb bytes 125 33 sent received
+1910 276 86 weixin long qq 443 28 64 00
+1910 276 86 weixin long qq 443 28 64 00
+190 91 443 216 kb bytes 125 33 sent received
+qq weixin long com 443 open 64 https 80 connection
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+1910 276 86 weixin long qq 443 28 64 00
+google 443 64 04 com kb bytes www gstatic sent
+qq weixin long com 443 open 64 https 80 connection
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+qq weixin long com 443 open 64 https 80 connection
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 connection
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 connection
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 connection
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 connection
+google 443 64 www com gstatic mtalk https open googleusercontent
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 connection
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 connection
+1910 276 86 weixin long qq 443 28 64 00
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 connection
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google 443 64 04 com kb bytes www gstatic sent
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 connection
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 connection
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 connection
+1910 276 86 weixin long qq 443 28 64 00
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+com 443 dropbox github kb youdao bytes connection 00 80
+qq weixin long com 443 open 64 https 80 connection
+com 443 dropbox github kb youdao bytes connection 00 80
+google 443 64 www com gstatic mtalk https open googleusercontent
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 connection
+google 443 64 www com gstatic mtalk https open googleusercontent
+com 443 dropbox github kb youdao bytes connection 00 80
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 connection
+google 443 64 www com gstatic mtalk https open googleusercontent
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+qq weixin long com 443 open 64 https 80 connection
+1910 276 86 weixin long qq 443 28 64 00
+google 443 64 04 com kb bytes www gstatic sent
+qq weixin long com 443 open 64 https 80 connection
+1910 276 86 weixin long qq 443 28 64 00
+google 443 64 www com gstatic mtalk https open googleusercontent
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google hangouts 443 clients2 64 com clients4 https open clientservices
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google 443 64 04 com kb bytes www gstatic sent
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google 443 64 www com gstatic mtalk https open googleusercontent
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google 443 64 www com gstatic mtalk https open googleusercontent
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google 443 64 www com gstatic mtalk https open googleusercontent
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+baidu 80 64 com 00 11 bytes 442 sent received
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 www com gstatic mtalk https open googleusercontent
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+google hangouts 443 clients2 64 com clients4 https open clientservices
+qq weixin long com 443 open 64 https 80 connection
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+com 443 dropbox github kb youdao bytes connection 00 80
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+190 91 443 216 kb bytes 125 33 sent received
+190 91 443 216 kb bytes 125 33 sent received
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+com 443 dropbox github kb youdao bytes connection 00 80
+google 443 64 04 com kb bytes www gstatic sent
+190 91 443 216 kb bytes 125 33 sent received
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+1910 276 86 weixin long qq 443 28 64 00
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+error connect 11001 resolve server code target status establish 403
+qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 connection
+google 443 64 www com gstatic mtalk https open googleusercontent
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google 443 64 www com gstatic mtalk https open googleusercontent
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google hangouts 443 clients2 64 com clients4 https open clientservices
+qq weixin long com 443 open 64 https 80 connection
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google hangouts 443 clients2 64 com clients4 https open clientservices
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+190 91 443 216 kb bytes 125 33 sent received
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 www com gstatic mtalk https open googleusercontent
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+google 443 64 www com gstatic mtalk https open googleusercontent
+com 443 dropbox github kb youdao bytes connection 00 80
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+com 443 dropbox github kb youdao bytes connection 00 80
+google hangouts 443 clients2 64 com clients4 https open clientservices
+google hangouts 443 clients2 64 com clients4 https open clientservices
+com 443 dropbox github kb youdao bytes connection 00 80
+google 443 64 www com gstatic mtalk https open googleusercontent
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+baidu 80 com 64 sogou https open bdimg baidustatic ss
+google 443 64 www com gstatic mtalk https open googleusercontent
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+google 443 64 www com gstatic mtalk https open googleusercontent
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+google 443 64 04 com kb bytes www gstatic sent
+190 91 443 216 kb bytes 125 33 sent received
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+190 91 443 216 kb bytes 125 33 sent received
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+baidu 80 64 com 00 11 bytes 442 sent received
+google 443 64 www com gstatic mtalk https open googleusercontent
+1910 276 86 weixin long qq 443 28 64 00
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+190 91 443 216 kb bytes 125 33 sent received
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+yuedu yuedust 126 baidu eclick net 443 hm 64 com
+yuedu yuedust 126 baidu eclick net 443 hm 64 com
+yuedu yuedust 126 baidu eclick net 443 hm 64 com
+yuedu yuedust 126 baidu eclick net 443 hm 64 com
+yuedu yuedust 126 baidu eclick net 443 hm 64 com
+yuedu yuedust 126 baidu eclick net 443 hm 64 com
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+com 443 dropbox github kb youdao bytes connection 00 80
+baidu 80 64 com 00 11 bytes 442 sent received
+google hangouts 443 clients2 64 com clients4 https open clientservices
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+190 91 443 216 kb bytes 125 33 sent received
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+com 443 dropbox github kb youdao bytes connection 00 80
+com 443 dropbox github kb youdao bytes connection 00 80
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+1910 276 86 weixin long qq 443 28 64 00
+1910 276 86 weixin long qq 443 28 64 00
+baidu 80 64 com 00 11 bytes 442 sent received
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+baidu 80 64 com 00 11 bytes 442 sent received
+baidu 80 64 com 00 11 bytes 442 sent received
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+190 91 443 216 kb bytes 125 33 sent received
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+google 443 64 04 com kb bytes www gstatic sent
+190 91 443 216 kb bytes 125 33 sent received
+190 91 443 216 kb bytes 125 33 sent received
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+254 hm2 cnzz 674 youdao 80 com cidian bytes 64

@@ -1,0 +1,177 @@
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+executor task info stage running tid got coarsegrainedexecutorbackend assigned 
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+
+size memory mb info gb free blockmanagerinfo added  
+
+size memory mb info gb free blockmanagerinfo added  
+
+size memory mb info gb free blockmanagerinfo added  
+
+size memory mb info gb free blockmanagerinfo added  
+
+size memory mb info gb free blockmanagerinfo added  
+
+size memory mb info gb free blockmanagerinfo added  
+
+size memory mb info gb free blockmanagerinfo added  
+
+size memory mb info gb free blockmanagerinfo added  
+
+size memory mb info gb free blockmanagerinfo added  
+
+size memory mb info gb free blockmanagerinfo added  
+
+
+
+
+
+
+storage removing rdd info blockmanager     
+
+
+
+info started service successfully port server nettyblocktransferservice netty created 
+info started service successfully port server nettyblocktransferservice netty created 
+info started service successfully port server nettyblocktransferservice netty created 
+info started service successfully port server nettyblocktransferservice netty created 
+info started service successfully port server nettyblocktransferservice netty created 
+
+
+
+
+
+output 10 task saved info hdfs fileoutputcommitter 34 11 
+broadcast torrentbroadcast variable reading info took ms started  
+output 10 task saved info hdfs fileoutputcommitter 34 11 
+broadcast torrentbroadcast variable reading info took ms started  
+output 10 task saved info hdfs fileoutputcommitter 34 11 
+broadcast torrentbroadcast variable reading info took ms started  
+output 10 task saved info hdfs fileoutputcommitter 34 11 
+
+
+
+
+
+
+
+
+
+
+
+total times pythonrunner python init info finish boot  
+total times pythonrunner python init info finish boot  
+executor task info stage tid sent result finished driver bytes
+executor task info stage tid sent result finished driver bytes
+executor task info stage tid sent result finished driver bytes
+executor tid task stage sent result info finished driver bytes
+executor task info stage tid sent result finished driver bytes
+executor task info stage tid sent result finished driver bytes
+
+broadcast torrentbroadcast variable reading info took ms started  
+broadcast torrentbroadcast variable reading info took ms started  
+
+
+executor tid task stage sent result info finished driver bytes
+broadcast torrentbroadcast variable reading info took ms started  
+update row        
+update row        
+update row        
+
+
+broadcast torrentbroadcast variable reading info took ms started  
+update row        
+storage locally info blockmanager block     
+
+sparkhadoopmapredutil mapred info committed      
+storage locally info blockmanager block     
+executor task stage tid info running sent result finished driver
+executor task stage tid info running sent result finished driver
+total times pythonrunner python init info finish boot  
+sparkhadoopmapredutil mapred info committed      
+storage locally info blockmanager block     
+executor task stage tid info running sent result finished driver
+stored storage size memorystore memory info free estimated block 
+stored storage size memorystore memory info free estimated block 
+stored storage size memorystore memory info free estimated block 
+stored storage size memorystore memory info free estimated block 
+stored storage size memorystore memory info free estimated block 
+stored storage size memorystore memory info free estimated block 
+stored storage size memorystore memory info free estimated block 
+stored storage size memorystore memory info free estimated block 
+stored storage size memorystore memory info free estimated block 
+stored storage size memorystore memory info free estimated block 
+sparkhadoopmapredutil mapred info committed      
+storage locally info blockmanager block     
+executor tid task stage sent result info finished driver bytes
+executor tid task stage sent result info finished driver bytes
+sparkhadoopmapredutil mapred info committed      
+storage locally info blockmanager block     
+executor tid task stage sent result info finished driver bytes
+executor task info tid stage running got coarsegrainedexecutorbackend assigned 
+executor task info tid stage running got coarsegrainedexecutorbackend assigned 
+executor task info tid stage running got coarsegrainedexecutorbackend assigned 
+executor task info tid stage running got coarsegrainedexecutorbackend assigned 
+executor task info tid stage running got coarsegrainedexecutorbackend assigned 
+executor task info tid stage running got coarsegrainedexecutorbackend assigned 
+executor task info tid stage running got coarsegrainedexecutorbackend assigned 
+executor task info tid stage running got coarsegrainedexecutorbackend assigned 
+executor task info tid stage running got coarsegrainedexecutorbackend assigned 
+executor task info tid stage running got coarsegrainedexecutorbackend assigned 

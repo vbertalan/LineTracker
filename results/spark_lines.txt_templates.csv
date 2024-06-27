@@ -1,0 +1,55 @@
+EventId,EventTemplate,Occurrences
+4765f85a,Update row : <*>,40
+0d8b6b74,"INFO storage.MemoryStore : Block <*> stored as <*> in memory ( estimated size <*> <*> , free <*> <*> )",169
+56b182f4,"INFO MemoryStore : Block <*> stored as bytes in memory ( estimated size 4.0 MB , free <*> <*> )",20
+5e44bbe3,"INFO BlockManagerInfo : Added <*> in memory on <*> : <*> ( size : <*> MB , free : <*> GB )",47
+576dc4e7,INFO shuffle.RetryingBlockFetcher : Retrying fetch ( 2/3 ) for 1 outstanding blocks after 5000 ms,1
+4b899ac3,"INFO client.TransportClientFactory : Found inactive connection to mesos-slave-08/10.10.34.18 : 55867 , creating a new one.",1
+b57782e3,ERROR shuffle.RetryingBlockFetcher : Exception while beginning fetch of 1 outstanding blocks ( after 2 retries ),1
+83dec63c,to connect to mesos-slave-08/10.10.34.18 : 55867,1
+22453341,at org.apache.spark.network.client.TransportClientFactory.createClient ( TransportClientFactory.java : <*> ),2
+03b69f6b,at <*> ( <*> : <*> ),12
+2907189f,java.net.ConnectException : Connection refused : mesos-slave-08/10.10.34.18 : 55867,1
+6627343a,at sun.nio.ch.SocketChannelImpl.checkConnect ( Native Method ),1
+255a19d5,INFO rdd.HadoopRDD : Input split : hdfs : //10.10.34.11 : <*> : <*>,6
+d6733a81,"INFO spark.CacheManager : Partition <*> not found , computing it",65
+4d8cddef,"INFO python.PythonRunner : Times : total = <*> , boot = <*> , init = <*> , finish = <*>",302
+0c6a8ef5,INFO executor.Executor : Running task <*> in stage <*> ( TID <*> ),243
+8472f612,INFO executor.CoarseGrainedExecutorBackend : Got assigned task <*>,239
+263f448d,INFO executor.Executor : Finished task <*> in stage <*> ( TID <*> ) . <*> bytes result sent to driver,239
+cf646f32,INFO storage.BlockManager : Found block <*> locally,231
+04bf5c3e,INFO mapred.SparkHadoopMapRedUtil : <*> : Committed,62
+22ee3858,INFO output.FileOutputCommitter : File Output Committer Algorithm version is 1,61
+2df1e001,INFO output.FileOutputCommitter : Saved output of task <*> to hdfs : //10.10.34.11 : <*>,59
+031bd3b1,INFO broadcast.TorrentBroadcast : Started reading broadcast variable <*>,27
+9f858d60,INFO broadcast.TorrentBroadcast : Reading broadcast variable <*> took <*> ms,37
+4dcf9d73,INFO ApplicationMaster : Waiting for spark context initialization,2
+73e28824,INFO ApplicationMaster : Waiting for spark context initialization ...,2
+8ec36084,INFO SparkContext : Running Spark version 1.6.0,1
+8903c0a7,"INFO SecurityManager : SecurityManager : authentication disabled ; ui acls disabled ; users with view permissions : Set ( yarn , curi ) ; users with modify permissions : Set ( yarn , curi )",1
+9f5d0fa4,INFO <*> : Successfully started service <*> on port <*>,7
+e28c1e88,INFO <*> : Slf4jLogger started,3
+785587b9,INFO Remoting : Starting remoting,3
+bf9bb989,INFO Remoting : Remoting started ; listening on addresses : [ akka.tcp : <*> : <*> ],3
+ded29326,INFO SparkEnv : Registering <*>,3
+5d5039b2,INFO <*> : Created local directory at <*>,3
+851a9f98,INFO MemoryStore : MemoryStore started with capacity 36.4 GB,1
+d3b8a2a2,INFO JettyUtils : Adding filter : org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter,1
+8e3a28aa,INFO Server : jetty-8.y.z-SNAPSHOT,1
+43a6f9e7,INFO AbstractConnector : Started SelectChannelConnector@0.0.0.0 : 47193,1
+9d43bb7c,"INFO spark.SecurityManager : Changing modify acls to : yarn , curi",4
+9ea8a9fc,"INFO spark.SecurityManager : SecurityManager : authentication disabled ; ui acls disabled ; users with view permissions : Set ( yarn , curi ) ; users with modify permissions : Set ( yarn , curi )",3
+8e6185d7,INFO storage.MemoryStore : MemoryStore started with capacity <*> GB,2
+9303001f,INFO executor.CoarseGrainedExecutorBackend : Connecting to driver : spark : //CoarseGrainedScheduler@10.10.34.11 : <*>,2
+4e7ecfe4,INFO executor.CoarseGrainedExecutorBackend : Successfully registered with driver,2
+8222b25a,INFO executor.Executor : Starting executor ID <*> on host <*>,2
+bb180e7d,INFO netty.NettyBlockTransferService : Server created on <*>,2
+35dd3bab,INFO storage.BlockManagerMaster : Trying to register BlockManager,2
+61d85d97,INFO storage.BlockManagerMaster : Registered BlockManager,2
+880e1304,INFO storage.BlockManager : Removing RDD <*>,63
+2980a047,INFO TaskSetManager : Finished task <*> in stage 8.0 ( TID <*> ) in <*> ms on <*> ( <*> ),7
+f0a0fb59,"INFO TaskSetManager : Starting task <*> in stage 8.0 ( TID <*> , <*> , partition <*> , <*> , 1894 bytes )",6
+06143c0f,INFO executor.CoarseGrainedExecutorBackend : Driver commanded a shutdown,1
+9a1f0787,INFO storage.MemoryStore : MemoryStore cleared,1
+c96f92e5,INFO storage.BlockManager : BlockManager stopped,1
+c2d226cd,WARN executor.CoarseGrainedExecutorBackend : An unknown ( mesos-master-1 : 45329 ) driver disconnected.,1
