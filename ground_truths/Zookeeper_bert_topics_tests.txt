@@ -1,1087 +1,2020 @@
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
-time notification info       
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+received request 11 connection 10 34 45338 46749 38283 46696
+waiting queue message interrupted warn     
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+worker thread send leaving warn     
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated established 10000 timeout 20000 client 11 session 10 34
+negotiated established 10000 timeout 20000 client 11 session 10 34
+accepted 13 socket connection 46340 37247 38022 10 39517 37611
+mode dropped old server 13 request client connection 36167 warn
+establish new attempting 13 client 39514 37471 37199 39517 37611
+negotiated established 10000 timeout 20000 client 11 session 10 34
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+negotiated established 10000 timeout 20000 client 11 session 10 34
+accepted 13 socket connection 46340 37247 38022 10 39517 37611
+mode dropped old server 13 request client connection 36167 warn
+establish new attempting 13 client 39514 37471 37199 39517 37611
+negotiated established 10000 timeout 20000 client 11 session 10 34
+closed socket sessionid client 11 connection 0x14ed93111f2007f 0x14ed93111f20092 0x14ed93111f2008d 0x14ed93111f2009b
+stream end caught exception warn     
+closed socket sessionid client 11 connection 0x14ed93111f2007f 0x14ed93111f20092 0x14ed93111f2008d 0x14ed93111f2009b
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated established 10000 timeout 20000 client 11 session 10 34
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated established 10000 timeout 20000 client 11 session 10 34
+stream end caught exception warn     
+closed socket sessionid client 11 connection 0x14ed93111f2007f 0x14ed93111f20092 0x14ed93111f2008d 0x14ed93111f2009b
+stream end caught exception warn     
+closed socket sessionid client 11 connection 0x14ed93111f2007f 0x14ed93111f20092 0x14ed93111f2008d 0x14ed93111f2009b
+stream end caught exception warn     
+closed socket sessionid client 11 connection 0x14ed93111f2007f 0x14ed93111f20092 0x14ed93111f2008d 0x14ed93111f2009b
+stream end caught exception warn     
+closed socket sessionid client 11 connection 0x14ed93111f2007f 0x14ed93111f20092 0x14ed93111f2008d 0x14ed93111f2009b
+stream end caught exception warn     
+closed socket sessionid client 11 connection 0x14ed93111f2007f 0x14ed93111f20092 0x14ed93111f2008d 0x14ed93111f2009b
+stream end caught exception warn     
+closed socket sessionid client 11 connection 0x14ed93111f2007f 0x14ed93111f20092 0x14ed93111f2008d 0x14ed93111f2009b
+stream end caught exception warn     
+closed socket sessionid client 11 connection 0x14ed93111f2007f 0x14ed93111f20092 0x14ed93111f2008d 0x14ed93111f2009b
+stream end caught exception warn     
+closed socket sessionid client 11 connection 0x14ed93111f2007f 0x14ed93111f20092 0x14ed93111f2008d 0x14ed93111f2009b
+stream end caught exception warn     
+closed socket sessionid client 11 connection 0x14ed93111f2007f 0x14ed93111f20092 0x14ed93111f2008d 0x14ed93111f2009b
+stream end caught exception warn     
+closed socket sessionid client 11 connection 0x14ed93111f2007f 0x14ed93111f20092 0x14ed93111f2008d 0x14ed93111f2009b
+stream end caught exception warn     
+closed socket sessionid client 11 connection 0x14ed93111f2007f 0x14ed93111f20092 0x14ed93111f2008d 0x14ed93111f2009b
+stream end caught exception warn     
+closed socket sessionid client 11 connection 0x14ed93111f2007f 0x14ed93111f20092 0x14ed93111f2008d 0x14ed93111f2009b
+stream end caught exception warn     
+closed socket sessionid client 11 connection 0x14ed93111f2007f 0x14ed93111f20092 0x14ed93111f2008d 0x14ed93111f2009b
+stream end caught exception warn     
+closed socket sessionid client 11 connection 0x14ed93111f2007f 0x14ed93111f20092 0x14ed93111f2008d 0x14ed93111f2009b
+stream end caught exception warn     
+establish new attempting 12 client session 10 34 45667 46284
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+negotiated established 10000 timeout 20000 client 11 session 10 34
+negotiated established 10000 timeout 20000 client 11 session 10 34
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+negotiated established 10000 timeout 20000 client 11 session 10 34
+accepted 13 socket connection 46340 37247 38022 10 39517 37611
+mode dropped old server 13 request client connection 36167 warn
+establish new attempting 13 client 39514 37471 37199 39517 37611
+negotiated established 10000 timeout 20000 client 11 session 10 34
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+negotiated established 10000 timeout 20000 client 11 session 10 34
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated established 10000 timeout 20000 client 11 session 10 34
+negotiated established 10000 timeout 20000 client 11 session 10 34
+negotiated established 10000 timeout 20000 client 11 session 10 34
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+negotiated established 10000 timeout 20000 client 11 session 10 34
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+negotiated established 10000 timeout 20000 client 11 session 10 34
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated established 10000 timeout 20000 client 11 session 10 34
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+negotiated established 10000 timeout 20000 client 11 session 10 34
+accepted 13 socket connection 46340 37247 38022 10 39517 37611
+mode dropped old server 13 request client connection 36167 warn
+establish new attempting 13 client 39514 37471 37199 39517 37611
+negotiated established 10000 timeout 20000 client 11 session 10 34
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated established 10000 timeout 20000 client 11 session 10 34
+stream end caught exception warn     
+closed socket sessionid client 11 connection 0x14ed93111f2007f 0x14ed93111f20092 0x14ed93111f2008d 0x14ed93111f2009b
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated established 10000 timeout 20000 client 11 session 10 34
+accepted socket 11 connection 10 34 info 60680 54740 40569
+expiring exceeded 10000ms timeout 0x34ede65503f0027 0x34ede65503f0048 0x34ede65503f005c 0x34ede65503f004a 0x34ede65503f004b 0x34ede65503f0010
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid 0x14ede63a5a70043 0x14f4a6318b8001f 0x14f4a6318b8003e 0x14f4a6318b8003d 0x14f4a6318b8003c 0x14f4a6318b80035 0x14ede63a5a7000e
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+old mode dropped server 12 request client connection warn 10
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+10000 negotiated established timeout 18 0x14ee3e057ed0002 0x14ee3e057ed0003 0x14ee3e057ed0004 0x14ee3e057ed0006 56374
+accepted 13 socket connection 46340 37247 38022 10 39517 37611
+mode dropped old server 13 request client connection 36167 warn
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+10000 negotiated established timeout 18 0x14ee3e057ed0002 0x14ee3e057ed0003 0x14ee3e057ed0004 0x14ee3e057ed0006 56374
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+expiring exceeded 10000ms timeout 0x34ede65503f0027 0x34ede65503f0048 0x34ede65503f005c 0x34ede65503f004a 0x34ede65503f004b 0x34ede65503f0010
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+termination processed sessionid 0x14ede63a5a70043 0x14f4a6318b8001f 0x14f4a6318b8003e 0x14f4a6318b8003d 0x14f4a6318b8003c 0x14f4a6318b80035 0x14ede63a5a7000e
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+expiring exceeded 10000ms timeout 0x34ede65503f0027 0x34ede65503f0048 0x34ede65503f005c 0x34ede65503f004a 0x34ede65503f004b 0x34ede65503f0010
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+stream end caught exception warn     
+closed socket sessionid client connection 38030 0x14ede63a5a70039 0x14ede63a5a7005b 0x14ede63a5a70059 0x14ede63a5a7004f
+stream end caught exception warn     
+closed socket sessionid client connection 38030 0x14ede63a5a70039 0x14ede63a5a7005b 0x14ede63a5a70059 0x14ede63a5a7004f
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+stream end caught exception warn     
+closed socket sessionid client connection 38030 0x14ede63a5a70039 0x14ede63a5a7005b 0x14ede63a5a70059 0x14ede63a5a7004f
+stream end caught exception warn     
+closed socket sessionid client connection 38030 0x14ede63a5a70039 0x14ede63a5a7005b 0x14ede63a5a70059 0x14ede63a5a7004f
+stream end caught exception warn     
+closed socket sessionid client connection 38030 0x14ede63a5a70039 0x14ede63a5a7005b 0x14ede63a5a70059 0x14ede63a5a7004f
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+expiring exceeded 10000ms timeout 0x34ede65503f0027 0x34ede65503f0048 0x34ede65503f005c 0x34ede65503f004a 0x34ede65503f004b 0x34ede65503f0010
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+expiring exceeded 10000ms timeout 0x34ede65503f0027 0x34ede65503f0048 0x34ede65503f005c 0x34ede65503f004a 0x34ede65503f004b 0x34ede65503f0010
+expiring exceeded 10000ms timeout 0x34ede65503f0027 0x34ede65503f0048 0x34ede65503f005c 0x34ede65503f004a 0x34ede65503f004b 0x34ede65503f0010
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+termination processed sessionid 0x14ede63a5a70043 0x14f4a6318b8001f 0x14f4a6318b8003e 0x14f4a6318b8003d 0x14f4a6318b8003c 0x14f4a6318b80035 0x14ede63a5a7000e
+termination processed sessionid 0x14ede63a5a70043 0x14f4a6318b8001f 0x14f4a6318b8003e 0x14f4a6318b8003d 0x14f4a6318b8003c 0x14f4a6318b80035 0x14ede63a5a7000e
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid 0x14ede63a5a70043 0x14f4a6318b8001f 0x14f4a6318b8003e 0x14f4a6318b8003d 0x14f4a6318b8003c 0x14f4a6318b80035 0x14ede63a5a7000e
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+expiring exceeded 10000ms timeout 0x34ede65503f0027 0x34ede65503f0048 0x34ede65503f005c 0x34ede65503f004a 0x34ede65503f004b 0x34ede65503f0010
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+stream end caught exception warn     
+closed socket sessionid client connection 38030 0x14ede63a5a70039 0x14ede63a5a7005b 0x14ede63a5a70059 0x14ede63a5a7004f
+stream end caught exception warn     
+closed socket sessionid client connection 38030 0x14ede63a5a70039 0x14ede63a5a7005b 0x14ede63a5a70059 0x14ede63a5a7004f
+stream end caught exception warn     
+closed socket sessionid client connection 38030 0x14ede63a5a70039 0x14ede63a5a7005b 0x14ede63a5a70059 0x14ede63a5a7004f
+stream end caught exception warn     
+closed socket sessionid client connection 38030 0x14ede63a5a70039 0x14ede63a5a7005b 0x14ede63a5a70059 0x14ede63a5a7004f
+stream end caught exception warn     
+closed socket sessionid client connection 38030 0x14ede63a5a70039 0x14ede63a5a7005b 0x14ede63a5a70059 0x14ede63a5a7004f
+expiring exceeded 10000ms timeout 0x34ede65503f0027 0x34ede65503f0048 0x34ede65503f005c 0x34ede65503f004a 0x34ede65503f004b 0x34ede65503f0010
+expiring exceeded 10000ms timeout 0x34ede65503f0027 0x34ede65503f0048 0x34ede65503f005c 0x34ede65503f004a 0x34ede65503f004b 0x34ede65503f0010
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+expiring exceeded 10000ms timeout 0x34ede65503f0027 0x34ede65503f0048 0x34ede65503f005c 0x34ede65503f004a 0x34ede65503f004b 0x34ede65503f0010
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+expiring exceeded 10000ms timeout 0x34ede65503f0027 0x34ede65503f0048 0x34ede65503f005c 0x34ede65503f004a 0x34ede65503f004b 0x34ede65503f0010
+expiring exceeded 10000ms timeout 0x34ede65503f0027 0x34ede65503f0048 0x34ede65503f005c 0x34ede65503f004a 0x34ede65503f004b 0x34ede65503f0010
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid 0x14ede63a5a70043 0x14f4a6318b8001f 0x14f4a6318b8003e 0x14f4a6318b8003d 0x14f4a6318b8003c 0x14f4a6318b80035 0x14ede63a5a7000e
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+stream end caught exception warn     
+closed socket sessionid client connection 38030 0x14ede63a5a70039 0x14ede63a5a7005b 0x14ede63a5a70059 0x14ede63a5a7004f
+stream end caught exception warn     
+closed socket sessionid client connection 38030 0x14ede63a5a70039 0x14ede63a5a7005b 0x14ede63a5a70059 0x14ede63a5a7004f
+stream end caught exception warn     
+closed socket sessionid client connection 38030 0x14ede63a5a70039 0x14ede63a5a7005b 0x14ede63a5a70059 0x14ede63a5a7004f
+stream end caught exception warn     
+closed socket sessionid client connection 38030 0x14ede63a5a70039 0x14ede63a5a7005b 0x14ede63a5a70059 0x14ede63a5a7004f
+stream end caught exception warn     
+os 14 sessionid environment termination processed session server info 28
+stream end caught exception warn     
+closed socket sessionid client connection 38030 0x14ede63a5a70039 0x14ede63a5a7005b 0x14ede63a5a70059 0x14ede63a5a7004f
+stream end caught exception warn     
+closed socket sessionid client connection 38030 0x14ede63a5a70039 0x14ede63a5a7005b 0x14ede63a5a70059 0x14ede63a5a7004f
+stream end caught exception warn     
+closed socket sessionid client connection 38030 0x14ede63a5a70039 0x14ede63a5a7005b 0x14ede63a5a70059 0x14ede63a5a7004f
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+expiring exceeded 10000ms timeout 0x34ede65503f0027 0x34ede65503f0048 0x34ede65503f005c 0x34ede65503f004a 0x34ede65503f004b 0x34ede65503f0010
+address channel 3888 election open 13 warn 10 34 
+time notification 800 400 1600 3200 51200 25600 12800 info
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+time notification 800 400 1600 3200 51200 25600 12800 info
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+time notification 800 400 1600 3200 51200 25600 12800 info
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+received 13 request connection 10 34 44290 47683 44498 44465
+received 13 request connection 10 34 44290 47683 44498 44465
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+quorumpeer 2015 myid 2181 07 08 670 738 15 31
+port bind tcp nodelay true set established closed 36432 binding
+zookeeper share jar usr java var version snapshot lib environment
+os 14 sessionid environment termination processed session server info 28
+lib environment java usr gnu x86_64 linux jni amd64 server
+lib environment java usr gnu x86_64 linux jni amd64 server
+lib environment java usr gnu x86_64 linux jni amd64 server
+zookeeper share jar usr java var version snapshot lib environment
+lib environment java usr gnu x86_64 linux jni amd64 server
+lib environment java usr gnu x86_64 linux jni amd64 server
+lib environment java usr gnu x86_64 linux jni amd64 server
+os 14 sessionid environment termination processed session server info 28
+mode dropped old server 13 request client connection 36167 warn
+establish new attempting 13 client 39514 37471 37199 39517 37611
+10000 negotiated established timeout 18 0x14ee3e057ed0002 0x14ee3e057ed0003 0x14ee3e057ed0004 0x14ee3e057ed0006 56374
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+10000 negotiated established timeout 18 0x14ee3e057ed0002 0x14ee3e057ed0003 0x14ee3e057ed0004 0x14ee3e057ed0006 56374
+accepted 13 socket connection 46340 37247 38022 10 39517 37611
+mode dropped old server 13 request client connection 36167 warn
+establish new attempting 13 client 39514 37471 37199 39517 37611
+10000 negotiated established timeout 18 0x14ee3e057ed0002 0x14ee3e057ed0003 0x14ee3e057ed0004 0x14ee3e057ed0006 56374
+accepted socket connection 40 21 10 34 42 37 35
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+10000 negotiated established timeout 18 0x14ee3e057ed0002 0x14ee3e057ed0003 0x14ee3e057ed0004 0x14ee3e057ed0006 56374
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+10000 negotiated established timeout 18 0x14ee3e057ed0002 0x14ee3e057ed0003 0x14ee3e057ed0004 0x14ee3e057ed0006 56374
+accepted socket connection 40 21 10 34 42 37 35
+port bind tcp nodelay true set established closed 36432 binding
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+zookeeper share jar usr java var version snapshot lib environment
+port bind tcp nodelay true set established closed 36432 binding
+quorumpeer 2015 myid 2181 07 08 670 738 15 31
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+received 12 request connection 10 34 47204 54882 54880 54825
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+received 13 request connection 10 34 44290 47683 44498 44465
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+stream end caught exception warn     
+closed socket 23 sessionid 22 20 client 46271 0x14f05578bd8001e 0x14f05578bd80011
+stream end caught exception warn     
+closed socket 23 sessionid 22 20 client 46271 0x14f05578bd8001e 0x14f05578bd80011
+stream end caught exception warn     
+closed socket 23 sessionid 22 20 client 46271 0x14f05578bd8001e 0x14f05578bd80011
+stream end caught exception warn     
+closed socket 23 sessionid 22 20 client 46271 0x14f05578bd8001e 0x14f05578bd80011
+stream end caught exception warn     
+closed socket 23 sessionid 22 20 client 46271 0x14f05578bd8001e 0x14f05578bd80011
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+10000 negotiated established timeout 18 0x14ee3e057ed0002 0x14ee3e057ed0003 0x14ee3e057ed0004 0x14ee3e057ed0006 56374
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+revalidating 0x24f0557806a0019 0x24f0557806a0018 0x24f0557806a0023 0x24f0557806a0021 0x24f0557806a001f 0x24f0557806a001d 0x14f05578bd8001d 0x14f05578bd8001b 0x14f05578bd80019
+os 14 sessionid environment termination processed session server info 28
+10000 negotiated established timeout 18 0x14ee3e057ed0002 0x14ee3e057ed0003 0x14ee3e057ed0004 0x14ee3e057ed0006 56374
+accepted socket 11 connection 10 34 info 60680 54740 40569
+10000 negotiated established timeout 18 0x14ee3e057ed0002 0x14ee3e057ed0003 0x14ee3e057ed0004 0x14ee3e057ed0006 56374
+old mode dropped server request 11 client connection warn 10
+renew attempting 0x14ed93111f20011 36167 0x24f0557806a0018 0x24f0557806a0019 51194 51195 0x14f05578bd80019 46863
+revalidating 0x24f0557806a0019 0x24f0557806a0018 0x24f0557806a0023 0x24f0557806a0021 0x24f0557806a001f 0x24f0557806a001d 0x14f05578bd8001d 0x14f05578bd8001b 0x14f05578bd80019
+accepted socket connection 40 21 10 34 42 37 35
+10000 negotiated established timeout 18 0x14ee3e057ed0002 0x14ee3e057ed0003 0x14ee3e057ed0004 0x14ee3e057ed0006 56374
+os 14 sessionid environment termination processed session server info 28
+renew attempting 0x14ed93111f20011 36167 0x24f0557806a0018 0x24f0557806a0019 51194 51195 0x14f05578bd80019 46863
+revalidating 0x24f0557806a0019 0x24f0557806a0018 0x24f0557806a0023 0x24f0557806a0021 0x24f0557806a001f 0x24f0557806a001d 0x14f05578bd8001d 0x14f05578bd8001b 0x14f05578bd80019
+10000 negotiated established timeout 18 0x14ee3e057ed0002 0x14ee3e057ed0003 0x14ee3e057ed0004 0x14ee3e057ed0006 56374
+old mode dropped server request client connection 40 warn 21
+renew attempting 0x14ed93111f20011 36167 0x24f0557806a0018 0x24f0557806a0019 51194 51195 0x14f05578bd80019 46863
+revalidating 0x24f0557806a0019 0x24f0557806a0018 0x24f0557806a0023 0x24f0557806a0021 0x24f0557806a001f 0x24f0557806a001d 0x14f05578bd8001d 0x14f05578bd8001b 0x14f05578bd80019
+accepted socket connection 40 21 10 34 42 37 35
+10000 negotiated established timeout 18 0x14ee3e057ed0002 0x14ee3e057ed0003 0x14ee3e057ed0004 0x14ee3e057ed0006 56374
+old mode dropped server request client connection 40 warn 21
+stream end caught exception warn     
+closed socket 23 sessionid 22 20 client 46271 0x14f05578bd8001e 0x14f05578bd80011
+stream end caught exception warn     
+closed socket 23 sessionid 22 20 client 46271 0x14f05578bd8001e 0x14f05578bd80011
+stream end caught exception warn     
+closed socket 23 sessionid 22 20 client 46271 0x14f05578bd8001e 0x14f05578bd80011
+stream end caught exception warn     
+closed socket 23 sessionid 22 20 client 46271 0x14f05578bd8001e 0x14f05578bd80011
+stream end caught exception warn     
+closed socket 23 sessionid 22 20 client 46271 0x14f05578bd8001e 0x14f05578bd80011
+stream end caught exception warn     
+closed socket 23 sessionid 22 20 client 46271 0x14f05578bd8001e 0x14f05578bd80011
+stream end caught exception warn     
+closed socket 23 sessionid 22 20 client 46271 0x14f05578bd8001e 0x14f05578bd80011
+stream end caught exception warn     
+closed socket 23 sessionid 22 20 client 46271 0x14f05578bd8001e 0x14f05578bd80011
+stream end caught exception warn     
+closed socket 23 sessionid 22 20 client 46271 0x14f05578bd8001e 0x14f05578bd80011
+stream end caught exception warn     
+closed socket 23 sessionid 22 20 client 46271 0x14f05578bd8001e 0x14f05578bd80011
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 12 warn 10 34 
+time notification 800 400 1600 3200 51200 25600 12800 info
+address channel 3888 election open 13 warn 10 34 
+address channel 3888 election open 12 warn 10 34 
+received 12 request connection 10 34 47204 54882 54880 54825
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+address channel 3888 election open 13 warn 10 34 
+time notification 800 400 1600 3200 51200 25600 12800 info
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+quorumpeer 2015 myid 2181 07 08 670 738 15 31
+port bind tcp nodelay true set established closed 36432 binding
+zookeeper share jar usr java var version snapshot lib environment
+zookeeper share jar usr java var version snapshot lib environment
+lib environment java usr gnu x86_64 linux jni amd64 server
+lib environment java usr gnu x86_64 linux jni amd64 server
+lib environment java usr gnu x86_64 linux jni amd64 server
+zookeeper share jar usr java var version snapshot lib environment
+lib environment java usr gnu x86_64 linux jni amd64 server
+lib environment java usr gnu x86_64 linux jni amd64 server
+60000 time notification info      
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+os 14 sessionid environment termination processed session server info 28
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+os 14 sessionid environment termination processed session server info 28
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+address channel 3888 election open 11 warn 0x0 10 34
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+address channel 3888 election open 12 warn 10 34 
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+os 14 sessionid environment termination processed session server info 28
+address channel 3888 election open 13 warn 10 34 
+60000 time notification info      
+shutting sending diff processor complete called shutdown info request 
+shutting sending diff processor complete called shutdown info request 
+waiting queue message interrupted warn     
+shutting sending diff processor complete called shutdown info request 
+shutting sending diff processor complete called shutdown info request 
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+shutting sending diff processor complete called shutdown info request 
+shutting sending diff processor complete called shutdown info request 
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+shutting sending diff processor complete called shutdown info request 
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+quorumpeer 2015 myid 2181 07 08 670 738 15 31
+zookeeper share jar usr java var version snapshot lib environment
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+time notification 800 400 1600 3200 51200 25600 12800 info
+time notification 800 400 1600 3200 51200 25600 12800 info
+time notification 800 400 1600 3200 51200 25600 12800 info
+time notification 800 400 1600 3200 51200 25600 12800 info
+address channel 3888 election open 12 warn 10 34 
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception   
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception   
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception   
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception   
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception   
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception   
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception acceptor socketexception net
+sock unexpected shutdown causing open error exception   
+goodbye 12 59070 59139 59071 59142 59067 59143 59144 59215
+goodbye 12 59070 59139 59071 59142 59067 59143 59144 59215
+sock unexpected shutdown causing open error exception   
+goodbye 12 59070 59139 59071 59142 59067 59143 59144 59215
+sock unexpected shutdown causing open error exception   
+goodbye 12 59070 59139 59071 59142 59067 59143 59144 59215
+sock unexpected shutdown causing open error exception   
+goodbye 13 57202 57195 57274 57271 57270 57269 57343 57199
+sock unexpected shutdown causing open error exception   
+goodbye 13 57202 57195 57274 57271 57270 57269 57343 57199
+sock unexpected shutdown causing open error exception   
+goodbye 13 57202 57195 57274 57271 57270 57269 57343 57199
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 13 57202 57195 57274 57271 57270 57269 57343 57199
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 12 59070 59139 59071 59142 59067 59143 59144 59215
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 12 59070 59139 59071 59142 59067 59143 59144 59215
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 12 59070 59139 59071 59142 59067 59143 59144 59215
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 12 59070 59139 59071 59142 59067 59143 59144 59215
+sock unexpected shutdown causing open error exception   
+goodbye 13 57202 57195 57274 57271 57270 57269 57343 57199
+sock unexpected shutdown causing open error exception   
+goodbye 13 57202 57195 57274 57271 57270 57269 57343 57199
+sock unexpected shutdown causing open error exception   
+goodbye 13 57202 57195 57274 57271 57270 57269 57343 57199
+sock unexpected shutdown causing open error exception   
+goodbye 13 57202 57195 57274 57271 57270 57269 57343 57199
+sock unexpected shutdown causing open error exception   
+sock unexpected shutdown causing open error exception   
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 12 59070 59139 59071 59142 59067 59143 59144 59215
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 12 59070 59139 59071 59142 59067 59143 59144 59215
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 13 57202 57195 57274 57271 57270 57269 57343 57199
+sock unexpected shutdown causing open error exception acceptor socketexception net
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 13 57202 57195 57274 57271 57270 57269 57343 57199
+goodbye 13 57202 57195 57274 57271 57270 57269 57343 57199
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 13 57202 57195 57274 57271 57270 57269 57343 57199
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception acceptor socketexception net
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception acceptor socketexception net
+sock unexpected shutdown causing open error exception acceptor socketexception net
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 12 59070 59139 59071 59142 59067 59143 59144 59215
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 12 59070 59139 59071 59142 59067 59143 59144 59215
+goodbye 12 59070 59139 59071 59142 59067 59143 59144 59215
+goodbye 12 59070 59139 59071 59142 59067 59143 59144 59215
+sock unexpected shutdown causing open error exception acceptor socketexception net
+sock unexpected shutdown causing open error exception acceptor socketexception net
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 13 57202 57195 57274 57271 57270 57269 57343 57199
+goodbye 13 57202 57195 57274 57271 57270 57269 57343 57199
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 13 57202 57195 57274 57271 57270 57269 57343 57199
+goodbye 13 57202 57195 57274 57271 57270 57269 57343 57199
+sock unexpected shutdown causing open error exception   
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception   
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+received request 11 connection 10 34 45338 46749 38283 46696
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+waiting queue message interrupted warn     
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+sendworker interrupting warn       
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+waiting queue message interrupted warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+worker thread send leaving warn     
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+received 12 request connection 10 34 47204 54882 54880 54825
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+received 13 request connection 10 34 44290 47683 44498 44465
+received 13 request connection 10 34 44290 47683 44498 44465
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+waiting queue message interrupted warn     
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 13 request connection 10 34 44290 47683 44498 44465
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 13 request connection 10 34 44290 47683 44498 44465
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+old mode dropped server request client connection 40 warn 21
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+id broken 188978561024 error connection warn using pipe socketexception net
+id broken 188978561024 error connection warn using pipe socketexception net
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+accepted 13 socket connection 46340 37247 38022 10 39517 37611
+mode dropped old server 13 request client connection 36167 warn
+establish new attempting 13 client 39514 37471 37199 39517 37611
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+hdfs mesos ioexception close io zookeeperserver running 0x0 create level
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+accepted 13 socket connection 46340 37247 38022 10 39517 37611
+mode dropped old server 13 request client connection 36167 warn
+renew attempting 0x14ed93111f20011 36167 0x24f0557806a0018 0x24f0557806a0019 51194 51195 0x14f05578bd80019 46863
+negotiated established 10000 timeout 20000 client 11 session 10 34
+accepted 13 socket connection 46340 37247 38022 10 39517 37611
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+os 14 sessionid environment termination processed session server info 28
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+os 14 sessionid environment termination processed session server info 28
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+establish new attempting 11 client session 10 34 info 50284
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+stream end caught exception warn     
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+accepted 13 socket connection 46340 37247 38022 10 39517 37611
+mode dropped old server 13 request client connection 36167 warn
+establish new attempting 13 client 39514 37471 37199 39517 37611
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+termination processed sessionid session 0x14ed93111f200c1 info 0x14ed93111f20013 0x14ed93111f20032 0x14ed93111f20031 0x14ed93111f2002e
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+expiring exceeded 20000ms 10000ms timeout session 0x34ed9ac1c1e0070 0x34ed9ac1c1e001a 0x34ed9ac1c1e0071 0x34ed9ac1c1e006c
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+termination processed sessionid session info 0x34ed9ac1c1e0006 0x34ed93485090007 0x34ed9348509000e 0x34ed9ac1c1e0005 0x34ed9ac1c1e0012
+termination processed sessionid session 0x24ed9311942008b 0x24ed9311942005b 0x24ed93119420059 0x24ed93119420053 0x24ed93119420022 0x24ed93119420021
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+waiting queue message interrupted warn     
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+waiting queue message interrupted warn     
+waiting queue message interrupted warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+zookeeper share jar usr java var version snapshot lib environment
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+shutting sending diff processor complete called shutdown info request 
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+accepted 13 socket connection 46340 37247 38022 10 39517 37611
+mode dropped old server 13 request client connection 36167 warn
+establish new attempting 13 client 39514 37471 37199 39517 37611
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+os 14 sessionid environment termination processed session server info 28
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+establish new attempting 11 client session 10 34 info 50284
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+accepted 13 socket connection 46340 37247 38022 10 39517 37611
+mode dropped old server 13 request client connection 36167 warn
+establish new attempting 13 client 39514 37471 37199 39517 37611
+accepted 13 socket connection 46340 37247 38022 10 39517 37611
+mode dropped old server 13 request client connection 36167 warn
+establish new attempting 13 client 39514 37471 37199 39517 37611
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+os 14 sessionid environment termination processed session server info 28
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+accepted socket 11 connection 10 34 info 60680 54740 40569
+os 14 sessionid environment termination processed session server info 28
+new establish attempting client 40 log 21 session 34 10
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+stream end caught exception warn     
+new establish attempting client 40 log 21 session 34 10
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+negotiated 10000 established timeout client 0x24ede63a01b0050 0x24ede63a01b006c 0x24ede63a01b006b 0x24ede63a01b0069 0x24ede63a01b0068
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+lib environment java usr gnu x86_64 linux jni amd64 server
+zookeeper share jar usr java var version snapshot lib environment
+zookeeper share jar usr java var version snapshot lib environment
+os 14 sessionid environment termination processed session server info 28
+zookeeper share jar usr java var version snapshot lib environment
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+zookeeper share jar usr java var version snapshot lib environment
+zookeeper share jar usr java var version snapshot lib environment
+zookeeper share jar usr java var version snapshot lib environment
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+shutting sending diff processor complete called shutdown info request 
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+address channel 3888 election open 11 warn 0x0 10 34
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+address channel 3888 election open 13 warn 10 34 
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+address channel 3888 election open 13 warn 10 34 
+os 14 sessionid environment termination processed session server info 28
+expiring exceeded 10000ms timeout 0x24edfaa87170005 0x24edfaa87170006 0x24edfaa87170009 0x24edfaa8717000a 0x24edfaa87170046 0x24edfaa87170038
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+expiring exceeded 10000ms timeout 0x24edfaa87170005 0x24edfaa87170006 0x24edfaa87170009 0x24edfaa8717000a 0x24edfaa87170046 0x24edfaa87170038
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+expiring exceeded 10000ms timeout 0x24edfaa87170005 0x24edfaa87170006 0x24edfaa87170009 0x24edfaa8717000a 0x24edfaa87170046 0x24edfaa87170038
+expiring exceeded 10000ms timeout 0x24edfaa87170005 0x24edfaa87170006 0x24edfaa87170009 0x24edfaa8717000a 0x24edfaa87170046 0x24edfaa87170038
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+old mode dropped server request client connection 40 warn 21
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+stream end caught exception warn     
+closed socket sessionid 57796 57786 0x24edfaa87170044 0x24edfaa8717004a 0x24edfaa87170034 0x24edfaa87170016 0x24edfaa87170045
+stream end caught exception warn     
+closed socket sessionid 57796 57786 0x24edfaa87170044 0x24edfaa8717004a 0x24edfaa87170034 0x24edfaa87170016 0x24edfaa87170045
+expiring exceeded 10000ms timeout 0x24edfaa87170005 0x24edfaa87170006 0x24edfaa87170009 0x24edfaa8717000a 0x24edfaa87170046 0x24edfaa87170038
+expiring exceeded 10000ms timeout 0x24edfaa87170005 0x24edfaa87170006 0x24edfaa87170009 0x24edfaa8717000a 0x24edfaa87170046 0x24edfaa87170038
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+stream end caught exception warn     
+closed socket sessionid 57796 57786 0x24edfaa87170044 0x24edfaa8717004a 0x24edfaa87170034 0x24edfaa87170016 0x24edfaa87170045
+stream end caught exception warn     
+closed socket sessionid client connection 54577 0x24ed93119420005 10 17 34
+stream end caught exception warn     
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+establish new attempting 11 client session 10 34 info 50284
+os 14 sessionid environment termination processed session server info 28
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+os 14 sessionid environment termination processed session server info 28
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+os 14 sessionid environment termination processed session server info 28
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+establish new attempting 11 client session 10 34 info 50284
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+stream end caught exception warn     
+closed socket sessionid 57796 57786 0x24edfaa87170044 0x24edfaa8717004a 0x24edfaa87170034 0x24edfaa87170016 0x24edfaa87170045
+stream end caught exception warn     
+closed socket sessionid 57796 57786 0x24edfaa87170044 0x24edfaa8717004a 0x24edfaa87170034 0x24edfaa87170016 0x24edfaa87170045
+stream end caught exception warn     
+closed socket sessionid 57796 57786 0x24edfaa87170044 0x24edfaa8717004a 0x24edfaa87170034 0x24edfaa87170016 0x24edfaa87170045
+expiring exceeded 10000ms timeout 0x24edfaa87170005 0x24edfaa87170006 0x24edfaa87170009 0x24edfaa8717000a 0x24edfaa87170046 0x24edfaa87170038
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+expiring exceeded 10000ms timeout 0x24edfaa87170005 0x24edfaa87170006 0x24edfaa87170009 0x24edfaa8717000a 0x24edfaa87170046 0x24edfaa87170038
+expiring exceeded 10000ms timeout 0x24edfaa87170005 0x24edfaa87170006 0x24edfaa87170009 0x24edfaa8717000a 0x24edfaa87170046 0x24edfaa87170038
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+os 14 sessionid environment termination processed session server info 28
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+stream end caught exception warn     
+closed socket sessionid 57796 57786 0x24edfaa87170044 0x24edfaa8717004a 0x24edfaa87170034 0x24edfaa87170016 0x24edfaa87170045
+stream end caught exception warn     
+closed socket sessionid 57796 57786 0x24edfaa87170044 0x24edfaa8717004a 0x24edfaa87170034 0x24edfaa87170016 0x24edfaa87170045
+os 14 sessionid environment termination processed session server info 28
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+expiring exceeded 10000ms timeout 0x24edfaa87170005 0x24edfaa87170006 0x24edfaa87170009 0x24edfaa8717000a 0x24edfaa87170046 0x24edfaa87170038
+expiring exceeded 10000ms timeout 0x24edfaa87170005 0x24edfaa87170006 0x24edfaa87170009 0x24edfaa8717000a 0x24edfaa87170046 0x24edfaa87170038
+expiring exceeded 10000ms timeout 0x24edfaa87170005 0x24edfaa87170006 0x24edfaa87170009 0x24edfaa8717000a 0x24edfaa87170046 0x24edfaa87170038
+os 14 sessionid environment termination processed session server info 28
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+os 14 sessionid environment termination processed session server info 28
+stream end caught exception warn     
+closed socket sessionid 57796 57786 0x24edfaa87170044 0x24edfaa8717004a 0x24edfaa87170034 0x24edfaa87170016 0x24edfaa87170045
+stream end caught exception warn     
+closed socket sessionid 57796 57786 0x24edfaa87170044 0x24edfaa8717004a 0x24edfaa87170034 0x24edfaa87170016 0x24edfaa87170045
+stream end caught exception warn     
+closed socket sessionid 57796 57786 0x24edfaa87170044 0x24edfaa8717004a 0x24edfaa87170034 0x24edfaa87170016 0x24edfaa87170045
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+os 14 sessionid environment termination processed session server info 28
+stream end caught exception warn     
+closed socket sessionid 57796 57786 0x24edfaa87170044 0x24edfaa8717004a 0x24edfaa87170034 0x24edfaa87170016 0x24edfaa87170045
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+expiring exceeded 10000ms timeout 0x24edfaa87170005 0x24edfaa87170006 0x24edfaa87170009 0x24edfaa8717000a 0x24edfaa87170046 0x24edfaa87170038
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+os 14 sessionid environment termination processed session server info 28
+termination processed sessionid 0x24edfaa87170008 0x24edfaa87170007 0x24edfaa87170004 session 0x24edfaa87170046 0x24edfaa87170037 0x14edfaa86f6004c
+stream end caught exception warn     
+closed socket sessionid 57796 57786 0x24edfaa87170044 0x24edfaa8717004a 0x24edfaa87170034 0x24edfaa87170016 0x24edfaa87170045
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+zookeeper share jar usr java var version snapshot lib environment
+port bind tcp nodelay true set established closed 36432 binding
+quorumpeer 2015 myid 2181 07 08 670 738 15 31
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+address channel 3888 election open 11 warn 0x0 10 34
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+address channel 3888 election open 11 warn 0x0 10 34
+time notification 800 400 1600 3200 51200 25600 12800 info
+address channel 3888 election open 13 warn 10 34 
+address channel 3888 election open 11 warn 0x0 10 34
+address channel 3888 election open 13 warn 10 34 
+time notification 800 400 1600 3200 51200 25600 12800 info
+address channel 3888 election open 11 warn 0x0 10 34
+address channel 3888 election open 13 warn 10 34 
+time notification 800 400 1600 3200 51200 25600 12800 info
+address channel 3888 election open 11 warn 0x0 10 34
+received request 11 connection 10 34 45338 46749 38283 46696
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+shutting sending diff processor complete called shutdown info request 
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+new establish attempting client 40 log 21 session 34 10
+negotiated established 10000 timeout client 20000 11 session 10 34
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated established 10000 timeout client 20000 11 session 10 34
+accepted socket 11 connection 10 34 info 60680 54740 40569
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated established 10000 timeout client 20000 11 session 10 34
+negotiated established 10000 timeout client 20000 11 session 10 34
+accepted 13 socket connection 46340 37247 38022 10 39517 37611
+quorumpeer 2015 myid 2181 07 08 670 738 15 31
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+quorumpeer 2015 myid 2181 07 08 670 738 15 31
+10000ms expiring exceeded timeout 0x14ee3e057ed001b 0x14f3fdae8ba0011 0x14ee3e057ed001c 0x14f3fdae8ba000e 0x14ee3e057ed000c 0x14ee3e057ed000b
+10000ms expiring exceeded timeout 0x14ee3e057ed001b 0x14f3fdae8ba0011 0x14ee3e057ed001c 0x14f3fdae8ba000e 0x14ee3e057ed000c 0x14ee3e057ed000b
+quorumpeer 2015 myid 2181 07 08 670 738 15 31
+quorumpeer 2015 myid 2181 07 08 670 738 15 31
+expiring exceeded 10000ms timeout 0x34ee30a5c530013 0x34ee30a5c530012 0x34ee30a5c530016 0x34ee30a5c530014 0x34ee30a5c530017 0x34ee30a5c530006
+expiring exceeded 10000ms timeout 0x34ee30a5c530013 0x34ee30a5c530012 0x34ee30a5c530016 0x34ee30a5c530014 0x34ee30a5c530017 0x34ee30a5c530006
+expiring exceeded 10000ms timeout 0x34ee30a5c530013 0x34ee30a5c530012 0x34ee30a5c530016 0x34ee30a5c530014 0x34ee30a5c530017 0x34ee30a5c530006
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+10000ms expiring exceeded timeout 0x14ee3e057ed001b 0x14f3fdae8ba0011 0x14ee3e057ed001c 0x14f3fdae8ba000e 0x14ee3e057ed000c 0x14ee3e057ed000b
+expiring exceeded 10000ms timeout 0x34ee30a5c530013 0x34ee30a5c530012 0x34ee30a5c530016 0x34ee30a5c530014 0x34ee30a5c530017 0x34ee30a5c530006
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+expiring exceeded 10000ms timeout 0x34ee30a5c530013 0x34ee30a5c530012 0x34ee30a5c530016 0x34ee30a5c530014 0x34ee30a5c530017 0x34ee30a5c530006
+10000ms expiring exceeded timeout 0x14ee3e057ed001b 0x14f3fdae8ba0011 0x14ee3e057ed001c 0x14f3fdae8ba000e 0x14ee3e057ed000c 0x14ee3e057ed000b
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+quorumpeer 2015 myid 2181 07 08 670 738 15 31
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+quorumpeer 2015 myid 2181 07 08 670 738 15 31
+quorumpeer 2015 myid 2181 07 08 670 738 15 31
+quorumpeer 2015 myid 2181 07 08 670 738 15 31
+quorumpeer 2015 myid 2181 07 08 670 738 15 31
+expiring exceeded 10000ms timeout 0x34ee30a5c530013 0x34ee30a5c530012 0x34ee30a5c530016 0x34ee30a5c530014 0x34ee30a5c530017 0x34ee30a5c530006
+expiring exceeded 10000ms timeout 0x34ee30a5c530013 0x34ee30a5c530012 0x34ee30a5c530016 0x34ee30a5c530014 0x34ee30a5c530017 0x34ee30a5c530006
+expiring exceeded 10000ms timeout 0x34ee30a5c530013 0x34ee30a5c530012 0x34ee30a5c530016 0x34ee30a5c530014 0x34ee30a5c530017 0x34ee30a5c530006
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+10000ms expiring exceeded timeout 0x14ee3e057ed001b 0x14f3fdae8ba0011 0x14ee3e057ed001c 0x14f3fdae8ba000e 0x14ee3e057ed000c 0x14ee3e057ed000b
+expiring exceeded 10000ms timeout 0x34ee30a5c530013 0x34ee30a5c530012 0x34ee30a5c530016 0x34ee30a5c530014 0x34ee30a5c530017 0x34ee30a5c530006
+10000ms expiring exceeded timeout 0x14ee3e057ed001b 0x14f3fdae8ba0011 0x14ee3e057ed001c 0x14f3fdae8ba000e 0x14ee3e057ed000c 0x14ee3e057ed000b
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+expiring exceeded 10000ms timeout 0x34ee30a5c530013 0x34ee30a5c530012 0x34ee30a5c530016 0x34ee30a5c530014 0x34ee30a5c530017 0x34ee30a5c530006
+10000ms expiring exceeded timeout 0x14ee3e057ed001b 0x14f3fdae8ba0011 0x14ee3e057ed001c 0x14f3fdae8ba000e 0x14ee3e057ed000c 0x14ee3e057ed000b
+10000ms expiring exceeded timeout 0x14ee3e057ed001b 0x14f3fdae8ba0011 0x14ee3e057ed001c 0x14f3fdae8ba000e 0x14ee3e057ed000c 0x14ee3e057ed000b
+negotiated established 10000 timeout client 20000 11 session 10 34
+expiring exceeded 10000ms timeout 0x34ee30a5c530013 0x34ee30a5c530012 0x34ee30a5c530016 0x34ee30a5c530014 0x34ee30a5c530017 0x34ee30a5c530006
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+termination processed sessionid 0x34ede65503f0031 session 0x34ede65503f0008 0x34ede65503f004e 0x34ee30a5c530002 0x34ede65503f0054 0x34ede65503f0053
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated established 10000 timeout client 20000 11 session 10 34
+hdfs mesos ioexception close io zookeeperserver running 0x0 create level
+hdfs mesos ioexception close io zookeeperserver running 0x0 create level
+hdfs mesos ioexception close io zookeeperserver running 0x0 create level
+hdfs mesos ioexception close io zookeeperserver running 0x0 create level
+old mode dropped server request 11 client connection warn 10
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+expiring exceeded 10000ms timeout 20000ms session 0x24ede63a01b0018 0x24ee30a54f5001d 0x24ee30a54f5001b 0x24ee30a54f5001a
+termination processed sessionid session 0x24ede63a01b000c 0x24ede63a01b003d 0x24ede63a01b001b 0x24ee30a54f50017 0x24ee30a54f50018 0x24ede63a01b003e
+expiring exceeded 10000ms timeout 20000ms session 0x14ed93111f2006c 0x14ed93111f2005f 0x14ed93111f20089 0x14ed93111f20045
+quorumpeer 2015 myid 2181 07 08 670 738 15 31
+expiring exceeded 10000ms timeout 0x34ee30a5c530013 0x34ee30a5c530012 0x34ee30a5c530016 0x34ee30a5c530014 0x34ee30a5c530017 0x34ee30a5c530006
+set 10000ms exceeded expiring timeout initlimit minsessiontimeout maxsessiontimeout session info
+zookeeper share jar usr java var version snapshot lib environment
+port bind tcp nodelay true set established closed 36432 binding
+quorumpeer 2015 myid 2181 07 08 670 738 15 31
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+address channel 3888 election open 11 warn 0x0 10 34
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+address channel 3888 election open 13 warn 10 34 
+address channel 3888 election open 11 warn 0x0 10 34
+address channel 3888 election open 13 warn 10 34 
+time notification 800 400 1600 3200 51200 25600 12800 info
+address channel 3888 election open 11 warn 0x0 10 34
+address channel 3888 election open 13 warn 10 34 
+time notification 800 400 1600 3200 51200 25600 12800 info
+address channel 3888 election open 11 warn 0x0 10 34
+address channel 3888 election open 13 warn 10 34 
+time notification 800 400 1600 3200 51200 25600 12800 info
+address channel 3888 election open 11 warn 0x0 10 34
+address channel 3888 election open 13 warn 10 34 
+time notification 800 400 1600 3200 51200 25600 12800 info
+os 14 sessionid environment termination processed session server info 28
+negotiated established 10000 timeout client 20000 11 session 10 34
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated established 10000 timeout client 20000 11 session 10 34
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated established 10000 timeout client 20000 11 session 10 34
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated established 10000 timeout client 20000 11 session 10 34
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated established 10000 timeout client 20000 11 session 10 34
+mode dropped old server 13 request client connection 36167 warn
+renew attempting 0x14ed93111f20011 36167 0x24f0557806a0018 0x24f0557806a0019 51194 51195 0x14f05578bd80019 46863
+revalidating 0x24f0557806a0019 0x24f0557806a0018 0x24f0557806a0023 0x24f0557806a0021 0x24f0557806a001f 0x24f0557806a001d 0x14f05578bd8001d 0x14f05578bd8001b 0x14f05578bd80019
+accepted socket connection 40 21 10 34 42 37 35
+os 14 sessionid environment termination processed session server info 28
+renew attempting 0x14ed93111f20011 36167 0x24f0557806a0018 0x24f0557806a0019 51194 51195 0x14f05578bd80019 46863
+revalidating 0x24f0557806a0019 0x24f0557806a0018 0x24f0557806a0023 0x24f0557806a0021 0x24f0557806a001f 0x24f0557806a001d 0x14f05578bd8001d 0x14f05578bd8001b 0x14f05578bd80019
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+renew attempting 0x14ed93111f20011 36167 0x24f0557806a0018 0x24f0557806a0019 51194 51195 0x14f05578bd80019 46863
+revalidating 0x24f0557806a0019 0x24f0557806a0018 0x24f0557806a0023 0x24f0557806a0021 0x24f0557806a001f 0x24f0557806a001d 0x14f05578bd8001d 0x14f05578bd8001b 0x14f05578bd80019
+accepted socket 11 connection 10 34 info 60680 54740 40569
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+renew attempting 0x14ed93111f20011 36167 0x24f0557806a0018 0x24f0557806a0019 51194 51195 0x14f05578bd80019 46863
+revalidating 0x24f0557806a0019 0x24f0557806a0018 0x24f0557806a0023 0x24f0557806a0021 0x24f0557806a001f 0x24f0557806a001d 0x14f05578bd8001d 0x14f05578bd8001b 0x14f05578bd80019
+old mode dropped server request 11 client connection warn 10
+renew attempting 0x14ed93111f20011 36167 0x24f0557806a0018 0x24f0557806a0019 51194 51195 0x14f05578bd80019 46863
+negotiated established 10000 timeout client 20000 11 session 10 34
+revalidating 0x24f0557806a0019 0x24f0557806a0018 0x24f0557806a0023 0x24f0557806a0021 0x24f0557806a001f 0x24f0557806a001d 0x14f05578bd8001d 0x14f05578bd8001b 0x14f05578bd80019
+negotiated established 10000 timeout client 20000 11 session 10 34
+os 14 sessionid environment termination processed session server info 28
+old mode dropped server request client connection 40 warn 21
+negotiated established 10000 timeout client 20000 11 session 10 34
+renew attempting 0x14ed93111f20011 36167 0x24f0557806a0018 0x24f0557806a0019 51194 51195 0x14f05578bd80019 46863
+revalidating 0x24f0557806a0019 0x24f0557806a0018 0x24f0557806a0023 0x24f0557806a0021 0x24f0557806a001f 0x24f0557806a001d 0x14f05578bd8001d 0x14f05578bd8001b 0x14f05578bd80019
+negotiated established 10000 timeout client 20000 11 session 10 34
+os 14 sessionid environment termination processed session server info 28
+renew attempting 0x14ed93111f20011 36167 0x24f0557806a0018 0x24f0557806a0019 51194 51195 0x14f05578bd80019 46863
+revalidating 0x24f0557806a0019 0x24f0557806a0018 0x24f0557806a0023 0x24f0557806a0021 0x24f0557806a001f 0x24f0557806a001d 0x14f05578bd8001d 0x14f05578bd8001b 0x14f05578bd80019
+negotiated established 10000 timeout client 20000 11 session 10 34
+negotiated established 10000 timeout client 20000 11 session 10 34
+id 188978561024 broken error connection warn expected 0xa00000001 got 0x1
+os 14 sessionid environment termination processed session server info 28
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+new establish attempting client 40 log 21 session 34 10
+negotiated established 10000 timeout client 20000 11 session 10 34
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+negotiated established 10000 timeout client 20000 11 session 10 34
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated established 10000 timeout client 20000 11 session 10 34
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated established 10000 timeout client 20000 11 session 10 34
+stream end caught exception warn     
+os 14 sessionid environment termination processed session server info 28
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+establish new attempting 11 client session 10 34 info 50284
+negotiated established 10000 timeout client 20000 11 session 10 34
+negotiated established 10000 timeout client 20000 11 session 10 34
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+old mode dropped server 12 request client connection warn 10
+establish new attempting 12 client session 10 34 45667 46284
+negotiated established 10000 timeout client 20000 11 session 10 34
+accepted 13 socket connection 46340 37247 38022 10 39517 37611
+mode dropped old server 13 request client connection 36167 warn
+establish new attempting 13 client 39514 37471 37199 39517 37611
+negotiated established 10000 timeout client 20000 11 session 10 34
+accepted 13 socket connection 46340 37247 38022 10 39517 37611
+mode dropped old server 13 request client connection 36167 warn
+establish new attempting 13 client 39514 37471 37199 39517 37611
+negotiated established 10000 timeout client 20000 11 session 10 34
+accepted socket 11 connection 10 34 info 60680 54740 40569
+10000ms expiring exceeded timeout 0x24f4a631df9000a 0x24f4a631df9001f 0x24f4a631df90022 0x24f4a631df90021 0x24f3fdaf7380009 0x24f4a631df90018
+10000ms expiring exceeded timeout 0x24f4a631df9000a 0x24f4a631df9001f 0x24f4a631df90022 0x24f4a631df90021 0x24f3fdaf7380009 0x24f4a631df90018
+10000ms expiring exceeded timeout 0x14ee3e057ed001b 0x14f3fdae8ba0011 0x14ee3e057ed001c 0x14f3fdae8ba000e 0x14ee3e057ed000c 0x14ee3e057ed000b
+10000ms expiring exceeded timeout 0x24f4a631df9000a 0x24f4a631df9001f 0x24f4a631df90022 0x24f4a631df90021 0x24f3fdaf7380009 0x24f4a631df90018
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+os 14 sessionid environment termination processed session server info 28
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 11 warn 10 52265 52827 52504 52502 52500 52429
+sock unexpected shutdown causing open error exception acceptor socketexception net
+goodbye 13 57202 57195 57274 57271 57270 57269 57343 57199
+shutting sending diff processor complete called shutdown info request 
+shutting sending diff processor complete called shutdown info request 
+sock unexpected shutdown causing open error exception acceptor socketexception net
+port bind tcp nodelay true set established closed 36432 binding
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+hdfs mesos ioexception close io zookeeperserver running 0x0 create level
+port bind tcp nodelay true set established closed 36432 binding
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+hdfs mesos ioexception close io zookeeperserver running 0x0 create level
+port bind tcp nodelay true set established closed 36432 binding
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+hdfs mesos ioexception close io zookeeperserver running 0x0 create level
+port bind tcp nodelay true set established closed 36432 binding
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+hdfs mesos ioexception close io zookeeperserver running 0x0 create level
+port bind tcp nodelay true set established closed 36432 binding
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+hdfs mesos ioexception close io zookeeperserver running 0x0 create level
+port bind tcp nodelay true set established closed 36432 binding
+hdfs mesos ioexception close io zookeeperserver running 0x0 create level
+port bind tcp nodelay true set established closed 36432 binding
+accepted 12 socket 43135 connection 10 34 36455 36445 36447
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+10000ms expiring exceeded timeout 0x14ee3e057ed001b 0x14f3fdae8ba0011 0x14ee3e057ed001c 0x14f3fdae8ba000e 0x14ee3e057ed000c 0x14ee3e057ed000b
+10000ms expiring exceeded timeout 0x14ee3e057ed001b 0x14f3fdae8ba0011 0x14ee3e057ed001c 0x14f3fdae8ba000e 0x14ee3e057ed000c 0x14ee3e057ed000b
+10000ms expiring exceeded timeout 0x14ee3e057ed001b 0x14f3fdae8ba0011 0x14ee3e057ed001c 0x14f3fdae8ba000e 0x14ee3e057ed000c 0x14ee3e057ed000b
+10000ms expiring exceeded timeout 0x14ee3e057ed001b 0x14f3fdae8ba0011 0x14ee3e057ed001c 0x14f3fdae8ba000e 0x14ee3e057ed000c 0x14ee3e057ed000b
+10000ms expiring exceeded timeout 0x24f4a631df9000a 0x24f4a631df9001f 0x24f4a631df90022 0x24f4a631df90021 0x24f3fdaf7380009 0x24f4a631df90018
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+10000ms exceeded expiring timeout session 0x14f3fdae8ba000d 0x14ede63a5a70053 0x14f3fdae8ba0015 0x14f3fdae8ba0013 0x14f3fdae8ba0010
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+new establish attempting client 40 log 21 session 34 10
+negotiated established 10000 timeout client 20000 11 session 10 34
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+accepted socket connection 40 21 10 34 42 37 35
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+old mode dropped server request client connection 40 warn 21
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+new establish attempting client 40 log 21 session 34 10
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+10000ms expiring exceeded timeout 0x24f4a631df9000a 0x24f4a631df9001f 0x24f4a631df90022 0x24f4a631df90021 0x24f3fdaf7380009 0x24f4a631df90018
+termination processed sessionid 0x14ede63a5a70043 0x14f4a6318b8001f 0x14f4a6318b8003e 0x14f4a6318b8003d 0x14f4a6318b8003c 0x14f4a6318b80035 0x14ede63a5a7000e
+termination processed 0x34f4a63146b0048 0x34f4a63146b0031 0x24f4a631df90014 sessionid 0x24f4a631df90015 0x24f4a631df90016 0x34f4a63146b004a 0x34f4a63146b0049
+termination processed 0x34f4a63146b0048 0x34f4a63146b0031 0x24f4a631df90014 sessionid 0x24f4a631df90015 0x24f4a631df90016 0x34f4a63146b004a 0x34f4a63146b0049
+termination processed 0x34f4a63146b0048 0x34f4a63146b0031 0x24f4a631df90014 sessionid 0x24f4a631df90015 0x24f4a631df90016 0x34f4a63146b004a 0x34f4a63146b0049
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+10000ms expiring exceeded timeout 0x24f4a631df9000a 0x24f4a631df9001f 0x24f4a631df90022 0x24f4a631df90021 0x24f3fdaf7380009 0x24f4a631df90018
+10000ms expiring exceeded timeout 0x24f4a631df9000a 0x24f4a631df9001f 0x24f4a631df90022 0x24f4a631df90021 0x24f3fdaf7380009 0x24f4a631df90018
+10000ms expiring exceeded timeout 0x24f4a631df9000a 0x24f4a631df9001f 0x24f4a631df90022 0x24f4a631df90021 0x24f3fdaf7380009 0x24f4a631df90018
+termination processed sessionid 0x14ede63a5a70043 0x14f4a6318b8001f 0x14f4a6318b8003e 0x14f4a6318b8003d 0x14f4a6318b8003c 0x14f4a6318b80035 0x14ede63a5a7000e
+termination processed 0x34f4a63146b0048 0x34f4a63146b0031 0x24f4a631df90014 sessionid 0x24f4a631df90015 0x24f4a631df90016 0x34f4a63146b004a 0x34f4a63146b0049
+termination processed 0x34f4a63146b0048 0x34f4a63146b0031 0x24f4a631df90014 sessionid 0x24f4a631df90015 0x24f4a631df90016 0x34f4a63146b004a 0x34f4a63146b0049
+termination processed 0x34f4a63146b0048 0x34f4a63146b0031 0x24f4a631df90014 sessionid 0x24f4a631df90015 0x24f4a631df90016 0x34f4a63146b004a 0x34f4a63146b0049
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+10000ms expiring exceeded timeout 0x24f4a631df9000a 0x24f4a631df9001f 0x24f4a631df90022 0x24f4a631df90021 0x24f3fdaf7380009 0x24f4a631df90018
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+10000ms expiring exceeded timeout 0x24f4a631df9000a 0x24f4a631df9001f 0x24f4a631df90022 0x24f4a631df90021 0x24f3fdaf7380009 0x24f4a631df90018
+10000ms expiring exceeded timeout 0x24f4a631df9000a 0x24f4a631df9001f 0x24f4a631df90022 0x24f4a631df90021 0x24f3fdaf7380009 0x24f4a631df90018
+10000ms expiring exceeded timeout 0x24f4a631df9000a 0x24f4a631df9001f 0x24f4a631df90022 0x24f4a631df90021 0x24f3fdaf7380009 0x24f4a631df90018
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+termination processed sessionid 0x14ede63a5a70043 0x14f4a6318b8001f 0x14f4a6318b8003e 0x14f4a6318b8003d 0x14f4a6318b8003c 0x14f4a6318b80035 0x14ede63a5a7000e
+termination processed 0x34f4a63146b0048 0x34f4a63146b0031 0x24f4a631df90014 sessionid 0x24f4a631df90015 0x24f4a631df90016 0x34f4a63146b004a 0x34f4a63146b0049
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+stream end caught exception warn     
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+termination processed 0x34f4a63146b0048 0x34f4a63146b0031 0x24f4a631df90014 sessionid 0x24f4a631df90015 0x24f4a631df90016 0x34f4a63146b004a 0x34f4a63146b0049
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+10000ms expiring exceeded timeout 0x24f4a631df9000a 0x24f4a631df9001f 0x24f4a631df90022 0x24f4a631df90021 0x24f3fdaf7380009 0x24f4a631df90018
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+10000ms expiring exceeded timeout 0x24f4a631df9000a 0x24f4a631df9001f 0x24f4a631df90022 0x24f4a631df90021 0x24f3fdaf7380009 0x24f4a631df90018
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+10000ms expiring exceeded timeout 0x24f4a631df9000a 0x24f4a631df9001f 0x24f4a631df90022 0x24f4a631df90021 0x24f3fdaf7380009 0x24f4a631df90018
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+termination processed 0x34f4a63146b0048 0x34f4a63146b0031 0x24f4a631df90014 sessionid 0x24f4a631df90015 0x24f4a631df90016 0x34f4a63146b004a 0x34f4a63146b0049
+termination processed 0x34f4a63146b0048 0x34f4a63146b0031 0x24f4a631df90014 sessionid 0x24f4a631df90015 0x24f4a631df90016 0x34f4a63146b004a 0x34f4a63146b0049
+termination processed sessionid 0x14ede63a5a70043 0x14f4a6318b8001f 0x14f4a6318b8003e 0x14f4a6318b8003d 0x14f4a6318b8003c 0x14f4a6318b80035 0x14ede63a5a7000e
+closed socket sessionid client connection 11 10 34 0x24ede63a01b0001 52909
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+10000ms expiring exceeded timeout 0x34f4a63146b000f 0x34f4a63146b0034 0x34f4a63146b0032 0x34f4a63146b001b 0x34f4a63146b001a 0x34f4a63146b0009
+10000ms expiring exceeded timeout 0x14f4a6318b8000e 0x14f4a6318b80022 0x14f4a6318b8001e 0x14f4a6318b8001c 0x14f4a6318b8001b 0x14f4a6318b8000f
+termination processed 0x34f4a63146b0048 0x34f4a63146b0031 0x24f4a631df90014 sessionid 0x24f4a631df90015 0x24f4a631df90016 0x34f4a63146b004a 0x34f4a63146b0049
+termination processed sessionid 0x14ede63a5a70043 0x14f4a6318b8001f 0x14f4a6318b8003e 0x14f4a6318b8003d 0x14f4a6318b8003c 0x14f4a6318b80035 0x14ede63a5a7000e
+termination processed sessionid 0x14ede63a5a70043 0x14f4a6318b8001f 0x14f4a6318b8003e 0x14f4a6318b8003d 0x14f4a6318b8003c 0x14f4a6318b80035 0x14ede63a5a7000e
+termination processed sessionid 0x14ede63a5a70043 0x14f4a6318b8001f 0x14f4a6318b8003e 0x14f4a6318b8003d 0x14f4a6318b8003c 0x14f4a6318b80035 0x14ede63a5a7000e
+termination processed sessionid 0x14ede63a5a70043 0x14f4a6318b8001f 0x14f4a6318b8003e 0x14f4a6318b8003d 0x14f4a6318b8003c 0x14f4a6318b80035 0x14ede63a5a7000e
+termination processed 0x34f4a63146b0048 0x34f4a63146b0031 0x24f4a631df90014 sessionid 0x24f4a631df90015 0x24f4a631df90016 0x34f4a63146b004a 0x34f4a63146b0049
+termination processed sessionid 0x14ede63a5a70043 0x14f4a6318b8001f 0x14f4a6318b8003e 0x14f4a6318b8003d 0x14f4a6318b8003c 0x14f4a6318b80035 0x14ede63a5a7000e
+zookeeper share jar usr java var version snapshot lib environment
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+state looking zxid sid leader round peerepoch notification 0x1 0x5
+quorumpeer 2015 myid 2181 07 08 670 738 15 31
+port bind tcp nodelay true set established closed 36432 binding
+zookeeper share jar usr java var version snapshot lib environment
+zookeeper share jar usr java var version snapshot lib environment
+lib environment java usr gnu x86_64 linux jni amd64 server
+lib environment java usr gnu x86_64 linux jni amd64 server
+lib environment java usr gnu x86_64 linux jni amd64 server
+zookeeper share jar usr java var version snapshot lib environment
+lib environment java usr gnu x86_64 linux jni amd64 server
+lib environment java usr gnu x86_64 linux jni amd64 server
+lib environment java usr gnu x86_64 linux jni amd64 server
+os 14 sessionid environment termination processed session server info 28
+os 14 sessionid environment termination processed session server info 28
+lib environment java usr gnu x86_64 linux jni amd64 server
+zookeeper share jar usr java var version snapshot lib environment
+zookeeper share jar usr java var version snapshot lib environment
+os 14 sessionid environment termination processed session server info 28
+zookeeper share jar usr java var version snapshot lib environment
+received 13 request connection 10 34 44290 47683 44498 44465
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+id broken 188978561024 error connection warn using pipe socketexception net
+received 13 request connection 10 34 44290 47683 44498 44465
+waiting queue message interrupted warn     
+waiting queue message interrupted warn     
+sendworker interrupting warn       
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+worker thread send leaving warn     
+worker thread send leaving warn     
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+worker thread send leaving warn     
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+received request 11 connection 10 34 45338 46749 38283 46696
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+worker thread send leaving warn     
+worker thread send leaving warn     
+received 13 request connection 10 34 44290 47683 44498 44465
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 13 request connection 10 34 44290 47683 44498 44465
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+received 13 request connection 10 34 44290 47683 44498 44465
+waiting queue message interrupted warn     
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+worker thread send leaving warn     
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 13 request connection 10 34 44290 47683 44498 44465
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 13 request connection 10 34 44290 47683 44498 44465
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+received 13 request connection 10 34 44290 47683 44498 44465
+worker thread send leaving warn     
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+received 13 request connection 10 34 44290 47683 44498 44465
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+received 13 request connection 10 34 44290 47683 44498 44465
+waiting queue message interrupted warn     
+id broken 188978561024 error connection warn using pipe socketexception net
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+received request 11 connection 10 34 45338 46749 38283 46696
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 13 request connection 10 34 44290 47683 44498 44465
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 13 request connection 10 34 44290 47683 44498 44465
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 13 request connection 10 34 44290 47683 44498 44465
+id broken 188978561024 error connection warn using pipe socketexception net
+received request 11 connection 10 34 45338 46749 38283 46696
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+worker thread send leaving warn     
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+waiting queue message interrupted warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+worker thread send leaving warn     
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 13 request connection 10 34 44290 47683 44498 44465
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 13 request connection 10 34 44290 47683 44498 44465
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+worker thread send leaving warn     
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+worker thread send leaving warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 13 request connection 10 34 44290 47683 44498 44465
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 13 request connection 10 34 44290 47683 44498 44465
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received request 11 connection 10 34 45338 46749 38283 46696
+id broken 188978561024 error connection warn using pipe socketexception net
+received 12 request connection 10 34 47204 54882 54880 54825
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+received 12 request connection 10 34 47204 54882 54880 54825
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+received 12 request connection 10 34 47204 54882 54880 54825
+id broken 188978561024 error connection warn using pipe socketexception net
+sendworker interrupting warn       
+waiting queue message interrupted warn     
+worker thread send leaving warn     
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+accepted socket 11 connection 10 34 info 60680 54740 40569
+old mode dropped server request 11 client connection warn 10
+new establish attempting client 40 log 21 session 34 10
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+accepted socket connection 40 21 10 34 42 37 35
+old mode dropped server request client connection 40 warn 21
+new establish attempting client 40 log 21 session 34 10
+10000 negotiated established timeout client 24 session 10 34 0x24ed9311942007f
+os 14 sessionid environment termination processed session server info 28
+stream end caught exception warn     
+os 14 sessionid environment termination processed session server info 28
+stream end caught exception warn     
+os 14 sessionid environment termination processed session server info 28
+stream end caught exception warn     
+os 14 sessionid environment termination processed session server info 28
+stream end caught exception warn     
+os 14 sessionid environment termination processed session server info 28
+stream end caught exception warn     
+os 14 sessionid environment termination processed session server info 28
+stream end caught exception warn     
+os 14 sessionid environment termination processed session server info 28
+stream end caught exception warn     
+os 14 sessionid environment termination processed session server info 28
+stream end caught exception warn     
+os 14 sessionid environment termination processed session server info 28
+stream end caught exception warn     
+os 14 sessionid environment termination processed session server info 28
+accepted socket 11 connection 10 34 info 60680 54740 40569
