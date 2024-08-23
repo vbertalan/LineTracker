@@ -18,26 +18,26 @@ proxy https 5070 edu cuhk cse hk open 64
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
-tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
-tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
-tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
-tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+tencent tcpconn4 unexpectedly closed tcpconn tcpconn5 connect com connection qqmail
+tencent tcpconn4 unexpectedly closed tcpconn tcpconn5 connect com connection qqmail
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+tencent tcpconn4 unexpectedly closed tcpconn tcpconn5 connect com connection qqmail
+com 443 sogou bytes 80 64 00 lifetime close received
+tencent tcpconn4 unexpectedly closed tcpconn tcpconn5 connect com connection qqmail
+com 443 sogou bytes 80 64 00 lifetime close received
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
 proxy https 5070 edu cuhk cse hk open 64 
 sec bytes sent lifetime close received 441 687 993 273
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
-tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
-tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
-qq weixin long com 443 open 64 https 80 connection
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
-qq weixin long com 443 open 64 https 80 connection
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+tencent tcpconn4 unexpectedly closed tcpconn tcpconn5 connect com connection qqmail
+tencent tcpconn4 unexpectedly closed tcpconn tcpconn5 connect com connection qqmail
+qq weixin long com 443 open 64 https 80 qbwup
+qq 85 448 477 8000 qqweb cgi 45 208 494
+qq weixin long com 443 open 64 https 80 qbwup
+qq 85 448 477 8000 qqweb cgi 45 208 494
 sec kb 26 1292 bytes sent received close lifetime 13
 sec kb 26 1292 bytes sent received close lifetime 13
 proxy https 5070 edu cuhk cse hk open 64 
@@ -103,7 +103,7 @@ proxy https 5070 edu cuhk cse hk open 64
 proxy https 5070 edu cuhk cse hk open 64 
 sec bytes received sent lifetime close 5070 edu cuhk cse
 sec bytes received sent lifetime close 5070 edu cuhk cse
-279 2279 592 00 22 52 02 1316 bytes 28
+279 2279 592 22 52 00 02 bytes 29 received
 sec bytes received sent lifetime close 5070 edu cuhk cse
 sec bytes received sent lifetime close 5070 edu cuhk cse
 sec bytes received sent lifetime close 5070 edu cuhk cse
@@ -338,26 +338,26 @@ proxy https 5070 edu cuhk cse hk open 64
 sec bytes kb sent close received lifetime 1165 268 421
 sec bytes sent lifetime close received 441 687 993 273
 sec bytes received sent lifetime close 5070 edu cuhk cse
-tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
-tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
-tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
-tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+tencent tcpconn4 unexpectedly closed tcpconn tcpconn5 connect com connection qqmail
+tencent tcpconn4 unexpectedly closed tcpconn tcpconn5 connect com connection qqmail
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+tencent tcpconn4 unexpectedly closed tcpconn tcpconn5 connect com connection qqmail
+com 443 sogou bytes 80 64 00 lifetime close received
+tencent tcpconn4 unexpectedly closed tcpconn tcpconn5 connect com connection qqmail
+com 443 sogou bytes 80 64 00 lifetime close received
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
 proxy https 5070 edu cuhk cse hk open 64 
 sec bytes sent lifetime close received 441 687 993 273
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
-tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
-tencent tcpconn4 unexpectedly closed tcpconn5 tcpconn connect com connection 80
-qq weixin long com 443 open 64 https 80 connection
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
-qq weixin long com 443 open 64 https 80 connection
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+tencent tcpconn4 unexpectedly closed tcpconn tcpconn5 connect com connection qqmail
+tencent tcpconn4 unexpectedly closed tcpconn tcpconn5 connect com connection qqmail
+qq weixin long com 443 open 64 https 80 qbwup
+qq 85 448 477 8000 qqweb cgi 45 208 494
+qq weixin long com 443 open 64 https 80 qbwup
+qq 85 448 477 8000 qqweb cgi 45 208 494
 proxy https 5070 edu cuhk cse hk open 64 
 sec bytes sent received lifetime close kb 431 2501 388
 sec kb 26 1292 bytes sent received close lifetime 13
@@ -418,9 +418,9 @@ proxy https 5070 edu cuhk cse hk open 64
 kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+qq 85 448 477 8000 qqweb cgi 45 208 494
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+qq 85 448 477 8000 qqweb cgi 45 208 494
 00 bytes lifetime close received sent kb 01 02 812
 proxy https 5070 edu cuhk cse hk open 64 
 451 353 sec bytes received sent lifetime close 5070 edu
@@ -439,9 +439,9 @@ proxy https 5070 edu cuhk cse hk open 64
 proxy https 5070 edu cuhk cse hk open 64 
 01 00 bytes received lifetime close sent 353 451 852
 proxy https 5070 edu cuhk cse hk open 64 
-baidu 80 com 64 sogou https open bdimg baidustatic ss
+com 443 sogou bytes 80 64 00 lifetime close received
 proxy https 5070 edu cuhk cse hk open 64 
-com 443 dropbox github kb youdao bytes connection 00 80
+com 443 sogou bytes 80 64 00 lifetime close received
 proxy https 5070 edu cuhk cse hk open 64 
 kb bytes sent lifetime close received 02 00 01 04
 00 bytes lifetime close received sent kb 01 02 812
@@ -480,35 +480,28 @@ proxy https 5070 edu cuhk cse hk open 64
 sec bytes sent received lifetime close kb 431 2501 388
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+qq 85 448 477 8000 qqweb cgi 45 208 494
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+qq 85 448 477 8000 qqweb cgi 45 208 494
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 451 353 sec bytes received sent lifetime close 5070 edu
-qq weixin long com 443 open 64 https 80 connection
-qq weixin long com 443 open 64 https 80 connection
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
+tencent tcpconn4 unexpectedly closed tcpconn tcpconn5 connect com connection qqmail
+tencent tcpconn4 unexpectedly closed tcpconn tcpconn5 connect com connection qqmail
+qq 85 448 477 8000 qqweb cgi 45 208 494
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 01 00 bytes received lifetime close sent 353 451 852
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
 451 353 sec bytes received sent lifetime close 5070 edu
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
 proxy https 5070 edu cuhk cse hk open 64 
-qq weixin long com 443 open 64 https 80 connection
-proxy https 5070 edu cuhk cse hk open 64 
-proxy https 5070 edu cuhk cse hk open 64 
-proxy https 5070 edu cuhk cse hk open 64 
-proxy https 5070 edu cuhk cse hk open 64 
-proxy https 5070 edu cuhk cse hk open 64 
-451 353 sec bytes received sent lifetime close 5070 edu
-kb bytes sent lifetime close received 02 00 01 04
+qq weixin long com 443 open 64 https 80 qbwup
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
@@ -516,8 +509,15 @@ proxy https 5070 edu cuhk cse hk open 64
 proxy https 5070 edu cuhk cse hk open 64 
 451 353 sec bytes received sent lifetime close 5070 edu
 kb bytes sent lifetime close received 02 00 01 04
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-qq weixin long com 443 open 64 https 80 connection
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+proxy https 5070 edu cuhk cse hk open 64 
+451 353 sec bytes received sent lifetime close 5070 edu
+kb bytes sent lifetime close received 02 00 01 04
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+qq weixin long com 443 open 64 https 80 qbwup
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 01 00 bytes lifetime close received sent kb 32 18
@@ -532,8 +532,8 @@ proxy https 5070 edu cuhk cse hk open 64
 sec bytes sent received lifetime close kb 431 2501 388
 proxy https 5070 edu cuhk cse hk open 64 
 sec bytes sent lifetime close received 441 687 993 273
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
 proxy https 5070 edu cuhk cse hk open 64 
 sec bytes sent lifetime close received 441 687 993 273
 proxy https 5070 edu cuhk cse hk open 64 
@@ -547,10 +547,10 @@ kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
 00 bytes lifetime close received sent kb 01 02 812
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
 proxy https 5070 edu cuhk cse hk open 64 
 451 353 sec bytes received sent lifetime close 5070 edu
 kb bytes sent lifetime close received 02 00 01 04
@@ -565,8 +565,8 @@ proxy https 5070 edu cuhk cse hk open 64
 01 00 bytes received lifetime close sent 353 451 852
 kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
-com 443 dropbox github kb youdao bytes connection 00 80
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+com 443 sogou bytes 80 64 00 lifetime close received
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
 proxy https 5070 edu cuhk cse hk open 64 
 451 353 sec bytes received sent lifetime close 5070 edu
 proxy https 5070 edu cuhk cse hk open 64 
@@ -580,13 +580,13 @@ proxy https 5070 edu cuhk cse hk open 64
 sec bytes sent received lifetime close kb 431 2501 388
 sec bytes sent received lifetime close kb 431 2501 388
 451 353 sec bytes received sent lifetime close 5070 edu
-qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 qbwup
 1910 276 86 weixin long qq 443 28 64 00
 kb bytes sent lifetime close received 02 00 01 04
 proxy https 5070 edu cuhk cse hk open 64 
 sec bytes sent lifetime close received 441 687 993 273
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-com 443 dropbox github kb youdao bytes connection 00 80
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
 ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
 ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
 proxy https 5070 edu cuhk cse hk open 64 
@@ -672,7 +672,7 @@ proxy https 5070 edu cuhk cse hk open 64
 sec bytes sent received lifetime close kb 431 2501 388
 01 00 bytes lifetime close received sent kb 32 18
 kb bytes sent lifetime close received 02 00 01 04
-com 443 dropbox github kb youdao bytes connection 00 80
+com 443 sogou bytes 80 64 00 lifetime close received
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
@@ -681,7 +681,7 @@ proxy https 5070 edu cuhk cse hk open 64
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
-com 443 dropbox github kb youdao bytes connection 00 80
+com 443 sogou bytes 80 64 00 lifetime close received
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
@@ -721,28 +721,28 @@ sec bytes sent received lifetime close kb 431 2501 388
 oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
 oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
 oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
-baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 64 com bdimg ss open https suggestion i9
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
-3367 img 33 80 upload ydstatic com kb oimagec3 30
-qq weixin long com 443 open 64 https 80 connection
+3367 img 33 80 oimagec3 upload com ydstatic kb 00
+qq weixin long com 443 open 64 https 80 qbwup
 1910 276 86 weixin long qq 443 28 64 00
 error connect 11001 resolve server code target status establish 403
 kb bytes sent lifetime close received 02 00 01 04
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
 error connect 11001 resolve server code target status establish 403
 error connect 11001 resolve server code target status establish 403
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 sec bytes sent lifetime close received 441 687 993 273
 error connect 11001 resolve server code target status establish 403
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
 proxy https 5070 edu cuhk cse hk open 64 
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
 01 00 bytes lifetime close received sent kb 32 18
 proxy https 5070 edu cuhk cse hk open 64 
 01 00 bytes received lifetime close sent 353 451 852
@@ -753,9 +753,9 @@ proxy https 5070 edu cuhk cse hk open 64
 proxy https 5070 edu cuhk cse hk open 64 
 kb bytes sent lifetime close received 02 00 01 04
 proxy https 5070 edu cuhk cse hk open 64 
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-190 91 443 216 kb bytes 125 33 sent received
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+190 91 216 443 125 bytes 33 kb 00 sent
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
 kb bytes sent lifetime close received 02 00 01 04
 proxy https 5070 edu cuhk cse hk open 64 
 kb bytes sent lifetime close received 02 00 01 04
@@ -764,11 +764,11 @@ sec kb 26 1292 bytes sent received close lifetime 13
 proxy https 5070 edu cuhk cse hk open 64 
 kb bytes sent lifetime close received 02 00 01 04
 proxy https 5070 edu cuhk cse hk open 64 
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-190 91 443 216 kb bytes 125 33 sent received
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+190 91 216 443 125 bytes 33 kb 00 sent
 01 00 bytes received lifetime close sent 353 451 852
-190 91 443 216 kb bytes 125 33 sent received
-190 91 443 216 kb bytes 125 33 sent received
+190 91 216 443 125 bytes 33 kb 00 sent
+190 91 216 443 125 bytes 33 kb 00 sent
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 sec bytes kb sent close received lifetime 1165 268 421
@@ -800,20 +800,20 @@ sec bytes sent lifetime close received 441 687 993 273
 01 00 bytes received lifetime close sent 353 451 852
 proxy https 5070 edu cuhk cse hk open 64 
 kb bytes sent lifetime close received 02 00 01 04
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-190 91 443 216 kb bytes 125 33 sent received
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+190 91 216 443 125 bytes 33 kb 00 sent
 kb bytes sent lifetime close received 02 00 01 04
 proxy https 5070 edu cuhk cse hk open 64 
 sec kb 26 1292 bytes sent received close lifetime 13
 kb bytes sent lifetime close received 02 00 01 04
-com 443 dropbox github kb youdao bytes connection 00 80
+com 443 sogou bytes 80 64 00 lifetime close received
 proxy https 5070 edu cuhk cse hk open 64 
 01 00 bytes received lifetime close sent 353 451 852
-190 91 443 216 kb bytes 125 33 sent received
-190 91 443 216 kb bytes 125 33 sent received
-190 91 443 216 kb bytes 125 33 sent received
-190 91 443 216 kb bytes 125 33 sent received
-190 91 443 216 kb bytes 125 33 sent received
+190 91 216 443 125 bytes 33 kb 00 sent
+190 91 216 443 125 bytes 33 kb 00 sent
+190 91 216 443 125 bytes 33 kb 00 sent
+190 91 216 443 125 bytes 33 kb 00 sent
+190 91 216 443 125 bytes 33 kb 00 sent
 00 bytes lifetime close received sent kb 01 02 812
 kb bytes sent lifetime close received 02 00 01 04
 01 00 bytes lifetime close received sent kb 32 18
@@ -846,7 +846,7 @@ kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
-qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 qbwup
 proxy https 5070 edu cuhk cse hk open 64 
 sec bytes sent lifetime close received 441 687 993 273
 kb bytes sent lifetime close received 02 00 01 04
@@ -886,9 +886,9 @@ proxy https 5070 edu cuhk cse hk open 64
 01 00 bytes received lifetime close sent 353 451 852
 kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
-279 2279 592 00 22 52 02 1316 bytes 28
-279 2279 592 00 22 52 02 1316 bytes 28
-279 2279 592 00 22 52 02 1316 bytes 28
+279 2279 592 22 52 00 02 bytes 29 received
+279 2279 592 22 52 00 02 bytes 29 received
+279 2279 592 22 52 00 02 bytes 29 received
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
@@ -898,11 +898,11 @@ proxy https 5070 edu cuhk cse hk open 64
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
-20 00 13 15 bytes received sent lifetime close 5070
-20 00 13 15 bytes received sent lifetime close 5070
-20 00 13 15 bytes received sent lifetime close 5070
-20 00 13 15 bytes received sent lifetime close 5070
-20 00 13 15 bytes received sent lifetime close 5070
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
@@ -911,7 +911,7 @@ proxy https 5070 edu cuhk cse hk open 64
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
-qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 qbwup
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
@@ -942,7 +942,7 @@ kb bytes sent lifetime close received 02 00 01 04
 sec bytes sent received lifetime close kb 431 2501 388
 451 353 sec bytes received sent lifetime close 5070 edu
 proxy https 5070 edu cuhk cse hk open 64 
-279 2279 592 00 22 52 02 1316 bytes 28
+279 2279 592 22 52 00 02 bytes 29 received
 01 00 bytes lifetime close received sent kb 32 18
 00 bytes lifetime close received sent kb 01 02 812
 00 bytes lifetime close received sent kb 01 02 812
@@ -987,15 +987,15 @@ kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
-20 00 13 15 bytes received sent lifetime close 5070
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
 01 00 bytes received lifetime close sent 353 451 852
 error connect 11001 resolve server code target status establish 403
 error connect 11001 resolve server code target status establish 403
 error connect 11001 resolve server code target status establish 403
 error connect 11001 resolve server code target status establish 403
 error connect 11001 resolve server code target status establish 403
-190 91 443 216 kb bytes 125 33 sent received
-190 91 443 216 kb bytes 125 33 sent received
+190 91 216 443 125 bytes 33 kb 00 sent
+190 91 216 443 125 bytes 33 kb 00 sent
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 01 00 bytes lifetime close received sent kb 32 18
@@ -1043,8 +1043,8 @@ kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
 00 03 bytes sent close received lifetime 02 07 05
-20 00 13 15 bytes received sent lifetime close 5070
-20 00 13 15 bytes received sent lifetime close 5070
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
 00 03 bytes sent close received lifetime 02 07 05
 00 03 bytes sent close received lifetime 02 07 05
 proxy https 5070 edu cuhk cse hk open 64 
@@ -1058,8 +1058,8 @@ proxy https 5070 edu cuhk cse hk open 64
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
-279 2279 592 00 22 52 02 1316 bytes 28
-279 2279 592 00 22 52 02 1316 bytes 28
+279 2279 592 22 52 00 02 bytes 29 received
+279 2279 592 22 52 00 02 bytes 29 received
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
@@ -1068,8 +1068,8 @@ proxy https 5070 edu cuhk cse hk open 64
 01 00 bytes lifetime close received sent kb 32 18
 sec bytes kb sent close received lifetime 1165 268 421
 sec bytes kb sent close received lifetime 1165 268 421
-279 2279 592 00 22 52 02 1316 bytes 28
-279 2279 592 00 22 52 02 1316 bytes 28
+279 2279 592 22 52 00 02 bytes 29 received
+279 2279 592 22 52 00 02 bytes 29 received
 proxy https 5070 edu cuhk cse hk open 64 
 sec bytes kb sent close received lifetime 1165 268 421
 sec bytes sent lifetime close received 441 687 993 273
@@ -1158,7 +1158,7 @@ proxy https 5070 edu cuhk cse hk open 64
 sec bytes received sent lifetime close 5070 edu cuhk cse
 proxy https 5070 edu cuhk cse hk open 64 
 01 00 bytes lifetime close received sent kb 32 18
-279 2279 592 00 22 52 02 1316 bytes 28
+279 2279 592 22 52 00 02 bytes 29 received
 proxy https 5070 edu cuhk cse hk open 64 
 sec bytes sent received lifetime close kb 431 2501 388
 proxy https 5070 edu cuhk cse hk open 64 
@@ -1168,7 +1168,7 @@ proxy https 5070 edu cuhk cse hk open 64
 01 00 bytes lifetime close received sent kb 32 18
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
-279 2279 592 00 22 52 02 1316 bytes 28
+279 2279 592 22 52 00 02 bytes 29 received
 01 00 bytes received lifetime close sent 353 451 852
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
@@ -1179,8 +1179,8 @@ proxy https 5070 edu cuhk cse hk open 64
 sec bytes kb sent close received lifetime 1165 268 421
 proxy https 5070 edu cuhk cse hk open 64 
 ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
-com 443 dropbox github kb youdao bytes connection 00 80
 oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
+com 443 sogou bytes 80 64 00 lifetime close received
 ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
 ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
 proxy https 5070 edu cuhk cse hk open 64 
@@ -1256,8 +1256,8 @@ proxy https 5070 edu cuhk cse hk open 64
 proxy https 5070 edu cuhk cse hk open 64 
 sec bytes received sent lifetime close 5070 edu cuhk cse
 00 bytes lifetime close received sent kb 01 02 812
-279 2279 592 00 22 52 02 1316 bytes 28
-279 2279 592 00 22 52 02 1316 bytes 28
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
 01 00 bytes received lifetime close sent 353 451 852
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
@@ -1290,9 +1290,9 @@ proxy https 5070 edu cuhk cse hk open 64
 proxy https 5070 edu cuhk cse hk open 64 
 sec bytes sent received lifetime close kb 431 2501 388
 proxy https 5070 edu cuhk cse hk open 64 
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
 00 bytes lifetime close received sent kb 01 02 812
 proxy https 5070 edu cuhk cse hk open 64 
 00 03 bytes sent close received lifetime 02 07 05
@@ -1326,13 +1326,13 @@ proxy https 5070 edu cuhk cse hk open 64
 sec bytes sent lifetime close received 441 687 993 273
 proxy https 5070 edu cuhk cse hk open 64 
 sec bytes sent lifetime close received 441 687 993 273
-qq weixin long com 443 open 64 https 80 connection
-qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 qbwup
+qq weixin long com 443 open 64 https 80 qbwup
 1910 276 86 weixin long qq 443 28 64 00
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-190 91 443 216 kb bytes 125 33 sent received
-com 443 dropbox github kb youdao bytes connection 00 80
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+190 91 216 443 125 bytes 33 kb 00 sent
+com 443 sogou bytes 80 64 00 lifetime close received
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
 kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
@@ -1340,8 +1340,8 @@ kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
 oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
 oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
 oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
 oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
 oimagec7 ydstatic request completion canceled connection error 80 oimagec4 com
@@ -1357,12 +1357,12 @@ ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
 ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
 ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
 oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-3367 img 33 80 upload ydstatic com kb oimagec3 30
+com 443 sogou bytes 80 64 00 lifetime close received
+3367 img 33 80 oimagec3 upload com ydstatic kb 00
 kb bytes sent lifetime close received 02 00 01 04
-3367 img 33 80 upload ydstatic com kb oimagec3 30
-3367 img 33 80 upload ydstatic com kb oimagec3 30
-3367 img 33 80 upload ydstatic com kb oimagec3 30
+3367 img 33 80 oimagec3 upload com ydstatic kb 00
+3367 img 33 80 oimagec3 upload com ydstatic kb 00
+com 443 sogou bytes 80 64 00 lifetime close received
 proxy https 5070 edu cuhk cse hk open 64 
 kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
@@ -1377,7 +1377,7 @@ oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
 ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
 ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
 oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
-com 443 dropbox github kb youdao bytes connection 00 80
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
 ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
 oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
 ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
@@ -1389,9 +1389,9 @@ oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
 oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
 ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
 ydstatic request completion canceled connection error oimagea5 80 oimagea1 com
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
 oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
 oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
 oimageb8 ydstatic request completion canceled connection error 80 com oimageb2
@@ -1444,12 +1444,12 @@ kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
 kb bytes sent lifetime close received 02 00 01 04
 01 00 bytes lifetime close received sent kb 32 18
-20 00 13 15 bytes received sent lifetime close 5070
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 01 00 bytes lifetime close received sent kb 32 18
-20 00 13 15 bytes received sent lifetime close 5070
-20 00 13 15 bytes received sent lifetime close 5070
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
 kb bytes sent lifetime close received 02 00 01 04
 01 00 bytes lifetime close received sent kb 32 18
 proxy https 5070 edu cuhk cse hk open 64 
@@ -1461,7 +1461,7 @@ proxy https 5070 edu cuhk cse hk open 64
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
-20 00 13 15 bytes received sent lifetime close 5070
+oimageb6 20 ydstatic completion canceled request connection 00 error oimagec6
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
 proxy https 5070 edu cuhk cse hk open 64 
@@ -1470,7 +1470,7 @@ sec bytes kb sent close received lifetime 1165 268 421
 00 bytes lifetime close received sent kb 01 02 812
 sec bytes received sent lifetime close 5070 edu cuhk cse
 proxy https 5070 edu cuhk cse hk open 64 
-279 2279 592 00 22 52 02 1316 bytes 28
+279 2279 592 22 52 00 02 bytes 29 received
 01 00 bytes lifetime close received sent kb 32 18
 01 00 bytes lifetime close received sent kb 32 18
 01 00 bytes lifetime close received sent kb 32 18
@@ -1578,264 +1578,264 @@ sec bytes sent received lifetime close kb 431 2501 388
 proxy https 5070 edu cuhk cse hk open 64 
 01 00 bytes received sent lifetime close 5070 edu cuhk
 proxy https 5070 edu cuhk cse hk open 64 
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 64 com 00 11 bytes 442 sent received
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 64 com 00 11 bytes 442 sent received
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 64 com 00 11 bytes 442 sent received
-com 443 dropbox github kb youdao bytes connection 00 80
-baidu 80 64 com 00 11 bytes 442 sent received
-baidu 80 64 com 00 11 bytes 442 sent received
-baidu 80 64 com 00 11 bytes 442 sent received
-baidu 80 64 com 00 11 bytes 442 sent received
-baidu 80 64 com 00 11 bytes 442 sent received
-baidu 80 64 com 00 11 bytes 442 sent received
-baidu 80 64 com 00 11 bytes 442 sent received
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 64 com 00 11 bytes 442 sent received
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-yuedu yuedust 126 baidu eclick net 443 hm 64 com
-baidu 80 64 com 00 11 bytes 442 sent received
-yuedu yuedust 126 baidu eclick net 443 hm 64 com
-yuedu yuedust 126 baidu eclick net 443 hm 64 com
-baidu 80 64 com 00 11 bytes 442 sent received
-baidu 80 64 com 00 11 bytes 442 sent received
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-yuedu yuedust 126 baidu eclick net 443 hm 64 com
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-yuedu yuedust 126 baidu eclick net 443 hm 64 com
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-5054399 comment 4399 80 64 3304399 ptlogin newsimg news com
-3367 img 33 80 upload ydstatic com kb oimagec3 30
-3367 img 33 80 upload ydstatic com kb oimagec3 30
-3367 img 33 80 upload ydstatic com kb oimagec3 30
-3367 img 33 80 upload ydstatic com kb oimagec3 30
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
+com 443 sogou bytes 80 64 00 lifetime close received
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
+com 443 sogou bytes 80 64 00 lifetime close received
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+baidu 80 64 com bdimg ss open https suggestion i9
+baidu 80 64 com bdimg ss open https suggestion i9
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+baidu 80 64 com bdimg ss open https suggestion i9
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+3367 img 33 80 oimagec3 upload com ydstatic kb 00
+3367 img 33 80 oimagec3 upload com ydstatic kb 00
+3367 img 33 80 oimagec3 upload com ydstatic kb 00
+3367 img 33 80 oimagec3 upload com ydstatic kb 00
 1910 276 86 weixin long qq 443 28 64 00
-3367 img 33 80 upload ydstatic com kb oimagec3 30
-baidu 80 64 com 00 11 bytes 442 sent received
-qq weixin long com 443 open 64 https 80 connection
-baidu 80 64 com 00 11 bytes 442 sent received
-qq weixin long com 443 open 64 https 80 connection
-baidu 80 64 com 00 11 bytes 442 sent received
-com 443 dropbox github kb youdao bytes connection 00 80
-baidu 80 64 com 00 11 bytes 442 sent received
-baidu 80 64 com 00 11 bytes 442 sent received
-yuedu yuedust 126 baidu eclick net 443 hm 64 com
-yuedu yuedust 126 baidu eclick net 443 hm 64 com
-yuedu yuedust 126 baidu eclick net 443 hm 64 com
-3367 img 33 80 upload ydstatic com kb oimagec3 30
-3367 img 33 80 upload ydstatic com kb oimagec3 30
-3367 img 33 80 upload ydstatic com kb oimagec3 30
-qq weixin long com 443 open 64 https 80 connection
-190 91 443 216 kb bytes 125 33 sent received
-1910 276 86 weixin long qq 443 28 64 00
-1910 276 86 weixin long qq 443 28 64 00
-190 91 443 216 kb bytes 125 33 sent received
-qq weixin long com 443 open 64 https 80 connection
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
-1910 276 86 weixin long qq 443 28 64 00
-google 443 64 04 com kb bytes www gstatic sent
-qq weixin long com 443 open 64 https 80 connection
-google 443 64 04 com kb bytes www gstatic sent
-google 443 64 04 com kb bytes www gstatic sent
-google 443 64 04 com kb bytes www gstatic sent
-google 443 64 04 com kb bytes www gstatic sent
-qq weixin long com 443 open 64 https 80 connection
-google 443 64 04 com kb bytes www gstatic sent
-google 443 64 04 com kb bytes www gstatic sent
-1910 276 86 weixin long qq 443 28 64 00
-qq weixin long com 443 open 64 https 80 connection
-qq weixin long com 443 open 64 https 80 connection
-qq weixin long com 443 open 64 https 80 connection
-1910 276 86 weixin long qq 443 28 64 00
-qq weixin long com 443 open 64 https 80 connection
-1910 276 86 weixin long qq 443 28 64 00
-qq weixin long com 443 open 64 https 80 connection
-qq weixin long com 443 open 64 https 80 connection
-google 443 64 www com gstatic mtalk https open googleusercontent
-google 443 64 www com gstatic mtalk https open googleusercontent
-google 443 64 04 com kb bytes www gstatic sent
-google 443 64 www com gstatic mtalk https open googleusercontent
-google 443 64 www com gstatic mtalk https open googleusercontent
-1910 276 86 weixin long qq 443 28 64 00
-qq weixin long com 443 open 64 https 80 connection
-qq weixin long com 443 open 64 https 80 connection
-qq weixin long com 443 open 64 https 80 connection
-google 443 64 www com gstatic mtalk https open googleusercontent
-1910 276 86 weixin long qq 443 28 64 00
-qq weixin long com 443 open 64 https 80 connection
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
-1910 276 86 weixin long qq 443 28 64 00
-qq weixin long com 443 open 64 https 80 connection
+3367 img 33 80 oimagec3 upload com ydstatic kb 00
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
+qq weixin long com 443 open 64 https 80 qbwup
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
+qq weixin long com 443 open 64 https 80 qbwup
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
+com 443 sogou bytes 80 64 00 lifetime close received
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+com 443 sogou bytes 80 64 00 lifetime close received
+3367 img 33 80 oimagec3 upload com ydstatic kb 00
+3367 img 33 80 oimagec3 upload com ydstatic kb 00
+qq weixin long com 443 open 64 https 80 qbwup
+com 443 sogou bytes 80 64 00 lifetime close received
 1910 276 86 weixin long qq 443 28 64 00
 1910 276 86 weixin long qq 443 28 64 00
-qq weixin long com 443 open 64 https 80 connection
-qq weixin long com 443 open 64 https 80 connection
-qq weixin long com 443 open 64 https 80 connection
-qq weixin long com 443 open 64 https 80 connection
-google hangouts 443 clients2 64 com clients4 https open clientservices
-google 443 64 04 com kb bytes www gstatic sent
-1910 276 86 weixin long qq 443 28 64 00
-qq weixin long com 443 open 64 https 80 connection
-1910 276 86 weixin long qq 443 28 64 00
-qq weixin long com 443 open 64 https 80 connection
-1910 276 86 weixin long qq 443 28 64 00
-qq weixin long com 443 open 64 https 80 connection
-qq weixin long com 443 open 64 https 80 connection
-qq weixin long com 443 open 64 https 80 connection
-1910 276 86 weixin long qq 443 28 64 00
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-com 443 dropbox github kb youdao bytes connection 00 80
-qq weixin long com 443 open 64 https 80 connection
-com 443 dropbox github kb youdao bytes connection 00 80
-google 443 64 www com gstatic mtalk https open googleusercontent
-1910 276 86 weixin long qq 443 28 64 00
-qq weixin long com 443 open 64 https 80 connection
-qq weixin long com 443 open 64 https 80 connection
-google 443 64 www com gstatic mtalk https open googleusercontent
-com 443 dropbox github kb youdao bytes connection 00 80
-1910 276 86 weixin long qq 443 28 64 00
-qq weixin long com 443 open 64 https 80 connection
-qq weixin long com 443 open 64 https 80 connection
-google 443 64 www com gstatic mtalk https open googleusercontent
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-qq weixin long com 443 open 64 https 80 connection
+190 91 216 443 125 bytes 33 kb 00 sent
+qq weixin long com 443 open 64 https 80 qbwup
+qq 85 448 477 8000 qqweb cgi 45 208 494
 1910 276 86 weixin long qq 443 28 64 00
 google 443 64 04 com kb bytes www gstatic sent
-qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 qbwup
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+qq weixin long com 443 open 64 https 80 qbwup
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+1910 276 86 weixin long qq 443 28 64 00
+com 443 sogou bytes 80 64 00 lifetime close received
+qq weixin long com 443 open 64 https 80 qbwup
+qq weixin long com 443 open 64 https 80 qbwup
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 qbwup
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 qbwup
+qq weixin long com 443 open 64 https 80 qbwup
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+1910 276 86 weixin long qq 443 28 64 00
+com 443 sogou bytes 80 64 00 lifetime close received
+qq weixin long com 443 open 64 https 80 qbwup
+qq weixin long com 443 open 64 https 80 qbwup
+google 443 64 www com gstatic mtalk https open googleusercontent
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 qbwup
+qq 85 448 477 8000 qqweb cgi 45 208 494
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 qbwup
+1910 276 86 weixin long qq 443 28 64 00
+1910 276 86 weixin long qq 443 28 64 00
+com 443 sogou bytes 80 64 00 lifetime close received
+qq weixin long com 443 open 64 https 80 qbwup
+qq weixin long com 443 open 64 https 80 qbwup
+com 443 sogou bytes 80 64 00 lifetime close received
+google hangouts clients2 443 64 com clients4 https open proxy
+google 443 64 04 com kb bytes www gstatic sent
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 qbwup
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 qbwup
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 qbwup
+qq weixin long com 443 open 64 https 80 qbwup
+qq weixin long com 443 open 64 https 80 qbwup
+1910 276 86 weixin long qq 443 28 64 00
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+qq weixin long com 443 open 64 https 80 qbwup
+com 443 sogou bytes 80 64 00 lifetime close received
+google 443 64 www com gstatic mtalk https open googleusercontent
+1910 276 86 weixin long qq 443 28 64 00
+qq weixin long com 443 open 64 https 80 qbwup
+qq weixin long com 443 open 64 https 80 qbwup
+google 443 64 www com gstatic mtalk https open googleusercontent
+com 443 sogou bytes 80 64 00 lifetime close received
+1910 276 86 weixin long qq 443 28 64 00
+com 443 sogou bytes 80 64 00 lifetime close received
+qq weixin long com 443 open 64 https 80 qbwup
+google 443 64 www com gstatic mtalk https open googleusercontent
+baidu 80 64 com bdimg ss open https suggestion i9
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+5054399 comment 80 4399 64 ptlogin 3304399 newsimg news com
+baidu 80 64 com bdimg ss open https suggestion i9
+qq weixin long com 443 open 64 https 80 qbwup
+1910 276 86 weixin long qq 443 28 64 00
+google 443 64 04 com kb bytes www gstatic sent
+com 443 sogou bytes 80 64 00 lifetime close received
 1910 276 86 weixin long qq 443 28 64 00
 google 443 64 www com gstatic mtalk https open googleusercontent
-baidu 80 com 64 sogou https open bdimg baidustatic ss
+baidu 80 64 com bdimg ss open https suggestion i9
 google 443 64 www com gstatic mtalk https open googleusercontent
 google 443 64 www com gstatic mtalk https open googleusercontent
 google 443 64 www com gstatic mtalk https open googleusercontent
-google hangouts 443 clients2 64 com clients4 https open clientservices
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-google hangouts 443 clients2 64 com clients4 https open clientservices
-google hangouts 443 clients2 64 com clients4 https open clientservices
-google hangouts 443 clients2 64 com clients4 https open clientservices
+google hangouts clients2 443 64 com clients4 https open proxy
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+google hangouts clients2 443 64 com clients4 https open proxy
+google hangouts clients2 443 64 com clients4 https open proxy
+google hangouts clients2 443 64 com clients4 https open proxy
 google 443 64 04 com kb bytes www gstatic sent
-google hangouts 443 clients2 64 com clients4 https open clientservices
+google hangouts clients2 443 64 com clients4 https open proxy
 google 443 64 www com gstatic mtalk https open googleusercontent
-google hangouts 443 clients2 64 com clients4 https open clientservices
+google hangouts clients2 443 64 com clients4 https open proxy
 google 443 64 www com gstatic mtalk https open googleusercontent
-google hangouts 443 clients2 64 com clients4 https open clientservices
+google hangouts clients2 443 64 com clients4 https open proxy
 google 443 64 www com gstatic mtalk https open googleusercontent
-google hangouts 443 clients2 64 com clients4 https open clientservices
-google hangouts 443 clients2 64 com clients4 https open clientservices
-google 443 64 www com gstatic mtalk https open googleusercontent
-google 443 64 www com gstatic mtalk https open googleusercontent
-google 443 64 04 com kb bytes www gstatic sent
-google 443 64 04 com kb bytes www gstatic sent
-baidu 80 64 com 00 11 bytes 442 sent received
-google 443 64 04 com kb bytes www gstatic sent
-google 443 64 www com gstatic mtalk https open googleusercontent
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+google hangouts clients2 443 64 com clients4 https open proxy
+google hangouts clients2 443 64 com clients4 https open proxy
 google 443 64 www com gstatic mtalk https open googleusercontent
 google 443 64 www com gstatic mtalk https open googleusercontent
-google 443 64 www com gstatic mtalk https open googleusercontent
-google 443 64 www com gstatic mtalk https open googleusercontent
-google 443 64 www com gstatic mtalk https open googleusercontent
-google 443 64 www com gstatic mtalk https open googleusercontent
-google 443 64 www com gstatic mtalk https open googleusercontent
-google 443 64 www com gstatic mtalk https open googleusercontent
-google 443 64 www com gstatic mtalk https open googleusercontent
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-google hangouts 443 clients2 64 com clients4 https open clientservices
-qq weixin long com 443 open 64 https 80 connection
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
-tencent qq 448 85 sec 477 com 8000 cgi tcpconn5
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-com 443 dropbox github kb youdao bytes connection 00 80
 google 443 64 04 com kb bytes www gstatic sent
 google 443 64 04 com kb bytes www gstatic sent
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
 google 443 64 04 com kb bytes www gstatic sent
-google 443 64 04 com kb bytes www gstatic sent
-190 91 443 216 kb bytes 125 33 sent received
-190 91 443 216 kb bytes 125 33 sent received
+google 443 64 www com gstatic mtalk https open googleusercontent
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+google 443 64 www com gstatic mtalk https open googleusercontent
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+google hangouts clients2 443 64 com clients4 https open proxy
+qq weixin long com 443 open 64 https 80 qbwup
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+qq 85 448 477 8000 qqweb cgi 45 208 494
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+190 91 216 443 125 bytes 33 kb 00 sent
 google 443 64 04 com kb bytes www gstatic sent
 google 443 64 04 com kb bytes www gstatic sent
 google 443 64 04 com kb bytes www gstatic sent
-com 443 dropbox github kb youdao bytes connection 00 80
 google 443 64 04 com kb bytes www gstatic sent
-190 91 443 216 kb bytes 125 33 sent received
+190 91 216 443 125 bytes 33 kb 00 sent
+190 91 216 443 125 bytes 33 kb 00 sent
 google 443 64 04 com kb bytes www gstatic sent
 google 443 64 04 com kb bytes www gstatic sent
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+google 443 64 04 com kb bytes www gstatic sent
+com 443 sogou bytes 80 64 00 lifetime close received
+google 443 64 04 com kb bytes www gstatic sent
+190 91 216 443 125 bytes 33 kb 00 sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
 1910 276 86 weixin long qq 443 28 64 00
 error connect 11001 resolve server code target status establish 403
 error connect 11001 resolve server code target status establish 403
@@ -1855,146 +1855,146 @@ error connect 11001 resolve server code target status establish 403
 error connect 11001 resolve server code target status establish 403
 error connect 11001 resolve server code target status establish 403
 error connect 11001 resolve server code target status establish 403
-qq weixin long com 443 open 64 https 80 connection
-qq weixin long com 443 open 64 https 80 connection
-qq weixin long com 443 open 64 https 80 connection
+qq weixin long com 443 open 64 https 80 qbwup
+qq weixin long com 443 open 64 https 80 qbwup
+qq weixin long com 443 open 64 https 80 qbwup
 google 443 64 www com gstatic mtalk https open googleusercontent
-google hangouts 443 clients2 64 com clients4 https open clientservices
+google hangouts clients2 443 64 com clients4 https open proxy
 google 443 64 www com gstatic mtalk https open googleusercontent
-google hangouts 443 clients2 64 com clients4 https open clientservices
-google hangouts 443 clients2 64 com clients4 https open clientservices
-google hangouts 443 clients2 64 com clients4 https open clientservices
-google hangouts 443 clients2 64 com clients4 https open clientservices
-google hangouts 443 clients2 64 com clients4 https open clientservices
+google hangouts clients2 443 64 com clients4 https open proxy
+google hangouts clients2 443 64 com clients4 https open proxy
+google hangouts clients2 443 64 com clients4 https open proxy
+google hangouts clients2 443 64 com clients4 https open proxy
+google hangouts clients2 443 64 com clients4 https open proxy
 google 443 64 www com gstatic mtalk https open googleusercontent
 google 443 64 www com gstatic mtalk https open googleusercontent
 google 443 64 www com gstatic mtalk https open googleusercontent
-google hangouts 443 clients2 64 com clients4 https open clientservices
-qq weixin long com 443 open 64 https 80 connection
+google hangouts clients2 443 64 com clients4 https open proxy
+qq weixin long com 443 open 64 https 80 qbwup
 google 443 64 04 com kb bytes www gstatic sent
 google 443 64 04 com kb bytes www gstatic sent
 google 443 64 04 com kb bytes www gstatic sent
-google hangouts 443 clients2 64 com clients4 https open clientservices
-google hangouts 443 clients2 64 com clients4 https open clientservices
-google hangouts 443 clients2 64 com clients4 https open clientservices
-google hangouts 443 clients2 64 com clients4 https open clientservices
+google 443 64 www com gstatic mtalk https open googleusercontent
+google hangouts clients2 443 64 com clients4 https open proxy
+google hangouts clients2 443 64 com clients4 https open proxy
+google hangouts clients2 443 64 com clients4 https open proxy
 sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
-190 91 443 216 kb bytes 125 33 sent received
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
+190 91 216 443 125 bytes 33 kb 00 sent
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
 google 443 64 04 com kb bytes www gstatic sent
 google 443 64 04 com kb bytes www gstatic sent
 google 443 64 04 com kb bytes www gstatic sent
 google 443 64 04 com kb bytes www gstatic sent
 google 443 64 04 com kb bytes www gstatic sent
 google 443 64 www com gstatic mtalk https open googleusercontent
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-google hangouts 443 clients2 64 com clients4 https open clientservices
+com 443 sogou bytes 80 64 00 lifetime close received
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+google hangouts clients2 443 64 com clients4 https open proxy
 google 443 64 www com gstatic mtalk https open googleusercontent
 google 443 64 www com gstatic mtalk https open googleusercontent
-443 190 91 net avatars3 githubusercontent doubleclick 216 https open
-sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
-sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
-google 443 64 04 com kb bytes www gstatic sent
-google 443 64 04 com kb bytes www gstatic sent
-google 443 64 04 com kb bytes www gstatic sent
-sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
-sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
-google 443 64 www com gstatic mtalk https open googleusercontent
-com 443 dropbox github kb youdao bytes connection 00 80
-sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
-sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
-com 443 dropbox github kb youdao bytes connection 00 80
-google hangouts 443 clients2 64 com clients4 https open clientservices
-google hangouts 443 clients2 64 com clients4 https open clientservices
-com 443 dropbox github kb youdao bytes connection 00 80
-google 443 64 www com gstatic mtalk https open googleusercontent
-sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
-baidu 80 com 64 sogou https open bdimg baidustatic ss
-google 443 64 www com gstatic mtalk https open googleusercontent
-sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
-sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
-google 443 64 www com gstatic mtalk https open googleusercontent
-sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
 sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
 sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
 google 443 64 04 com kb bytes www gstatic sent
-190 91 443 216 kb bytes 125 33 sent received
 google 443 64 04 com kb bytes www gstatic sent
 google 443 64 04 com kb bytes www gstatic sent
-google 443 64 04 com kb bytes www gstatic sent
-google 443 64 04 com kb bytes www gstatic sent
-190 91 443 216 kb bytes 125 33 sent received
-google 443 64 04 com kb bytes www gstatic sent
-google 443 64 04 com kb bytes www gstatic sent
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
 sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+google 443 64 www com gstatic mtalk https open googleusercontent
+com 443 sogou bytes 80 64 00 lifetime close received
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+com 443 sogou bytes 80 64 00 lifetime close received
+google hangouts clients2 443 64 com clients4 https open proxy
+google hangouts clients2 443 64 com clients4 https open proxy
+com 443 sogou bytes 80 64 00 lifetime close received
+google 443 64 www com gstatic mtalk https open googleusercontent
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+com 443 sogou bytes 80 64 00 lifetime close received
+google 443 64 www com gstatic mtalk https open googleusercontent
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+google 443 64 www com gstatic mtalk https open googleusercontent
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+google 443 64 04 com kb bytes www gstatic sent
+190 91 216 443 125 bytes 33 kb 00 sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+com 443 sogou bytes 80 64 00 lifetime close received
+google 443 64 04 com kb bytes www gstatic sent
+google 443 64 04 com kb bytes www gstatic sent
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+sn googlevideo i3b7knez r1 443 r16 64 com i3beln7k r6
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
 google 443 64 04 com kb bytes www gstatic sent
 google 443 64 www com gstatic mtalk https open googleusercontent
 google 443 64 www com gstatic mtalk https open googleusercontent
 cnzz hm2 80 64 com mmstat https open proxy pcookie
 cnzz hm2 80 64 com mmstat https open proxy pcookie
-baidu 80 64 com 00 11 bytes 442 sent received
+com 443 sogou bytes 80 64 00 lifetime close received
+443 190 91 net avatars3 githubusercontent doubleclick https open 216
+1910 276 86 weixin long qq 443 28 64 00
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+yuedu 126 yuedust baidu eclick dup 443 64 net baidustatic
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+cnzz hm2 80 64 com mmstat https open proxy pcookie
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
+com 443 sogou bytes 80 64 00 lifetime close received
 google 443 64 www com gstatic mtalk https open googleusercontent
-1910 276 86 weixin long qq 443 28 64 00
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
-190 91 443 216 kb bytes 125 33 sent received
 cnzz hm2 80 64 com mmstat https open proxy pcookie
-yuedu yuedust 126 baidu eclick net 443 hm 64 com
-yuedu yuedust 126 baidu eclick net 443 hm 64 com
-yuedu yuedust 126 baidu eclick net 443 hm 64 com
-yuedu yuedust 126 baidu eclick net 443 hm 64 com
-yuedu yuedust 126 baidu eclick net 443 hm 64 com
-yuedu yuedust 126 baidu eclick net 443 hm 64 com
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
+com 443 sogou bytes 80 64 00 lifetime close received
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
 cnzz hm2 80 64 com mmstat https open proxy pcookie
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
 cnzz hm2 80 64 com mmstat https open proxy pcookie
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
-com 443 dropbox github kb youdao bytes connection 00 80
-baidu 80 64 com 00 11 bytes 442 sent received
-google hangouts 443 clients2 64 com clients4 https open clientservices
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
 cnzz hm2 80 64 com mmstat https open proxy pcookie
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
-190 91 443 216 kb bytes 125 33 sent received
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
-com 443 dropbox github kb youdao bytes connection 00 80
-com 443 dropbox github kb youdao bytes connection 00 80
-cnzz hm2 80 64 com mmstat https open proxy pcookie
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
-cnzz hm2 80 64 com mmstat https open proxy pcookie
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
-cnzz hm2 80 64 com mmstat https open proxy pcookie
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
 1910 276 86 weixin long qq 443 28 64 00
 1910 276 86 weixin long qq 443 28 64 00
-baidu 80 64 com 00 11 bytes 442 sent received
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
-baidu 80 64 com 00 11 bytes 442 sent received
-baidu 80 64 com 00 11 bytes 442 sent received
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+com 443 sogou bytes 80 64 00 lifetime close received
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
+baidu 80 64 442 com 00 bytes ubmcmm 11 baidustatic
 cnzz hm2 80 64 com mmstat https open proxy pcookie
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
 google 443 64 04 com kb bytes www gstatic sent
 google 443 64 04 com kb bytes www gstatic sent
 cnzz hm2 80 64 com mmstat https open proxy pcookie
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
-190 91 443 216 kb bytes 125 33 sent received
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
+190 91 216 443 125 bytes 33 kb 00 sent
 cnzz hm2 80 64 com mmstat https open proxy pcookie
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
 google 443 64 04 com kb bytes www gstatic sent
-190 91 443 216 kb bytes 125 33 sent received
-190 91 443 216 kb bytes 125 33 sent received
+190 91 216 443 125 bytes 33 kb 00 sent
+190 91 216 443 125 bytes 33 kb 00 sent
 cnzz hm2 80 64 com mmstat https open proxy pcookie
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
 cnzz hm2 80 64 com mmstat https open proxy pcookie
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
 cnzz hm2 80 64 com mmstat https open proxy pcookie
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
 cnzz hm2 80 64 com mmstat https open proxy pcookie
-254 hm2 cnzz 674 youdao 80 com cidian bytes 64
+254 hm2 cnzz 674 youdao 80 cidian com sec bytes
