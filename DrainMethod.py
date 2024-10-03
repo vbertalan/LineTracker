@@ -281,7 +281,7 @@ class LogParser:
 
             ## Tokenization by splits
             logmessageL = self.preprocess(line['Content']).strip().split()
-            
+
             ## NEW LINES
             #import spacy
             #nlp = spacy.load("en_core_web_sm")
