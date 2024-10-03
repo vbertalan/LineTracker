@@ -58,7 +58,7 @@ class LogParser:
             savePath : the output path stores the file containing structured logs
         """
         self.path = indir
-        self.depth = depth - 2
+        self.depth = depth
         self.st = st
         self.maxChild = maxChild
         self.logName = None
@@ -267,6 +267,7 @@ class LogParser:
     ## Main method, parses the strings and calls other methods
     def parse(self, logName):
         #print('Parsing file: ' + os.path.join(self.path, logName))
+
         start_time = datetime.now()
         self.logName = logName
         rootNode = Node()
