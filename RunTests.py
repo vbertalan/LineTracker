@@ -3,9 +3,14 @@
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.metrics.pairwise import pairwise_distances 
 from sklearn.preprocessing import MultiLabelBinarizer
-from sentence_transformers import SentenceTransformer
 from sklearn_extra.cluster import KMedoids
+
+from bertopic.dimensionality import BaseDimensionalityReduction        
+from bertopic.cluster import BaseCluster
 from bertopic import BERTopic
+
+from nltk.tokenize import WhitespaceTokenizer
+
 from ast import literal_eval
 from pathlib import Path
 from umap import UMAP
@@ -18,8 +23,9 @@ import pickle
 import sys
 import os
 
+from rouge import Rouge
+
 import matplotlib.pyplot as plt
-import seaborn as sns
 import pandas as pd
 import numpy as np
 
@@ -267,10 +273,7 @@ def cluster_kmedoids(unified_matrix, cluster_num):
 #     return (clusterer)
 
 def find_topics_bertopic(cluster_list, cluster_number, num_topics):
-        
-        from bertopic import BERTopic
-        from bertopic.cluster import BaseCluster
-        from bertopic.dimensionality import BaseDimensionalityReduction
+
 
         empty_reduction_model = BaseDimensionalityReduction()
         empty_cluster_model = KMedoids(n_clusters = 1)
@@ -319,12 +322,7 @@ def bertopic_previous_clustering(clusterer):
 def consider_previous_clustering():
     ## Tests with BerTopic
 
-    from sklearn_extra.cluster import KMedoids
-    from bertopic import BERTopic
-    import pandas as pd
-    import numpy as np
-    import pickle
-    import os
+
 
     target_file = "ground_truths/" + dataset + "_lines.txt_structured.csv"
     csv = pd.read_csv(target_file)
@@ -333,8 +331,6 @@ def consider_previous_clustering():
     line_file = []
     line_set = []
 
-    from bertopic.cluster import BaseCluster
-    from bertopic.dimensionality import BaseDimensionalityReduction
 
     cluster_model = KMedoids(n_clusters=1)
     empty_reduction_model = BaseDimensionalityReduction()
@@ -418,7 +414,6 @@ def bertopic_new_clustering(cluster_num = 8):
 ## word_list = list of tokens composed by the LDA/BertTopic
 def find_best_line(raw_lines, word_list):
 
-    from nltk.tokenize import WhitespaceTokenizer
     tk = WhitespaceTokenizer()
 
     closest_line = 0
@@ -438,7 +433,6 @@ def find_best_line(raw_lines, word_list):
 
 def calculates_metrics():
     
-    from rouge import Rouge 
     rouge = Rouge()
 
     count_precision = 0
