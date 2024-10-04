@@ -482,7 +482,7 @@ def tests_scenario_A(drain_st, drain_depth):
     consider_previous_clustering()
 
     final = calculates_metrics()
-    print("F1 score: {}".format(final))
+    #print("F1 score: {}".format(final))
 
     return (final)
 
@@ -501,7 +501,7 @@ def tests_scenario_B(drain_st, drain_depth):
     topic_summaries = bertopic_new_clustering(n_clusters)
 
     final = calculates_metrics()
-    print("F1 score: {}".format(final))
+    #print("F1 score: {}".format(final))
 
     return (final)
 
@@ -611,4 +611,4 @@ for i, dataset in enumerate(datasets):
     run_tests(results, dataset, drain_sts[i], drain_depths[i], 100)
 
 # Export Dataframe to CSV
-results.to_csv('testing_results.csv', index=False)  
+results.to_csv('testing_results.csv', index=False)
