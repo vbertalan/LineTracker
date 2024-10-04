@@ -509,7 +509,7 @@ LineId,Content,EventId,EventTemplate,ParameterList
 508,INFO shutdown of request processor complete,ce2353be,INFO shutdown of request processor complete,[]
 509,INFO CommitProcessor exited loop!,95e1f17f,INFO CommitProcessor exited loop!,[]
 510,INFO Shutting down,f4086e14,INFO Shutting down,[]
-511,INFO SyncRequestProcessor exited!,16d02e71,INFO SyncRequestProcessor exited!,[]
+511,INFO SyncRequestProcessor exited!,59a252b7,INFO <*> <*>,['SyncRequestProcessor exited!']
 512,"2015-08-25 11 : 20 : 12 , 469 - INFO [ QuorumPeer [ myid = 1 ] /0 : 0 : 0 : 0 : 0 : 0 : 0 : 0 : 2181 : QuorumPeer@670 ] - LOOKING",b9a9700c,"<*> <*> : <*> : <*> , <*> - INFO [ QuorumPeer [ myid = <*> ] /0 : 0 : 0 : 0 : 0 : 0 : 0 : 0 : 2181 : <*> ] - <*>","['2015-08-25 11', '20', '12', '469', '1', 'QuorumPeer@670', 'LOOKING']"
 513,INFO Reading snapshot /var/lib/zookeeper/version-2/snapshot.d0000001b,7f00c768,INFO Reading snapshot <*>,['/var/lib/zookeeper/version-2/snapshot.d0000001b']
 514,"INFO New election. My id = 1 , proposed zxid = 0xd0000001b",053785ba,"INFO New election. My id = <*> , proposed zxid = <*>","['1', '0xd0000001b']"
@@ -1088,7 +1088,7 @@ LineId,Content,EventId,EventTemplate,ParameterList
 1087,"INFO Notification : 1 ( n.leader ) , 0x100001546 ( n.zxid ) , 0x2 ( n.round ) , LOOKING ( n.state ) , 1 ( n.sid ) , 0x1 ( n.peerEPoch ) , LEADING ( my state )",f0c04709,"INFO Notification : <*> ( n.leader ) , <*> ( n.zxid ) , <*> ( n.round ) , <*> ( n.state ) , <*> ( n.sid ) , <*> ( n.peerEPoch ) , <*> ( my state )","['1', '0x100001546', '0x2', 'LOOKING', '1', '0x1', 'LEADING']"
 1088,INFO Follower sid : 1 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@19b4ac28,ea9b3b3a,INFO Follower sid : 1 : info : <*>,['org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@19b4ac28']
 1089,INFO Synchronizing with Follower sid : 1 maxCommittedLog = 0x100001546 minCommittedLog = 0x100001352 peerLastZxid = 0x100001546,ee251647,INFO Synchronizing with Follower sid : 1 maxCommittedLog = <*> minCommittedLog = <*> peerLastZxid = <*>,"['0x100001546', '0x100001352', '0x100001546']"
-1090,INFO Sending DIFF,49b8b663,INFO Sending DIFF,[]
+1090,INFO Sending DIFF,59a252b7,INFO <*> <*>,['Sending DIFF']
 1091,INFO Accepted socket connection from /10.10.34.12 : 54759,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.12', '54759']"
 1092,WARN Connection request from old client /10.10.34.12 : 54759 ; will be dropped if server is in r-o mode,f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,"['/10.10.34.12', '54759']"
 1093,INFO Client attempting to establish new session at /10.10.34.12 : 54759,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.12', '54759']"
@@ -1211,7 +1211,7 @@ LineId,Content,EventId,EventTemplate,ParameterList
 1210,INFO Snapshotting : 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd,407b1e5b,INFO Snapshotting : 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd,[]
 1211,INFO Follower sid : 1 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@c0f0c01,ea9b3b3a,INFO Follower sid : 1 : info : <*>,['org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@c0f0c01']
 1212,INFO Synchronizing with Follower sid : 1 maxCommittedLog = 0x0 minCommittedLog = 0x0 peerLastZxid = 0x300000dcd,ee251647,INFO Synchronizing with Follower sid : 1 maxCommittedLog = <*> minCommittedLog = <*> peerLastZxid = <*>,"['0x0', '0x0', '0x300000dcd']"
-1213,INFO Sending DIFF,49b8b663,INFO Sending DIFF,[]
+1213,INFO Sending DIFF,59a252b7,INFO <*> <*>,['Sending DIFF']
 1214,WARN Commiting zxid 0x500000000 from /10.10.34.12 : 2888 not first!,82cf096a,WARN Commiting zxid 0x500000000 from /10.10.34.12 : 2888 not first!,[]
 1215,WARN First is 0x0,d3628be1,WARN First is 0x0,[]
 1216,INFO Have quorum of supporters ; starting up and setting last processed zxid : 0x500000000,bccf3d72,INFO Have quorum of supporters ; starting up and setting last processed zxid : 0x500000000,[]
@@ -1360,7 +1360,7 @@ LineId,Content,EventId,EventTemplate,ParameterList
 1359,WARN Cannot open channel to 1 at election address /10.10.34.11 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['1', '/10.10.34.11']"
 1360,INFO Received connection request /10.10.34.11 : 59599,6a611e72,INFO Received connection request <*> : <*>,"['/10.10.34.11', '59599']"
 1361,INFO Synchronizing with Follower sid : 1 maxCommittedLog = 0x0 minCommittedLog = 0x0 peerLastZxid = 0x700000000,ee251647,INFO Synchronizing with Follower sid : 1 maxCommittedLog = <*> minCommittedLog = <*> peerLastZxid = <*>,"['0x0', '0x0', '0x700000000']"
-1362,INFO Sending DIFF,49b8b663,INFO Sending DIFF,[]
+1362,INFO Sending DIFF,59a252b7,INFO <*> <*>,['Sending DIFF']
 1363,INFO Accepted socket connection from /10.10.34.12 : 38021,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.12', '38021']"
 1364,WARN Connection request from old client /10.10.34.12 : 38021 ; will be dropped if server is in r-o mode,f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,"['/10.10.34.12', '38021']"
 1365,INFO Client attempting to establish new session at /10.10.34.12 : 38021,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.12', '38021']"
@@ -1577,7 +1577,7 @@ LineId,Content,EventId,EventTemplate,ParameterList
 1576,ERROR Unexpected exception causing shutdown while sock still open,e8820d88,ERROR Unexpected exception causing shutdown while sock still open,[]
 1577,WARN ******* GOODBYE /10.10.34.13 : 42026 ********,cbad1d2c,WARN ******* GOODBYE <*> : <*> ********,"['/10.10.34.13', '42026']"
 1578,INFO Shutting down,f4086e14,INFO Shutting down,[]
-1579,INFO Shutdown called,7f3401f0,INFO Shutdown called,[]
+1579,INFO Shutdown called,59a252b7,INFO <*> <*>,['Shutdown called']
 1580,INFO exception while shutting down acceptor : java.net.SocketException : Socket closed,68808e18,INFO exception while shutting down acceptor : java.net.SocketException : Socket closed,[]
 1581,INFO Closed socket connection for client /10.10.34.12 : 36432 ( no session established for client ),624184ea,INFO Closed socket connection for client /10.10.34.12 : <*> ( no session established for client ),['36432']
 1582,INFO Accepted socket connection from /10.10.34.12 : 36433,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.12', '36433']"

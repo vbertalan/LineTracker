@@ -1,15 +1,13 @@
-
 ################################## LIBRARIES ################################## 
 
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.metrics.pairwise import pairwise_distances 
 from sklearn.preprocessing import MultiLabelBinarizer
-from nltk.tokenize import WhitespaceTokenizer
+from sentence_transformers import SentenceTransformer
 from sklearn_extra.cluster import KMedoids
+from bertopic import BERTopic
 from ast import literal_eval
 from pathlib import Path
-from rouge import Rouge 
-from tqdm import tqdm
 from umap import UMAP
 import pandas as pd
 import numpy as np
@@ -20,12 +18,10 @@ import pickle
 import sys
 import os
 
-from bertopic.dimensionality import BaseDimensionalityReduction        
-from bertopic.cluster import BaseCluster
-from bertopic import BERTopic
-
 import matplotlib.pyplot as plt
 import seaborn as sns
+import pandas as pd
+import numpy as np
 
 ############################## AUXILIARY METHODS ############################## 
 
@@ -271,6 +267,10 @@ def cluster_kmedoids(unified_matrix, cluster_num):
 #     return (clusterer)
 
 def find_topics_bertopic(cluster_list, cluster_number, num_topics):
+        
+        from bertopic import BERTopic
+        from bertopic.cluster import BaseCluster
+        from bertopic.dimensionality import BaseDimensionalityReduction
 
         empty_reduction_model = BaseDimensionalityReduction()
         empty_cluster_model = KMedoids(n_clusters = 1)
@@ -319,12 +319,22 @@ def bertopic_previous_clustering(clusterer):
 def consider_previous_clustering():
     ## Tests with BerTopic
 
+    from sklearn_extra.cluster import KMedoids
+    from bertopic import BERTopic
+    import pandas as pd
+    import numpy as np
+    import pickle
+    import os
+
     target_file = "ground_truths/" + dataset + "_lines.txt_structured.csv"
     csv = pd.read_csv(target_file)
     content = csv["EventTemplate"]
     num_topics = 10
     line_file = []
     line_set = []
+
+    from bertopic.cluster import BaseCluster
+    from bertopic.dimensionality import BaseDimensionalityReduction
 
     cluster_model = KMedoids(n_clusters=1)
     empty_reduction_model = BaseDimensionalityReduction()
@@ -408,6 +418,7 @@ def bertopic_new_clustering(cluster_num = 8):
 ## word_list = list of tokens composed by the LDA/BertTopic
 def find_best_line(raw_lines, word_list):
 
+    from nltk.tokenize import WhitespaceTokenizer
     tk = WhitespaceTokenizer()
 
     closest_line = 0
@@ -427,6 +438,7 @@ def find_best_line(raw_lines, word_list):
 
 def calculates_metrics():
     
+    from rouge import Rouge 
     rouge = Rouge()
 
     count_precision = 0
@@ -473,11 +485,11 @@ def calculates_metrics():
 ## Testa usando clusters pré-definidos, e usando BerTopic sem clusterizar
 def tests_scenario_A(drain_st, drain_depth):
 
-    # parameters = ("Testing scenario A using raw data matrix and predefined clustering, with drain st {}, drain depth {}".
-    #       format(drain_st, drain_depth))
-    # print(parameters)
+    parameters = ("Testing scenario A using raw data matrix and predefined clustering, with drain st {}, drain depth {}".
+          format(drain_st, drain_depth))
+    print(parameters)
     
-    parse_logs(drain_st, drain_depth)
+    #parse_logs(drain_st, drain_depth)
 
     consider_previous_clustering()
 
@@ -492,12 +504,12 @@ def tests_scenario_B(drain_st, drain_depth):
     
     n_clusters = get_template_number()
     
-    # parameters = ("Testing scenario B using raw data matrix and BerTopic K-Medoids clustering, drain st {}, drain depth {}, cluster number {}".
-    #       format(drain_st, drain_depth, n_clusters))
-    # print(parameters)
+    parameters = ("Testing scenario B using raw data matrix and BerTopic K-Medoids clustering, drain st {}, drain depth {}, cluster number {}".
+          format(drain_st, drain_depth, n_clusters))
+    print(parameters)
 
     # Runs BerTopic
-    parse_logs(drain_st, drain_depth)
+    #parse_logs(drain_st, drain_depth)
     topic_summaries = bertopic_new_clustering(n_clusters)
 
     final = calculates_metrics()
@@ -509,12 +521,12 @@ def tests_scenario_B(drain_st, drain_depth):
 ## Testando usando transformação via matriz unificada, depois BerTopic para seleção de tópicos
 def tests_scenario_C(drain_st, drain_depth, alpha, beta, gamma):
 
-    parse_logs(drain_st, drain_depth)
+    #parse_logs(drain_st, drain_depth)
     n_clusters = get_template_number()
 
-    # parameters = ("Testing scenario C using joint matrix and BerTopic topic modeling, with drain st {}, drain depth {}, alpha {}, beta {}, gamma {}, cluster number {}".
-    #       format(drain_st, drain_depth, alpha, beta, gamma, n_clusters))
-    # print(parameters)
+    parameters = ("Testing scenario C using joint matrix and BerTopic topic modeling, with drain st {}, drain depth {}, alpha {}, beta {}, gamma {}, cluster number {}".
+          format(drain_st, drain_depth, alpha, beta, gamma, n_clusters))
+    print(parameters)
 
     # Criação matriz unificada
     vector_df = transform(os.path.basename(logName))
@@ -531,19 +543,10 @@ def tests_scenario_C(drain_st, drain_depth, alpha, beta, gamma):
     final = calculates_metrics()
     #print("F1 score: {}".format(final))
 
+
     return (final)
 
-# Parsing Parameters
-input_dir = os.path.join(os.getcwd(), "ground_truths") # The input directory of raw logs
-output_dir = os.path.join(os.getcwd(), "results")  # The output directory of parsing results
-vector_dir = os.path.join(os.getcwd(), "vectors")  # The vector directory of converted logs
-logName = dataset + '_lines.txt' # Name of file to be parsed
-log_format = '<Content>' # Format of the file, if there are different fields
-regex = [] # Regex strings for Drain execution
-indir = os.path.join(input_dir, os.path.dirname(logName))
-log_file = os.path.basename(logName)
-
-def run_tests(results, dataset, drain_st, drain_depth, num_executions = 10):
+def run_tests(results, dataset, drain_st, drain_depth, num_executions):
 
     # Variable Matrix Parameters
     # alpha = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
@@ -569,9 +572,9 @@ def run_tests(results, dataset, drain_st, drain_depth, num_executions = 10):
     best_alpha = 0
     best_beta = 0
     best_gamma = 0
-    for a in tqdm(alpha):
-        for b in tqdm(beta, leave=False):
-            for g in tqdm(gamma, leave=False):
+    for a in alpha:
+        for b in beta:
+            for g in gamma:
                 if (a+b+g != 1):
                     pass
                 else:
@@ -589,26 +592,92 @@ def run_tests(results, dataset, drain_st, drain_depth, num_executions = 10):
                             best_gamma = g
     print("A melhor combinação foi alpha {}, beta {}, gamma {}".format(best_alpha, best_beta, best_gamma))
 
-    # Plot boxplot for that execution
-    plot = sns.boxplot(data=results, x="Scenario", y="F1")
-    fig = plot.get_figure()
-    fig.savefig("testing_plot_{}.png".format(dataset)) 
+    # # Plot boxplot for that execution
 
-################################# RUNNING TESTS ################################ 
+    # plot = sns.boxplot(data=results, x="Scenario", y="F1")
+    # fig = plot.get_figure()
+    # fig.savefig("testing_plot_{}.png".format(dataset)) 
 
-# Running collective tests
-# datasets = ['bgl', 'hdfs', 'hpc', 'Proxifier', 'spark', 'Zookeeper']
-# drain_sts = [3, 3, 4, 4, 3, 3]
-# drain_depths = [0.3, 0.5, 0.4, 0.3, 0.3, 0.3]
-datasets = ['bgl']
-drain_sts = [3]
-drain_depths = [0.3]
+################################## RUNNING TESTS ################################## 
 
-# Creating Results Dataframe
+## General parameters 
+input_dir = os.path.join(os.getcwd(), "ground_truths") # The input directory of raw logs
+output_dir = os.path.join(os.getcwd(), "results")  # The output directory of parsing results
+vector_dir = os.path.join(os.getcwd(), "vectors")  # The vector directory of converted logs
 results = pd.DataFrame(columns=['Dataset','Scenario', 'Drain St', 'Drain Depth', 'Alpha', 'Beta', 'Gamma', 'F1'])
+num_executions = 1
 
-for i, dataset in enumerate(datasets):
-    run_tests(results, dataset, drain_sts[i], drain_depths[i], 100)
+# Testing BGL
+dataset = "bgl" # The name of the dataset being tested
+drain_st = 0.3
+drain_depth = 3
+logName = dataset + '_lines.txt' # Name of file to be parsed
+log_format = '<Content>' # Format of the file, if there are different fields
+regex = [] # Regex strings for Drain execution
+indir = os.path.join(input_dir, os.path.dirname(logName))
+log_file = os.path.basename(logName)
+parse_logs(drain_st, drain_depth)
+run_tests(results, dataset, drain_st, drain_depth, num_executions)
 
-# Export Dataframe to CSV
-results.to_csv('testing_results.csv', index=False)
+# Testing HDFS
+dataset = "hdfs" # The name of the dataset being tested
+drain_st = 0.3
+drain_depth = 5
+logName = dataset + '_lines.txt' # Name of file to be parsed
+log_format = '<Content>' # Format of the file, if there are different fields
+regex = [] # Regex strings for Drain execution
+indir = os.path.join(input_dir, os.path.dirname(logName))
+log_file = os.path.basename(logName)
+parse_logs(drain_st, drain_depth)
+run_tests(results, dataset, drain_st, drain_depth, num_executions)
+
+# Testing HPC
+dataset = "hpc" # The name of the dataset being tested
+drain_st = 0.4
+drain_depth = 4
+logName = dataset + '_lines.txt' # Name of file to be parsed
+log_format = '<Content>' # Format of the file, if there are different fields
+regex = [] # Regex strings for Drain execution
+indir = os.path.join(input_dir, os.path.dirname(logName))
+log_file = os.path.basename(logName)
+parse_logs(drain_st, drain_depth)
+run_tests(results, dataset, drain_st, drain_depth, num_executions)
+
+# Testing Proxifier
+dataset = "Proxifier" # The name of the dataset being tested
+drain_st = 0.3
+drain_depth = 4
+logName = dataset + '_lines.txt' # Name of file to be parsed
+log_format = '<Content>' # Format of the file, if there are different fields
+regex = [] # Regex strings for Drain execution
+indir = os.path.join(input_dir, os.path.dirname(logName))
+log_file = os.path.basename(logName)
+parse_logs(drain_st, drain_depth)
+run_tests(results, dataset, drain_st, drain_depth, num_executions)
+
+# Testing Spark
+dataset = "spark" # The name of the dataset being tested
+drain_st = 0.3
+drain_depth = 3
+logName = dataset + '_lines.txt' # Name of file to be parsed
+log_format = '<Content>' # Format of the file, if there are different fields
+regex = [] # Regex strings for Drain execution
+indir = os.path.join(input_dir, os.path.dirname(logName))
+log_file = os.path.basename(logName)
+parse_logs(drain_st, drain_depth)
+run_tests(results, dataset, drain_st, drain_depth, num_executions)
+
+# Testing Zookeeper
+dataset = "Zookeeper" # The name of the dataset being tested
+drain_st = 0.3
+drain_depth = 3
+logName = dataset + '_lines.txt' # Name of file to be parsed
+log_format = '<Content>' # Format of the file, if there are different fields
+regex = [] # Regex strings for Drain execution
+indir = os.path.join(input_dir, os.path.dirname(logName))
+log_file = os.path.basename(logName)
+parse_logs(drain_st, drain_depth)
+run_tests(results, dataset, drain_st, drain_depth, num_executions)
+
+# Saves final CSV
+results.to_csv('testing_results.csv', index=False)  
