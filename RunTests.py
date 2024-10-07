@@ -13,6 +13,7 @@ from nltk.tokenize import WhitespaceTokenizer
 
 from ast import literal_eval
 from pathlib import Path
+from tqdm import tqdm
 from umap import UMAP
 import pandas as pd
 import numpy as np
@@ -238,19 +239,6 @@ def joins_matrices(tfidf_distance, var_distance, count_distance, alpha, beta, ga
     unified_matrix = np.asarray(tfidf_distance_wtd + var_distance_wtd + count_distance_wtd)
     return (unified_matrix)
 
-# def cluster_hdbscan(unified_matrix, cluster_size, mn_samples, cluster_selection_epsilon, alpha, leaf_size):
-#     ## Clusters with HDBSCAN
-#     clusterer = hdbscan.HDBSCAN(min_cluster_size=cluster_size,min_samples=mn_samples,metric='precomputed',
-#                                 cluster_selection_epsilon=cluster_selection_epsilon, alpha=alpha, leaf_size=leaf_size, 
-#                                 allow_single_cluster=False,cluster_selection_method='eom',
-#                                 gen_min_span_tree=True)
-
-#     clusterer.fit(unified_matrix)
-
-#     ## Checks number of outliers
-#     cont = np.count_nonzero(clusterer.labels_ == -1)
-#     return (clusterer)
-
 def cluster_kmedoids(unified_matrix, cluster_num):
     ## Clusters with cluster_kmedoids
 
@@ -261,19 +249,7 @@ def cluster_kmedoids(unified_matrix, cluster_num):
     cont = np.count_nonzero(clusterer.labels_ == -1)
     return (clusterer)
 
-# def cluster_hdbscan_raw_data(data, cluster_size, mn_samples, cluster_selection_epsilon, alpha, leaf_size):
-#     ## Clusters with HDBSCAN
-#     clusterer = hdbscan.HDBSCAN(min_cluster_size=cluster_size,min_samples=mn_samples,metric='euclidean',
-#                                 cluster_selection_epsilon=cluster_selection_epsilon, alpha=alpha, leaf_size=leaf_size, 
-#                                 allow_single_cluster=False,cluster_selection_method='eom',
-#                                 gen_min_span_tree=False)
-
-#     clusterer.fit(data)
-
-#     return (clusterer)
-
 def find_topics_bertopic(cluster_list, cluster_number, num_topics):
-
 
         empty_reduction_model = BaseDimensionalityReduction()
         empty_cluster_model = KMedoids(n_clusters = 1)
@@ -482,8 +458,6 @@ def tests_scenario_A(drain_st, drain_depth):
     parameters = ("Testing scenario A using raw data matrix and predefined clustering, with drain st {}, drain depth {}".
           format(drain_st, drain_depth))
     print(parameters)
-    
-    #parse_logs(drain_st, drain_depth)
 
     consider_previous_clustering()
 
@@ -503,7 +477,6 @@ def tests_scenario_B(drain_st, drain_depth):
     print(parameters)
 
     # Runs BerTopic
-    #parse_logs(drain_st, drain_depth)
     topic_summaries = bertopic_new_clustering(n_clusters)
 
     final = calculates_metrics()
@@ -543,12 +516,9 @@ def tests_scenario_C(drain_st, drain_depth, alpha, beta, gamma):
 def run_tests(results, dataset, drain_st, drain_depth, num_executions):
 
     # Variable Matrix Parameters
-    # alpha = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
-    # beta = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
-    # gamma = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
-    alpha = [0.3]
-    beta = [0.4, 0.5]
-    gamma = [0.2, 0.3]
+    alpha = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
+    beta = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
+    gamma = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
 
     # Running Single Test for Scenario A
     value = tests_scenario_A(drain_st, drain_depth)
@@ -572,7 +542,7 @@ def run_tests(results, dataset, drain_st, drain_depth, num_executions):
                 if (a+b+g != 1):
                     pass
                 else:
-                    for i in range(num_executions):
+                    for i in tqdmrange(num_executions):
                         try:
                             value = tests_scenario_C(drain_st, drain_depth, a, b, g)
                             new_row = [dataset, 'C', drain_st, drain_depth, best_alpha, best_beta, best_gamma, value]
@@ -586,12 +556,6 @@ def run_tests(results, dataset, drain_st, drain_depth, num_executions):
                             best_gamma = g
     print("A melhor combinação foi alpha {}, beta {}, gamma {}".format(best_alpha, best_beta, best_gamma))
 
-    # # Plot boxplot for that execution
-
-    # plot = sns.boxplot(data=results, x="Scenario", y="F1")
-    # fig = plot.get_figure()
-    # fig.savefig("testing_plot_{}.png".format(dataset)) 
-
 ################################## RUNNING TESTS ################################## 
 
 ## General parameters 
@@ -599,7 +563,7 @@ input_dir = os.path.join(os.getcwd(), "ground_truths") # The input directory of 
 output_dir = os.path.join(os.getcwd(), "results")  # The output directory of parsing results
 vector_dir = os.path.join(os.getcwd(), "vectors")  # The vector directory of converted logs
 results = pd.DataFrame(columns=['Dataset','Scenario', 'Drain St', 'Drain Depth', 'Alpha', 'Beta', 'Gamma', 'F1'])
-num_executions = 1
+num_executions = 10
 
 # Testing BGL
 dataset = "bgl" # The name of the dataset being tested
@@ -613,6 +577,9 @@ log_file = os.path.basename(logName)
 parse_logs(drain_st, drain_depth)
 run_tests(results, dataset, drain_st, drain_depth, num_executions)
 
+# Saves final CSV
+results.to_csv('testing_results.csv', index=False)  
+
 # Testing HDFS
 dataset = "hdfs" # The name of the dataset being tested
 drain_st = 0.3
@@ -624,6 +591,9 @@ indir = os.path.join(input_dir, os.path.dirname(logName))
 log_file = os.path.basename(logName)
 parse_logs(drain_st, drain_depth)
 run_tests(results, dataset, drain_st, drain_depth, num_executions)
+
+# Saves final CSV
+results.to_csv('testing_results.csv', index=False)  
 
 # Testing HPC
 dataset = "hpc" # The name of the dataset being tested
@@ -637,6 +607,9 @@ log_file = os.path.basename(logName)
 parse_logs(drain_st, drain_depth)
 run_tests(results, dataset, drain_st, drain_depth, num_executions)
 
+# Saves final CSV
+results.to_csv('testing_results.csv', index=False)  
+
 # Testing Proxifier
 dataset = "Proxifier" # The name of the dataset being tested
 drain_st = 0.3
@@ -649,6 +622,9 @@ log_file = os.path.basename(logName)
 parse_logs(drain_st, drain_depth)
 run_tests(results, dataset, drain_st, drain_depth, num_executions)
 
+# Saves final CSV
+results.to_csv('testing_results.csv', index=False)  
+
 # Testing Spark
 dataset = "spark" # The name of the dataset being tested
 drain_st = 0.3
@@ -660,6 +636,9 @@ indir = os.path.join(input_dir, os.path.dirname(logName))
 log_file = os.path.basename(logName)
 parse_logs(drain_st, drain_depth)
 run_tests(results, dataset, drain_st, drain_depth, num_executions)
+
+# Saves final CSV
+results.to_csv('testing_results.csv', index=False)   
 
 # Testing Zookeeper
 dataset = "Zookeeper" # The name of the dataset being tested

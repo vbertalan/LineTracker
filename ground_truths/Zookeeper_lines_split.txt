@@ -1,0 +1,404 @@
+WARN Send worker leaving thread
+WARN Interrupting SendWorker
+WARN Interrupted while waiting for message on queue
+INFO Received connection request /10.10.34.11 : 45338
+WARN Connection broken for id 188978561024 , my id = 1 , error =
+WARN Connection request from old client /10.10.34.11 : 49242 ; will be dropped if server is in r-o mode
+INFO Established session 0x14ed93111f20039 with negotiated timeout 10000 for client /10.10.34.13 : 37196
+WARN Connection request from old client /10.10.34.12 : 45605 ; will be dropped if server is in r-o mode
+INFO Accepted socket connection from /10.10.34.13 : 37199
+INFO Accepted socket connection from /10.10.34.11 : 50299
+WARN Connection request from old client /10.10.34.11 : 50299 ; will be dropped if server is in r-o mode
+WARN Connection request from old client /10.10.34.11 : 50301 ; will be dropped if server is in r-o mode
+INFO Established session 0x14ed93111f20082 with negotiated timeout 10000 for client /10.10.34.11 : 50301
+WARN caught end of stream exception
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.11 : 52893 which had sessionid 0x14ed93111f2009b
+INFO Closed socket connection for client /10.10.34.11 : 52894 which had sessionid 0x14ed93111f2009c
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.11 : 52895 which had sessionid 0x14ed93111f2009d
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.15 : 34846 which had sessionid 0x14ed93111f2008d
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.16 : 39310 which had sessionid 0x14ed93111f2008e
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.22 : 47085 which had sessionid 0x14ed93111f20092
+WARN Connection request from old client /10.10.34.12 : 45668 ; will be dropped if server is in r-o mode
+INFO Accepted socket connection from /10.10.34.13 : 37439
+INFO Client attempting to establish new session at /10.10.34.18 : 43000
+WARN Connection request from old client /10.10.34.20 : 56418 ; will be dropped if server is in r-o mode
+INFO Client attempting to establish new session at /10.10.34.11 : 54398
+WARN Connection request from old client /10.10.34.11 : 54399 ; will be dropped if server is in r-o mode
+INFO Established session 0x14ed93111f200cb with negotiated timeout 10000 for client /10.10.34.11 : 54399
+INFO Accepted socket connection from /10.10.34.12 : 45679
+INFO Client attempting to establish new session at /10.10.34.12 : 45682
+INFO Accepted socket connection from /10.10.34.12 : 45711
+INFO Established session 0x14ed93111f200e5 with negotiated timeout 20000 for client /10.10.34.11 : 54724
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.11 : 54724 which had sessionid 0x14ed93111f200e5
+INFO Accepted socket connection from /10.10.34.11 : 54740
+INFO Processed session termination for sessionid : 0x14ede63a5a7000e
+WARN Connection request from old client /10.10.34.12 : 43135 ; will be dropped if server is in r-o mode
+INFO Accepted socket connection from /10.10.34.12 : 43135
+INFO Established session 0x14ede63a5a70016 with negotiated timeout 10000 for client /10.10.34.13 : 38022
+INFO Expiring session 0x14ede63a5a70010 , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x34ede65503f001d
+INFO Processed session termination for sessionid : 0x24ede63a01b0029
+INFO Expiring session 0x24ede63a01b0028 , timeout of 10000ms exceeded
+WARN Connection request from old client /10.10.34.11 : 39308 ; will be dropped if server is in r-o mode
+INFO Closed socket connection for client /10.10.34.13 : 38043 which had sessionid 0x14ede63a5a70024
+INFO Expiring session 0x14ede63a5a70022 , timeout of 10000ms exceeded
+INFO Expiring session 0x14ede63a5a70021 , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x14ede63a5a70020
+INFO Processed session termination for sessionid : 0x34ede65503f0025
+INFO Processed session termination for sessionid : 0x34ede65503f002f
+INFO Processed session termination for sessionid : 0x34ede65503f0031
+INFO Processed session termination for sessionid : 0x34ede65503f0030
+INFO Processed session termination for sessionid : 0x24ede63a01b003e
+INFO Processed session termination for sessionid : 0x24ede63a01b0045
+INFO Expiring session 0x24ede63a01b0044 , timeout of 20000ms exceeded
+INFO Accepted socket connection from /10.10.34.11 : 39791
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.11 : 39791 which had sessionid 0x14ede63a5a70032
+WARN caught end of stream exception
+WARN caught end of stream exception
+INFO Expiring session 0x14ede63a5a7003a , timeout of 10000ms exceeded
+INFO Expiring session 0x34ede65503f0048 , timeout of 10000ms exceeded
+INFO Expiring session 0x14ede63a5a7003c , timeout of 10000ms exceeded
+INFO Expiring session 0x24ede63a01b0056 , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x34ede65503f0054
+INFO Expiring session 0x24ede63a01b0060 , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x24ede63a01b0060
+INFO Processed session termination for sessionid : 0x24ede63a01b005e
+WARN caught end of stream exception
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.12 : 43240 which had sessionid 0x14ede63a5a7004d
+WARN Cannot open channel to 2 at election address /10.10.34.12 : 3888
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+INFO Notification time out : 51200
+INFO Notification : 1 ( n.leader ) , 0x50000062e ( n.zxid ) , 0x5 ( n.round ) , LOOKING ( n.state ) , 1 ( n.sid ) , 0x5 ( n.peerEPoch ) , LOOKING ( my state )
+INFO Notification : 2 ( n.leader ) , 0x300000dcd ( n.zxid ) , 0x5 ( n.round ) , LEADING ( n.state ) , 2 ( n.sid ) , 0x4 ( n.peerEPoch ) , FOLLOWING ( my state )
+INFO Server environment : java.version = 1.7.0_79
+INFO Accepted socket connection from /10.10.34.13 : 39517
+INFO Accepted socket connection from /10.10.34.18 : 40973
+WARN Connection request from old client /10.10.34.18 : 40973 ; will be dropped if server is in r-o mode
+INFO Client attempting to establish new session at /10.10.34.18 : 40973
+INFO tickTime set to 2000
+INFO minSessionTimeout set to -1
+INFO Notification : 3 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , LOOKING ( n.state ) , 2 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )
+INFO Notification : 3 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , LEADING ( n.state ) , 3 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )
+WARN caught end of stream exception
+INFO Accepted socket connection from /10.10.34.11 : 38320
+WARN Connection request from old client /10.10.34.16 : 40425 ; will be dropped if server is in r-o mode
+INFO Revalidating client : 0x14f05578bd80019
+INFO Established session 0x14f05578bd8001b with negotiated timeout 10000 for client /10.10.34.20 : 56374
+INFO Revalidating client : 0x14f05578bd8001d
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.22 : 46866 which had sessionid 0x14f05578bd8001d
+WARN caught end of stream exception
+WARN caught end of stream exception
+INFO Notification : 2 ( n.leader ) , 0xa0000009a ( n.zxid ) , 0x1 ( n.round ) , LOOKING ( n.state ) , 2 ( n.sid ) , 0xa ( n.peerEPoch ) , LOOKING ( my state )
+INFO Notification : 2 ( n.leader ) , 0xa0000009a ( n.zxid ) , 0x1 ( n.round ) , LOOKING ( n.state ) , 1 ( n.sid ) , 0xa ( n.peerEPoch ) , LOOKING ( my state )
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+INFO Notification time out : 60000
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+INFO Notification time out : 60000
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+WARN Cannot open channel to 2 at election address /10.10.34.12 : 3888
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+INFO Notification time out : 60000
+INFO Notification time out : 60000
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+INFO Notification time out : 60000
+WARN Cannot open channel to 2 at election address /10.10.34.12 : 3888
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+INFO Notification time out : 60000
+WARN Cannot open channel to 2 at election address /10.10.34.12 : 3888
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+INFO Notification time out : 60000
+INFO Shutting down
+INFO CommitProcessor exited loop!
+INFO Shutting down
+INFO Notification time out : 3200
+WARN ******* GOODBYE /10.10.34.11 : 52255 ********
+WARN ******* GOODBYE /10.10.34.11 : 52256 ********
+WARN ******* GOODBYE /10.10.34.11 : 52261 ********
+ERROR Unexpected exception causing shutdown while sock still open
+WARN ******* GOODBYE /10.10.34.12 : 59071 ********
+ERROR Unexpected exception causing shutdown while sock still open
+ERROR Unexpected exception causing shutdown while sock still open
+WARN ******* GOODBYE /10.10.34.12 : 59144 ********
+ERROR Unexpected exception causing shutdown while sock still open
+ERROR Unexpected exception causing shutdown while sock still open
+WARN ******* GOODBYE /10.10.34.13 : 57271 ********
+ERROR Unexpected exception causing shutdown while sock still open
+WARN ******* GOODBYE /10.10.34.11 : 52428 ********
+WARN ******* GOODBYE /10.10.34.12 : 59215 ********
+ERROR Unexpected exception causing shutdown while sock still open
+ERROR Unexpected exception causing shutdown while sock still open
+ERROR Unexpected exception causing shutdown while sock still open
+WARN ******* GOODBYE /10.10.34.13 : 57626 ********
+ERROR Unexpected exception causing shutdown while sock still open
+ERROR Unexpected exception causing shutdown while sock still open
+INFO Received connection request /10.10.34.11 : 58105
+WARN Interrupting SendWorker
+WARN Interrupted while waiting for message on queue
+INFO Received connection request /10.10.34.11 : 58109
+WARN Send worker leaving thread
+INFO Received connection request /10.10.34.12 : 54820
+WARN Connection broken for id 188978561024 , my id = 2 , error =
+INFO Received connection request /10.10.34.12 : 54825
+WARN Connection broken for id 188978561024 , my id = 2 , error =
+INFO Received connection request /10.10.34.13 : 42647
+WARN Interrupted while waiting for message on queue
+WARN Connection broken for id 188978561024 , my id = 2 , error =
+WARN Connection broken for id 188978561024 , my id = 2 , error =
+WARN Interrupted while waiting for message on queue
+WARN Interrupted while waiting for message on queue
+WARN Send worker leaving thread
+INFO Received connection request /10.10.34.12 : 54885
+WARN Connection broken for id 188978561024 , my id = 2 , error =
+WARN Interrupted while waiting for message on queue
+INFO Closed socket connection for client /10.10.34.12 : 54577 which had sessionid 0x24ed93119420005
+INFO Closed socket connection for client /10.10.34.13 : 37167 which had sessionid 0x24ed93119420006
+INFO Expiring session 0x24ed93119420010 , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x34ed9348509000c
+INFO Processed session termination for sessionid : 0x14ed93111f2000b
+INFO Expiring session 0x14ed93111f2001c , timeout of 10000ms exceeded
+INFO Expiring session 0x24ed9311942001c , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x14ed93111f2001a
+INFO Client attempting to establish new session at /10.10.34.21 : 51250
+INFO Closed socket connection for client /10.10.34.12 : 54626 which had sessionid 0x24ed93119420036
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.17 : 46381 which had sessionid 0x24ed93119420038
+INFO Processed session termination for sessionid : 0x34ed9ac1c1e0011
+INFO Processed session termination for sessionid : 0x14ed93111f2002f
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.33 : 56558 which had sessionid 0x24ed93119420046
+INFO Closed socket connection for client /10.10.34.40 : 45528 which had sessionid 0x24ed9311942004c
+INFO Expiring session 0x24ed93119420052 , timeout of 10000ms exceeded
+INFO Expiring session 0x14ed93111f2003e , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x24ed93119420052
+INFO Processed session termination for sessionid : 0x34ed9ac1c1e0023
+INFO Processed session termination for sessionid : 0x34ed9ac1c1e0034
+INFO Processed session termination for sessionid : 0x14ed93111f2004c
+INFO Processed session termination for sessionid : 0x14ed93111f2004e
+INFO Expiring session 0x34ed9ac1c1e001a , timeout of 10000ms exceeded
+INFO Expiring session 0x14ed93111f20038 , timeout of 10000ms exceeded
+INFO Expiring session 0x34ed9ac1c1e001d , timeout of 10000ms exceeded
+INFO Expiring session 0x14ed93111f20039 , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x34ed9ac1c1e004e
+INFO Processed session termination for sessionid : 0x34ed9ac1c1e0050
+INFO Expiring session 0x14ed93111f20067 , timeout of 20000ms exceeded
+INFO Processed session termination for sessionid : 0x24ed93119420071
+INFO Processed session termination for sessionid : 0x34ed9ac1c1e0051
+INFO Processed session termination for sessionid : 0x14ed93111f20069
+INFO Expiring session 0x24ed93119420069 , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x14ed93111f2005c
+WARN Connection request from old client /10.10.34.12 : 54674 ; will be dropped if server is in r-o mode
+INFO Client attempting to establish new session at /10.10.34.24 : 50284
+WARN Connection request from old client /10.10.34.36 : 45207 ; will be dropped if server is in r-o mode
+INFO Accepted socket connection from /10.10.34.39 : 37287
+INFO Accepted socket connection from /10.10.34.40 : 47629
+WARN Connection request from old client /10.10.34.40 : 47629 ; will be dropped if server is in r-o mode
+WARN Connection request from old client /10.10.34.42 : 45943 ; will be dropped if server is in r-o mode
+INFO Expiring session 0x24ed93119420086 , timeout of 10000ms exceeded
+INFO Expiring session 0x14ed93111f20089 , timeout of 10000ms exceeded
+INFO Expiring session 0x34ed9ac1c1e0070 , timeout of 10000ms exceeded
+INFO Closed socket connection for client /10.10.34.32 : 39275 which had sessionid 0x24ed931194200a4
+INFO Closed socket connection for client /10.10.34.37 : 36139 which had sessionid 0x24ed931194200a8
+INFO Expiring session 0x14ed93111f200c0 , timeout of 20000ms exceeded
+INFO Expiring session 0x24ed931194200b5 , timeout of 20000ms exceeded
+INFO Closed socket connection for client /10.10.34.16 : 56646 which had sessionid 0x24ed931194200af
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.19 : 45768 which had sessionid 0x24ed931194200b1
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.12 : 54704 which had sessionid 0x24ed931194200b8
+WARN caught end of stream exception
+INFO Accepted socket connection from /10.10.34.12 : 54711
+INFO Client attempting to establish new session at /10.10.34.12 : 54711
+WARN Connection request from old client /10.10.34.12 : 54712 ; will be dropped if server is in r-o mode
+INFO Established session 0x24ed931194200bb with negotiated timeout 10000 for client /10.10.34.12 : 54711
+INFO Expiring session 0x24ed931194200b8 , timeout of 10000ms exceeded
+INFO Expiring session 0x14ed93111f200d9 , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x14ed93111f200d9
+INFO Closed socket connection for client /10.10.34.11 : 58021 which had sessionid 0x24ed931194200c1
+INFO Closed socket connection for client /10.10.34.12 : 54726 which had sessionid 0x24ed931194200c2
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.11 : 58181 which had sessionid 0x24ed931194200ce
+INFO Processed session termination for sessionid : 0x24ed931194200d1
+INFO Received connection request /10.10.34.11 : 38283
+INFO Sending DIFF
+WARN Connection request from old client /10.10.34.12 : 54759 ; will be dropped if server is in r-o mode
+WARN Connection request from old client /10.10.34.11 : 53161 ; will be dropped if server is in r-o mode
+INFO Accepted socket connection from /10.10.34.11 : 53174
+INFO Client attempting to establish new session at /10.10.34.11 : 53174
+WARN caught end of stream exception
+INFO Client attempting to establish new session at /10.10.34.12 : 52298
+INFO Established session 0x24ede63a01b0020 with negotiated timeout 10000 for client /10.10.34.13 : 52295
+INFO Accepted socket connection from /10.10.34.11 : 53435
+WARN Connection request from old client /10.10.34.11 : 53435 ; will be dropped if server is in r-o mode
+INFO Closed socket connection for client /10.10.34.11 : 54571 which had sessionid 0x24ede63a01b0030
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.12 : 52322 which had sessionid 0x24ede63a01b0031
+INFO Accepted socket connection from /10.10.34.12 : 52327
+WARN Connection request from old client /10.10.34.12 : 52327 ; will be dropped if server is in r-o mode
+INFO Client attempting to establish new session at /10.10.34.12 : 52357
+INFO Established session 0x24ede63a01b004f with negotiated timeout 10000 for client /10.10.34.21 : 51269
+INFO Client attempting to establish new session at /10.10.34.25 : 53350
+INFO Client attempting to establish new session at /10.10.34.27 : 37017
+INFO Established session 0x24ede63a01b0069 with negotiated timeout 10000 for client /10.10.34.34 : 47135
+WARN Connection request from old client /10.10.34.35 : 38035 ; will be dropped if server is in r-o mode
+INFO Established session 0x24ede63a01b006a with negotiated timeout 10000 for client /10.10.34.35 : 38035
+WARN Connection request from old client /10.10.34.42 : 45951 ; will be dropped if server is in r-o mode
+INFO Server environment : user.home = /var/lib/zookeeper
+INFO LEADING - LEADER ELECTION TOOK - 6255
+INFO Sending DIFF
+WARN Commiting zxid 0x500000000 from /10.10.34.12 : 2888 not first!
+INFO Expiring session 0x34edfaa9c22000e , timeout of 10000ms exceeded
+INFO Expiring session 0x34edfaa9c22000c , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x24edfaa87170008
+INFO Processed session termination for sessionid : 0x14edfaa86f60004
+INFO Expiring session 0x24edfaa87170010 , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x34edfaa9c220014
+WARN Connection request from old client /10.10.34.25 : 39033 ; will be dropped if server is in r-o mode
+INFO Accepted socket connection from /10.10.34.31 : 52665
+INFO Established session 0x24edfaa8717002a with negotiated timeout 10000 for client /10.10.34.31 : 52665
+INFO Closed socket connection for client /10.10.34.14 : 60950 which had sessionid 0x24edfaa8717002f
+INFO Closed socket connection for client /10.10.34.13 : 45817 which had sessionid 0x24edfaa87170022
+INFO Processed session termination for sessionid : 0x24edfaa8717002f
+INFO Processed session termination for sessionid : 0x34edfaa9c220021
+INFO Processed session termination for sessionid : 0x24edfaa87170037
+INFO Processed session termination for sessionid : 0x24edfaa87170038
+INFO Closed socket connection for client /10.10.34.11 : 36988 which had sessionid 0x24edfaa87170032
+WARN caught end of stream exception
+INFO Client attempting to establish new session at /10.10.34.40 : 42622
+WARN Connection request from old client /10.10.34.11 : 37834 ; will be dropped if server is in r-o mode
+INFO Client attempting to establish new session at /10.10.34.11 : 37834
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+WARN Cannot open channel to 1 at election address /10.10.34.11 : 3888
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+INFO Notification time out : 1600
+WARN Connection request from old client /10.10.34.12 : 38021 ; will be dropped if server is in r-o mode
+INFO Creating new log file : log.700000001
+WARN Connection request from old client /10.10.34.11 : 44677 ; will be dropped if server is in r-o mode
+INFO Accepted socket connection from /10.10.34.13 : 46340
+INFO Processed session termination for sessionid : 0x14ee3e057ed0005
+INFO Expiring session 0x14ee3e057ed000e , timeout of 10000ms exceeded
+INFO Expiring session 0x14ee3e057ed000f , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x14ee3e057ed000e
+INFO Expiring session 0x34ee30a5c530014 , timeout of 10000ms exceeded
+INFO Expiring session 0x34ee30a5c530016 , timeout of 10000ms exceeded
+INFO Expiring session 0x24ee30a54f50019 , timeout of 10000ms exceeded
+INFO Expiring session 0x24ee30a54f5001a , timeout of 10000ms exceeded
+INFO Expiring session 0x14ee3e057ed0023 , timeout of 10000ms exceeded
+INFO Expiring session 0x14ee3e057ed0031 , timeout of 20000ms exceeded
+2015-08-07 07 : 27 : 27 , 390 - INFO [ QuorumPeer [ myid = 2 ] /0 : 0 : 0 : 0 : 0 : 0 : 0 : 0 : 2181 : QuorumPeer@670 ] - LOOKING
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888
+INFO Client attempting to establish new session at /10.10.34.21 : 44823
+INFO Established session 0x24f0557806a0012 with negotiated timeout 10000 for client /10.10.34.21 : 44823
+WARN Connection request from old client /10.10.34.11 : 50722 ; will be dropped if server is in r-o mode
+INFO Established session 0x24f0557806a0013 with negotiated timeout 10000 for client /10.10.34.11 : 50722
+INFO Accepted socket connection from /10.10.34.11 : 50764
+INFO Established session 0x24f0557806a0016 with negotiated timeout 10000 for client /10.10.34.11 : 50765
+WARN Connection request from old client /10.10.34.13 : 36167 ; will be dropped if server is in r-o mode
+INFO Accepted socket connection from /10.10.34.19 : 40380
+WARN Connection request from old client /10.10.34.19 : 40380 ; will be dropped if server is in r-o mode
+INFO Accepted socket connection from /10.10.34.11 : 51195
+INFO Established session 0x24f0557806a001c with negotiated timeout 10000 for client /10.10.34.13 : 36186
+WARN Got zxid 0xa00000001 expected 0x1
+INFO Closed socket connection for client /10.10.34.19 : 40383 which had sessionid 0x24f0557806a0021
+INFO Client attempting to establish new session at /10.10.34.14 : 54248
+INFO Accepted socket connection from /10.10.34.11 : 51551
+WARN Connection request from old client /10.10.34.11 : 51553 ; will be dropped if server is in r-o mode
+WARN caught end of stream exception
+INFO Accepted socket connection from /10.10.34.11 : 60669
+WARN Connection request from old client /10.10.34.12 : 36322 ; will be dropped if server is in r-o mode
+INFO Established session 0x24f3fdaf7380002 with negotiated timeout 10000 for client /10.10.34.12 : 36322
+INFO Established session 0x24f3fdaf7380003 with negotiated timeout 10000 for client /10.10.34.13 : 53382
+INFO Processed session termination for sessionid : 0x34f3fdb1f23000b
+INFO Shutting down
+INFO Shutdown called
+WARN Exception causing close of session 0x0 due to java.io.IOException : ZooKeeperServer not running
+WARN Exception causing close of session 0x0 due to java.io.IOException : ZooKeeperServer not running
+INFO Closed socket connection for client /10.10.34.12 : 36446 ( no session established for client )
+WARN Exception causing close of session 0x0 due to java.io.IOException : ZooKeeperServer not running
+INFO Expiring session 0x34f3fdb1f230009 , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x14f3fdae8ba000c
+INFO Processed session termination for sessionid : 0x34f3fdb1f23000e
+INFO Processed session termination for sessionid : 0x34f3fdb1f230009
+INFO Expiring session 0x14f4a6318b80002 , timeout of 10000ms exceeded
+INFO Expiring session 0x34f4a63146b0009 , timeout of 10000ms exceeded
+INFO Expiring session 0x34f4a63146b0008 , timeout of 10000ms exceeded
+INFO Expiring session 0x24f4a631df90000 , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x24f4a631df90014
+INFO Processed session termination for sessionid : 0x14f4a6318b80017
+INFO Processed session termination for sessionid : 0x24f4a631df90015
+INFO Processed session termination for sessionid : 0x24f4a631df90017
+INFO Expiring session 0x14f4a6318b8000e , timeout of 10000ms exceeded
+INFO Expiring session 0x14f4a6318b8000f , timeout of 10000ms exceeded
+INFO Expiring session 0x24f4a631df9000a , timeout of 10000ms exceeded
+INFO Expiring session 0x24f4a631df90009 , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x14f4a6318b8001f
+INFO Closed socket connection for client /10.10.34.13 : 53614 which had sessionid 0x24f4a631df9001b
+INFO Expiring session 0x24f4a631df90021 , timeout of 10000ms exceeded
+INFO Expiring session 0x34f4a63146b0049 , timeout of 10000ms exceeded
+INFO Processed session termination for sessionid : 0x14f4a6318b8003c
+INFO Processed session termination for sessionid : 0x34f4a63146b0049
+INFO Server environment : java.version = 1.7.0_79
+INFO Server environment : java.vendor = Oracle Corporation
+WARN Connection broken for id 188978561024 , my id = 3 , error =
+WARN Interrupted while waiting for message on queue
+WARN Connection broken for id 188978561024 , my id = 3 , error =
+WARN Interrupting SendWorker
+INFO Received connection request /10.10.34.13 : 44230
+WARN Interrupted while waiting for message on queue
+WARN Interrupted while waiting for message on queue
+WARN Connection broken for id 188978561024 , my id = 3 , error =
+WARN Interrupting SendWorker
+WARN Connection broken for id 188978561024 , my id = 3 , error =
+WARN Interrupted while waiting for message on queue
+WARN Interrupted while waiting for message on queue
+INFO Received connection request /10.10.34.11 : 46634
+WARN Send worker leaving thread
+WARN Interrupted while waiting for message on queue
+WARN Send worker leaving thread
+WARN Interrupted while waiting for message on queue
+WARN Send worker leaving thread
+WARN Connection broken for id 188978561024 , my id = 3 , error =
+WARN Interrupting SendWorker
+WARN Send worker leaving thread
+WARN Send worker leaving thread
+INFO Received connection request /10.10.34.13 : 44405
+WARN Interrupting SendWorker
+WARN Send worker leaving thread
+WARN Interrupting SendWorker
+WARN Send worker leaving thread
+WARN Send worker leaving thread
+WARN Interrupting SendWorker
+INFO Received connection request /10.10.34.13 : 44465
+WARN Interrupting SendWorker
+INFO Received connection request /10.10.34.13 : 44498
+WARN Interrupted while waiting for message on queue
+INFO Received connection request /10.10.34.11 : 46809
+WARN Connection broken for id 188978561024 , my id = 3 , error =
+WARN Send worker leaving thread
+WARN Connection broken for id 188978561024 , my id = 3 , error =
+WARN Interrupting SendWorker
+WARN Interrupting SendWorker
+INFO Received connection request /10.10.34.12 : 47259
+WARN Send worker leaving thread
+WARN Interrupting SendWorker
+WARN Connection request from old client /10.10.34.35 : 37439 ; will be dropped if server is in r-o mode
+INFO Client attempting to establish new session at /10.10.34.37 : 36475
+INFO Accepted socket connection from /10.10.34.38 : 43512
+WARN Connection request from old client /10.10.34.38 : 43512 ; will be dropped if server is in r-o mode
+INFO Client attempting to establish new session at /10.10.34.38 : 43512
+INFO Closed socket connection for client /10.10.34.18 : 46783 which had sessionid 0x34ed9ac1c1e0086
+INFO Closed socket connection for client /10.10.34.20 : 39662 which had sessionid 0x34ed9ac1c1e0087
+INFO Closed socket connection for client /10.10.34.25 : 55853 which had sessionid 0x34ed9ac1c1e0089
+WARN caught end of stream exception
+INFO Closed socket connection for client /10.10.34.13 : 54579 which had sessionid 0x34ed9ac1c1e0083
