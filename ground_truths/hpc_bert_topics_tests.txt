@@ -1,73 +1,400 @@
-kernel info ras the ciod debugger detected died pollcontroldescriptors instruction
-kernel info ras the ciod debugger detected died pollcontroldescriptors instruction
-kernel info ras the ciod debugger detected died pollcontroldescriptors instruction
-kernel info ras the ciod debugger detected died pollcontroldescriptors instruction
-kernel info ras the ciod debugger detected died pollcontroldescriptors instruction
-kernel info ras the ciod debugger detected died pollcontroldescriptors instruction
-kernel info ras the ciod debugger detected died pollcontroldescriptors instruction
-kernel info ras the ciod debugger detected died pollcontroldescriptors instruction
-kernel info ras the ciod debugger detected died pollcontroldescriptors instruction
-kernel info ras the ciod debugger detected died pollcontroldescriptors instruction
-kernel info ras the ciod debugger detected died pollcontroldescriptors instruction
-kernel info ras the ciod debugger detected died pollcontroldescriptors instruction
-kernel info ras the ciod debugger detected died pollcontroldescriptors instruction
-kernel info ras the ciod debugger detected died pollcontroldescriptors instruction
-or program loading missing invalid ras error image fatal file
-or program loading missing invalid ras error image fatal file
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-errno info kernel ras signal received ciod code address 15
-info kernel ras failed on retrying mount nfs seconds slept
-info kernel ras failed on retrying mount nfs seconds slept
-info kernel ras failed on retrying mount nfs seconds slept
-info kernel ras failed on retrying mount nfs seconds slept
-doublehummer alignment kernel ras info exceptions    
-doublehummer alignment kernel ras info exceptions    
-doublehummer alignment kernel ras info exceptions    
-doublehummer alignment kernel ras info exceptions    
-doublehummer alignment kernel ras info exceptions    
-or program loading missing invalid ras error image fatal file
-or program loading missing invalid ras error image fatal file
-or program loading missing invalid ras error image fatal file
-data fatal interrupt kernel ras store by caused  
-data fatal interrupt kernel ras store by caused  
-interrupts input critical ras microseconds total on kernel info max
-or program loading missing invalid ras error image fatal file
-or program loading missing invalid ras error image fatal file
-interrupts input critical ras microseconds total on kernel info max
-interrupts input critical ras microseconds total on kernel info max
-interrupts input critical ras microseconds total on kernel info max
-or program loading missing invalid ras error image fatal file
-data fatal interrupt kernel ras store by caused  
-data fatal interrupt kernel ras store by caused  
-or program loading missing invalid ras error image fatal file
-or program loading missing invalid ras error image fatal file
-data fatal interrupt kernel ras store by caused  
-data fatal interrupt kernel ras store by caused  
-or program loading missing invalid ras error image fatal file
-card node vpd ecid discovery null in processor slot info
-card node vpd ecid discovery null in processor slot info
-or program loading missing invalid ras error image fatal file
-or program loading missing invalid ras error image fatal file
-data fatal interrupt kernel ras store by caused  
-data fatal interrupt kernel ras store by caused  
-data fatal interrupt kernel ras store by caused  
-card node vpd ecid discovery null in processor slot info
-card node vpd ecid discovery null in processor slot info
-card node vpd ecid discovery null in processor slot info
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+link error switchmodule reset in     
+link error switchmodule reset in     
+link error switchmodule reset in     
+link error switchmodule reset in     
+link error switchmodule reset in     
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+partition status        
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+partition status        
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+error switchmodule link       
+error switchmodule link       
+error switchmodule link       
+error switchmodule link       
+error switchmodule link       
+error switchmodule link       
+error switchmodule link       
+error switchmodule link       
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+switchmodule exceeds threshold warning temphigh temperature    
+switchmodule exceeds threshold warning temphigh temperature    
+switchmodule exceeds threshold warning temphigh temperature    
+switchmodule exceeds threshold warning temphigh temperature    
+switchmodule exceeds threshold warning temphigh temperature    
+switchmodule exceeds threshold warning temphigh temperature    
+switchmodule exceeds threshold warning temphigh temperature    
+switchmodule exceeds threshold warning temphigh temperature    
+node status        
+node status        
+node status        
+node status        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+partition status        
+and targeting new nodes domains shutdowncmd 1077380259 1142536779 3560 noded4
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+node status        
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+node status        
+node status        
+node status        
+node status        
+node status        
+partition status        
+partition status        
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+partition status        
+partition status        
+partition status        
+partition status        
+partition status        
+and targeting new nodes domains shutdowncmd 1077380259 1142536779 3560 noded4
+and targeting new nodes domains shutdowncmd 1077380259 1142536779 3560 noded4
+partition status        
+partition status        
+and targeting new nodes domains shutdowncmd 1077380259 1142536779 3560 noded4
+partition status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+gige temperature        
+node status        
+node status        
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+partition status        
+partition status        
+partition status        
+nodes targeting new domains bootcmd and child command of node
+nodes targeting new domains bootcmd and child command of node
+partition status        
+partition status        
+nodes targeting new domains bootcmd and child command of node
+node status        
+node status        
+node status        
+node status        
+partition status        
+partition status        
+partition status        
+partition status        
+partition status        
+partition status        
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+partition status        
+partition status        
+partition status        
+partition status        
+partition status        
+partition status        
+partition status        
+node status        
+node status        
+partition status        
+and targeting new nodes domains shutdowncmd 1077380259 1142536779 3560 noded4
+partition status        
+and targeting new nodes domains shutdowncmd 1077380259 1142536779 3560 noded4
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+error switchmodule link       
+error switchmodule link       
+error switchmodule link       
+error switchmodule link       
+error switchmodule link       
+error switchmodule link       
+error switchmodule link       
+error switchmodule link       
+error switchmodule link       
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+node status        
+node status        
+command bootcmd success successfully has completed    
+command bootcmd success successfully has completed    
+command bootcmd success successfully has completed    
+command bootcmd success successfully has completed    
+node status        
+node status        
+node status        
+node status        
+command bootcmd success successfully has completed    
+command bootcmd success successfully has completed    
+command bootcmd success successfully has completed    
+command bootcmd success successfully has completed    
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+partition status        
+event error linkerror switchmodule interval expired    
+and targeting new nodes domains shutdowncmd 1077380259 1142536779 3560 noded4
+partition status        
+partition status        
+partition status        
+node status        
+node status        
+node status        
+node status        
+network netniffdown niff unixhw on via alt0 interface 552240 failed
+network netniffdown niff unixhw on via alt0 interface 552240 failed
+network netniffdown niff unixhw on via alt0 interface 552240 failed
+network netniffdown niff unixhw on via alt0 interface 552240 failed
+partition status        
+error failed command 2988 1086022086 1074212466 2990 2991 2994 2992
+error failed command 2988 1086022086 1074212466 2990 2991 2994 2992
+error failed command 2988 1086022086 1074212466 2990 2991 2994 2992
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+fan speeds 3534 switchmodule 3375 3479    
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+error failed command 2988 1086022086 1074212466 2990 2991 2994 2992
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+fan speeds 3534 switchmodule 3375 3479    
+error failed command 2988 1086022086 1074212466 2990 2991 2994 2992
+fan speeds 3534 switchmodule 3375 3479    
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+error failed command 2988 1086022086 1074212466 2990 2991 2994 2992
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+error failed command 2988 1086022086 1074212466 2990 2991 2994 2992
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+node status        
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+node status        
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+node status        
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+network netniffup niff unixhw on via available interface an has
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+node status        
+node status        
+node status        
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+node status        
+node status        
+ok 0x1fffffffe temperature gige status tserver node128 node134 node130 node129
+ok 0x1fffffffe temperature gige status tserver node128 node134 node130 node129
+ok 0x1fffffffe temperature gige status tserver node128 node134 node130 node129
+ok 0x1fffffffe temperature gige status tserver node128 node134 node130 node129
+ok 0x1fffffffe temperature gige status tserver node128 node134 node130 node129
+ok 0x1fffffffe temperature gige status tserver node128 node134 node130 node129
+ok 0x1fffffffe temperature gige status tserver node128 node134 node130 node129
+ok 0x1fffffffe temperature gige status tserver node128 node134 node130 node129
+ok 0x1fffffffe temperature gige status tserver node128 node134 node130 node129
+ok 0x1fffffffe temperature gige status tserver node128 node134 node130 node129
+ok 0x1fffffffe temperature gige status tserver node128 node134 node130 node129
+ok 0x1fffffffe temperature gige status tserver node128 node134 node130 node129
+ok 0x1fffffffe temperature gige status tserver node128 node134 node130 node129
+ok 0x1fffffffe temperature gige status tserver node128 node134 node130 node129
+ok 0x1fffffffe temperature gige status tserver node128 node134 node130 node129
+ok 0x1fffffffe temperature gige status tserver node128 node134 node130 node129
+node status        
+ok 0x1fffffffe temperature gige status tserver node128 node134 node130 node129
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+error remain errors link switchmodule current 3002 action halt continue
+node status        
+node status        
+node status        
+error remain errors link switchmodule current 3002 action halt continue
+error remain errors link switchmodule current 3002 action halt continue
+error remain errors link switchmodule current 3002 action halt continue
+node status        
+error remain errors link switchmodule current 3002 action halt continue
+error remain errors link switchmodule current 3002 action halt continue
+node status        
+error remain errors link switchmodule current 3002 action halt continue
+error remain errors link switchmodule current 3002 action halt continue
+error remain errors link switchmodule current 3002 action halt continue
+node status        
+error remain errors link switchmodule current 3002 action halt continue
+error remain errors link switchmodule current 3002 action halt continue
+node status        
+error remain errors link switchmodule current 3002 action halt continue
+node status        
+error remain errors link switchmodule current 3002 action halt continue
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        

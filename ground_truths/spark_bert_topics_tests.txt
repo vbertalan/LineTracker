@@ -1,37 +1,14 @@
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
 in info memory size stored storagememorystore estimated free block as
 in info memory size stored storagememorystore estimated free block as
 in info memory size stored storagememorystore estimated free block as
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
 in info memory size stored storagememorystore estimated free block as
 in info memory size stored storagememorystore estimated free block as
+executorcoarsegrainedexecutorbackend info        
 in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
+executorcoarsegrainedexecutorbackend info        
 in info memory size stored storagememorystore estimated free block as
 in info memory size stored storagememorystore estimated free block as
 in info memory size stored storagememorystore estimated free block as
@@ -39,1962 +16,385 @@ in info memory size stored storagememorystore estimated free block as
 in info memory size stored storagememorystore estimated free block as
 in info memory size stored storagememorystore estimated free block as
 info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+executorcoarsegrainedexecutorbackend info        
+info rdd removing storageblockmanager committed mapredsparkhadoopmapredutil hdfs ms of broadcasttorrentbroadcast
+in info memory size stored storagememorystore estimated free block as
+info rdd removing storageblockmanager committed mapredsparkhadoopmapredutil hdfs ms of broadcasttorrentbroadcast
+info rdd removing storageblockmanager committed mapredsparkhadoopmapredutil hdfs ms of broadcasttorrentbroadcast
+in info memory size stored storagememorystore estimated free block as
+info block storageblockmanager locally found     
+task stage info tid executorexecutor in driver bytes to sent
+info block storageblockmanager locally found     
+info rdd removing storageblockmanager committed mapredsparkhadoopmapredutil hdfs ms of broadcasttorrentbroadcast
+in info memory size stored storagememorystore estimated free block as
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
+info finish times pythonpythonrunner total init boot   
+executorcoarsegrainedexecutorbackend info        
+in info memory size stored storagememorystore estimated free block as
+info rdd removing storageblockmanager committed mapredsparkhadoopmapredutil hdfs ms of broadcasttorrentbroadcast
+in info memory size stored storagememorystore estimated free block as
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+executorcoarsegrainedexecutorbackend info        
+info rdd removing storageblockmanager committed mapredsparkhadoopmapredutil hdfs ms of broadcasttorrentbroadcast
+in info memory size stored storagememorystore estimated free block as
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info in stage task tid executorexecutor running bytes partition 80
+executorcoarsegrainedexecutorbackend info        
+info in stage task tid executorexecutor running bytes partition 80
+info in stage task tid executorexecutor running bytes partition 80
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info block storageblockmanager locally found     
+in info memory size stored storagememorystore estimated free block as
+info block storageblockmanager locally found     
+info rdd removing storageblockmanager committed mapredsparkhadoopmapredutil hdfs ms of broadcasttorrentbroadcast
+info broadcasttorrentbroadcast took reading variable ms broadcast   
 info finish times pythonpythonrunner total init boot   
 info finish times pythonpythonrunner total init boot   
 info finish times pythonpythonrunner total init boot   
 info finish times pythonpythonrunner total init boot   
+info block storageblockmanager locally found     
+in info memory size stored storagememorystore estimated free block as
+in memory size info mb free added gb on blockmanagerinfo
+info block storageblockmanager locally found     
+in info memory size stored storagememorystore estimated free block as
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info block storageblockmanager locally found     
+info finish times pythonpythonrunner total init boot   
+in memory size info mb free added gb on blockmanagerinfo
+info block storageblockmanager locally found     
+in memory size info mb free added gb on blockmanagerinfo
+file info is output outputfileoutputcommitter version algorithm committer  
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+committed mapredsparkhadoopmapredutil info       
+task stage info tid executorexecutor in driver bytes to sent
+55867 connection info mesosslave0810103418 1656726136 9000pjhelogs2kproxifierlog clienttransportclientfactory inactive hdfs found
 info finish times pythonpythonrunner total init boot   
 info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+executorcoarsegrainedexecutorbackend info        
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+in memory size info mb free added gb on blockmanagerinfo
+in info memory size stored storagememorystore estimated free block as
 info finish times pythonpythonrunner total init boot   
 info finish times pythonpythonrunner total init boot   
+task stage info tid executorexecutor in driver bytes to sent
+55867 connection info mesosslave0810103418 1656726136 9000pjhelogs2kproxifierlog clienttransportclientfactory inactive hdfs found
+in memory size info mb free added gb on blockmanagerinfo
+in memory size info mb free added gb on blockmanagerinfo
 info finish times pythonpythonrunner total init boot   
 info finish times pythonpythonrunner total init boot   
+committed mapredsparkhadoopmapredutil info       
+file info is output outputfileoutputcommitter version algorithm committer  
+committed mapredsparkhadoopmapredutil info       
 info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+in memory size info mb free added gb on blockmanagerinfo
+info broadcasttorrentbroadcast took reading variable ms broadcast   
 info finish times pythonpythonrunner total init boot   
 info finish times pythonpythonrunner total init boot   
 file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-memory size block estimated free stored in info as mb
-info finish times pythonpythonrunner total init boot   
-memory size block estimated free stored in info as mb
-info finish times pythonpythonrunner total init boot   
-memory size block estimated free stored in info as mb
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-task stage info tid executorexecutor in running bytes result to
-task stage info tid executorexecutor in running bytes result to
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-memory size block estimated free stored in info as mb
-memory size block estimated free stored in info as mb
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-memory size block estimated free stored in info as mb
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-memory size block estimated free stored in info as mb
+info broadcasttorrentbroadcast took reading variable ms broadcast   
 task stage info tid executorexecutor in driver bytes to sent
 info finish times pythonpythonrunner total init boot   
 file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
 executorcoarsegrainedexecutorbackend info        
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info finish times pythonpythonrunner total init boot   
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-info finish times pythonpythonrunner total init boot   
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info finish times pythonpythonrunner total init boot   
-in info memory size stored storagememorystore estimated free block as
-info finish times pythonpythonrunner total init boot   
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-memory size block estimated free stored in info as mb
-memory size block estimated free stored in info as mb
-memory size block estimated free stored in info as mb
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-task stage info tid executorexecutor in running bytes result to
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in driver bytes to sent
-memory size block estimated free stored in info as mb
-memory size block estimated free stored in info as mb
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-memory size block estimated free stored in info as mb
-memory size block estimated free stored in info as mb
-memory size block estimated free stored in info as mb
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-task stage info tid executorexecutor in running bytes result to
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-task stage info tid executorexecutor in running bytes result to
-task stage info tid executorexecutor in running bytes result to
-task stage info tid executorexecutor in running bytes result to
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-executorcoarsegrainedexecutorbackend info        
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-memory size block estimated free stored in info as mb
-memory size block estimated free stored in info as mb
-memory size block estimated free stored in info as mb
-memory size block estimated free stored in info as mb
-memory size block estimated free stored in info as mb
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in running bytes result to
-task stage info tid executorexecutor in running bytes result to
-task stage info tid executorexecutor in running bytes result to
-task stage info tid executorexecutor in running bytes result to
-task stage info tid executorexecutor in running bytes result to
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-memory size block estimated free stored in info as mb
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-memory size block estimated free stored in info as mb
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-task stage info tid executorexecutor in driver bytes to sent
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-task stage info tid executorexecutor in driver bytes to sent
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-memory size block estimated free stored in info as mb
-memory size block estimated free stored in info as mb
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-task stage info tid executorexecutor in driver bytes to sent
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-task stage info tid executorexecutor in driver bytes to sent
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-task stage info tid executorexecutor in driver bytes to sent
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
 file info is output outputfileoutputcommitter version algorithm committer  
-file info is output outputfileoutputcommitter version algorithm committer  
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-file info is output outputfileoutputcommitter version algorithm committer  
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info finish times pythonpythonrunner total init boot   
 in info mb memory size on free gb blockmanagerinfo added
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-task stage info tid executorexecutor in running bytes result to
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-task stage info tid executorexecutor in running bytes result to
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-memory size block estimated free stored in info as mb
-task stage info tid executorexecutor in running bytes result to
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-task stage info tid executorexecutor in running bytes result to
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-memory size block estimated free stored in info as mb
-executorcoarsegrainedexecutorbackend info        
-memory size block estimated free stored in info as mb
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-memory size block estimated free stored in info as mb
-memory size block estimated free stored in info as mb
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-file info is output outputfileoutputcommitter version algorithm committer  
-file info is output outputfileoutputcommitter version algorithm committer  
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-task stage info tid executorexecutor in driver bytes to sent
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-task stage info tid executorexecutor in driver bytes to sent
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-in info mb memory size on free gb blockmanagerinfo added
-in info memory size stored storagememorystore estimated free block as
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in running bytes result to
-file info is output outputfileoutputcommitter version algorithm committer  
-task stage info tid executorexecutor in running bytes result to
-task stage info tid executorexecutor in running bytes result to
-file info is output outputfileoutputcommitter version algorithm committer  
-file info is output outputfileoutputcommitter version algorithm committer  
-task stage info tid executorexecutor in running bytes result to
-file info is output outputfileoutputcommitter version algorithm committer  
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-in info mb memory size on free gb blockmanagerinfo added
-in info memory size stored storagememorystore estimated free block as
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in running bytes result to
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-task stage info tid executorexecutor in running bytes result to
-info block storageblockmanager locally found     
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-task stage info tid executorexecutor in running bytes result to
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info storageblockmanager removing rdd found 10103411 hdfs not it sparkcachemanager
-in info mb memory size on free gb blockmanagerinfo added
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-in info mb memory size on free gb blockmanagerinfo added
-in info memory size stored storagememorystore estimated free block as
-memory size block estimated free stored in info as mb
-memory size block estimated free stored in info as mb
-executorcoarsegrainedexecutorbackend info        
-memory size block estimated free stored in info as mb
-memory size block estimated free stored in info as mb
-memory size block estimated free stored in info as mb
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in running bytes result to
-task stage info tid executorexecutor in running bytes result to
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-task stage info tid executorexecutor in running bytes result to
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-executorcoarsegrainedexecutorbackend info        
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-file info is output outputfileoutputcommitter version algorithm committer  
-file info is output outputfileoutputcommitter version algorithm committer  
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info block storageblockmanager locally found     
-file info is output outputfileoutputcommitter version algorithm committer  
-info block storageblockmanager locally found     
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-task stage info tid executorexecutor in running bytes result to
-file info is output outputfileoutputcommitter version algorithm committer  
-task stage info tid executorexecutor in running bytes result to
-info block storageblockmanager locally found     
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in running bytes result to
-task stage info tid executorexecutor in running bytes result to
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-task stage info tid executorexecutor in running bytes result to
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-task stage info tid executorexecutor in running bytes result to
-task stage info tid executorexecutor in running bytes result to
-task stage info tid executorexecutor in running bytes result to
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in running bytes result to
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-in info mb memory size on free gb blockmanagerinfo added
-file info is output outputfileoutputcommitter version algorithm committer  
-file info is output outputfileoutputcommitter version algorithm committer  
-file info is output outputfileoutputcommitter version algorithm committer  
-info block storageblockmanager locally found     
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-file info is output outputfileoutputcommitter version algorithm committer  
-file info is output outputfileoutputcommitter version algorithm committer  
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-executorcoarsegrainedexecutorbackend info        
-info finish times pythonpythonrunner total init boot   
-in info memory size stored storagememorystore estimated free block as
-info finish times pythonpythonrunner total init boot   
-in info memory size stored storagememorystore estimated free block as
-info finish times pythonpythonrunner total init boot   
-in info memory size stored storagememorystore estimated free block as
-info finish times pythonpythonrunner total init boot   
-in info memory size stored storagememorystore estimated free block as
-info finish times pythonpythonrunner total init boot   
-in info memory size stored storagememorystore estimated free block as
-info finish times pythonpythonrunner total init boot   
-in info memory size stored storagememorystore estimated free block as
-info finish times pythonpythonrunner total init boot   
-in info memory size stored storagememorystore estimated free block as
-info finish times pythonpythonrunner total init boot   
-in info memory size stored storagememorystore estimated free block as
-info finish times pythonpythonrunner total init boot   
-in info memory size stored storagememorystore estimated free block as
-info finish times pythonpythonrunner total init boot   
-in info memory size stored storagememorystore estimated free block as
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-executorcoarsegrainedexecutorbackend info        
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info block storageblockmanager locally found     
-executorcoarsegrainedexecutorbackend info        
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info finish times pythonpythonrunner total init boot   
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info committed mapredsparkhadoopmapredutil computing broadcast broadcasttorrentbroadcast partition reading variable not
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-in info mb memory size on free gb blockmanagerinfo added
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-in info mb memory size on free gb blockmanagerinfo added
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-in info mb memory size on free gb blockmanagerinfo added
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-info storageblockmanager found block locally rdd removing   
-info storageblockmanager found block locally rdd removing   
-info storageblockmanager found block locally rdd removing   
-info storageblockmanager found block locally rdd removing   
-info storageblockmanager found block locally rdd removing   
-info storageblockmanager found block locally rdd removing   
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-info storageblockmanager found block locally rdd removing   
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-info storageblockmanager found block locally rdd removing   
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info finish times pythonpythonrunner total init boot   
-in info mb memory size on free gb blockmanagerinfo added
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-task stage info tid executorexecutor in running bytes result to
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-info in on task broadcast reading ms broadcasttorrentbroadcast variable tid
-task stage info tid executorexecutor in running bytes result to
-task stage info tid executorexecutor in running bytes result to
-task stage info tid executorexecutor in running bytes result to
-task stage info tid executorexecutor in running bytes result to
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info finish times pythonpythonrunner total init boot   
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in running bytes result to
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in running bytes result to
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-info broadcast variable broadcasttorrentbroadcast reading ms took started  
-info block storageblockmanager locally found     
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in running bytes result to
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in running bytes result to
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-in info memory size stored storagememorystore estimated free block as
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-in info memory size stored storagememorystore estimated free block as
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-info block storageblockmanager locally found     
-info block storageblockmanager locally found     
-in info mb memory size on free gb blockmanagerinfo added
-info block storageblockmanager locally found     
-in info mb memory size on free gb blockmanagerinfo added
-info block storageblockmanager locally found     
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in running bytes result to
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in running bytes result to
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-info storageblockmanager found block locally rdd removing   
-info storageblockmanager found block locally rdd removing   
-info storageblockmanager found block locally rdd removing   
-info storageblockmanager found block locally rdd removing   
-info storageblockmanager found block locally rdd removing   
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager found block locally rdd removing   
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-in info memory size stored storagememorystore estimated free block as
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in running bytes result to
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in running bytes result to
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-in info memory size stored storagememorystore estimated free block as
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-in info memory size stored storagememorystore estimated free block as
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-in info memory size stored storagememorystore estimated free block as
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in running bytes result to
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in running bytes result to
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in running bytes result to
-executorcoarsegrainedexecutorbackend info        
-task stage info tid executorexecutor in running bytes result to
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager found block locally rdd removing   
-info storageblockmanager found block locally rdd removing   
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager found block locally rdd removing   
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager found block locally rdd removing   
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-in info memory size stored storagememorystore estimated free block as
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-in info memory size stored storagememorystore estimated free block as
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-in info memory size stored storagememorystore estimated free block as
-in info mb memory size on free gb blockmanagerinfo added
-in info memory size stored storagememorystore estimated free block as
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-found info locally block storageblockmanager computing it not sparkcachemanager partition
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-in info memory size stored storagememorystore estimated free block as
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-in info mb memory size on free gb blockmanagerinfo added
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-info storageblockmanager removing rdd found block locally saved 10103411 sparkcachemanager
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-executorcoarsegrainedexecutorbackend info        
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-in info mb memory size on free gb blockmanagerinfo added
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-in info memory size stored storagememorystore estimated free block as
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-in info memory size stored storagememorystore estimated free block as
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-row update info at 40 as stored block bytes memorystore
-in info memory size stored storagememorystore estimated free block as
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-row update info at 40 as stored block bytes memorystore
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-in info memory size stored storagememorystore estimated free block as
-info block storageblockmanager locally found as broadcasttorrentbroadcast in estimated free
-in info memory size stored storagememorystore estimated free block as
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-info found partition not sparkcachemanager it computing   
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-in info memory size stored storagememorystore estimated free block as
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-info found partition not sparkcachemanager it computing   
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-row update info at 40 as stored block bytes memorystore
-info finish times pythonpythonrunner total init boot   
-row update info at 40 as stored block bytes memorystore
-info finish times pythonpythonrunner total init boot   
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-info yarn curi with permissions users set disabled modify acls
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-info finish times pythonpythonrunner total init boot   
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-task stage info tid executorexecutor in driver bytes to sent
-task stage info tid executorexecutor in driver bytes to sent
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-task stage info tid executorexecutor in driver bytes to sent
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-task stage info tid executorexecutor in driver bytes to sent
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info task in tid stage executorexecutor running to result sent
-task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-row update info at 40 as stored block bytes memorystore
-in info memory size stored storagememorystore estimated free block as
-row update info at 40 as stored block bytes memorystore
-in info memory size stored storagememorystore estimated free block as
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-in info memory size stored storagememorystore estimated free block as
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-row update info at 40 as stored block bytes memorystore
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-row update info at 40 as stored block bytes memorystore
-in info memory size stored storagememorystore estimated free block as
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-row update info at 40 as stored block bytes memorystore
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-task stage info tid executorexecutor in driver bytes to sent
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info task in tid stage executorexecutor running to result sent
-task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-info found partition not sparkcachemanager it computing   
-row update info at 40 as stored block bytes memorystore
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-row update info at 40 as stored block bytes memorystore
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-row update info at 40 as stored block bytes memorystore
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-info yarn curi with permissions users set disabled modify acls
-info yarn curi with permissions users set disabled modify acls
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-row update info at 40 as stored block bytes memorystore
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-info task in tid stage executorexecutor running to result sent
-info task in tid stage executorexecutor running to result sent
-info task in tid stage executorexecutor running to result sent
-info task in tid stage executorexecutor running to result sent
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-row update info at 40 as stored block bytes memorystore
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-file info is output outputfileoutputcommitter version algorithm committer  
 info finish times pythonpythonrunner total init boot   
 file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
+in memory size info mb free added gb on blockmanagerinfo
 file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
 file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
+memory stored block estimated free size in info as storagememorystore
+memory stored block estimated free size in info as storagememorystore
+file info is output outputfileoutputcommitter version algorithm committer  
+55867 connection info mesosslave0810103418 1656726136 9000pjhelogs2kproxifierlog clienttransportclientfactory inactive hdfs found
+file info is output outputfileoutputcommitter version algorithm committer  
 task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-info task in tid stage executorexecutor running to result sent
-info task in tid stage executorexecutor running to result sent
-info task in tid stage executorexecutor running to result sent
-row update info at 40 as stored block bytes memorystore
-info task in tid stage executorexecutor running to result sent
-row update info at 40 as stored block bytes memorystore
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-row update info at 40 as stored block bytes memorystore
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
+55867 connection info mesosslave0810103418 1656726136 9000pjhelogs2kproxifierlog clienttransportclientfactory inactive hdfs found
+in memory size info mb free added gb on blockmanagerinfo
 info finish times pythonpythonrunner total init boot   
 file info is output outputfileoutputcommitter version algorithm committer  
 file info is output outputfileoutputcommitter version algorithm committer  
 info finish times pythonpythonrunner total init boot   
 info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
 info finish times pythonpythonrunner total init boot   
 task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
 task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-info task in tid stage executorexecutor running to result sent
-info task in tid stage executorexecutor running to result sent
-info task in tid stage executorexecutor running to result sent
-info task in tid stage executorexecutor running to result sent
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-row update info at 40 as stored block bytes memorystore
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-file info is output outputfileoutputcommitter version algorithm committer  
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-row update info at 40 as stored block bytes memorystore
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-row update info at 40 as stored block bytes memorystore
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-row update info at 40 as stored block bytes memorystore
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-file info is output outputfileoutputcommitter version algorithm committer  
-file info is output outputfileoutputcommitter version algorithm committer  
 info finish times pythonpythonrunner total init boot   
 info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
+55867 connection info mesosslave0810103418 1656726136 9000pjhelogs2kproxifierlog clienttransportclientfactory inactive hdfs found
 info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
 info finish times pythonpythonrunner total init boot   
-task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
+info finish times pythonpythonrunner total init boot   
+in memory size info mb free added gb on blockmanagerinfo
 info found partition not sparkcachemanager it computing   
 info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-info found partition not sparkcachemanager it computing   
-row update info at 40 as stored block bytes memorystore
-info finish times pythonpythonrunner total init boot   
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
 info finish times pythonpythonrunner total init boot   
 info found partition not sparkcachemanager it computing   
 info found partition not sparkcachemanager it computing   
-row update info at 40 as stored block bytes memorystore
-info finish times pythonpythonrunner total init boot   
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-row update info at 40 as stored block bytes memorystore
 info finish times pythonpythonrunner total init boot   
 file info is output outputfileoutputcommitter version algorithm committer  
+committed mapredsparkhadoopmapredutil info       
 info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
 info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-file info is output outputfileoutputcommitter version algorithm committer  
+committed mapredsparkhadoopmapredutil info       
+55867 connection info mesosslave0810103418 1656726136 9000pjhelogs2kproxifierlog clienttransportclientfactory inactive hdfs found
+info finish times pythonpythonrunner total init boot   
 info finish times pythonpythonrunner total init boot   
 info finish times pythonpythonrunner total init boot   
 task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-55867 to mesosslave0810103418 after shuffleretryingblockfetcher info fetch outstanding connection blocks
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
+committed mapredsparkhadoopmapredutil info       
 task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
 task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
+55867 connection info mesosslave0810103418 1656726136 9000pjhelogs2kproxifierlog clienttransportclientfactory inactive hdfs found
+task stage info tid executorexecutor in driver bytes to sent
+task stage info tid executorexecutor in driver bytes running to
 info found partition not sparkcachemanager it computing   
 info found partition not sparkcachemanager it computing   
+info to of hdfs 10103411 saved output outputfileoutputcommitter task remoting
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info to of hdfs 10103411 saved output outputfileoutputcommitter task remoting
+task stage info tid executorexecutor in driver bytes to sent
+task stage info tid executorexecutor in driver bytes to sent
+info finish times pythonpythonrunner total init boot   
+memory stored block estimated free size in info as storagememorystore
+memory stored block estimated free size in info as storagememorystore
+memory stored block estimated free size in info as storagememorystore
+memory stored block estimated free size in info as storagememorystore
+memory stored block estimated free size in info as storagememorystore
+task stage info tid executorexecutor in driver bytes to sent
+info finish times pythonpythonrunner total init boot   
+memory stored block estimated free size in info as storagememorystore
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+memory stored block estimated free size in info as storagememorystore
+committed mapredsparkhadoopmapredutil info       
+committed mapredsparkhadoopmapredutil info       
+task stage info tid executorexecutor in driver bytes to sent
+info to of hdfs 10103411 saved output outputfileoutputcommitter task remoting
+task stage info tid executorexecutor in driver bytes to sent
+memory stored block estimated free size in info as storagememorystore
+task stage info tid executorexecutor in driver bytes to sent
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info found partition not sparkcachemanager it computing   
+info to of hdfs 10103411 saved output outputfileoutputcommitter task remoting
+task stage info tid executorexecutor in driver bytes to sent
+info finish times pythonpythonrunner total init boot   
+task stage info tid executorexecutor in driver bytes running to
 info found partition not sparkcachemanager it computing   
 info found partition not sparkcachemanager it computing   
-row update info at 40 as stored block bytes memorystore
-info finish times pythonpythonrunner total init boot   
-row update info at 40 as stored block bytes memorystore
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-file info is output outputfileoutputcommitter version algorithm committer  
 info finish times pythonpythonrunner total init boot   
 info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info to of hdfs 10103411 saved output outputfileoutputcommitter task remoting
+info to of hdfs 10103411 saved output outputfileoutputcommitter task remoting
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+memory stored block estimated free size in info as storagememorystore
 task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
 task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
+info to of hdfs 10103411 saved output outputfileoutputcommitter task remoting
+info to of hdfs 10103411 saved output outputfileoutputcommitter task remoting
+info to of hdfs 10103411 saved output outputfileoutputcommitter task remoting
 info found partition not sparkcachemanager it computing   
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
 info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
+info to of hdfs 10103411 saved output outputfileoutputcommitter task remoting
 info finish times pythonpythonrunner total init boot   
+task stage info tid executorexecutor in driver bytes running to
 task stage info tid executorexecutor in driver bytes to sent
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-info task in tid stage executorexecutor running to result sent
+task stage info tid executorexecutor in driver bytes running to
+info found partition not sparkcachemanager it computing   
 task stage info tid executorexecutor in driver bytes to sent
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
+executorcoarsegrainedexecutorbackend info        
+task stage info tid executorexecutor in driver bytes running to
+task stage info tid executorexecutor in driver bytes running to
+task stage info tid executorexecutor in driver bytes running to
+task stage info tid executorexecutor in driver bytes running to
+info found partition not sparkcachemanager it computing   
 info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
+info partition it found computing sparkcachemanager not broadcast reading variable
 task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
+info partition it found computing sparkcachemanager not broadcast reading variable
+info partition it found computing sparkcachemanager not broadcast reading variable
+info finish times pythonpythonrunner total init boot   
+info to of hdfs 10103411 saved output outputfileoutputcommitter task remoting
+in info on gb blockmanagerinfo added free size memory mb
+info block storageblockmanager locally found     
+info to of hdfs 10103411 saved output outputfileoutputcommitter task remoting
+task stage info tid executorexecutor in driver bytes running to
+info found partition not sparkcachemanager it computing   
+task stage info tid executorexecutor in running bytes result to
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
 task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-info finish times pythonpythonrunner total init boot   
-row update info at 40 as stored block bytes memorystore
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-row update info at 40 as stored block bytes memorystore
-info finish times pythonpythonrunner total init boot   
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-row update info at 40 as stored block bytes memorystore
-info finish times pythonpythonrunner total init boot   
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-info finish times pythonpythonrunner total init boot   
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
+task stage info tid executorexecutor in driver bytes running to
+info partition it found computing sparkcachemanager not broadcast reading variable
+row update info at blockmanagerinfo added gb in on mb
+row update info at blockmanagerinfo added gb in on mb
+task stage info tid executorexecutor in running bytes result to
+task stage info tid executorexecutor in running bytes result to
 task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-info finish times pythonpythonrunner total init boot   
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-row update info at 40 as stored block bytes memorystore
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
+task stage info tid executorexecutor in driver bytes running to
+task stage info tid executorexecutor in running bytes result to
+task stage info tid executorexecutor in running bytes result to
+task stage info tid executorexecutor in running bytes result to
+task stage info tid executorexecutor in running bytes result to
+task stage info tid executorexecutor in running bytes result to
+task stage info tid executorexecutor in running bytes result to
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+task stage info tid executorexecutor in running bytes result to
+task stage info tid executorexecutor in running bytes result to
+task stage info tid executorexecutor in running bytes result to
+task stage info tid executorexecutor in running bytes result to
+info block storageblockmanager locally found     
+row update info at blockmanagerinfo added gb in on mb
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
+row update info at blockmanagerinfo added gb in on mb
+info block storageblockmanager locally found     
+executorcoarsegrainedexecutorbackend info        
+row update info at blockmanagerinfo added gb in on mb
+info in task stage tid running executorexecutor   
+executorcoarsegrainedexecutorbackend info        
+task stage info tid executorexecutor in running bytes result to
+task stage info tid executorexecutor in running bytes result to
+executorcoarsegrainedexecutorbackend info        
+row update info at blockmanagerinfo added gb in on mb
 task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
+info in task stage tid running executorexecutor   
+row update info at blockmanagerinfo added gb in on mb
+in info on gb blockmanagerinfo added free size memory mb
+info yarn curi sparksecuritymanager users disabled set on permissions with
+info yarn curi sparksecuritymanager users disabled set on permissions with
+info yarn curi sparksecuritymanager users disabled set on permissions with
+info yarn curi sparksecuritymanager users disabled set on permissions with
+info yarn curi sparksecuritymanager users disabled set on permissions with
+in info on gb blockmanagerinfo added free size memory mb
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+info in task stage tid running executorexecutor   
+row update info at blockmanagerinfo added gb in on mb
+info in task stage tid running executorexecutor   
+row update info at blockmanagerinfo added gb in on mb
+info in task stage tid running executorexecutor   
+row update info at blockmanagerinfo added gb in on mb
+row update info at blockmanagerinfo added gb in on mb
+executorcoarsegrainedexecutorbackend info        
+in info on gb blockmanagerinfo added free size memory mb
+in info on gb blockmanagerinfo added free size memory mb
+info block storageblockmanager locally found     
+info locally found block storageblockmanager     
+executorcoarsegrainedexecutorbackend info        
+info of 10103411 saved hdfs output outputfileoutputcommitter to task committed
+in info on gb blockmanagerinfo added free size memory mb
+info of 10103411 saved hdfs output outputfileoutputcommitter to task committed
+executorcoarsegrainedexecutorbackend info        
+info in task stage tid running executorexecutor   
+row update info at blockmanagerinfo added gb in on mb
+info block storageblockmanager locally found     
+info of 10103411 saved hdfs output outputfileoutputcommitter to task committed
+info of 10103411 saved hdfs output outputfileoutputcommitter to task committed
+info locally found block storageblockmanager     
+in info on gb blockmanagerinfo added free size memory mb
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+info locally found block storageblockmanager     
+info finish times pythonpythonrunner total init boot   
+info of 10103411 saved hdfs output outputfileoutputcommitter to task committed
+row update info at blockmanagerinfo added gb in on mb
+info of 10103411 saved hdfs output outputfileoutputcommitter to task committed
+info locally found block storageblockmanager     
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+in info on gb blockmanagerinfo added free size memory mb
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info in task stage tid running executorexecutor   
+info of 10103411 saved hdfs output outputfileoutputcommitter to task committed
+info in task stage tid running executorexecutor   
+executorcoarsegrainedexecutorbackend info        
 task stage info tid executorexecutor in driver bytes to sent
-info task in tid stage executorexecutor running to result sent
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-row update info at 40 as stored block bytes memorystore
-row update info at 40 as stored block bytes memorystore
+task stage info tid executorexecutor in driver bytes to sent
+in info on gb blockmanagerinfo added free size memory mb
+task stage info tid executorexecutor in driver bytes to sent
+task stage info tid executorexecutor in driver bytes to sent
+in info on gb blockmanagerinfo added free size memory mb
+in info on gb blockmanagerinfo added free size memory mb
+info in task stage tid running executorexecutor   
+info block storageblockmanager locally found     
+info of 10103411 saved hdfs output outputfileoutputcommitter to task committed
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+info of 10103411 saved hdfs output outputfileoutputcommitter to task committed
+info in task stage tid running executorexecutor   
+info in task stage tid running executorexecutor   
+info in task stage tid running executorexecutor   
+info yarn curi sparksecuritymanager users disabled set on permissions with
+info yarn curi sparksecuritymanager users disabled set on permissions with
+info yarn curi sparksecuritymanager users disabled set on permissions with
+info yarn curi sparksecuritymanager users disabled set on permissions with
+info yarn curi sparksecuritymanager users disabled set on permissions with
+info yarn curi sparksecuritymanager users disabled set on permissions with
+info block storageblockmanager locally found     
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+info in task stage tid running executorexecutor   
+info of 10103411 saved hdfs output outputfileoutputcommitter to task committed
+info of 10103411 saved hdfs output outputfileoutputcommitter to task committed
+in info on gb blockmanagerinfo added free size memory mb
 info finish times pythonpythonrunner total init boot   
+info yarn curi sparksecuritymanager users disabled set on permissions with
+info of 10103411 saved hdfs output outputfileoutputcommitter to task committed
+info yarn curi sparksecuritymanager users disabled set on permissions with
+info locally found block storageblockmanager     
+executorcoarsegrainedexecutorbackend info        
+info in task stage tid running executorexecutor   
+in info on gb blockmanagerinfo added free size memory mb
+info of 10103411 saved hdfs output outputfileoutputcommitter to task committed
+info of 10103411 saved hdfs output outputfileoutputcommitter to task committed
+info of 10103411 saved hdfs output outputfileoutputcommitter to task committed
+info of 10103411 saved hdfs output outputfileoutputcommitter to task committed
 info finish times pythonpythonrunner total init boot   
-row update info at 40 as stored block bytes memorystore
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-info finish times pythonpythonrunner total init boot   
-info finish times pythonpythonrunner total init boot   
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-info finish times pythonpythonrunner total init boot   
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-file info is output outputfileoutputcommitter version algorithm committer  
-file info is output outputfileoutputcommitter version algorithm committer  
-info finish times pythonpythonrunner total init boot   
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
-of output outputfileoutputcommitter saved task to hdfs info 10103411 
+info locally found block storageblockmanager     
+executorcoarsegrainedexecutorbackend info        
+in info on gb blockmanagerinfo added free size memory mb
+in info on gb blockmanagerinfo added free size memory mb
+info yarn curi sparksecuritymanager users disabled set on permissions with
+info yarn curi sparksecuritymanager users disabled set on permissions with
+info of 10103411 saved hdfs output outputfileoutputcommitter to task committed
+info yarn curi sparksecuritymanager users disabled set on permissions with
+info yarn curi sparksecuritymanager users disabled set on permissions with
+info yarn curi sparksecuritymanager users disabled set on permissions with
+info yarn curi sparksecuritymanager users disabled set on permissions with
