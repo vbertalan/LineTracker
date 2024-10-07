@@ -8,6 +8,7 @@ from sklearn_extra.cluster import KMedoids
 from bertopic.dimensionality import BaseDimensionalityReduction        
 from bertopic.cluster import BaseCluster
 from bertopic import BERTopic
+from rouge import Rouge
 
 from nltk.tokenize import WhitespaceTokenizer
 
@@ -23,8 +24,6 @@ import contextlib
 import pickle
 import sys
 import os
-
-from rouge import Rouge
 
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -87,15 +86,6 @@ def transform_dataset(raw_content):
     path_to_file = os.path.join(vector_dir, logName + '_vectors_TFIDF.vec')
     path = Path(path_to_file)
     vectors_tfidf = []
-
-    # if (path.is_file()):
-    #     vectors_tfidf = pickle.load(open(path_to_file, 'rb'))
-    # else:
-    #     Using TFIDF Vectorizer 
-    #     print("Starting encode")
-    #     tr_idf_model  = TfidfVectorizer()
-    #     vectors_tfidf = tr_idf_model.fit_transform(raw_content)
-    #     pickle.dump(vectors_tfidf, open(path_to_file, 'wb'))
     
     # Using TFIDF Vectorizer 
     tr_idf_model  = TfidfVectorizer()
@@ -250,7 +240,7 @@ def cluster_kmedoids(unified_matrix, cluster_num):
     return (clusterer)
 
 def find_topics_bertopic(cluster_list, cluster_number, num_topics):
-
+        
         empty_reduction_model = BaseDimensionalityReduction()
         empty_cluster_model = KMedoids(n_clusters = 1)
         
@@ -299,13 +289,13 @@ def consider_previous_clustering():
     ## Tests with BerTopic
 
 
-
     target_file = "ground_truths/" + dataset + "_lines.txt_structured.csv"
     csv = pd.read_csv(target_file)
     content = csv["EventTemplate"]
     num_topics = 10
     line_file = []
     line_set = []
+
 
 
     cluster_model = KMedoids(n_clusters=1)
@@ -458,6 +448,8 @@ def tests_scenario_A(drain_st, drain_depth):
     parameters = ("Testing scenario A using raw data matrix and predefined clustering, with drain st {}, drain depth {}".
           format(drain_st, drain_depth))
     print(parameters)
+    
+    #parse_logs(drain_st, drain_depth)
 
     consider_previous_clustering()
 
@@ -477,6 +469,7 @@ def tests_scenario_B(drain_st, drain_depth):
     print(parameters)
 
     # Runs BerTopic
+    #parse_logs(drain_st, drain_depth)
     topic_summaries = bertopic_new_clustering(n_clusters)
 
     final = calculates_metrics()
@@ -484,9 +477,33 @@ def tests_scenario_B(drain_st, drain_depth):
 
     return (final)
 
+## Slicing the dataset for training and test
+def slice_dataset(logName, slice=0.2):
+
+    import random
+
+    log_file = os.path.join(indir, logName)
+
+    with open(log_file, 'r') as file:
+        lines = file.readlines()
+    
+    total_lines = len(lines)
+    num_lines_to_select = int(total_lines * slice)
+    
+    # Select random indices without shuffling
+    selected_indices = sorted(random.sample(range(total_lines), num_lines_to_select))
+    
+    # Get the lines corresponding to the selected indices
+    selected_lines = [lines[i] for i in selected_indices]
+
+    split_file = logName[:-10] + "_split.txt"    
+
+    with open(os.path.join(indir, split_file), 'w') as f:
+        f.writelines(selected_lines)
+
 ## Cenário C
 ## Testando usando transformação via matriz unificada, depois BerTopic para seleção de tópicos
-def tests_scenario_C(drain_st, drain_depth, alpha, beta, gamma):
+def tests_scenario_C(drain_st, drain_depth, alpha, beta, gamma, training=True):
 
     #parse_logs(drain_st, drain_depth)
     n_clusters = get_template_number()
@@ -496,7 +513,11 @@ def tests_scenario_C(drain_st, drain_depth, alpha, beta, gamma):
     print(parameters)
 
     # Criação matriz unificada
-    vector_df = transform(os.path.basename(logName))
+    if (training):
+        vector_df = transform(os.path.basename(logSlice))
+    else:
+        vector_df = transform(os.path.basename(logName))
+
     distance_matrix = create_distance_matrix(vector_df)
     variable_matrix = create_variable_matrix()
     closeness_matrix = creates_closeness_matrix(distance_matrix)
@@ -515,10 +536,13 @@ def tests_scenario_C(drain_st, drain_depth, alpha, beta, gamma):
 
 def run_tests(results, dataset, drain_st, drain_depth, num_executions):
 
-    # Variable Matrix Parameters
+    #Variable Matrix Parameters
     alpha = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
     beta = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
     gamma = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
+    # alpha = [0.3]
+    # beta = [0.4, 0.5]
+    # gamma = [0.2, 0.3]
 
     # Running Single Test for Scenario A
     value = tests_scenario_A(drain_st, drain_depth)
@@ -542,9 +566,152 @@ def run_tests(results, dataset, drain_st, drain_depth, num_executions):
                 if (a+b+g != 1):
                     pass
                 else:
-                    for i in tqdmrange(num_executions):
+                    for i in range(num_executions):
                         try:
-                            value = tests_scenario_C(drain_st, drain_depth, a, b, g)
+                            #value = tests_scenario_C(drain_st, drain_depth, a, b, g)
+                            value = tests_scenario_C(drain_st, drain_depth, a, b, g, True)
+                            new_row = [dataset, 'C', drain_st, drain_depth, best_alpha, best_beta, best_gamma, value]
+                            results.loc[len(results)] = new_row
+                        except:
+                            value = 0
+                        if (value > best_f1):
+                            best_f1 = value
+                            best_alpha = a
+                            best_beta = b
+                            best_gamma = g
+    print("A melhor combinação foi alpha {}, beta {}, gamma {}".format(best_alpha, best_beta, best_gamma))
+
+################################# TEST SCENARIOS ################################ 
+
+## Cenário A
+## Testa usando clusters pré-definidos, e usando BerTopic sem clusterizar
+def tests_scenario_A(drain_st, drain_depth):
+
+    parameters = ("Testing scenario A using raw data matrix and predefined clustering, with drain st {}, drain depth {}".
+          format(drain_st, drain_depth))
+    print(parameters)
+    
+    #parse_logs(drain_st, drain_depth)
+
+    consider_previous_clustering()
+
+    final = calculates_metrics()
+    #print("F1 score: {}".format(final))
+
+    return (final)
+
+## Cenário B
+## Testando usando BerTopic para clusterizar, sem considerar matriz unificada, transformando os dados brutos
+def tests_scenario_B(drain_st, drain_depth):
+    
+    n_clusters = get_template_number()
+    
+    parameters = ("Testing scenario B using raw data matrix and BerTopic K-Medoids clustering, drain st {}, drain depth {}, cluster number {}".
+          format(drain_st, drain_depth, n_clusters))
+    print(parameters)
+
+    # Runs BerTopic
+    #parse_logs(drain_st, drain_depth)
+    topic_summaries = bertopic_new_clustering(n_clusters)
+
+    final = calculates_metrics()
+    #print("F1 score: {}".format(final))
+
+    return (final)
+
+## Slicing the dataset for training and test
+def slice_dataset(logName, slice=0.2):
+
+    import random
+
+    log_file = os.path.join(indir, logName)
+
+    with open(log_file, 'r') as file:
+        lines = file.readlines()
+    
+    total_lines = len(lines)
+    num_lines_to_select = int(total_lines * slice)
+    
+    # Select random indices without shuffling
+    selected_indices = sorted(random.sample(range(total_lines), num_lines_to_select))
+    
+    # Get the lines corresponding to the selected indices
+    selected_lines = [lines[i] for i in selected_indices]
+
+    split_file = logName[:-10] + "_split.txt"    
+
+    with open(os.path.join(indir, split_file), 'w') as f:
+        f.writelines(selected_lines)
+
+## Cenário C
+## Testando usando transformação via matriz unificada, depois BerTopic para seleção de tópicos
+def tests_scenario_C(drain_st, drain_depth, alpha, beta, gamma, training=True):
+
+    #parse_logs(drain_st, drain_depth)
+    n_clusters = get_template_number()
+
+    parameters = ("Testing scenario C using joint matrix and BerTopic topic modeling, with drain st {}, drain depth {}, alpha {}, beta {}, gamma {}, cluster number {}".
+          format(drain_st, drain_depth, alpha, beta, gamma, n_clusters))
+    print(parameters)
+
+    # Criação matriz unificada
+    if (training):
+        vector_df = transform(os.path.basename(logSlice))
+    else:
+        vector_df = transform(os.path.basename(logName))
+
+    distance_matrix = create_distance_matrix(vector_df)
+    variable_matrix = create_variable_matrix()
+    closeness_matrix = creates_closeness_matrix(distance_matrix)
+    joint_matrix = joins_matrices(distance_matrix, variable_matrix, closeness_matrix, 
+                                alpha, beta, gamma)
+      
+    clusterer = cluster_kmedoids (joint_matrix, n_clusters)
+
+    topic_summaries = bertopic_previous_clustering(clusterer)
+    
+    final = calculates_metrics()
+    #print("F1 score: {}".format(final))
+
+
+    return (final)
+
+def run_tests(results, dataset, drain_st, drain_depth, num_executions):
+
+    #Variable Matrix Parameters
+    alpha = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
+    beta = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
+    gamma = [0, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1]
+    # alpha = [0.3]
+    # beta = [0.4, 0.5]
+    # gamma = [0.2, 0.3]
+
+    # Running Single Test for Scenario A
+    value = tests_scenario_A(drain_st, drain_depth)
+    new_row = [dataset, 'A', drain_st, drain_depth, 0, 0, 0, value]
+    results.loc[len(results)] = new_row
+
+    # Running num_executions for Scenario B
+    for i in range(num_executions):
+        value = tests_scenario_B(drain_st, drain_depth)
+        new_row = [dataset, 'B', drain_st, drain_depth, 0, 0, 0, value]
+        results.loc[len(results)] = new_row
+
+    # Testing Different Hyperparameters for Scenario C
+    best_f1 = 0
+    best_alpha = 0
+    best_beta = 0
+    best_gamma = 0
+    for a in alpha:
+        for b in beta:
+            for g in gamma:
+                if (a+b+g != 1):
+                    pass
+                else:
+                    for i in range(num_executions):
+                        try:
+                            #value = tests_scenario_C(drain_st, drain_depth, a, b, g)
+                            value = tests_scenario_C(drain_st, drain_depth, a, b, g, True)
                             new_row = [dataset, 'C', drain_st, drain_depth, best_alpha, best_beta, best_gamma, value]
                             results.loc[len(results)] = new_row
                         except:
@@ -563,92 +730,98 @@ input_dir = os.path.join(os.getcwd(), "ground_truths") # The input directory of 
 output_dir = os.path.join(os.getcwd(), "results")  # The output directory of parsing results
 vector_dir = os.path.join(os.getcwd(), "vectors")  # The vector directory of converted logs
 results = pd.DataFrame(columns=['Dataset','Scenario', 'Drain St', 'Drain Depth', 'Alpha', 'Beta', 'Gamma', 'F1'])
-num_executions = 10
+num_executions = 100
 
 # Testing BGL
 dataset = "bgl" # The name of the dataset being tested
 drain_st = 0.3
 drain_depth = 3
 logName = dataset + '_lines.txt' # Name of file to be parsed
+logSlice = dataset + "_split.txt" # Name of the sliced file for training
 log_format = '<Content>' # Format of the file, if there are different fields
 regex = [] # Regex strings for Drain execution
-indir = os.path.join(input_dir, os.path.dirname(logName))
-log_file = os.path.basename(logName)
+indir = os.path.join(input_dir, os.path.dirname(logSlice))
+log_file = os.path.basename(logSlice)
 parse_logs(drain_st, drain_depth)
 run_tests(results, dataset, drain_st, drain_depth, num_executions)
 
-# Saves final CSV
+# Saves temporary CSV
 results.to_csv('testing_results.csv', index=False)  
 
 # Testing HDFS
 dataset = "hdfs" # The name of the dataset being tested
 drain_st = 0.3
 drain_depth = 5
-logName = dataset + '_lines.txt' # Name of file to be parsed
+#logName = dataset + '_lines.txt' # Name of file to be parsed
+logName = dataset + "_split.txt" # Name of the sliced file for training
 log_format = '<Content>' # Format of the file, if there are different fields
 regex = [] # Regex strings for Drain execution
-indir = os.path.join(input_dir, os.path.dirname(logName))
-log_file = os.path.basename(logName)
+indir = os.path.join(input_dir, os.path.dirname(logSlice))
+log_file = os.path.basename(logSlice)
 parse_logs(drain_st, drain_depth)
 run_tests(results, dataset, drain_st, drain_depth, num_executions)
 
-# Saves final CSV
+# Saves temporary CSV
 results.to_csv('testing_results.csv', index=False)  
 
 # Testing HPC
 dataset = "hpc" # The name of the dataset being tested
 drain_st = 0.4
 drain_depth = 4
-logName = dataset + '_lines.txt' # Name of file to be parsed
+#logName = dataset + '_lines.txt' # Name of file to be parsed
+logName = dataset + "_split.txt" # Name of the sliced file for training
 log_format = '<Content>' # Format of the file, if there are different fields
 regex = [] # Regex strings for Drain execution
-indir = os.path.join(input_dir, os.path.dirname(logName))
-log_file = os.path.basename(logName)
+indir = os.path.join(input_dir, os.path.dirname(logSlice))
+log_file = os.path.basename(logSlice)
 parse_logs(drain_st, drain_depth)
 run_tests(results, dataset, drain_st, drain_depth, num_executions)
 
-# Saves final CSV
+# Saves temporary CSV
 results.to_csv('testing_results.csv', index=False)  
 
 # Testing Proxifier
 dataset = "Proxifier" # The name of the dataset being tested
 drain_st = 0.3
 drain_depth = 4
-logName = dataset + '_lines.txt' # Name of file to be parsed
+#logName = dataset + '_lines.txt' # Name of file to be parsed
+logName = dataset + "_split.txt" # Name of the sliced file for training
 log_format = '<Content>' # Format of the file, if there are different fields
 regex = [] # Regex strings for Drain execution
-indir = os.path.join(input_dir, os.path.dirname(logName))
-log_file = os.path.basename(logName)
+indir = os.path.join(input_dir, os.path.dirname(logSlice))
+log_file = os.path.basename(logSlice)
 parse_logs(drain_st, drain_depth)
 run_tests(results, dataset, drain_st, drain_depth, num_executions)
 
-# Saves final CSV
+# Saves temporary CSV
 results.to_csv('testing_results.csv', index=False)  
 
 # Testing Spark
 dataset = "spark" # The name of the dataset being tested
 drain_st = 0.3
 drain_depth = 3
-logName = dataset + '_lines.txt' # Name of file to be parsed
+#logName = dataset + '_lines.txt' # Name of file to be parsed
+logName = dataset + "_split.txt" # Name of the sliced file for training
 log_format = '<Content>' # Format of the file, if there are different fields
 regex = [] # Regex strings for Drain execution
-indir = os.path.join(input_dir, os.path.dirname(logName))
-log_file = os.path.basename(logName)
+indir = os.path.join(input_dir, os.path.dirname(logSlice))
+log_file = os.path.basename(logSlice)
 parse_logs(drain_st, drain_depth)
 run_tests(results, dataset, drain_st, drain_depth, num_executions)
 
-# Saves final CSV
-results.to_csv('testing_results.csv', index=False)   
+# Saves temporary CSV
+results.to_csv('testing_results.csv', index=False)  
 
 # Testing Zookeeper
 dataset = "Zookeeper" # The name of the dataset being tested
 drain_st = 0.3
 drain_depth = 3
-logName = dataset + '_lines.txt' # Name of file to be parsed
+#logName = dataset + '_lines.txt' # Name of file to be parsed
+logName = dataset + "_split.txt" # Name of the sliced file for training
 log_format = '<Content>' # Format of the file, if there are different fields
 regex = [] # Regex strings for Drain execution
-indir = os.path.join(input_dir, os.path.dirname(logName))
-log_file = os.path.basename(logName)
+indir = os.path.join(input_dir, os.path.dirname(logSlice))
+log_file = os.path.basename(logSlice)
 parse_logs(drain_st, drain_depth)
 run_tests(results, dataset, drain_st, drain_depth, num_executions)
 
