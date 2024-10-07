@@ -1,0 +1,400 @@
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1060 bytes ( 1.03 KB ) sent , 1633 bytes ( 1.59 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 1052 bytes ( 1.02 KB ) sent , 8362 bytes ( 8.16 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- tcpconn5.tencent.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1159 bytes ( 1.13 KB ) sent , 2345 bytes ( 2.29 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1078 bytes ( 1.05 KB ) sent , 30800 bytes ( 30.0 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 2136 bytes ( 2.08 KB ) sent , 12629 bytes ( 12.3 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 850 bytes sent , 45025 bytes ( 43.9 KB ) received , lifetime 00 : 02
+- proxy.cse.cuhk.edu.hk : 5070 close , 865 bytes sent , 6970 bytes ( 6.80 KB ) received , lifetime 00 : 03
+- proxy.cse.cuhk.edu.hk : 5070 close , 1728 bytes ( 1.68 KB ) sent , 27176 bytes ( 26.5 KB ) received , lifetime 00 : 03
+- proxy.cse.cuhk.edu.hk : 5070 close , 1165 bytes ( 1.13 KB ) sent , 0 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 10182 bytes ( 9.94 KB ) sent , 4064 bytes ( 3.96 KB ) received , lifetime 02 : 36
+- proxy.cse.cuhk.edu.hk : 5070 close , 1488 bytes ( 1.45 KB ) sent , 1290 bytes ( 1.25 KB ) received , lifetime 02 : 06
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 404 bytes sent , 7160 bytes ( 6.99 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 close , 428 bytes sent , 8273 bytes ( 8.07 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 450 bytes sent , 1567 bytes ( 1.53 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1181 bytes ( 1.15 KB ) sent , 2110 bytes ( 2.06 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1105 bytes ( 1.07 KB ) sent , 8612 bytes ( 8.41 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 906 bytes sent , 1034 bytes ( 1.00 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 1181 bytes ( 1.15 KB ) sent , 430 bytes received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 close , 696 bytes sent , 7881 bytes ( 7.69 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 close , 1931 bytes ( 1.88 KB ) sent , 9950 bytes ( 9.71 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 close , 1181 bytes ( 1.15 KB ) sent , 430 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 418 bytes sent , 4984 bytes ( 4.86 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 1168 bytes ( 1.14 KB ) sent , 14855 bytes ( 14.5 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 904 bytes sent , 2864 bytes ( 2.79 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 431 bytes sent , 10511 bytes ( 10.2 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 431 bytes sent , 10325 bytes ( 10.0 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 431 bytes sent , 10777 bytes ( 10.5 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 882 bytes sent , 13303 bytes ( 12.9 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 784 bytes sent , 334 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 460 bytes sent , 2362 bytes ( 2.30 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 414 bytes sent , 2354 bytes ( 2.29 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 1099 bytes ( 1.07 KB ) sent , 25170 bytes ( 24.5 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1292 bytes ( 1.26 KB ) sent , 2108 bytes ( 2.05 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime <1 sec
+- tcpconn.tencent.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1123 bytes ( 1.09 KB ) sent , 6217 bytes ( 6.07 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 3306 bytes ( 3.22 KB ) sent , 2215 bytes ( 2.16 KB ) received , lifetime 02 : 20
+- proxy.cse.cuhk.edu.hk : 5070 close , 3164 bytes ( 3.08 KB ) sent , 5230 bytes ( 5.10 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 2818 bytes ( 2.75 KB ) sent , 1460 bytes ( 1.42 KB ) received , lifetime 02 : 13
+- proxy.cse.cuhk.edu.hk : 5070 close , 7762 bytes ( 7.58 KB ) sent , 6380 bytes ( 6.23 KB ) received , lifetime 02 : 22
+- proxy.cse.cuhk.edu.hk : 5070 close , 2263 bytes ( 2.20 KB ) sent , 1740 bytes ( 1.69 KB ) received , lifetime 03 : 05
+- proxy.cse.cuhk.edu.hk : 5070 close , 2701 bytes ( 2.63 KB ) sent , 11868 bytes ( 11.5 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 close , 2068 bytes ( 2.01 KB ) sent , 4643 bytes ( 4.53 KB ) received , lifetime 00 : 11
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 2051 bytes ( 2.00 KB ) sent , 52141 bytes ( 50.9 KB ) received , lifetime 01 : 15
+- proxy.cse.cuhk.edu.hk : 5070 close , 2803 bytes ( 2.73 KB ) sent , 26728 bytes ( 26.1 KB ) received , lifetime 01 : 15
+- proxy.cse.cuhk.edu.hk : 5070 close , 8358 bytes ( 8.16 KB ) sent , 90080 bytes ( 87.9 KB ) received , lifetime 01 : 24
+- proxy.cse.cuhk.edu.hk : 5070 close , 10066 bytes ( 9.83 KB ) sent , 2861 bytes ( 2.79 KB ) received , lifetime 02 : 05
+- ts2.qq.com : 8000 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 451 bytes sent , 353 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 41333 bytes ( 40.3 KB ) sent , 36763 bytes ( 35.9 KB ) received , lifetime 01 : 12 : 11
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1561 bytes ( 1.52 KB ) sent , 472 bytes received , lifetime <1 sec
+- ts1.qq.com : 8000 close , 85 bytes sent , 45 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 2115 bytes ( 2.06 KB ) sent , 1342 bytes ( 1.31 KB ) received , lifetime 04 : 00
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 451 bytes sent , 353 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 344 bytes sent , 1343 bytes ( 1.31 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 close , 1474 bytes ( 1.43 KB ) sent , 13129 bytes ( 12.8 KB ) received , lifetime 00 : 02
+- proxy.cse.cuhk.edu.hk : 5070 close , 1127 bytes ( 1.10 KB ) sent , 5465 bytes ( 5.33 KB ) received , lifetime 00 : 02
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 2368 bytes ( 2.31 KB ) sent , 726 bytes received , lifetime 02 : 00
+- proxy.cse.cuhk.edu.hk : 5070 close , 5974 bytes ( 5.83 KB ) sent , 11435 bytes ( 11.1 KB ) received , lifetime 00 : 06
+- impservice.dictapp.youdao.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 451 bytes sent , 353 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 451 bytes sent , 353 bytes received , lifetime <1 sec
+- get.sogou.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 2373 bytes ( 2.31 KB ) sent , 1676 bytes ( 1.63 KB ) received , lifetime 04 : 00
+- proxy.cse.cuhk.edu.hk : 5070 close , 3319 bytes ( 3.24 KB ) sent , 2402 bytes ( 2.34 KB ) received , lifetime 04 : 00
+- proxy.cse.cuhk.edu.hk : 5070 close , 12213 bytes ( 11.9 KB ) sent , 3043 bytes ( 2.97 KB ) received , lifetime 06 : 21
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 451 bytes sent , 353 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 388 bytes sent , 2501 bytes ( 2.44 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- oimagec7.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimagec7.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 687 bytes sent , 10505 bytes ( 10.2 KB ) received , lifetime 00 : 02
+*64 - proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 950 bytes sent , 3559 bytes ( 3.47 KB ) received , lifetime 01 : 01
+- formi.baidu.com : 843 error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy server cannot establish a connection with the target , status code 403
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1010 bytes sent , 647 bytes received , lifetime 01 : 16
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 451 bytes sent , 353 bytes received , lifetime <1 sec
+- 91.190.218.40 : 33033 error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy server cannot establish a connection with the target , status code 403
+- 91.190.218.40 : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 941 bytes sent , 198745 bytes ( 194 KB ) received , lifetime 00 : 18
+- proxy.cse.cuhk.edu.hk : 5070 close , 319 bytes sent , 817 bytes received , lifetime 00 : 40
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1213 bytes ( 1.18 KB ) sent , 6568 bytes ( 6.41 KB ) received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 964 bytes sent , 436 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 531 bytes sent , 240 bytes received , lifetime 00 : 07
+- go.trouter.io : 443 close , 1187 bytes ( 1.15 KB ) sent , 4199 bytes ( 4.10 KB ) received , lifetime 00 : 21
+- proxy.cse.cuhk.edu.hk : 5070 close , 15270 bytes ( 14.9 KB ) sent , 31911 bytes ( 31.1 KB ) received , lifetime 00 : 04
+- proxy.cse.cuhk.edu.hk : 5070 close , 11783 bytes ( 11.5 KB ) sent , 7528 bytes ( 7.35 KB ) received , lifetime 00 : 20
+- 91.190.218.125 : 443 close , 592 bytes sent , 344 bytes received , lifetime 00 : 35
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 3474 bytes ( 3.39 KB ) sent , 4723 bytes ( 4.61 KB ) received , lifetime 00 : 59
+- proxy.cse.cuhk.edu.hk : 5070 close , 1764 bytes ( 1.72 KB ) sent , 4695 bytes ( 4.58 KB ) received , lifetime 00 : 59
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1368 bytes ( 1.33 KB ) sent , 345285 bytes ( 337 KB ) received , lifetime 01 : 57
+- proxy.cse.cuhk.edu.hk : 5070 close , 983 bytes sent , 309675 bytes ( 302 KB ) received , lifetime 01 : 57
+- proxy.cse.cuhk.edu.hk : 5070 close , 983 bytes sent , 360678 bytes ( 352 KB ) received , lifetime 01 : 57
+- proxy.cse.cuhk.edu.hk : 5070 close , 983 bytes sent , 259565 bytes ( 253 KB ) received , lifetime 01 : 57
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 989 bytes sent , 590 bytes received , lifetime 00 : 53
+- proxy.cse.cuhk.edu.hk : 5070 close , 6022 bytes ( 5.88 KB ) sent , 3540 bytes ( 3.45 KB ) received , lifetime 00 : 53
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 20
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- long.weixin.qq.com : 8080 error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy server cannot establish a connection with the target , status code 403
+- proxy.cse.cuhk.edu.hk : 5070 close , 715 bytes sent , 4417 bytes ( 4.31 KB ) received , lifetime 00 : 10
+- proxy.cse.cuhk.edu.hk : 5070 close , 1284 bytes ( 1.25 KB ) sent , 1113 bytes ( 1.08 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1277 bytes ( 1.24 KB ) sent , 1203 bytes ( 1.17 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1307 bytes ( 1.27 KB ) sent , 2867 bytes ( 2.79 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 close , 1289 bytes ( 1.25 KB ) sent , 2199 bytes ( 2.14 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 close , 1290 bytes ( 1.25 KB ) sent , 4075 bytes ( 3.97 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 close , 905 bytes sent , 33486 bytes ( 32.7 KB ) received , lifetime 02 : 01
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 7413 bytes ( 7.23 KB ) sent , 50684 bytes ( 49.4 KB ) received , lifetime 02 : 54
+- proxy.cse.cuhk.edu.hk : 5070 close , 3314 bytes ( 3.23 KB ) sent , 1607 bytes ( 1.56 KB ) received , lifetime 02 : 54
+- proxy.cse.cuhk.edu.hk : 5070 close , 2618 bytes ( 2.55 KB ) sent , 2162149 bytes ( 2.06 MB ) received , lifetime 00 : 08
+- proxy.cse.cuhk.edu.hk : 5070 close , 449 bytes sent , 0 bytes received , lifetime 00 : 02
+- proxy.cse.cuhk.edu.hk : 5070 close , 1908 bytes ( 1.86 KB ) sent , 9200 bytes ( 8.98 KB ) received , lifetime 00 : 07
+- proxy.cse.cuhk.edu.hk : 5070 close , 3398 bytes ( 3.31 KB ) sent , 7098 bytes ( 6.93 KB ) received , lifetime 00 : 09
+*64 - 127.0.0.1 : 135 error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy server cannot establish a connection with the target , status code 403
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 13
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 03
+- proxy.cse.cuhk.edu.hk : 5070 close , 2279 bytes ( 2.22 KB ) sent , 279 bytes received , lifetime 00 : 02
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 2279 bytes ( 2.22 KB ) sent , 279 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 992 bytes sent , 523 bytes received , lifetime 00 : 02
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 1929 bytes ( 1.88 KB ) sent , 959 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 6880 bytes ( 6.71 KB ) sent , 21612 bytes ( 21.1 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime <1 sec
+- oimagea4.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimagea4.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1730 bytes ( 1.68 KB ) sent , 909 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 930 bytes sent , 9187 bytes ( 8.97 KB ) received , lifetime 00 : 05
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1319 bytes ( 1.28 KB ) sent , 268 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1269 bytes ( 1.23 KB ) sent , 5484 bytes ( 5.35 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 close , 1318 bytes ( 1.28 KB ) sent , 426 bytes received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 close , 1316 bytes ( 1.28 KB ) sent , 427 bytes received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 close , 4113 bytes ( 4.01 KB ) sent , 1276 bytes ( 1.24 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 close , 1395 bytes ( 1.36 KB ) sent , 421 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 1391 bytes ( 1.35 KB ) sent , 421 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1399 bytes ( 1.36 KB ) sent , 419 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- formi.baidu.com : 8843 error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy server cannot establish a connection with the target , status code 403
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 07
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 07
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- 182.254.114.108 : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 3740 bytes ( 3.65 KB ) sent , 1243 bytes ( 1.21 KB ) received , lifetime 04 : 01
+- oimagec6.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimagea8.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimageb8.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimageb5.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimageb8.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimagea1.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimagec3.ydstatic.com : 80 close , 0 bytes sent , 0 bytes received , lifetime 00 : 19
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 4746 bytes ( 4.63 KB ) sent , 62398 bytes ( 60.9 KB ) received , lifetime 04 : 03
+- oimageb2.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimageb6.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimageb8.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimageb8.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- oimageb6.ydstatic.com : 80 error : A connection request was canceled before the completion.
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 2425 bytes ( 2.36 KB ) sent , 6680 bytes ( 6.52 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 close , 1225 bytes ( 1.19 KB ) sent , 1093 bytes ( 1.06 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1439 bytes ( 1.40 KB ) sent , 576 bytes received , lifetime <1 sec
+- proxy.cse.cuhk.edu.hk : 5070 close , 3278 bytes ( 3.20 KB ) sent , 24601 bytes ( 24.0 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 13
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 15
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 1756 bytes ( 1.71 KB ) sent , 1276 bytes ( 1.24 KB ) received , lifetime 01 : 03
+- proxy.cse.cuhk.edu.hk : 5070 close , 4013 bytes ( 3.91 KB ) sent , 32680 bytes ( 31.9 KB ) received , lifetime 01 : 04
+- proxy.cse.cuhk.edu.hk : 5070 close , 2248 bytes ( 2.19 KB ) sent , 1376 bytes ( 1.34 KB ) received , lifetime 01 : 03
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 487 bytes sent , 16088 bytes ( 15.7 KB ) received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- proxy.cse.cuhk.edu.hk : 5070 close , 0 bytes sent , 0 bytes received , lifetime 00 : 01
+- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - ss.bdimg.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - sclick.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - suggestion.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - suggestion.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - sclick.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - i9.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - timg.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- get.sogou.com : 80 close , 899 bytes sent , 348 bytes received , lifetime 00 : 03
+*64 - s1.bdstatic.com : 80 close , 0 bytes sent , 0 bytes received , lifetime 00 : 12
+*64 - ss.bdimg.com : 80 close , 0 bytes sent , 0 bytes received , lifetime 00 : 11
+*64 - sclick.baidu.com : 80 close , 2459 bytes ( 2.40 KB ) sent , 401 bytes received , lifetime 00 : 01
+*64 - news.4399.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - newsimg.5054399.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - eclick.baidu.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - ubmcmm.baidustatic.com : 80 close , 442 bytes sent , 33969 bytes ( 33.1 KB ) received , lifetime <1 sec
+*64 - img.3367.com : 80 close , 2599 bytes ( 2.53 KB ) sent , 29444 bytes ( 28.7 KB ) received , lifetime 00 : 33
+*64 - long.open.weixin.qq.com : 443 close , 1679 bytes ( 1.63 KB ) sent , 4832 bytes ( 4.71 KB ) received , lifetime 00 : 28
+*64 - img.3367.com : 80 close , 2213 bytes ( 2.16 KB ) sent , 34630 bytes ( 33.8 KB ) received , lifetime 00 : 33
+*64 - www.baidu.com : 80 close , 2590 bytes ( 2.52 KB ) sent , 621 bytes received , lifetime 01 : 06
+*64 - hm.baidu.com : 443 error : A connection request was canceled before the completion.
+*64 - upload.3367.com : 80 close , 3279 bytes ( 3.20 KB ) sent , 262246 bytes ( 256 KB ) received , lifetime 01 : 01
+*64 - upload.3367.com : 80 close , 2331 bytes ( 2.27 KB ) sent , 440133 bytes ( 429 KB ) received , lifetime 01 : 01
+- qbwup.imtt.qq.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - long.open.weixin.qq.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- qbwup.imtt.qq.com : 80 close , 494 bytes sent , 208 bytes received , lifetime 00 : 38
+*64 - play.google.com : 443 close , 989 bytes sent , 5261 bytes ( 5.13 KB ) received , lifetime 04 : 00
+*64 - long.open.weixin.qq.com : 443 close , 1910 bytes ( 1.86 KB ) sent , 276 bytes received , lifetime 00 : 27
+*64 - long.open.weixin.qq.com : 443 close , 1910 bytes ( 1.86 KB ) sent , 276 bytes received , lifetime 00 : 27
+*64 - play.google.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - play.google.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - mtalk.google.com : 443 close , 985 bytes sent , 447 bytes received , lifetime 14 : 59
+*64 - play.google.com : 443 close , 1874 bytes ( 1.83 KB ) sent , 801 bytes received , lifetime 04 : 00
+*64 - long.open.weixin.qq.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - notifications.google.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - long.open.weixin.qq.com : 443 close , 1910 bytes ( 1.86 KB ) sent , 276 bytes received , lifetime 00 : 28
+*64 - long.open.weixin.qq.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - long.open.weixin.qq.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - bdimg.share.baidu.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - img.3367.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - mail.google.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - clients4.google.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - d3cv4a9a9wh0bt.cloudfront.net : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - clients2.google.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - accounts.google.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - lh5.googleusercontent.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - accounts.google.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - googleads.g.doubleclick.net : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - www.gstatic.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - s2.googleusercontent.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - www.google.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - www.google.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - www.google.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - avatars3.githubusercontent.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - github.com : 443 close , 1316 bytes ( 1.28 KB ) sent , 22091 bytes ( 21.5 KB ) received , lifetime 00 : 11
+*64 - github.com : 443 close , 324 bytes sent , 3691 bytes ( 3.60 KB ) received , lifetime 00 : 16
+- qbwup.imtt.qq.com : 80 close , 494 bytes sent , 208 bytes received , lifetime 00 : 38
+*64 - collector.githubapp.com : 443 close , 0 bytes sent , 0 bytes received , lifetime 01 : 01
+*64 - collector.githubapp.com : 443 close , 1609 bytes ( 1.57 KB ) sent , 4207 bytes ( 4.10 KB ) received , lifetime 01 : 07
+- config.pinyin.sogou.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - d3cv4a9a9wh0bt.cloudfront.net : 443 close , 820 bytes sent , 5620 bytes ( 5.48 KB ) received , lifetime 02 : 00
+*64 - clients6.google.com : 443 close , 3296 bytes ( 3.21 KB ) sent , 1282 bytes ( 1.25 KB ) received , lifetime 00 : 50
+*64 - trello.com : 443 close , 3925 bytes ( 3.83 KB ) sent , 22583 bytes ( 22.0 KB ) received , lifetime 00 : 33
+*64 - clientservices.googleapis.com : 443 close , 1051 bytes ( 1.02 KB ) sent , 491 bytes received , lifetime 00 : 28
+*64 - f-log-extension.grammarly.io : 443 close , 1363 bytes ( 1.33 KB ) sent , 3549 bytes ( 3.46 KB ) received , lifetime 00 : 33
+- get.sogou.com : 80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+- client.dropbox.com : 443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+- 180.163.25.139 : 80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+- client-lb.dropbox.com : 443 error : A connection request was canceled before the completion.
+*64 - hangouts.google.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+- short.weixin.qq.com : 80 error : A connection request was canceled before the completion.
+*64 - hangouts.google.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - hangouts.google.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - trello.com : 443 close , 2106 bytes ( 2.05 KB ) sent , 518 bytes received , lifetime 00 : 10
+*64 - d3cv4a9a9wh0bt.cloudfront.net : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - lh6.googleusercontent.com : 443 close , 471 bytes sent , 4693 bytes ( 4.58 KB ) received , lifetime 00 : 10
+*64 - fonts.gstatic.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - static.doubleclick.net : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - r6---sn-i3b7kn76.googlevideo.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - i9.ytimg.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - r1---sn-25g7sn7r.googlevideo.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - r1---sn-25g7sn7r.googlevideo.com : 443 close , 1175 bytes ( 1.14 KB ) sent , 11041 bytes ( 10.7 KB ) received , lifetime 00 : 01
+*64 - clients2.google.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - r1---sn-i3beln7k.googlevideo.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - r5---sn-i3b7kn7r.googlevideo.com : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - static.doubleclick.net : 443 close , 1355 bytes ( 1.32 KB ) sent , 4730 bytes ( 4.61 KB ) received , lifetime 04 : 03
+*64 - r8---sn-i3b7knez.googlevideo.com : 443 close , 733 bytes sent , 151 bytes received , lifetime 00 : 12
+*64 - mtalk.google.com : 5228 error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy server cannot establish a connection with the target , status code 403
+*64 - q11.cnzz.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - yuedust.yuedu.126.net : 443 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS
+*64 - hm2.cnzz.com : 80 close , 672 bytes sent , 254 bytes received , lifetime <1 sec
+*64 - hm2.cnzz.com : 80 close , 673 bytes sent , 254 bytes received , lifetime <1 sec
+*64 - hm2.cnzz.com : 80 close , 673 bytes sent , 254 bytes received , lifetime <1 sec
+*64 - play.google.com : 443 close , 5667 bytes ( 5.53 KB ) sent , 7566 bytes ( 7.38 KB ) received , lifetime 12 : 57
+*64 - hm2.cnzz.com : 80 close , 674 bytes sent , 254 bytes received , lifetime <1 sec
+*64 - hm2.cnzz.com : 80 close , 674 bytes sent , 254 bytes received , lifetime <1 sec
