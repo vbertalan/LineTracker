@@ -1,0 +1,30 @@
+EventId,EventTemplate,Occurrences
+c836ca66,- proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS,139
+468eebd5,"- proxy.cse.cuhk.edu.hk : 5070 close , <*> bytes ( <*> KB ) sent , <*> bytes ( <*> KB ) received , lifetime <1 sec",12
+695f3044,- <*> : <*> open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS,9
+e68cec81,"- proxy.cse.cuhk.edu.hk : 5070 close , <*> bytes <*> <*> <*> <*> <*> <*> <*> <*> received , lifetime <*> : <*>",21
+b62a7eec,"- proxy.cse.cuhk.edu.hk : 5070 close , <*> bytes ( <*> KB ) sent , <*> bytes ( <*> <*> ) received , lifetime <*> : <*>",49
+0b423844,"- proxy.cse.cuhk.edu.hk : 5070 close , <*> bytes <*> <*> <*> <*> <*> <*> <*> <*> received , lifetime <1 sec",22
+30d389aa,"- proxy.cse.cuhk.edu.hk : 5070 close , <*> bytes sent , <*> bytes received , lifetime <1 sec",13
+41281506,"- proxy.cse.cuhk.edu.hk : 5070 close , 41333 bytes ( 40.3 KB ) sent , 36763 bytes ( 35.9 KB ) received , lifetime 01 : 12 : 11",1
+e7c80c37,"- ts1.qq.com : 8000 close , 85 bytes sent , 45 bytes received , lifetime <1 sec",1
+20411488,- <*> : <*> error : A connection request was canceled before the completion.,17
+7b682aa9,*64 - proxy.cse.cuhk.edu.hk : 5070 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS,1
+443c8f63,"- formi.baidu.com : <*> error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy server cannot establish a connection with the target , status code 403",2
+dd18aa7d,"- proxy.cse.cuhk.edu.hk : 5070 close , <*> bytes sent , <*> bytes received , lifetime <*> : <*>",16
+dc1408d9,"- <*> : <*> error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy server cannot establish a connection with the target , status code 403",2
+c0421479,"- go.trouter.io : 443 close , 1187 bytes ( 1.15 KB ) sent , 4199 bytes ( 4.10 KB ) received , lifetime 00 : 21",1
+f6857a76,"- <*> : <*> close , <*> bytes sent , <*> bytes received , lifetime 00 : <*>",5
+a1523095,"*64 - <*> : <*> error : Could not connect through proxy proxy.cse.cuhk.edu.hk : 5070 - Proxy server cannot establish a connection with the target , status code 403",2
+2454b955,*64 - ss.bdimg.com : 80 open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS,1
+a9571191,*64 - <*> : <*> open through proxy proxy.cse.cuhk.edu.hk : 5070 HTTPS,46
+31eb63f5,"*64 - <*> : <*> close , <*> bytes sent , <*> bytes received , lifetime <*> : <*>",5
+d7cdd1b0,"*64 - sclick.baidu.com : 80 close , 2459 bytes ( 2.40 KB ) sent , 401 bytes received , lifetime 00 : 01",1
+247b13fd,"*64 - ubmcmm.baidustatic.com : 80 close , 442 bytes sent , 33969 bytes ( 33.1 KB ) received , lifetime <1 sec",1
+310a4ec6,"*64 - <*> : <*> close , <*> bytes ( <*> KB ) sent , <*> bytes ( <*> KB ) received , lifetime <*> : <*>",13
+eca8b662,"*64 - www.baidu.com : 80 close , 2590 bytes ( 2.52 KB ) sent , 621 bytes received , lifetime 01 : 06",1
+d4698736,*64 - hm.baidu.com : 443 error : A connection request was canceled before the completion.,1
+724c09cb,"*64 - <*> : 443 close , <*> bytes <*> <*> <*> <*> <*> <*> <*> <*> received , lifetime <*> : <*>",10
+db260d2f,- get.sogou.com : 80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001,1
+0585319f,- <*> : <*> error : Could not connect to proxy proxy.cse.cuhk.edu.hk : 5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001,2
+15527cf3,"*64 - hm2.cnzz.com : 80 close , <*> bytes sent , 254 bytes received , lifetime <1 sec",5

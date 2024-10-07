@@ -1,0 +1,405 @@
+LineId,Content,EventId,EventTemplate,ParameterList
+1,INFO Received connection request /10.10.34.11 : 45328,6a611e72,INFO Received connection request <*> : <*>,"['/10.10.34.11', '45328']"
+2,"WARN Connection broken for id 188978561024 , my id = 1 , error =",adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",['1']
+3,"WARN Connection broken for id 188978561024 , my id = 1 , error =",adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",['1']
+4,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+5,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+6,INFO Established session 0x14ed93111f20037 with negotiated timeout 10000 for client /10.10.34.11 : 49242,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x14ed93111f20037', '10000', '/10.10.34.11', '49242']"
+7,INFO Established session 0x14ed93111f20039 with negotiated timeout 10000 for client /10.10.34.13 : 37196,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x14ed93111f20039', '10000', '/10.10.34.13', '37196']"
+8,INFO Accepted socket connection from /10.10.34.12 : 45605,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.12', '45605']"
+9,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+10,INFO Accepted socket connection from /10.10.34.11 : 50301,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.11', '50301']"
+11,INFO Client attempting to establish new session at /10.10.34.11 : 50301,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.11', '50301']"
+12,INFO Closed socket connection for client /10.10.34.12 : 45638 which had sessionid 0x14ed93111f2007d,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.12', '45638', '0x14ed93111f2007d']"
+13,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+14,INFO Client attempting to establish new session at /10.10.34.11 : 54399,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.11', '54399']"
+15,INFO Established session 0x14ed93111f200c9 with negotiated timeout 10000 for client /10.10.34.11 : 54397,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x14ed93111f200c9', '10000', '/10.10.34.11', '54397']"
+16,INFO Accepted socket connection from /10.10.34.12 : 45679,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.12', '45679']"
+17,WARN Connection request from old client /10.10.34.12 : 45679 ; will be dropped if server is in r-o mode,f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,"['/10.10.34.12', '45679']"
+18,INFO Client attempting to establish new session at /10.10.34.12 : 45679,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.12', '45679']"
+19,INFO Client attempting to establish new session at /10.10.34.12 : 45682,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.12', '45682']"
+20,INFO Client attempting to establish new session at /10.10.34.12 : 45711,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.12', '45711']"
+21,INFO Client attempting to establish new session at /10.10.34.13 : 37471,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.13', '37471']"
+22,INFO Accepted socket connection from /10.10.34.11 : 54724,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.11', '54724']"
+23,WARN Connection request from old client /10.10.34.11 : 54724 ; will be dropped if server is in r-o mode,f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,"['/10.10.34.11', '54724']"
+24,INFO Closed socket connection for client /10.10.34.11 : 54724 which had sessionid 0x14ed93111f200e5,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.11', '54724', '0x14ed93111f200e5']"
+25,INFO Accepted socket connection from /10.10.34.11 : 54740,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.11', '54740']"
+26,WARN Connection request from old client /10.10.34.13 : 38022 ; will be dropped if server is in r-o mode,f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,"['/10.10.34.13', '38022']"
+27,"INFO Expiring session 0x14ede63a5a70010 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x14ede63a5a70010', '10000ms']"
+28,"INFO Expiring session 0x34ede65503f0010 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x34ede65503f0010', '10000ms']"
+29,INFO Processed session termination for sessionid : 0x24ede63a01b001f,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24ede63a01b001f']
+30,INFO Processed session termination for sessionid : 0x34ede65503f001d,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ede65503f001d']
+31,"INFO Expiring session 0x24ede63a01b002a , timeout of 20000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24ede63a01b002a', '20000ms']"
+32,INFO Processed session termination for sessionid : 0x24ede63a01b002a,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24ede63a01b002a']
+33,INFO Processed session termination for sessionid : 0x24ede63a01b002b,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24ede63a01b002b']
+34,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+35,INFO Closed socket connection for client /10.10.34.12 : 43158 which had sessionid 0x14ede63a5a70022,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.12', '43158', '0x14ede63a5a70022']"
+36,INFO Closed socket connection for client /10.10.34.13 : 38043 which had sessionid 0x14ede63a5a70024,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.13', '38043', '0x14ede63a5a70024']"
+37,"INFO Expiring session 0x34ede65503f0026 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x34ede65503f0026', '10000ms']"
+38,"INFO Expiring session 0x34ede65503f0027 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x34ede65503f0027', '10000ms']"
+39,"INFO Expiring session 0x24ede63a01b0032 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24ede63a01b0032', '10000ms']"
+40,INFO Processed session termination for sessionid : 0x34ede65503f0025,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ede65503f0025']
+41,INFO Processed session termination for sessionid : 0x34ede65503f0026,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ede65503f0026']
+42,INFO Processed session termination for sessionid : 0x34ede65503f0032,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ede65503f0032']
+43,INFO Processed session termination for sessionid : 0x34ede65503f0030,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ede65503f0030']
+44,INFO Processed session termination for sessionid : 0x24ede63a01b0045,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24ede63a01b0045']
+45,INFO Processed session termination for sessionid : 0x34ede65503f003c,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ede65503f003c']
+46,INFO Processed session termination for sessionid : 0x24ede63a01b0044,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24ede63a01b0044']
+47,INFO Closed socket connection for client /10.10.34.13 : 38070 which had sessionid 0x14ede63a5a70039,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.13', '38070', '0x14ede63a5a70039']"
+48,"INFO Expiring session 0x14ede63a5a7003b , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x14ede63a5a7003b', '10000ms']"
+49,"INFO Expiring session 0x24ede63a01b0054 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24ede63a01b0054', '10000ms']"
+50,INFO Processed session termination for sessionid : 0x34ede65503f0052,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ede65503f0052']
+51,INFO Processed session termination for sessionid : 0x14ede63a5a70043,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14ede63a5a70043']
+52,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+53,INFO Closed socket connection for client /10.10.34.11 : 40490 which had sessionid 0x14ede63a5a7004c,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.11', '40490', '0x14ede63a5a7004c']"
+54,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+55,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+56,"INFO Expiring session 0x34ede65503f005c , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x34ede65503f005c', '10000ms']"
+57,"INFO Notification : 1 ( n.leader ) , 0x300000dcd ( n.zxid ) , 0x4 ( n.round ) , LOOKING ( n.state ) , 1 ( n.sid ) , 0x3 ( n.peerEPoch ) , LOOKING ( my state )",c1a80c28,"INFO Notification : <*> ( n.leader ) , <*> ( n.zxid ) , <*> ( n.round ) , <*> ( n.state ) , <*> ( n.sid ) , <*> ( n.peerEPoch ) , LOOKING ( my state )","['1', '0x300000dcd', '0x4', 'LOOKING', '1', '0x3']"
+58,WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['3', '/10.10.34.13']"
+59,"INFO Notification : 1 ( n.leader ) , 0x300000dcd ( n.zxid ) , 0x4 ( n.round ) , LOOKING ( n.state ) , 1 ( n.sid ) , 0x3 ( n.peerEPoch ) , LOOKING ( my state )",c1a80c28,"INFO Notification : <*> ( n.leader ) , <*> ( n.zxid ) , <*> ( n.round ) , <*> ( n.state ) , <*> ( n.sid ) , <*> ( n.peerEPoch ) , LOOKING ( my state )","['1', '0x300000dcd', '0x4', 'LOOKING', '1', '0x3']"
+60,INFO Notification time out : 25600,4010f2f9,INFO Notification time out : <*>,['25600']
+61,WARN Cannot open channel to 2 at election address /10.10.34.12 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['2', '/10.10.34.12']"
+62,WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['3', '/10.10.34.13']"
+63,"INFO Notification : 2 ( n.leader ) , 0x300000dcd ( n.zxid ) , 0x5 ( n.round ) , FOLLOWING ( n.state ) , 3 ( n.sid ) , 0x4 ( n.peerEPoch ) , LOOKING ( my state )",c1a80c28,"INFO Notification : <*> ( n.leader ) , <*> ( n.zxid ) , <*> ( n.round ) , <*> ( n.state ) , <*> ( n.sid ) , <*> ( n.peerEPoch ) , LOOKING ( my state )","['2', '0x300000dcd', '0x5', 'FOLLOWING', '3', '0x4']"
+64,"INFO Server environment : zookeeper.version = 3.4.5--1 , built on 06/10/2013 17 : 26 GMT",bf09ffe8,"INFO Server environment : zookeeper.version = 3.4.5--1 , built on 06/10/2013 17 : 26 GMT",[]
+65,INFO Server environment : java.class.path = /etc/zookeeper/conf : /usr/share/java/jline.jar : /usr/share/java/log4j-1.2.jar : /usr/share/java/xercesImpl.jar : /usr/share/java/xmlParserAPIs.jar : /usr/share/java/netty.jar : /usr/share/java/slf4j-api.jar : /usr/share/java/slf4j-log4j12.jar : /usr/share/java/zookeeper.jar,15fe8608,INFO Server environment : java.class.path = /etc/zookeeper/conf : /usr/share/java/jline.jar : /usr/share/java/log4j-1.2.jar : /usr/share/java/xercesImpl.jar : /usr/share/java/xmlParserAPIs.jar : /usr/share/java/netty.jar : /usr/share/java/slf4j-api.jar : /usr/share/java/slf4j-log4j12.jar : /usr/share/java/zookeeper.jar,[]
+66,INFO Established session 0x14ee3e057ed0002 with negotiated timeout 10000 for client /10.10.34.13 : 39514,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x14ee3e057ed0002', '10000', '/10.10.34.13', '39514']"
+67,INFO Established session 0x14ee3e057ed0004 with negotiated timeout 10000 for client /10.10.34.13 : 39517,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x14ee3e057ed0004', '10000', '/10.10.34.13', '39517']"
+68,WARN Connection request from old client /10.10.34.15 : 40238 ; will be dropped if server is in r-o mode,f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,"['/10.10.34.15', '40238']"
+69,INFO Accepted socket connection from /10.10.34.18 : 40973,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.18', '40973']"
+70,WARN Connection request from old client /10.10.34.18 : 40973 ; will be dropped if server is in r-o mode,f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,"['/10.10.34.18', '40973']"
+71,INFO Accepted socket connection from /10.10.34.21 : 58065,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.21', '58065']"
+72,"2015-08-07 07 : 27 : 47 , 409 - INFO [ QuorumPeer [ myid = 1 ] /0 : 0 : 0 : 0 : 0 : 0 : 0 : 0 : 2181 : QuorumPeer@670 ] - LOOKING",152cb211,"2015-08-07 07 : 27 : 47 , 409 - INFO [ QuorumPeer [ myid = 1 ] /0 : 0 : 0 : 0 : 0 : 0 : 0 : 0 : 2181 : QuorumPeer@670 ] - LOOKING",[]
+73,"INFO Notification : 1 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , LOOKING ( n.state ) , 1 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )",c1a80c28,"INFO Notification : <*> ( n.leader ) , <*> ( n.zxid ) , <*> ( n.round ) , <*> ( n.state ) , <*> ( n.sid ) , <*> ( n.peerEPoch ) , LOOKING ( my state )","['1', '0x700000197', '0x1', 'LOOKING', '1', '0x7']"
+74,"INFO Have smaller server identifier , so dropping the connection : ( 2 , 1 )",2ce9e9f2,"INFO Have smaller server identifier , so dropping the connection : ( <*> , 1 )",['2']
+75,"INFO Have smaller server identifier , so dropping the connection : ( 3 , 1 )",2ce9e9f2,"INFO Have smaller server identifier , so dropping the connection : ( <*> , 1 )",['3']
+76,"INFO Notification : 3 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , LOOKING ( n.state ) , 2 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )",c1a80c28,"INFO Notification : <*> ( n.leader ) , <*> ( n.zxid ) , <*> ( n.round ) , <*> ( n.state ) , <*> ( n.sid ) , <*> ( n.peerEPoch ) , LOOKING ( my state )","['3', '0x700000197', '0x1', 'LOOKING', '2', '0x7']"
+77,"INFO Notification : 3 ( n.leader ) , 0x700000197 ( n.zxid ) , 0x1 ( n.round ) , FOLLOWING ( n.state ) , 2 ( n.sid ) , 0x7 ( n.peerEPoch ) , LOOKING ( my state )",c1a80c28,"INFO Notification : <*> ( n.leader ) , <*> ( n.zxid ) , <*> ( n.round ) , <*> ( n.state ) , <*> ( n.sid ) , <*> ( n.peerEPoch ) , LOOKING ( my state )","['3', '0x700000197', '0x1', 'FOLLOWING', '2', '0x7']"
+78,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+79,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+80,WARN Connection request from old client /10.10.34.12 : 46284 ; will be dropped if server is in r-o mode,f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,"['/10.10.34.12', '46284']"
+81,INFO Client attempting to establish new session at /10.10.34.12 : 46284,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.12', '46284']"
+82,WARN Connection request from old client /10.10.34.18 : 60219 ; will be dropped if server is in r-o mode,f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,"['/10.10.34.18', '60219']"
+83,INFO Client attempting to renew session 0x14f05578bd8001d at /10.10.34.22 : 46863,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['renew', 'session 0x14f05578bd8001d', '/10.10.34.22', '46863']"
+84,INFO Accepted socket connection from /10.10.34.23 : 57961,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.23', '57961']"
+85,INFO Closed socket connection for client /10.10.34.16 : 40428 which had sessionid 0x14f05578bd80019,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.16', '40428', '0x14f05578bd80019']"
+86,INFO Closed socket connection for client /10.10.34.18 : 60222 which had sessionid 0x14f05578bd8001a,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.18', '60222', '0x14f05578bd8001a']"
+87,INFO Closed socket connection for client /10.10.34.20 : 56377 which had sessionid 0x14f05578bd8001b,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.20', '56377', '0x14f05578bd8001b']"
+88,INFO Closed socket connection for client /10.10.34.23 : 57964 which had sessionid 0x14f05578bd8001e,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.23', '57964', '0x14f05578bd8001e']"
+89,INFO Notification time out : 400,4010f2f9,INFO Notification time out : <*>,['400']
+90,WARN Cannot open channel to 2 at election address /10.10.34.12 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['2', '/10.10.34.12']"
+91,"INFO Notification : 2 ( n.leader ) , 0xa0000009a ( n.zxid ) , 0x1 ( n.round ) , LOOKING ( n.state ) , 2 ( n.sid ) , 0xa ( n.peerEPoch ) , LOOKING ( my state )",c1a80c28,"INFO Notification : <*> ( n.leader ) , <*> ( n.zxid ) , <*> ( n.round ) , <*> ( n.state ) , <*> ( n.sid ) , <*> ( n.peerEPoch ) , LOOKING ( my state )","['2', '0xa0000009a', '0x1', 'LOOKING', '2', '0xa']"
+92,INFO Server environment : java.version = 1.7.0_79,7a42de1b,INFO Server environment : <*> = <*>,"['java.version', '1.7.0_79']"
+93,INFO Server environment : java.class.path = /etc/zookeeper/conf : /usr/share/java/jline.jar : /usr/share/java/log4j-1.2.jar : /usr/share/java/xercesImpl.jar : /usr/share/java/xmlParserAPIs.jar : /usr/share/java/netty.jar : /usr/share/java/slf4j-api.jar : /usr/share/java/slf4j-log4j12.jar : /usr/share/java/zookeeper.jar,15fe8608,INFO Server environment : java.class.path = /etc/zookeeper/conf : /usr/share/java/jline.jar : /usr/share/java/log4j-1.2.jar : /usr/share/java/xercesImpl.jar : /usr/share/java/xmlParserAPIs.jar : /usr/share/java/netty.jar : /usr/share/java/slf4j-api.jar : /usr/share/java/slf4j-log4j12.jar : /usr/share/java/zookeeper.jar,[]
+94,WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['3', '/10.10.34.13']"
+95,INFO Notification time out : 60000,4010f2f9,INFO Notification time out : <*>,['60000']
+96,INFO Notification time out : 60000,4010f2f9,INFO Notification time out : <*>,['60000']
+97,WARN Cannot open channel to 2 at election address /10.10.34.12 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['2', '/10.10.34.12']"
+98,WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['3', '/10.10.34.13']"
+99,INFO Notification time out : 60000,4010f2f9,INFO Notification time out : <*>,['60000']
+100,WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['3', '/10.10.34.13']"
+101,WARN Cannot open channel to 2 at election address /10.10.34.12 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['2', '/10.10.34.12']"
+102,WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['3', '/10.10.34.13']"
+103,WARN Cannot open channel to 2 at election address /10.10.34.12 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['2', '/10.10.34.12']"
+104,WARN Cannot open channel to 2 at election address /10.10.34.12 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['2', '/10.10.34.12']"
+105,WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['3', '/10.10.34.13']"
+106,WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['3', '/10.10.34.13']"
+107,WARN Cannot open channel to 2 at election address /10.10.34.12 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['2', '/10.10.34.12']"
+108,INFO Shutting down,f4086e14,INFO Shutting down,[]
+109,INFO shutting down,2961939c,INFO shutting down,[]
+110,INFO Notification time out : 400,4010f2f9,INFO Notification time out : <*>,['400']
+111,INFO Notification time out : 3200,4010f2f9,INFO Notification time out : <*>,['3200']
+112,ERROR Unexpected exception causing shutdown while sock still open,e8820d88,ERROR Unexpected exception causing shutdown while sock still open,[]
+113,ERROR Unexpected exception causing shutdown while sock still open,e8820d88,ERROR Unexpected exception causing shutdown while sock still open,[]
+114,ERROR Unexpected exception causing shutdown while sock still open,e8820d88,ERROR Unexpected exception causing shutdown while sock still open,[]
+115,WARN ******* GOODBYE /10.10.34.11 : 52265 ********,cbad1d2c,WARN ******* GOODBYE <*> : <*> ********,"['/10.10.34.11', '52265']"
+116,ERROR Unexpected exception causing shutdown while sock still open,e8820d88,ERROR Unexpected exception causing shutdown while sock still open,[]
+117,WARN ******* GOODBYE /10.10.34.11 : 52350 ********,cbad1d2c,WARN ******* GOODBYE <*> : <*> ********,"['/10.10.34.11', '52350']"
+118,ERROR Unexpected exception causing shutdown while sock still open,e8820d88,ERROR Unexpected exception causing shutdown while sock still open,[]
+119,ERROR Unexpected exception causing shutdown while sock still open,e8820d88,ERROR Unexpected exception causing shutdown while sock still open,[]
+120,ERROR Unexpected exception causing shutdown while sock still open,e8820d88,ERROR Unexpected exception causing shutdown while sock still open,[]
+121,ERROR Unexpected exception causing shutdown while sock still open,e8820d88,ERROR Unexpected exception causing shutdown while sock still open,[]
+122,WARN ******* GOODBYE /10.10.34.12 : 59139 ********,cbad1d2c,WARN ******* GOODBYE <*> : <*> ********,"['/10.10.34.12', '59139']"
+123,ERROR Unexpected exception causing shutdown while sock still open,e8820d88,ERROR Unexpected exception causing shutdown while sock still open,[]
+124,WARN ******* GOODBYE /10.10.34.12 : 59142 ********,cbad1d2c,WARN ******* GOODBYE <*> : <*> ********,"['/10.10.34.12', '59142']"
+125,ERROR Unexpected exception causing shutdown while sock still open,e8820d88,ERROR Unexpected exception causing shutdown while sock still open,[]
+126,ERROR Unexpected exception causing shutdown while sock still open,e8820d88,ERROR Unexpected exception causing shutdown while sock still open,[]
+127,WARN ******* GOODBYE /10.10.34.13 : 57274 ********,cbad1d2c,WARN ******* GOODBYE <*> : <*> ********,"['/10.10.34.13', '57274']"
+128,ERROR Unexpected exception causing shutdown while sock still open,e8820d88,ERROR Unexpected exception causing shutdown while sock still open,[]
+129,ERROR Unexpected exception causing shutdown while sock still open,e8820d88,ERROR Unexpected exception causing shutdown while sock still open,[]
+130,WARN ******* GOODBYE /10.10.34.11 : 52502 ********,cbad1d2c,WARN ******* GOODBYE <*> : <*> ********,"['/10.10.34.11', '52502']"
+131,ERROR Unexpected exception causing shutdown while sock still open,e8820d88,ERROR Unexpected exception causing shutdown while sock still open,[]
+132,ERROR Unexpected exception causing shutdown while sock still open,e8820d88,ERROR Unexpected exception causing shutdown while sock still open,[]
+133,WARN ******* GOODBYE /10.10.34.13 : 57629 ********,cbad1d2c,WARN ******* GOODBYE <*> : <*> ********,"['/10.10.34.13', '57629']"
+134,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+135,"WARN Connection broken for id 188978561024 , my id = 2 , error =",adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",['2']
+136,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+137,"WARN Connection broken for id 188978561024 , my id = 2 , error =",adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",['2']
+138,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+139,INFO Received connection request /10.10.34.13 : 42646,6a611e72,INFO Received connection request <*> : <*>,"['/10.10.34.13', '42646']"
+140,INFO Received connection request /10.10.34.13 : 42647,6a611e72,INFO Received connection request <*> : <*>,"['/10.10.34.13', '42647']"
+141,WARN Send worker leaving thread,43efcc37,WARN Send worker leaving thread,[]
+142,WARN Send worker leaving thread,43efcc37,WARN Send worker leaving thread,[]
+143,"WARN Connection broken for id 188978561024 , my id = 2 , error =",adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",['2']
+144,"WARN Connection broken for id 188978561024 , my id = 2 , error =",adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",['2']
+145,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+146,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+147,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+148,WARN Connection request from old client /10.10.34.22 : 49276 ; will be dropped if server is in r-o mode,f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,"['/10.10.34.22', '49276']"
+149,INFO Closed socket connection for client /10.10.34.12 : 54577 which had sessionid 0x24ed93119420005,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.12', '54577', '0x24ed93119420005']"
+150,INFO Closed socket connection for client /10.10.34.13 : 37167 which had sessionid 0x24ed93119420006,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.13', '37167', '0x24ed93119420006']"
+151,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+152,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+153,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+154,WARN Exception when using channel : for id 3 my id = 2 error = java.net.SocketException : Broken pipe,c1efb6f3,WARN Exception when using channel : for id 3 my id = 2 error = java.net.SocketException : Broken pipe,[]
+155,"INFO Expiring session 0x24ed9311942000f , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24ed9311942000f', '10000ms']"
+156,INFO Processed session termination for sessionid : 0x24ed9311942000e,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24ed9311942000e']
+157,INFO Accepted socket connection from /10.10.34.13 : 37229,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.13', '37229']"
+158,INFO Client attempting to establish new session at /10.10.34.13 : 37229,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.13', '37229']"
+159,INFO Client attempting to renew session 0x14ed93111f20011 at /10.10.34.13 : 37246,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['renew', 'session 0x14ed93111f20011', '/10.10.34.13', '37246']"
+160,INFO Accepted socket connection from /10.10.34.13 : 37247,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.13', '37247']"
+161,INFO Processed session termination for sessionid : 0x24ed9311942000c,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24ed9311942000c']
+162,INFO Processed session termination for sessionid : 0x24ed93119420013,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24ed93119420013']
+163,INFO Processed session termination for sessionid : 0x34ed9348509000c,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ed9348509000c']
+164,INFO Processed session termination for sessionid : 0x14ed93111f20016,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14ed93111f20016']
+165,"INFO Expiring session 0x34ed93485090008 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x34ed93485090008', '10000ms']"
+166,"INFO Expiring session 0x24ed93119420029 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24ed93119420029', '10000ms']"
+167,"INFO Expiring session 0x24ed93119420020 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24ed93119420020', '10000ms']"
+168,INFO Processed session termination for sessionid : 0x14ed93111f2001a,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14ed93111f2001a']
+169,INFO Processed session termination for sessionid : 0x34ed9ac1c1e0006,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ed9ac1c1e0006']
+170,INFO Processed session termination for sessionid : 0x14ed93111f2001f,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14ed93111f2001f']
+171,INFO Processed session termination for sessionid : 0x34ed9ac1c1e0005,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ed9ac1c1e0005']
+172,INFO Processed session termination for sessionid : 0x24ed9311942001d,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24ed9311942001d']
+173,INFO Accepted socket connection from /10.10.34.16 : 56632,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.16', '56632']"
+174,INFO Client attempting to establish new session at /10.10.34.16 : 56632,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.16', '56632']"
+175,"INFO Expiring session 0x34ed9ac1c1e0014 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x34ed9ac1c1e0014', '10000ms']"
+176,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+177,INFO Closed socket connection for client /10.10.34.12 : 54626 which had sessionid 0x24ed93119420036,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.12', '54626', '0x24ed93119420036']"
+178,INFO Closed socket connection for client /10.10.34.16 : 56632 which had sessionid 0x24ed9311942003a,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.16', '56632', '0x24ed9311942003a']"
+179,INFO Processed session termination for sessionid : 0x14ed93111f20031,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14ed93111f20031']
+180,INFO Closed socket connection for client /10.10.34.27 : 32782 which had sessionid 0x24ed93119420043,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.27', '32782', '0x24ed93119420043']"
+181,"INFO Expiring session 0x24ed93119420051 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24ed93119420051', '10000ms']"
+182,"INFO Expiring session 0x24ed93119420054 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24ed93119420054', '10000ms']"
+183,INFO Processed session termination for sessionid : 0x34ed9ac1c1e0029,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ed9ac1c1e0029']
+184,INFO Processed session termination for sessionid : 0x34ed9ac1c1e002b,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ed9ac1c1e002b']
+185,INFO Processed session termination for sessionid : 0x34ed9ac1c1e0023,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ed9ac1c1e0023']
+186,INFO Processed session termination for sessionid : 0x24ed93119420054,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24ed93119420054']
+187,"INFO Expiring session 0x14ed93111f20052 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x14ed93111f20052', '10000ms']"
+188,"INFO Expiring session 0x24ed9311942003e , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24ed9311942003e', '10000ms']"
+189,"INFO Expiring session 0x14ed93111f20037 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x14ed93111f20037', '10000ms']"
+190,INFO Processed session termination for sessionid : 0x34ed9ac1c1e004e,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ed9ac1c1e004e']
+191,INFO Processed session termination for sessionid : 0x14ed93111f20068,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14ed93111f20068']
+192,WARN Connection request from old client /10.10.34.11 : 50948 ; will be dropped if server is in r-o mode,f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,"['/10.10.34.11', '50948']"
+193,"INFO Expiring session 0x24ed93119420069 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24ed93119420069', '10000ms']"
+194,INFO Processed session termination for sessionid : 0x34ed9ac1c1e0043,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ed9ac1c1e0043']
+195,INFO Processed session termination for sessionid : 0x24ed93119420067,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24ed93119420067']
+196,INFO Client attempting to establish new session at /10.10.34.12 : 54674,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.12', '54674']"
+197,"INFO Expiring session 0x34ed9ac1c1e0065 , timeout of 20000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x34ed9ac1c1e0065', '20000ms']"
+198,INFO Client attempting to establish new session at /10.10.34.24 : 50284,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.24', '50284']"
+199,INFO Accepted socket connection from /10.10.34.36 : 45207,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.36', '45207']"
+200,INFO Established session 0x24ed93119420091 with negotiated timeout 10000 for client /10.10.34.40 : 47629,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x24ed93119420091', '10000', '/10.10.34.40', '47629']"
+201,WARN Connection request from old client /10.10.34.42 : 45943 ; will be dropped if server is in r-o mode,f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,"['/10.10.34.42', '45943']"
+202,INFO Processed session termination for sessionid : 0x34ed9ac1c1e007c,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ed9ac1c1e007c']
+203,INFO Processed session termination for sessionid : 0x34ed9ac1c1e007d,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ed9ac1c1e007d']
+204,INFO Processed session termination for sessionid : 0x34ed9ac1c1e0077,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ed9ac1c1e0077']
+205,"INFO Expiring session 0x24ed93119420086 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24ed93119420086', '10000ms']"
+206,INFO Closed socket connection for client /10.10.34.32 : 39275 which had sessionid 0x24ed931194200a4,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.32', '39275', '0x24ed931194200a4']"
+207,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+208,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+209,INFO Closed socket connection for client /10.10.34.37 : 36139 which had sessionid 0x24ed931194200a8,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.37', '36139', '0x24ed931194200a8']"
+210,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+211,INFO Closed socket connection for client /10.10.34.11 : 56455 which had sessionid 0x24ed93119420098,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.11', '56455', '0x24ed93119420098']"
+212,INFO Processed session termination for sessionid : 0x14ed93111f200c1,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14ed93111f200c1']
+213,INFO Processed session termination for sessionid : 0x14ed93111f200c0,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14ed93111f200c0']
+214,INFO Closed socket connection for client /10.10.34.17 : 46395 which had sessionid 0x24ed931194200b0,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.17', '46395', '0x24ed931194200b0']"
+215,INFO Closed socket connection for client /10.10.34.30 : 60436 which had sessionid 0x24ed931194200b3,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.30', '60436', '0x24ed931194200b3']"
+216,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+217,INFO Established session 0x24ed931194200bb with negotiated timeout 10000 for client /10.10.34.12 : 54711,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x24ed931194200bb', '10000', '/10.10.34.12', '54711']"
+218,INFO Established session 0x24ed931194200bc with negotiated timeout 10000 for client /10.10.34.12 : 54712,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x24ed931194200bc', '10000', '/10.10.34.12', '54712']"
+219,"INFO Expiring session 0x24ed931194200b6 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24ed931194200b6', '10000ms']"
+220,"INFO Expiring session 0x24ed931194200b7 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24ed931194200b7', '10000ms']"
+221,INFO Processed session termination for sessionid : 0x14ed93111f200d2,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14ed93111f200d2']
+222,INFO Processed session termination for sessionid : 0x14ed93111f200d9,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14ed93111f200d9']
+223,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+224,INFO Closed socket connection for client /10.10.34.11 : 58228 which had sessionid 0x24ed931194200d0,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.11', '58228', '0x24ed931194200d0']"
+225,INFO Processed session termination for sessionid : 0x24ed931194200d1,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24ed931194200d1']
+226,INFO Processed session termination for sessionid : 0x34ed9ac1c1e00c7,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ed9ac1c1e00c7']
+227,WARN ******* GOODBYE /10.10.34.11 : 52221 ********,cbad1d2c,WARN ******* GOODBYE <*> : <*> ********,"['/10.10.34.11', '52221']"
+228,INFO Synchronizing with Follower sid : 1 maxCommittedLog = 0x100001546 minCommittedLog = 0x100001352 peerLastZxid = 0x100001546,c5019e9d,INFO Synchronizing with Follower sid : 1 maxCommittedLog = 0x100001546 minCommittedLog = 0x100001352 peerLastZxid = 0x100001546,[]
+229,INFO Accepted socket connection from /10.10.34.12 : 54759,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.12', '54759']"
+230,INFO Client attempting to establish new session at /10.10.34.13 : 37611,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.13', '37611']"
+231,INFO Established session 0x24ede63a01b0005 with negotiated timeout 10000 for client /10.10.34.11 : 53161,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x24ede63a01b0005', '10000', '/10.10.34.11', '53161']"
+232,INFO Closed socket connection for client /10.10.34.11 : 53174 which had sessionid 0x24ede63a01b0006,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.11', '53174', '0x24ede63a01b0006']"
+233,INFO Client attempting to establish new session at /10.10.34.12 : 52296,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.12', '52296']"
+234,INFO Established session 0x24ede63a01b001d with negotiated timeout 10000 for client /10.10.34.12 : 52296,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x24ede63a01b001d', '10000', '/10.10.34.12', '52296']"
+235,INFO Client attempting to establish new session at /10.10.34.13 : 52295,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.13', '52295']"
+236,INFO Established session 0x24ede63a01b001f with negotiated timeout 10000 for client /10.10.34.13 : 52294,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x24ede63a01b001f', '10000', '/10.10.34.13', '52294']"
+237,INFO Closed socket connection for client /10.10.34.13 : 52310 which had sessionid 0x24ede63a01b0032,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.13', '52310', '0x24ede63a01b0032']"
+238,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+239,INFO Client attempting to establish new session at /10.10.34.12 : 52326,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.12', '52326']"
+240,INFO Accepted socket connection from /10.10.34.12 : 52327,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.12', '52327']"
+241,WARN Connection request from old client /10.10.34.12 : 52355 ; will be dropped if server is in r-o mode,f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,"['/10.10.34.12', '52355']"
+242,INFO Client attempting to establish new session at /10.10.34.12 : 52355,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.12', '52355']"
+243,INFO Established session 0x24ede63a01b004d with negotiated timeout 10000 for client /10.10.34.12 : 52355,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x24ede63a01b004d', '10000', '/10.10.34.12', '52355']"
+244,INFO Client attempting to establish new session at /10.10.34.34 : 47135,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.34', '47135']"
+245,INFO Accepted socket connection from /10.10.34.37 : 36145,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.37', '36145']"
+246,INFO Established session 0x24ede63a01b006b with negotiated timeout 10000 for client /10.10.34.37 : 36145,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x24ede63a01b006b', '10000', '/10.10.34.37', '36145']"
+247,INFO Server environment : os.arch = amd64,7a42de1b,INFO Server environment : <*> = <*>,"['os.arch', 'amd64']"
+248,INFO Server environment : user.home = /var/lib/zookeeper,7a42de1b,INFO Server environment : <*> = <*>,"['user.home', '/var/lib/zookeeper']"
+249,INFO Server environment : user.dir = /,7a42de1b,INFO Server environment : <*> = <*>,"['user.dir', '/']"
+250,INFO Snapshotting : 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd,407b1e5b,INFO Snapshotting : 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd,[]
+251,WARN First is 0x0,d3628be1,WARN First is 0x0,[]
+252,"INFO Expiring session 0x14edfaa86f60006 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x14edfaa86f60006', '10000ms']"
+253,"INFO Expiring session 0x34edfaa9c220008 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x34edfaa9c220008', '10000ms']"
+254,INFO Processed session termination for sessionid : 0x24edfaa87170004,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24edfaa87170004']
+255,INFO Processed session termination for sessionid : 0x34edfaa9c220006,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34edfaa9c220006']
+256,INFO Processed session termination for sessionid : 0x24edfaa87170008,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24edfaa87170008']
+257,INFO Processed session termination for sessionid : 0x14edfaa86f60004,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14edfaa86f60004']
+258,INFO Client attempting to establish new session at /10.10.34.14 : 60946,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.14', '60946']"
+259,INFO Closed socket connection for client /10.10.34.11 : 57796 which had sessionid 0x24edfaa87170016,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.11', '57796', '0x24edfaa87170016']"
+260,INFO Closed socket connection for client /10.10.34.17 : 37587 which had sessionid 0x24edfaa87170017,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.17', '37587', '0x24edfaa87170017']"
+261,WARN Connection request from old client /10.10.34.21 : 42524 ; will be dropped if server is in r-o mode,f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,"['/10.10.34.21', '42524']"
+262,INFO Established session 0x24edfaa87170027 with negotiated timeout 10000 for client /10.10.34.28 : 53817,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x24edfaa87170027', '10000', '/10.10.34.28', '53817']"
+263,INFO Accepted socket connection from /10.10.34.25 : 39033,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.25', '39033']"
+264,INFO Established session 0x24edfaa87170028 with negotiated timeout 10000 for client /10.10.34.25 : 39033,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x24edfaa87170028', '10000', '/10.10.34.25', '39033']"
+265,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+266,"INFO Expiring session 0x24edfaa8717002f , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24edfaa8717002f', '10000ms']"
+267,INFO Processed session termination for sessionid : 0x24edfaa8717002f,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24edfaa8717002f']
+268,INFO Processed session termination for sessionid : 0x24edfaa87170022,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24edfaa87170022']
+269,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+270,INFO Processed session termination for sessionid : 0x14edfaa86f6003d,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14edfaa86f6003d']
+271,"INFO Expiring session 0x24edfaa87170037 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24edfaa87170037', '10000ms']"
+272,"INFO Expiring session 0x24edfaa87170038 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24edfaa87170038', '10000ms']"
+273,INFO Processed session termination for sessionid : 0x24edfaa87170037,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24edfaa87170037']
+274,INFO Processed session termination for sessionid : 0x24edfaa87170038,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24edfaa87170038']
+275,INFO Processed session termination for sessionid : 0x34edfaa9c220049,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34edfaa9c220049']
+276,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+277,WARN Cannot open channel to 1 at election address /10.10.34.11 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['1', '/10.10.34.11']"
+278,WARN Cannot open channel to 3 at election address /10.10.34.13 : 3888,6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,"['3', '/10.10.34.13']"
+279,INFO Notification time out : 800,4010f2f9,INFO Notification time out : <*>,['800']
+280,INFO Accepted socket connection from /10.10.34.11 : 44676,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.11', '44676']"
+281,INFO Client attempting to establish new session at /10.10.34.11 : 44676,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.11', '44676']"
+282,INFO Processed session termination for sessionid : 0x34ee30a5c530002,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ee30a5c530002']
+283,"INFO Expiring session 0x14ee3e057ed000b , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x14ee3e057ed000b', '10000ms']"
+284,INFO Processed session termination for sessionid : 0x34ee30a5c530009,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34ee30a5c530009']
+285,INFO Processed session termination for sessionid : 0x24ee30a54f50018,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24ee30a54f50018']
+286,INFO Processed session termination for sessionid : 0x14ee3e057ed0019,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14ee3e057ed0019']
+287,INFO Processed session termination for sessionid : 0x14ee3e057ed0018,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14ee3e057ed0018']
+288,INFO Processed session termination for sessionid : 0x14ee3e057ed0016,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14ee3e057ed0016']
+289,"INFO Expiring session 0x34ee30a5c530013 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x34ee30a5c530013', '10000ms']"
+290,"INFO Expiring session 0x24ee30a54f5001d , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24ee30a54f5001d', '10000ms']"
+291,"INFO Expiring session 0x34ee30a5c530012 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x34ee30a5c530012', '10000ms']"
+292,INFO Processed session termination for sessionid : 0x24ee30a54f5001e,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24ee30a54f5001e']
+293,INFO Got user-level KeeperException when processing sessionid : 0x34ee30a5c53002d type : create cxid : 0x55bb7920 zxid : 0x700000110 txntype : -1 reqpath : n/a Error Path : /hdfs-mesos/hdfs Error : KeeperErrorCode = NodeExists for /hdfs-mesos/hdfs,15c1092f,INFO Got user-level KeeperException when processing sessionid : 0x34ee30a5c53002d type : create cxid : 0x55bb7920 zxid : 0x700000110 txntype : -1 reqpath : n/a Error Path : /hdfs-mesos/hdfs Error : KeeperErrorCode = NodeExists for /hdfs-mesos/hdfs,[]
+294,"INFO Expiring session 0x14ee3e057ed0031 , timeout of 20000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x14ee3e057ed0031', '20000ms']"
+295,INFO My election bind port : 0.0.0.0/0.0.0.0 : 3888,13d7405b,INFO My election bind port : 0.0.0.0/0.0.0.0 : 3888,[]
+296,INFO Notification time out : 800,4010f2f9,INFO Notification time out : <*>,['800']
+297,INFO Notification time out : 1600,4010f2f9,INFO Notification time out : <*>,['1600']
+298,INFO Established session 0x24f0557806a0013 with negotiated timeout 10000 for client /10.10.34.11 : 50722,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x24f0557806a0013', '10000', '/10.10.34.11', '50722']"
+299,INFO Client attempting to establish new session at /10.10.34.11 : 50764,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.11', '50764']"
+300,INFO Established session 0x24f0557806a0016 with negotiated timeout 10000 for client /10.10.34.11 : 50765,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x24f0557806a0016', '10000', '/10.10.34.11', '50765']"
+301,INFO Client attempting to renew session 0x24f0557806a0021 at /10.10.34.19 : 40380,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['renew', 'session 0x24f0557806a0021', '/10.10.34.19', '40380']"
+302,INFO Accepted socket connection from /10.10.34.15 : 49471,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.15', '49471']"
+303,INFO Client attempting to renew session 0x24f0557806a001f at /10.10.34.15 : 49471,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['renew', 'session 0x24f0557806a001f', '/10.10.34.15', '49471']"
+304,WARN Connection request from old client /10.10.34.11 : 51195 ; will be dropped if server is in r-o mode,f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,"['/10.10.34.11', '51195']"
+305,INFO Client attempting to renew session 0x24f0557806a0019 at /10.10.34.11 : 51194,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['renew', 'session 0x24f0557806a0019', '/10.10.34.11', '51194']"
+306,INFO Revalidating client : 0x24f0557806a0020,9f4428a1,INFO Revalidating client : 0x24f0557806a0020,[]
+307,INFO Client attempting to renew session 0x24f0557806a0023 at /10.10.34.14 : 54245,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['renew', 'session 0x24f0557806a0023', '/10.10.34.14', '54245']"
+308,INFO Established session 0x24f1724b8af0016 with negotiated timeout 10000 for client /10.10.34.14 : 54248,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x24f1724b8af0016', '10000', '/10.10.34.14', '54248']"
+309,INFO Client attempting to establish new session at /10.10.34.11 : 51551,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.11', '51551']"
+310,INFO Established session 0x24f1724b8af0017 with negotiated timeout 20000 for client /10.10.34.11 : 51551,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x24f1724b8af0017', '20000', '/10.10.34.11', '51551']"
+311,INFO Accepted socket connection from /10.10.34.11 : 51562,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.11', '51562']"
+312,INFO Client attempting to establish new session at /10.10.34.11 : 60669,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.11', '60669']"
+313,INFO Established session 0x24f3fdaf7380001 with negotiated timeout 10000 for client /10.10.34.11 : 60669,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x24f3fdaf7380001', '10000', '/10.10.34.11', '60669']"
+314,INFO Client attempting to establish new session at /10.10.34.12 : 36322,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.12', '36322']"
+315,INFO Established session 0x24f3fdaf7380004 with negotiated timeout 10000 for client /10.10.34.13 : 53384,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x24f3fdaf7380004', '10000', '/10.10.34.13', '53384']"
+316,INFO Accepted socket connection from /10.10.34.11 : 60680,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.11', '60680']"
+317,INFO Processed session termination for sessionid : 0x14f3fdae8ba0013,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14f3fdae8ba0013']
+318,INFO Processed session termination for sessionid : 0x34f3fdb1f23000b,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34f3fdb1f23000b']
+319,INFO Processed session termination for sessionid : 0x24f3fdaf738000c,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24f3fdaf738000c']
+320,INFO Processed session termination for sessionid : 0x24f3fdaf738000e,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24f3fdaf738000e']
+321,WARN ******* GOODBYE /10.10.34.11 : 49928 ********,cbad1d2c,WARN ******* GOODBYE <*> : <*> ********,"['/10.10.34.11', '49928']"
+322,INFO exception while shutting down acceptor : java.net.SocketException : Socket closed,68808e18,INFO exception while shutting down acceptor : java.net.SocketException : Socket closed,[]
+323,INFO Closed socket connection for client /10.10.34.12 : 36445 ( no session established for client ),f022ed20,INFO Closed socket connection for client /10.10.34.12 : 36445 ( no session established for client ),[]
+324,INFO Accepted socket connection from /10.10.34.12 : 36449,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.12', '36449']"
+325,"INFO Expiring session 0x14f3fdae8ba0016 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x14f3fdae8ba0016', '10000ms']"
+326,INFO Processed session termination for sessionid : 0x14f3fdae8ba000c,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14f3fdae8ba000c']
+327,INFO Processed session termination for sessionid : 0x34f3fdb1f230008,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x34f3fdb1f230008']
+328,INFO Client attempting to establish new session at /10.10.34.22 : 37109,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.22', '37109']"
+329,"INFO Expiring session 0x34f4a63146b0005 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x34f4a63146b0005', '10000ms']"
+330,"INFO Expiring session 0x14f4a6318b80004 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x14f4a6318b80004', '10000ms']"
+331,"INFO Expiring session 0x24f4a631df90000 , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x24f4a631df90000', '10000ms']"
+332,INFO Processed session termination for sessionid : 0x24f4a631df90015,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x24f4a631df90015']
+333,INFO Closed socket connection for client /10.10.34.11 : 34411 which had sessionid 0x24f4a631df90019,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.11', '34411', '0x24f4a631df90019']"
+334,INFO Closed socket connection for client /10.10.34.13 : 53612 which had sessionid 0x24f4a631df9001a,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.13', '53612', '0x24f4a631df9001a']"
+335,INFO Processed session termination for sessionid : 0x14f4a6318b8003d,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14f4a6318b8003d']
+336,"INFO Expiring session 0x34f4a63146b004a , timeout of 10000ms exceeded",9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded","['0x34f4a63146b004a', '10000ms']"
+337,INFO Processed session termination for sessionid : 0x14f4a6318b8003e,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14f4a6318b8003e']
+338,INFO Processed session termination for sessionid : 0x14f4a6318b80035,3c48ca42,INFO Processed session termination for sessionid : <*>,['0x14f4a6318b80035']
+339,"INFO Notification : 3 ( n.leader ) , 0xd0000001b ( n.zxid ) , 0x3 ( n.round ) , LEADING ( n.state ) , 3 ( n.sid ) , 0xe ( n.peerEPoch ) , LOOKING ( my state )",c1a80c28,"INFO Notification : <*> ( n.leader ) , <*> ( n.zxid ) , <*> ( n.round ) , <*> ( n.state ) , <*> ( n.sid ) , <*> ( n.peerEPoch ) , LOOKING ( my state )","['3', '0xd0000001b', '0x3', 'LEADING', '3', '0xe']"
+340,INFO Server environment : java.library.path = /usr/java/packages/lib/amd64 : /usr/lib/x86_64-linux-gnu/jni : /lib/x86_64-linux-gnu : /usr/lib/x86_64-linux-gnu : /usr/lib/jni : /lib : /usr/lib,5ef7c293,INFO Server environment : java.library.path = /usr/java/packages/lib/amd64 : /usr/lib/x86_64-linux-gnu/jni : /lib/x86_64-linux-gnu : /usr/lib/x86_64-linux-gnu : /usr/lib/jni : /lib : /usr/lib,[]
+341,INFO Server environment : os.arch = amd64,7a42de1b,INFO Server environment : <*> = <*>,"['os.arch', 'amd64']"
+342,INFO Server environment : os.version = 3.16.0-30-generic,7a42de1b,INFO Server environment : <*> = <*>,"['os.version', '3.16.0-30-generic']"
+343,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+344,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+345,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+346,INFO Received connection request /10.10.34.11 : 46518,6a611e72,INFO Received connection request <*> : <*>,"['/10.10.34.11', '46518']"
+347,WARN Send worker leaving thread,43efcc37,WARN Send worker leaving thread,[]
+348,WARN Send worker leaving thread,43efcc37,WARN Send worker leaving thread,[]
+349,WARN Send worker leaving thread,43efcc37,WARN Send worker leaving thread,[]
+350,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+351,WARN Interrupting SendWorker,a6fada62,WARN Interrupting SendWorker,[]
+352,WARN Send worker leaving thread,43efcc37,WARN Send worker leaving thread,[]
+353,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+354,WARN Send worker leaving thread,43efcc37,WARN Send worker leaving thread,[]
+355,"WARN Connection broken for id 188978561024 , my id = 3 , error =",adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",['3']
+356,WARN Interrupting SendWorker,a6fada62,WARN Interrupting SendWorker,[]
+357,"WARN Connection broken for id 188978561024 , my id = 3 , error =",adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",['3']
+358,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+359,WARN Send worker leaving thread,43efcc37,WARN Send worker leaving thread,[]
+360,"WARN Connection broken for id 188978561024 , my id = 3 , error =",adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",['3']
+361,WARN Interrupting SendWorker,a6fada62,WARN Interrupting SendWorker,[]
+362,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+363,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+364,WARN Send worker leaving thread,43efcc37,WARN Send worker leaving thread,[]
+365,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+366,WARN Interrupting SendWorker,a6fada62,WARN Interrupting SendWorker,[]
+367,WARN Send worker leaving thread,43efcc37,WARN Send worker leaving thread,[]
+368,INFO Received connection request /10.10.34.13 : 44350,6a611e72,INFO Received connection request <*> : <*>,"['/10.10.34.13', '44350']"
+369,INFO Received connection request /10.10.34.11 : 46693,6a611e72,INFO Received connection request <*> : <*>,"['/10.10.34.11', '46693']"
+370,INFO Received connection request /10.10.34.11 : 46699,6a611e72,INFO Received connection request <*> : <*>,"['/10.10.34.11', '46699']"
+371,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+372,INFO Received connection request /10.10.34.12 : 47140,6a611e72,INFO Received connection request <*> : <*>,"['/10.10.34.12', '47140']"
+373,WARN Interrupting SendWorker,a6fada62,WARN Interrupting SendWorker,[]
+374,WARN Send worker leaving thread,43efcc37,WARN Send worker leaving thread,[]
+375,INFO Received connection request /10.10.34.13 : 44405,6a611e72,INFO Received connection request <*> : <*>,"['/10.10.34.13', '44405']"
+376,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+377,"WARN Connection broken for id 188978561024 , my id = 3 , error =",adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",['3']
+378,"WARN Connection broken for id 188978561024 , my id = 3 , error =",adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",['3']
+379,"WARN Connection broken for id 188978561024 , my id = 3 , error =",adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",['3']
+380,WARN Interrupting SendWorker,a6fada62,WARN Interrupting SendWorker,[]
+381,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+382,WARN Send worker leaving thread,43efcc37,WARN Send worker leaving thread,[]
+383,WARN Send worker leaving thread,43efcc37,WARN Send worker leaving thread,[]
+384,"WARN Connection broken for id 188978561024 , my id = 3 , error =",adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",['3']
+385,INFO Received connection request /10.10.34.12 : 47204,6a611e72,INFO Received connection request <*> : <*>,"['/10.10.34.12', '47204']"
+386,"WARN Connection broken for id 188978561024 , my id = 3 , error =",adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",['3']
+387,"WARN Connection broken for id 188978561024 , my id = 3 , error =",adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",['3']
+388,WARN Send worker leaving thread,43efcc37,WARN Send worker leaving thread,[]
+389,"WARN Connection broken for id 188978561024 , my id = 3 , error =",adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",['3']
+390,INFO Received connection request /10.10.34.12 : 47253,6a611e72,INFO Received connection request <*> : <*>,"['/10.10.34.12', '47253']"
+391,"WARN Connection broken for id 188978561024 , my id = 3 , error =",adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",['3']
+392,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+393,WARN Interrupted while waiting for message on queue,6d4370a3,WARN Interrupted while waiting for message on queue,[]
+394,INFO Client attempting to establish new session at /10.10.34.32 : 55285,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.32', '55285']"
+395,INFO Accepted socket connection from /10.10.34.34 : 54700,da32e978,INFO Accepted socket connection from <*> : <*>,"['/10.10.34.34', '54700']"
+396,INFO Client attempting to establish new session at /10.10.34.34 : 54700,25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,"['establish', 'new session', '/10.10.34.34', '54700']"
+397,WARN Connection request from old client /10.10.34.35 : 37439 ; will be dropped if server is in r-o mode,f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,"['/10.10.34.35', '37439']"
+398,WARN Connection request from old client /10.10.34.37 : 36475 ; will be dropped if server is in r-o mode,f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,"['/10.10.34.37', '36475']"
+399,INFO Established session 0x34ed9ac1c1e0047 with negotiated timeout 10000 for client /10.10.34.37 : 36475,52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,"['0x34ed9ac1c1e0047', '10000', '/10.10.34.37', '36475']"
+400,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+401,INFO Closed socket connection for client /10.10.34.25 : 55853 which had sessionid 0x34ed9ac1c1e0089,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.25', '55853', '0x34ed9ac1c1e0089']"
+402,INFO Closed socket connection for client /10.10.34.38 : 43518 which had sessionid 0x34ed9ac1c1e008b,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.38', '43518', '0x34ed9ac1c1e008b']"
+403,WARN caught end of stream exception,dc800d8a,WARN caught end of stream exception,[]
+404,INFO Closed socket connection for client /10.10.34.13 : 54579 which had sessionid 0x34ed9ac1c1e0083,a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,"['/10.10.34.13', '54579', '0x34ed9ac1c1e0083']"

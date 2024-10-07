@@ -1,0 +1,30 @@
+EventId,EventTemplate,Occurrences
+a307c527,unix.hw state_change.unavailable <*> 1 Component State Change : Component \042alt0\042 is in the unavailable state ( HWID = <*> ),12
+ef0c9f0e,boot_cmd success <*> 1 Command has completed successfully,5
+683e8f3b,boot_cmd new <*> 1 Targeting domains : <*> and nodes : <*> child of command <*>,2
+e2722c79,shutdown_cmd new 1077380259 1 Targeting domains : node-D1 and nodes : node- [ 35-60 ],1
+64116bd5,boot_cmd new <*> 1 Targeting domains : <*> and nodes : <*>,6
+c0235d42,boot_cmd new <*> 1 Targeting domains : <*> and nodes : node- [ <*> ] child of command <*>,4
+552a7960,install_cmd new 1142536779 1 Targeting domains : node-D4 and nodes : node-129,1
+4cc328bc,switch_module temphigh <*> 1 Temperature ( <*> ) exceeds warning threshold,5
+520ee170,unix.hw net.niff.down <*> 1 NIFF : node <*> detected a failed network connection on network 5.5.224.0 via interface alt0,8
+53db716f,switch_module fan <*> 1 Fan speeds ( <*> 3534 3375 <*> <*> 3479 ),23
+85bdcf47,switch_module bcast-error <*> 1 Link error on broadcast tree Interconnect-1T00 : 00 : 2 : 0,4
+5b3426c9,clusterfilesystem clusterfilesystem.not_served <*> 1 ClusterFileSystem : ServerFileSystem domain <*> is no longer served by node <*>,29
+b5e905fb,partition status <*> <*> <*>,35
+13e5a533,node status <*> 1 <*> <*>,48
+7b0a085f,node status <*> <*> <*>,72
+61a567e1,node status <*> 0 <*> <*>,22
+78158009,tserver status <*> 1 <*>,2
+9e6a3bb2,domain status 1131551640 1 inconsistent nodesets node-151 0x1fffffffe <ok> node-145 0x1fffffffe <ok> node-150 0x1fffffffe <ok> node-141 0x1fffffffe <ok> node-128 0x1fffffffe <ok> node-129 0x1fffffffe <ok> node-136 0x1fffffffe <ok> node-130 0x1fffffffe <ok> node-153 0x1fffffffe <ok> node-134 0x1fffffffe <ok> node-154 0x1fffffffe <ok> node-142 0x09fffdfe <ok>,1
+b3860b59,gige temperature <*> 1 <*>,23
+a8c329b2,switch_module error <*> 1 Link <*>,17
+231f527c,switch_module error <*> 1 Link in reset,11
+5271ae4c,switch_module error <*> 1 Linkerror event interval expired,17
+e4425a43,install_cmd error 1074212466 1 Command Failed on : node-164,1
+66f700e8,action error <*> 1 boot ( command 3002 ) Error : HALT asserted\ cannot continue,2
+ee77df20,action error 1086022086 1 boot ( command 3002 ) Error : Unknown We failed to determine the state of this node,1
+fc319ee2,shutdown_cmd error 1085980335 1 Failed subcommands 2988\ 2989\ 2990\ 2991\ 2992\ 2994\ 2995,1
+2366c8de,switch_module error <*> 1 link errors remain current,14
+537b0488,unix.hw net.niff.up <*> 1 NIFF : node <*> has detected an available network connection on network <*> via interface <*>,22
+d3fb4f32,unix.hw state_change.available <*> 1 Component State Change : Component \042alt0\042 is in the available state ( HWID = <*> ),11
