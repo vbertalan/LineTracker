@@ -1,30 +1,33 @@
 EventId,EventTemplate,Occurrences
-4765f85a,Update row : <*>,5
-0d8b6b74,"INFO storage.MemoryStore : Block <*> stored as <*> in memory ( estimated size <*> <*> , free <*> <*> )",42
-56b182f4,"INFO MemoryStore : Block <*> stored as bytes in memory ( estimated size 4.0 MB , free <*> <*> )",4
-5e44bbe3,"INFO BlockManagerInfo : Added <*> in memory on <*> : <*> ( size : <*> MB , free : <*> GB )",12
-4b899ac3,"INFO client.TransportClientFactory : Found inactive connection to mesos-slave-08/10.10.34.18 : 55867 , creating a new one.",1
-03b69f6b,at <*> ( <*> : <*> ),3
+4765f85a,Update row : <*>,7
+0d8b6b74,"INFO storage.MemoryStore : Block <*> stored as <*> in memory ( estimated size <*> <*> , free <*> <*> )",31
+5e44bbe3,"INFO BlockManagerInfo : Added <*> in memory on <*> : <*> ( size : <*> MB , free : <*> GB )",13
+56b182f4,"INFO MemoryStore : Block <*> stored as bytes in memory ( estimated size 4.0 MB , free <*> <*> )",8
+c182cfc4,at org.apache.spark.network.client.TransportClientFactory.createClient ( TransportClientFactory.java : 167 ),1
+87c6845f,at java.util.concurrent.Executors$RunnableAdapter.call ( Executors.java : 471 ),1
 2907189f,java.net.ConnectException : Connection refused : mesos-slave-08/10.10.34.18 : 55867,1
-d6733a81,"INFO spark.CacheManager : Partition <*> not found , computing it",11
-02aa487b,INFO rdd.HadoopRDD : Input split : hdfs : //10.10.34.11 : 9000/pjhe/logs/2kProxifier.log : 165672+6136,1
-4d8cddef,"INFO python.PythonRunner : Times : total = <*> , boot = <*> , init = <*> , finish = <*>",64
-0c6a8ef5,INFO executor.Executor : Running task <*> in stage <*> ( TID <*> ),45
-04bf5c3e,INFO mapred.SparkHadoopMapRedUtil : <*> : Committed,12
-d8ba5289,INFO executor.CoarseGrainedExecutorBackend : <*> <*> <*> <*>,38
-263f448d,INFO executor.Executor : Finished task <*> in stage <*> ( TID <*> ) . <*> bytes result sent to driver,49
-2df1e001,INFO output.FileOutputCommitter : Saved output of task <*> to hdfs : //10.10.34.11 : <*>,13
-031bd3b1,INFO broadcast.TorrentBroadcast : Started reading broadcast variable <*>,3
-cf646f32,INFO storage.BlockManager : Found block <*> locally,52
-9f858d60,INFO broadcast.TorrentBroadcast : Reading broadcast variable <*> took <*> ms,7
+6627343a,at sun.nio.ch.SocketChannelImpl.checkConnect ( Native Method ),1
+5e7df7b1,at sun.nio.ch.SocketChannelImpl.finishConnect ( SocketChannelImpl.java : 744 ),1
+625e815d,INFO rdd.HadoopRDD : Input split : hdfs : //10.10.34.11 : 9000/pjhe/logs/2kProxifier.log : 171808+6136,1
+8472f612,INFO executor.CoarseGrainedExecutorBackend : Got assigned task <*>,46
+4d8cddef,"INFO python.PythonRunner : Times : total = <*> , boot = <*> , init = <*> , finish = <*>",72
+cf646f32,INFO storage.BlockManager : Found block <*> locally,44
+2df1e001,INFO output.FileOutputCommitter : Saved output of task <*> to hdfs : //10.10.34.11 : <*>,7
+263f448d,INFO executor.Executor : Finished task <*> in stage <*> ( TID <*> ) . <*> bytes result sent to driver,39
+0c6a8ef5,INFO executor.Executor : Running task <*> in stage <*> ( TID <*> ),55
+031bd3b1,INFO broadcast.TorrentBroadcast : Started reading broadcast variable <*>,2
+d6733a81,"INFO spark.CacheManager : Partition <*> not found , computing it",13
+04bf5c3e,INFO mapred.SparkHadoopMapRedUtil : <*> : Committed,19
 22ee3858,INFO output.FileOutputCommitter : File Output Committer Algorithm version is 1,9
 73e28824,INFO ApplicationMaster : Waiting for spark context initialization ...,1
-bf9bb989,INFO Remoting : Remoting started ; listening on addresses : [ akka.tcp : <*> : <*> ],2
-9ea8a9fc,"INFO spark.SecurityManager : SecurityManager : authentication disabled ; ui acls disabled ; users with view permissions : Set ( yarn , curi ) ; users with modify permissions : Set ( yarn , curi )",1
-ac20cfce,INFO <*> : <*> <*>,2
-d23927e6,INFO util.Utils : Successfully started service 'sparkExecutorActorSystem' on port 35024.,1
-6d0b604c,INFO netty.NettyBlockTransferService : Server created on 42771,1
-2980a047,INFO TaskSetManager : Finished task <*> in stage 8.0 ( TID <*> ) in <*> ms on <*> ( <*> ),2
-8ca094a4,"INFO TaskSetManager : Starting task <*> in stage 8.0 ( TID <*> , <*> , partition <*> , RACK_LOCAL , 1894 bytes )",2
+8903c0a7,"INFO SecurityManager : SecurityManager : authentication disabled ; ui acls disabled ; users with view permissions : Set ( yarn , curi ) ; users with modify permissions : Set ( yarn , curi )",1
+785587b9,INFO Remoting : Starting remoting,2
+dc8ef39c,INFO DiskBlockManager : Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0036/blockmgr-54eae980-791c-4d30-8d66-57a0a609e046,1
+9f858d60,INFO broadcast.TorrentBroadcast : Reading broadcast variable <*> took <*> ms,8
 9d43bb7c,"INFO spark.SecurityManager : Changing modify acls to : yarn , curi",1
-880e1304,INFO storage.BlockManager : Removing RDD <*>,15
+5c95bfcd,"INFO TaskSetManager : Starting task 36.0 in stage 8.0 ( TID 518 , mesos-slave-17 , partition 36 , RACK_LOCAL , 1894 bytes )",1
+6203a8cb,INFO TaskSetManager : Finished task 25.0 in stage 8.0 ( TID 507 ) in 42678 ms on mesos-slave-26 ( 10/80 ),1
+9d9ddc24,INFO util.Utils : Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 36394.,1
+1be82e36,INFO netty.NettyBlockTransferService : Server created on 36394,1
+35dd3bab,INFO storage.BlockManagerMaster : Trying to register BlockManager,1
+880e1304,INFO storage.BlockManager : Removing RDD <*>,10

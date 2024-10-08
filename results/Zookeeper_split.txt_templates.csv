@@ -1,36 +1,36 @@
 EventId,EventTemplate,Occurrences
-6a611e72,INFO Received connection request <*> : <*>,11
+6d4370a3,WARN Interrupted while waiting for message on queue,19
+43efcc37,WARN Send worker leaving thread,13
 adec9aac,"WARN Connection broken for id 188978561024 , my id = <*> , error =",17
-6d4370a3,WARN Interrupted while waiting for message on queue,22
-52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,22
-da32e978,INFO Accepted socket connection from <*> : <*>,22
-dc800d8a,WARN caught end of stream exception,23
-25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,32
-a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,30
-f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,15
-9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded",39
-3c48ca42,INFO Processed session termination for sessionid : <*>,68
-c1a80c28,"INFO Notification : <*> ( n.leader ) , <*> ( n.zxid ) , <*> ( n.round ) , <*> ( n.state ) , <*> ( n.sid ) , <*> ( n.peerEPoch ) , LOOKING ( my state )",8
-6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,17
-4010f2f9,INFO Notification time out : <*>,10
-bf09ffe8,"INFO Server environment : zookeeper.version = 3.4.5--1 , built on 06/10/2013 17 : 26 GMT",1
-15fe8608,INFO Server environment : java.class.path = /etc/zookeeper/conf : /usr/share/java/jline.jar : /usr/share/java/log4j-1.2.jar : /usr/share/java/xercesImpl.jar : /usr/share/java/xmlParserAPIs.jar : /usr/share/java/netty.jar : /usr/share/java/slf4j-api.jar : /usr/share/java/slf4j-log4j12.jar : /usr/share/java/zookeeper.jar,2
-152cb211,"2015-08-07 07 : 27 : 47 , 409 - INFO [ QuorumPeer [ myid = 1 ] /0 : 0 : 0 : 0 : 0 : 0 : 0 : 0 : 2181 : QuorumPeer@670 ] - LOOKING",1
-2ce9e9f2,"INFO Have smaller server identifier , so dropping the connection : ( <*> , 1 )",2
-7a42de1b,INFO Server environment : <*> = <*>,6
-f4086e14,INFO Shutting down,1
-2961939c,INFO shutting down,1
-e8820d88,ERROR Unexpected exception causing shutdown while sock still open,15
-cbad1d2c,WARN ******* GOODBYE <*> : <*> ********,9
-43efcc37,WARN Send worker leaving thread,14
-c1efb6f3,WARN Exception when using channel : for id 3 my id = 2 error = java.net.SocketException : Broken pipe,1
-c5019e9d,INFO Synchronizing with Follower sid : 1 maxCommittedLog = 0x100001546 minCommittedLog = 0x100001352 peerLastZxid = 0x100001546,1
-407b1e5b,INFO Snapshotting : 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd,1
-d3628be1,WARN First is 0x0,1
-15c1092f,INFO Got user-level KeeperException when processing sessionid : 0x34ee30a5c53002d type : create cxid : 0x55bb7920 zxid : 0x700000110 txntype : -1 reqpath : n/a Error Path : /hdfs-mesos/hdfs Error : KeeperErrorCode = NodeExists for /hdfs-mesos/hdfs,1
+52f551a0,INFO Established session <*> with negotiated timeout <*> for client <*> : <*>,16
+25b24862,INFO Client attempting to <*> <*> <*> at <*> : <*>,18
+a46fe0af,INFO Closed socket connection for client <*> : <*> which had sessionid <*>,29
+dc800d8a,WARN caught end of stream exception,26
+f7055886,WARN Connection request from old client <*> : <*> ; will be dropped if server is in r-o mode,19
+da32e978,INFO Accepted socket connection from <*> : <*>,34
+3c48ca42,INFO Processed session termination for sessionid : <*>,48
+9eab1064,"INFO Expiring session <*> , timeout of <*> exceeded",55
+6dd1fb66,WARN Cannot open channel to <*> at election address <*> : 3888,13
+4010f2f9,INFO Notification time out : <*>,7
+6a611e72,INFO Received connection request <*> : <*>,17
+c1a80c28,"INFO Notification : <*> ( n.leader ) , <*> ( n.zxid ) , <*> ( n.round ) , <*> ( n.state ) , <*> ( n.sid ) , <*> ( n.peerEPoch ) , LOOKING ( my state )",5
+5ef7c293,INFO Server environment : java.library.path = /usr/java/packages/lib/amd64 : /usr/lib/x86_64-linux-gnu/jni : /lib/x86_64-linux-gnu : /usr/lib/x86_64-linux-gnu : /usr/lib/jni : /lib : /usr/lib,2
+cf5f9b0b,"INFO New election. My id = 1 , proposed zxid = <*>",2
+14ac6a91,"INFO Have smaller server identifier , so dropping the connection : ( 2 , 1 )",1
+dbcb2fef,INFO Revalidating client : <*>,6
+f4086e14,INFO Shutting down,3
+95e1f17f,INFO CommitProcessor exited loop!,1
+16d02e71,INFO SyncRequestProcessor exited!,1
+cbad1d2c,WARN ******* GOODBYE <*> : <*> ********,10
+e8820d88,ERROR Unexpected exception causing shutdown while sock still open,11
+a6fada62,WARN Interrupting SendWorker,16
+59a252b7,INFO <*> <*>,2
+7a42de1b,INFO Server environment : <*> = <*>,5
+96e1896c,INFO Created server with tickTime 2000 minSessionTimeout 4000 maxSessionTimeout 40000 datadir /var/lib/zookeeper/version-2 snapdir /var/lib/zookeeper/version-2,1
+64d8eca4,INFO Synchronizing with Follower sid : 1 maxCommittedLog = 0x0 minCommittedLog = 0x0 peerLastZxid = 0x300000dcd,1
+9036e3aa,INFO maxSessionTimeout set to -1,1
+0e84ad78,INFO initLimit set to 10,1
 13d7405b,INFO My election bind port : 0.0.0.0/0.0.0.0 : 3888,1
-9f4428a1,INFO Revalidating client : 0x24f0557806a0020,1
-68808e18,INFO exception while shutting down acceptor : java.net.SocketException : Socket closed,1
-f022ed20,INFO Closed socket connection for client /10.10.34.12 : 36445 ( no session established for client ),1
-5ef7c293,INFO Server environment : java.library.path = /usr/java/packages/lib/amd64 : /usr/lib/x86_64-linux-gnu/jni : /lib/x86_64-linux-gnu : /usr/lib/x86_64-linux-gnu : /usr/lib/jni : /lib : /usr/lib,1
-a6fada62,WARN Interrupting SendWorker,6
+edf61985,INFO Got user-level KeeperException when processing sessionid : 0x34ee30a5c53002d type : create cxid : 0x55bb791f zxid : 0x70000010f txntype : -1 reqpath : n/a Error Path : /hdfs-mesos Error : KeeperErrorCode = NodeExists for /hdfs-mesos,1
+8525f167,INFO Reading snapshot /var/lib/zookeeper/version-2/snapshot.50000062e,1
+8fb448b2,INFO TCP NoDelay set to : true,1

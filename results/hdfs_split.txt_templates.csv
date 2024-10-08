@@ -1,13 +1,13 @@
 EventId,EventTemplate,Occurrences
-73096492,INFO dfs.DataNode$DataXceiver : Receiving block <*> src : <*> : <*> dest : <*> : 50010,68
-b44a1f83,INFO dfs.DataNode$PacketResponder : PacketResponder <*> for block <*> terminating,75
-8a5b1f94,INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to <*> size <*>,55
-d08ff016,INFO dfs.FSNamesystem : BLOCK* NameSystem.allocateBlock : <*> <*>,14
-1465024b,INFO dfs.DataNode$PacketResponder : Received block <*> of size <*> from <*>,77
-b3725122,INFO dfs.DataBlockScanner : Verification succeeded for <*>,11
-38174550,WARN dfs.DataNode$DataXceiver : <*> : 50010 : Got exception while serving <*> to <*> :,28
-81c53cf4,INFO dfs.DataNode$DataXceiver : <*> : 50010 Served block <*> to <*>,22
-9fb04c85,INFO dfs.FSDataset : Deleting block <*> file <*>,41
-4f321606,WARN dfs.FSDataset : Unexpected error trying to delete block <*> BlockInfo not found in volumeMap.,2
-6ec2e15e,INFO dfs.FSNamesystem : BLOCK* ask <*> : 50010 to replicate <*> to datanode ( s ) <*> : 50010,6
-9daf258f,INFO dfs.DataNode$BlockReceiver : Receiving empty packet for block blk_-3699548628249673416,1
+b3725122,INFO dfs.DataBlockScanner : Verification succeeded for <*>,8
+8a5b1f94,INFO dfs.FSNamesystem : BLOCK* NameSystem.addStoredBlock : blockMap updated : <*> : 50010 is added to <*> size <*>,50
+d08ff016,INFO dfs.FSNamesystem : BLOCK* NameSystem.allocateBlock : <*> <*>,8
+b44a1f83,INFO dfs.DataNode$PacketResponder : PacketResponder <*> for block <*> terminating,78
+1465024b,INFO dfs.DataNode$PacketResponder : Received block <*> of size <*> from <*>,75
+73096492,INFO dfs.DataNode$DataXceiver : Receiving block <*> src : <*> : <*> dest : <*> : 50010,96
+38174550,WARN dfs.DataNode$DataXceiver : <*> : 50010 : Got exception while serving <*> to <*> :,25
+81c53cf4,INFO dfs.DataNode$DataXceiver : <*> : 50010 Served block <*> to <*>,23
+9fb04c85,INFO dfs.FSDataset : Deleting block <*> file <*>,27
+4f321606,WARN dfs.FSDataset : Unexpected error trying to delete block <*> BlockInfo not found in volumeMap.,5
+6ec2e15e,INFO dfs.FSNamesystem : BLOCK* ask <*> : 50010 to replicate <*> to datanode ( s ) <*> : 50010,4
+802bb917,INFO dfs.DataNode$BlockReceiver : Receiving empty packet for block blk_-7041533980760989327,1
