@@ -1,1 +1,3 @@
 Dataset,Scenario,Drain St,Drain Depth,Alpha,Beta,Gamma,F1
+bgl,A,0.3,3,0,0,0,0.05695787452144966
+bgl,B,0.3,3,0,0,0,0.3320403713103158
