@@ -1,272 +1,1948 @@
-error switchmodule link in reset clusterfilesystem domain serverfilesystem clusterfilesystemnotserved by
-error switchmodule link in reset clusterfilesystem domain serverfilesystem clusterfilesystemnotserved by
-error switchmodule link in reset clusterfilesystem domain serverfilesystem clusterfilesystemnotserved by
-error switchmodule link in reset clusterfilesystem domain serverfilesystem clusterfilesystemnotserved by
-error switchmodule link in reset clusterfilesystem domain serverfilesystem clusterfilesystemnotserved by
-error switchmodule link in reset clusterfilesystem domain serverfilesystem clusterfilesystemnotserved by
-error switchmodule link in reset clusterfilesystem domain serverfilesystem clusterfilesystemnotserved by
-error switchmodule link in reset clusterfilesystem domain serverfilesystem clusterfilesystemnotserved by
-error switchmodule link in reset clusterfilesystem domain serverfilesystem clusterfilesystemnotserved by
-error switchmodule link in reset clusterfilesystem domain serverfilesystem clusterfilesystemnotserved by
-error switchmodule link in reset clusterfilesystem domain serverfilesystem clusterfilesystemnotserved by
-error switchmodule link in reset clusterfilesystem domain serverfilesystem clusterfilesystemnotserved by
-status node temperature gige      
-status node temperature gige      
-status node temperature gige      
-status node temperature gige      
-status node temperature gige      
-fan switchmodule 3534 speeds 3479 3375 clusterfilesystem is no longer
-fan switchmodule 3534 speeds 3479 3375 clusterfilesystem is no longer
-fan switchmodule 3534 speeds 3479 3375 clusterfilesystem is no longer
-fan switchmodule 3534 speeds 3479 3375 clusterfilesystem is no longer
-fan switchmodule 3534 speeds 3479 3375 clusterfilesystem is no longer
-fan switchmodule 3534 speeds 3479 3375 clusterfilesystem is no longer
-fan switchmodule 3534 speeds 3479 3375 clusterfilesystem is no longer
-fan switchmodule 3534 speeds 3479 3375 clusterfilesystem is no longer
-fan switchmodule 3534 speeds 3479 3375 clusterfilesystem is no longer
-fan switchmodule 3534 speeds 3479 3375 clusterfilesystem is no longer
-fan switchmodule 3534 speeds 3479 3375 clusterfilesystem is no longer
-fan switchmodule 3534 speeds 3479 3375 clusterfilesystem is no longer
-fan switchmodule 3534 speeds 3479 3375 clusterfilesystem is no longer
-fan switchmodule 3534 speeds 3479 3375 clusterfilesystem is no longer
-fan 3534 3375 speeds switchmodule 3479 network connection 552240 detected
-fan 3534 3375 speeds switchmodule 3479 network connection 552240 detected
-fan 3534 3375 speeds switchmodule 3479 network connection 552240 detected
-fan 3534 3375 speeds switchmodule 3479 network connection 552240 detected
-fan 3534 3375 speeds switchmodule 3479 network connection 552240 detected
-gige temperature        
-gige temperature        
-gige temperature        
-gige temperature        
-gige temperature        
-gige temperature        
-gige temperature        
-gige temperature        
-error current switchmodule remain link errors failed command bootcmd 3934
-error current switchmodule remain link errors failed command bootcmd 3934
-error current switchmodule remain link errors failed command bootcmd 3934
-error current switchmodule remain link errors failed command bootcmd 3934
-error current switchmodule remain link errors failed command bootcmd 3934
-error current switchmodule remain link errors failed command bootcmd 3934
-error current switchmodule remain link errors failed command bootcmd 3934
-error current switchmodule remain link errors failed command bootcmd 3934
-error current switchmodule remain link errors failed command bootcmd 3934
-error current switchmodule remain link errors failed command bootcmd 3934
-error current switchmodule remain link errors failed command bootcmd 3934
-error current switchmodule remain link errors failed command bootcmd 3934
-error current switchmodule remain link errors failed command bootcmd 3934
-error current switchmodule remain link errors failed command bootcmd 3934
-error current switchmodule remain link errors failed command bootcmd 3934
-gige temperature link error switchmodule in reset   
-gige temperature link error switchmodule in reset   
-gige temperature link error switchmodule in reset   
-gige temperature link error switchmodule in reset   
-gige temperature link error switchmodule in reset   
-gige temperature link error switchmodule in reset   
-gige temperature link error switchmodule in reset   
-gige temperature link error switchmodule in reset   
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
 network netniffup niff unixhw on via available interface an has
 network netniffup niff unixhw on via available interface an has
 network netniffup niff unixhw on via available interface an has
 network netniffup niff unixhw on via available interface an has
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+network netniffup niff unixhw on via available interface an has
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+state component 042alt0042 unixhw in is statechangeunavailable hwid the unavailable
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+error interconnect1t00 link on switchmodule tree bcasterror broadcast 00 
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
 node status        
 node status        
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-state component 042alt0042 statechangeavailable is hwid change in unixhw the
-state component 042alt0042 statechangeavailable is hwid change in unixhw the
-state component 042alt0042 statechangeavailable is hwid change in unixhw the
-state component 042alt0042 statechangeavailable is hwid change in unixhw the
 node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
 node status        
-status node partition       
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
 node status        
-node status        
-node status        
-status node partition       
-status node partition       
-status domain responding not ok 0xfffffffe node partition 0x1fffffffe 1083262290
-status domain responding not ok 0xfffffffe node partition 0x1fffffffe 1083262290
-status domain responding not ok 0xfffffffe node partition 0x1fffffffe 1083262290
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-node status        
-node status        
-node status        
-node status        
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-status node partition       
-status node partition       
-status node partition gige temperature     
-status node partition gige temperature     
-status node partition gige temperature     
-status node partition gige temperature     
-status node partition gige temperature     
-status node partition gige temperature     
-status node partition gige temperature     
-status node partition clusterfilesystem domain is clusterfilesystemnotserved by longer no
-status node partition clusterfilesystem domain is clusterfilesystemnotserved by longer no
-status node partition clusterfilesystem domain is clusterfilesystemnotserved by longer no
-status node partition clusterfilesystem domain is clusterfilesystemnotserved by longer no
-status node partition clusterfilesystem domain is clusterfilesystemnotserved by longer no
-status node partition clusterfilesystem domain is clusterfilesystemnotserved by longer no
-network netniffdown niff unixhw on via alt0 interface 552240 failed
-network netniffdown niff unixhw on via alt0 interface 552240 failed
-network netniffdown niff unixhw on via alt0 interface 552240 failed
-network netniffdown niff unixhw on via alt0 interface 552240 failed
-network netniffdown niff unixhw on via alt0 interface 552240 failed
-status node partition       
-status node partition       
-state component success statechangeunavailable 042alt0042 successfully change hwid has completed
-state component success statechangeunavailable 042alt0042 successfully change hwid has completed
-state component success statechangeunavailable 042alt0042 successfully change hwid has completed
-state component success statechangeunavailable 042alt0042 successfully change hwid has completed
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-node status        
-node status        
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-node status        
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status domain responding not ok 0xfffffffe node partition 0x1fffffffe 1083262290
-status domain responding not ok 0xfffffffe node partition 0x1fffffffe 1083262290
-status domain responding not ok 0xfffffffe node partition 0x1fffffffe 1083262290
-status domain responding not ok 0xfffffffe node partition 0x1fffffffe 1083262290
-status domain responding not ok 0xfffffffe node partition 0x1fffffffe 1083262290
-status domain responding not ok 0xfffffffe node partition 0x1fffffffe 1083262290
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-status domain responding not ok 0xfffffffe node partition 0x1fffffffe 1083262290
-status domain responding not ok 0xfffffffe node partition 0x1fffffffe 1083262290
-status domain responding not ok 0xfffffffe node partition 0x1fffffffe 1083262290
-status domain responding not ok 0xfffffffe node partition 0x1fffffffe 1083262290
-status domain responding not ok 0xfffffffe node partition 0x1fffffffe 1083262290
-status node partition       
-status node partition       
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
 node status        
 node status        
 node status        
 node status        
 node status        
 node status        
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-node status        
-node status        
-switchmodule error link linkerror event expired interval in reset 
-switchmodule error link linkerror event expired interval in reset 
-switchmodule error link linkerror event expired interval in reset 
-switchmodule error link linkerror event expired interval in reset 
 node status        
 node status        
 node status        
 node status        
-switchmodule error link linkerror event expired interval in reset 
-switchmodule error link linkerror event expired interval in reset 
-switchmodule error link linkerror event expired interval in reset 
-switchmodule error link linkerror event expired interval in reset 
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+node status        
+link error switchmodule reset in     
+link error switchmodule reset in     
+link error switchmodule reset in     
+link error switchmodule reset in     
+link error switchmodule reset in     
+link error switchmodule reset in     
+link error switchmodule reset in     
+link error switchmodule reset in     
+link error switchmodule reset in     
+link error switchmodule reset in     
+link error switchmodule reset in     
+link error switchmodule reset in     
+link error switchmodule reset in     
+link error switchmodule reset in     
+link error switchmodule reset in     
+node status        
+node status        
+node status        
+temperature gige warning exceeds switchmodule temphigh threshold   
+temperature gige warning exceeds switchmodule temphigh threshold   
+temperature gige warning exceeds switchmodule temphigh threshold   
+temperature gige warning exceeds switchmodule temphigh threshold   
+temperature gige warning exceeds switchmodule temphigh threshold   
+temperature gige warning exceeds switchmodule temphigh threshold   
+temperature gige warning exceeds switchmodule temphigh threshold   
+temperature gige warning exceeds switchmodule temphigh threshold   
+temperature gige warning exceeds switchmodule temphigh threshold   
+temperature gige warning exceeds switchmodule temphigh threshold   
+temperature gige warning exceeds switchmodule temphigh threshold   
+temperature gige warning exceeds switchmodule temphigh threshold   
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+node status        
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+status partition node       
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+component state change unixhw in hwid is 042alt0042 statechangeavailable the
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+status node out configured on shutdowncmd 1085979825 command error failed
+status node out configured on shutdowncmd 1085979825 command error failed
+status node out configured on shutdowncmd 1085979825 command error failed
+status node out configured on shutdowncmd 1085979825 command error failed
+status node out configured on shutdowncmd 1085979825 command error failed
+status node out configured on shutdowncmd 1085979825 command error failed
+status node out configured on shutdowncmd 1085979825 command error failed
+status node out configured on shutdowncmd 1085979825 command error failed
+status node out configured on shutdowncmd 1085979825 command error failed
+status node out configured on shutdowncmd 1085979825 command error failed
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+event error linkerror switchmodule interval expired    
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+targeting nodes new domains and bootcmd command node child of
+targeting nodes new domains and bootcmd command node child of
+targeting nodes new domains and bootcmd command node child of
+targeting nodes new domains and bootcmd command node child of
+targeting nodes new domains and bootcmd command node child of
+targeting nodes new domains and bootcmd command node child of
+targeting nodes new domains and bootcmd command node child of
+targeting nodes new domains and bootcmd command node child of
+targeting nodes new domains and bootcmd command node child of
+targeting nodes new domains and bootcmd command node child of
+targeting nodes new domains and bootcmd command node child of
+targeting nodes new domains and bootcmd command node child of
+targeting nodes new domains and bootcmd command node child of
+targeting nodes new domains and bootcmd command node child of
+targeting nodes new domains and bootcmd command node child of
+targeting nodes new domains and bootcmd command node child of
+targeting nodes new domains and bootcmd command node child of
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+status node not domain responding tserver    
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+network detected failed connection node via alt0 552240 on unixhw
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+node status        
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+node status        
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+node status        
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+error switchmodule link ok 0x1fffffffe boot action command domain inconsistent
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+node status        
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+fan speeds 3534 switchmodule 3375 3479    
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
+node status        
 node status        
 node status        
 clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
 clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
 clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
 clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
-command bootcmd error completed has success successfully domains link errors
-status node partition       
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+node status        
+node status        
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+node status        
+node status        
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+node status        
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+node status        
+node status        
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+clusterfilesystem is no node serverfilesystem longer clusterfilesystemnotserved domain by served
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
+error current remain switchmodule link errors    
 node status        
 node status        
 node status        
 node status        
-status node partition       
-status node partition       
-status node partition       
-status node partition       
-command bootcmd error completed has success successfully domains link errors
-node status        
-node status        
-fan switchmodule 3534 speeds 3479 3375 clusterfilesystem is no longer
 node status        
 node status        
 node status        
@@ -283,6 +1959,26 @@ node status
 node status        
 node status        
 node status        
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
+successfully completed success command has bootcmd 1112673625 shutdowncmd  
 node status        
 node status        
 node status        
@@ -297,102 +1993,7 @@ node status
 node status        
 node status        
 node status        
-network netniffup niff unixhw on via available interface an has
-network netniffup niff unixhw on via available interface an has
-network netniffup niff unixhw on via available interface an has
-network netniffup niff unixhw on via available interface an has
-error switchmodule interval expired event linkerror command failed 1074212466 3002
-error switchmodule interval expired event linkerror command failed 1074212466 3002
-error switchmodule interval expired event linkerror command failed 1074212466 3002
-error switchmodule interval expired event linkerror command failed 1074212466 3002
-error switchmodule interval expired event linkerror command failed 1074212466 3002
-network netniffup niff unixhw on via available interface an has
-error switchmodule interval expired event linkerror command failed 1074212466 3002
-network netniffup niff unixhw on via available interface an has
-error switchmodule interval expired event linkerror command failed 1074212466 3002
-network netniffup niff unixhw on via available interface an has
-error switchmodule interval expired event linkerror command failed 1074212466 3002
-network netniffup niff unixhw on via available interface an has
-error switchmodule interval expired event linkerror command failed 1074212466 3002
-network netniffup niff unixhw on via available interface an has
-network netniffup niff unixhw on via available interface an has
-network netniffup niff unixhw on via available interface an has
-network netniffup niff unixhw on via available interface an has
-network netniffup niff unixhw on via available interface an has
-network netniffup niff unixhw on via available interface an has
-network netniffup niff unixhw on via available interface an has
-error switchmodule interval expired event linkerror command failed 1074212466 3002
-error switchmodule interval expired event linkerror command failed 1074212466 3002
-network netniffup niff unixhw on via available interface an has
-network netniffup niff unixhw on via available interface an has
-network node domains nodes new and targeting bootcmd detected unixhw
-network node domains nodes new and targeting bootcmd detected unixhw
-network node domains nodes new and targeting bootcmd detected unixhw
-network node domains nodes new and targeting bootcmd detected unixhw
-network node domains nodes new and targeting bootcmd detected unixhw
-network node domains nodes new and targeting bootcmd detected unixhw
-network node domains nodes new and targeting bootcmd detected unixhw
-network node domains nodes new and targeting bootcmd detected unixhw
-network node domains nodes new and targeting bootcmd detected unixhw
-network node domains nodes new and targeting bootcmd detected unixhw
-network node domains nodes new and targeting bootcmd detected unixhw
-network node domains nodes new and targeting bootcmd detected unixhw
-network node domains nodes new and targeting bootcmd detected unixhw
-network node domains nodes new and targeting bootcmd detected unixhw
-network node domains nodes new and targeting bootcmd detected unixhw
-network node domains nodes new and targeting bootcmd detected unixhw
-status node temperature gige      
-network node domains nodes new and targeting bootcmd detected unixhw
-network netniffup niff unixhw on via available interface an has
-network netniffup niff unixhw on via available interface an has
-status node temperature gige      
-status node temperature gige      
 node status        
-node status        
-node status        
-node status        
-node status        
-node status        
-node status        
-node status        
-node status        
-node status        
-node status        
-node status        
-node status        
-node status        
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-status node partition ok 0x0000000e temperature gige 0x1fffffffe node97 node98
-node status        
-node status        
-node status        
-node status        
-node status        
-node status        
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
-command bootcmd error completed has success successfully domains link errors
 node status        
 node status        
 node status        

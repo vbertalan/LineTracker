@@ -1,28 +1,2000 @@
-info task in tid stage executorexecutor pythonpythonrunner finish init total
-info task in tid stage executorexecutor pythonpythonrunner finish init total
-info task in tid stage executorexecutor pythonpythonrunner finish init total
-info found task block locally storageblockmanager in init it mapredsparkhadoopmapredutil
-info found task block locally storageblockmanager in init it mapredsparkhadoopmapredutil
-info found task block locally storageblockmanager in init it mapredsparkhadoopmapredutil
-info task in tid stage executorexecutor pythonpythonrunner finish init total
-info task in tid stage executorexecutor pythonpythonrunner finish init total
-info found task block locally storageblockmanager in init it mapredsparkhadoopmapredutil
-info task in stage executorexecutor tid finish got pythonpythonrunner boot
-info found task block locally storageblockmanager in init it mapredsparkhadoopmapredutil
-info task in stage executorexecutor tid finish got pythonpythonrunner boot
-info task in stage executorexecutor tid running block assigned got
-info task in stage executorexecutor tid running block assigned got
-info task in stage executorexecutor tid running block assigned got
-info task in stage executorexecutor tid running block assigned got
-info task in stage executorexecutor tid running block assigned got
-row info update init locally total finish boot storageblockmanager found
-info task in stage executorexecutor tid running block assigned got
-row info update init locally total finish boot storageblockmanager found
-info block found in storageblockmanager locally stage task executorexecutor tid
-info found task block locally storageblockmanager in init it mapredsparkhadoopmapredutil
-info task in stage executorexecutor tid got result sent assigned
-info in estimated free as block size storagememorystore stored task
-info task in stage executorexecutor tid got result sent assigned
-info task in stage executorexecutor tid got result sent assigned
-info in task executorexecutor tid bytes stage estimated block finished
-info task in stage executorexecutor tid got result sent assigned
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+result sent to tid task stage in info executorexecutor finished
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+result sent to tid task stage in info executorexecutor finished
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+result sent to tid task stage in info executorexecutor finished
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+result sent to tid task stage in info executorexecutor finished
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+result sent to tid task stage in info executorexecutor finished
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+result sent to tid task stage in info executorexecutor finished
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+result sent to tid task stage in info executorexecutor finished
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+result sent to tid task stage in info executorexecutor finished
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+result sent to tid task stage in info executorexecutor finished
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+result sent to tid task stage in info executorexecutor finished
+info in task stage tid running executorexecutor   
+info in task stage tid running executorexecutor   
+info in task stage tid running executorexecutor   
+info in task stage tid running executorexecutor   
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info in task stage tid running executorexecutor   
+info in task stage tid running executorexecutor   
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+task stage info tid executorexecutor in driver bytes to sent
+committed mapredsparkhadoopmapredutil info       
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info found partition not sparkcachemanager it computing   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+executorcoarsegrainedexecutorbackend info        
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info found partition not sparkcachemanager it computing   
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+committed mapredsparkhadoopmapredutil info       
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+executorcoarsegrainedexecutorbackend info        
+result sent to tid task stage in info executorexecutor finished
+info removing rdd storageblockmanager      
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info 10103411 hdfs to of outputfileoutputcommitter task output saved input
+info finish times pythonpythonrunner total init boot   
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+committed mapredsparkhadoopmapredutil info       
+info finish times pythonpythonrunner total init boot   
+committed mapredsparkhadoopmapredutil info       
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+info row update on in at stage tid task 80
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info row update on in at stage tid task 80
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+in info mb memory size on free gb blockmanagerinfo added
+in info memory size stored storagememorystore estimated free block as
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info found partition not sparkcachemanager it computing   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info found partition not sparkcachemanager it computing   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+committed mapredsparkhadoopmapredutil info       
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+committed mapredsparkhadoopmapredutil info       
+executorcoarsegrainedexecutorbackend info        
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+in info memory size stored storagememorystore estimated free block as
+result sent to tid task stage in info executorexecutor finished
+executorcoarsegrainedexecutorbackend info        
+in info memory size stored storagememorystore estimated free block as
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+executorcoarsegrainedexecutorbackend info        
+result sent to tid task stage in info executorexecutor finished
+executorcoarsegrainedexecutorbackend info        
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+in info mb memory size on free gb blockmanagerinfo added
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+info found partition not sparkcachemanager it computing   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+in info memory size stored storagememorystore estimated free block as
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info row update on in at stage tid task 80
+info found partition not sparkcachemanager it computing   
+in info mb memory size on free gb blockmanagerinfo added
+file info is output outputfileoutputcommitter version algorithm committer  
+in info mb memory size on free gb blockmanagerinfo added
+info row update on in at stage tid task 80
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+committed mapredsparkhadoopmapredutil info       
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+committed mapredsparkhadoopmapredutil info       
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+task stage info tid executorexecutor in running bytes result to
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+result sent to tid task stage in info executorexecutor finished
+committed mapredsparkhadoopmapredutil info       
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+committed mapredsparkhadoopmapredutil info       
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info stored mb size memorystore memory free in bytes estimated
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info block storageblockmanager locally found     
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info stored mb size memorystore memory free in bytes estimated
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info block storageblockmanager locally found     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+committed mapredsparkhadoopmapredutil info       
+executorcoarsegrainedexecutorbackend info        
+info finish times pythonpythonrunner total init boot   
+executorcoarsegrainedexecutorbackend info        
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+committed mapredsparkhadoopmapredutil info       
+in info memory size stored storagememorystore estimated free block as
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+committed mapredsparkhadoopmapredutil info       
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+executorcoarsegrainedexecutorbackend info        
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+task stage info tid executorexecutor in driver bytes to sent
+task stage info tid executorexecutor in driver bytes to sent
+task stage info tid executorexecutor in driver bytes to sent
+committed mapredsparkhadoopmapredutil info       
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info memory size stored storagememorystore estimated free block as
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+committed mapredsparkhadoopmapredutil info       
+committed mapredsparkhadoopmapredutil info       
+info finish times pythonpythonrunner total init boot   
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+executorcoarsegrainedexecutorbackend info        
+committed mapredsparkhadoopmapredutil info       
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+committed mapredsparkhadoopmapredutil info       
+committed mapredsparkhadoopmapredutil info       
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+committed mapredsparkhadoopmapredutil info       
+committed mapredsparkhadoopmapredutil info       
+executorcoarsegrainedexecutorbackend info        
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info memory size stored storagememorystore estimated free block as
+info found partition not sparkcachemanager it computing   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+in info mb memory size on free gb blockmanagerinfo added
+info stored mb size memorystore memory free in bytes estimated
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info 10103411 hdfs to of outputfileoutputcommitter task output saved input
+info 10103411 hdfs to of outputfileoutputcommitter task output saved input
+committed mapredsparkhadoopmapredutil info       
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+committed mapredsparkhadoopmapredutil info       
+in info memory size stored storagememorystore estimated free block as
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+committed mapredsparkhadoopmapredutil info       
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info memory size stored storagememorystore estimated free block as
+result sent to tid task stage in info executorexecutor finished
+in info memory size stored storagememorystore estimated free block as
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+info in task stage tid running executorexecutor   
+info in task stage tid running executorexecutor   
+info in task stage tid running executorexecutor   
+info in task stage tid running executorexecutor   
+info in task stage tid running executorexecutor   
+info in task stage tid running executorexecutor   
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info in task stage tid running executorexecutor   
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info in task stage tid running executorexecutor   
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info memory size stored storagememorystore estimated free block as
+result sent to tid task stage in info executorexecutor finished
+in info memory size stored storagememorystore estimated free block as
+committed mapredsparkhadoopmapredutil info       
+in info memory size stored storagememorystore estimated free block as
+committed mapredsparkhadoopmapredutil info       
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+result sent to tid task stage in info executorexecutor finished
+in info memory size stored storagememorystore estimated free block as
+info found partition not sparkcachemanager it computing   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+task stage info tid executorexecutor in running bytes result to
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+task stage info tid executorexecutor in running bytes result to
+info finish times pythonpythonrunner total init boot   
+task stage info tid executorexecutor in running bytes result to
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+executorcoarsegrainedexecutorbackend info        
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+executorcoarsegrainedexecutorbackend info        
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+task stage info tid executorexecutor in running bytes result to
+info finish times pythonpythonrunner total init boot   
+task stage info tid executorexecutor in running bytes result to
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+info finish times pythonpythonrunner total init boot   
+info in task stage tid running executorexecutor   
+info in task stage tid running executorexecutor   
+info in task stage tid running executorexecutor   
+info in task stage tid running executorexecutor   
+info in task stage tid running executorexecutor   
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+in info mb memory size on free gb blockmanagerinfo added
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info in task stage tid running executorexecutor   
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+executorcoarsegrainedexecutorbackend info        
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+in info memory size stored storagememorystore estimated free block as
+committed mapredsparkhadoopmapredutil info       
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+executorcoarsegrainedexecutorbackend info        
+info finish times pythonpythonrunner total init boot   
+executorcoarsegrainedexecutorbackend info        
+info finish times pythonpythonrunner total init boot   
+executorcoarsegrainedexecutorbackend info        
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info found partition not sparkcachemanager it computing   
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+task stage info tid executorexecutor in running bytes result to
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+task stage info tid executorexecutor in driver bytes to sent
+task stage info tid executorexecutor in driver bytes to sent
+in info memory size stored storagememorystore estimated free block as
+task stage info tid executorexecutor in driver bytes to sent
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info in task stage tid running executorexecutor   
+info in task stage tid running executorexecutor   
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+in info mb memory size on free gb blockmanagerinfo added
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info in task stage tid running executorexecutor   
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcast variable broadcasttorrentbroadcast reading started ms took  
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info in task stage tid running executorexecutor   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+committed mapredsparkhadoopmapredutil info       
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+committed mapredsparkhadoopmapredutil info       
+committed mapredsparkhadoopmapredutil info       
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info block storageblockmanager locally found     
+info 10103411 hdfs to of outputfileoutputcommitter task output saved input
+info 10103411 hdfs to of outputfileoutputcommitter task output saved input
+executorcoarsegrainedexecutorbackend info        
+info 10103411 hdfs to of outputfileoutputcommitter task output saved input
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info stored mb size memorystore memory free in bytes estimated
+info 10103411 hdfs to of outputfileoutputcommitter task output saved input
+committed mapredsparkhadoopmapredutil info       
+committed mapredsparkhadoopmapredutil info       
+info 10103411 hdfs to of outputfileoutputcommitter task output saved input
+committed mapredsparkhadoopmapredutil info       
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info row update on in at stage tid task 80
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info memory size stored storagememorystore estimated free block as
+result sent to tid task stage in info executorexecutor finished
+info removing rdd storageblockmanager      
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info removing rdd storageblockmanager      
+info removing rdd storageblockmanager      
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info block storageblockmanager locally found     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+executorcoarsegrainedexecutorbackend info        
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+in info memory size stored storagememorystore estimated free block as
+info found partition not sparkcachemanager it computing   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
+info block storageblockmanager locally found     
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+committed mapredsparkhadoopmapredutil info       
+committed mapredsparkhadoopmapredutil info       
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info found partition not sparkcachemanager it computing   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info memory size stored storagememorystore estimated free block as
+info found partition not sparkcachemanager it computing   
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+info found partition not sparkcachemanager it computing   
+in info mb memory size on free gb blockmanagerinfo added
+file info is output outputfileoutputcommitter version algorithm committer  
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info row update on in at stage tid task 80
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+committed mapredsparkhadoopmapredutil info       
+info finish times pythonpythonrunner total init boot   
+committed mapredsparkhadoopmapredutil info       
+committed mapredsparkhadoopmapredutil info       
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info found partition not sparkcachemanager it computing   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+in info mb memory size on free gb blockmanagerinfo added
+info found partition not sparkcachemanager it computing   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+executorcoarsegrainedexecutorbackend info        
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+committed mapredsparkhadoopmapredutil info       
+result sent to tid task stage in info executorexecutor finished
+in info memory size stored storagememorystore estimated free block as
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info row update on in at stage tid task 80
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+executorcoarsegrainedexecutorbackend info        
+info finish times pythonpythonrunner total init boot   
+executorcoarsegrainedexecutorbackend info        
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+executorcoarsegrainedexecutorbackend info        
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+executorcoarsegrainedexecutorbackend info        
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+committed mapredsparkhadoopmapredutil info       
+committed mapredsparkhadoopmapredutil info       
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+committed mapredsparkhadoopmapredutil info       
+in info memory size stored storagememorystore estimated free block as
+committed mapredsparkhadoopmapredutil info       
+committed mapredsparkhadoopmapredutil info       
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info memory size stored storagememorystore estimated free block as
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+result sent to tid task stage in info executorexecutor finished
+in info memory size stored storagememorystore estimated free block as
+info found partition not sparkcachemanager it computing   
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+committed mapredsparkhadoopmapredutil info       
+info found partition not sparkcachemanager it computing   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+task stage info tid executorexecutor in running bytes result to
+info finish times pythonpythonrunner total init boot   
+task stage info tid executorexecutor in running bytes result to
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info finish times pythonpythonrunner total init boot   
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+committed mapredsparkhadoopmapredutil info       
+executorcoarsegrainedexecutorbackend info        
+info finish times pythonpythonrunner total init boot   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+info found partition not sparkcachemanager it computing   
+in info memory size stored storagememorystore estimated free block as
+info found partition not sparkcachemanager it computing   
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+executorcoarsegrainedexecutorbackend info        
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+executorcoarsegrainedexecutorbackend info        
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+executorcoarsegrainedexecutorbackend info        
+info finish times pythonpythonrunner total init boot   
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+task stage info tid executorexecutor in running bytes result to
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+executorcoarsegrainedexecutorbackend info        
+info finish times pythonpythonrunner total init boot   
+committed mapredsparkhadoopmapredutil info       
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+task stage info tid executorexecutor in running bytes result to
+info locally found block storageblockmanager     
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+task stage info tid executorexecutor in running bytes result to
+info locally found block storageblockmanager     
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+committed mapredsparkhadoopmapredutil info       
+in info memory size stored storagememorystore estimated free block as
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+in info memory size stored storagememorystore estimated free block as
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+in info memory size stored storagememorystore estimated free block as
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+result sent to tid task stage in info executorexecutor finished
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+task stage info tid executorexecutor in running bytes result to
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+committed mapredsparkhadoopmapredutil info       
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+committed mapredsparkhadoopmapredutil info       
+executorcoarsegrainedexecutorbackend info        
+executorcoarsegrainedexecutorbackend info        
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+info locally found block storageblockmanager     
+info broadcasttorrentbroadcast took reading variable ms broadcast   
+in info memory size stored storagememorystore estimated free block as
+committed mapredsparkhadoopmapredutil info       
+result sent to tid task stage in info executorexecutor finished
+result sent to tid task stage in info executorexecutor finished
+in info memory size stored storagememorystore estimated free block as
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+result sent to tid task stage in info executorexecutor finished
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+in info mb memory size on free gb blockmanagerinfo added
+info finish times pythonpythonrunner total init boot   
+info finish times pythonpythonrunner total init boot   
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+file info is output outputfileoutputcommitter version algorithm committer  
+file info is output outputfileoutputcommitter version algorithm committer  
+info row update on in at stage tid task 80
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
+in info memory size stored storagememorystore estimated free block as
