@@ -1,206 +1,28 @@
-client at to info attempting     
-connection info socket from client accepted had request which sessionid
-connection info socket from client accepted had request which sessionid
-info connection socket client sessionid had for closed which from
-info connection socket client sessionid had for closed which from
-info session processed for termination sessionid expiring exceeded timeout of
-for info negotiated session timeout with client established  
-expiring exceeded session timeout of info    
-npeerepoch nround nsid state nstate nzxid nleader notification my looking
-client at to info attempting     
-client at to info attempting     
-expiring exceeded session timeout of info    
-npeerepoch nround nsid state nstate nzxid nleader notification my looking
-client at to info attempting     
-info session processed for termination sessionid expiring exceeded timeout of
-expiring exceeded session timeout of info    
-expiring exceeded session timeout of info    
-client at to info attempting     
-client at to info attempting     
-client at to info attempting     
-client at to info attempting     
-client at to info attempting     
-client at to info attempting     
-client at to info attempting     
-client at to info attempting     
-for info negotiated session timeout with client established  
-thread leaving worker warn send     
-thread leaving worker warn send     
-expiring exceeded session timeout of info    
-expiring exceeded session timeout of info    
-expiring exceeded session timeout of info    
-expiring exceeded session timeout of info    
-expiring exceeded session timeout of info    
-npeerepoch nround nsid state nstate nzxid nleader notification my looking
-expiring exceeded session timeout of info    
-for info negotiated session timeout with client established  
-thread leaving worker warn send     
-thread leaving worker warn send     
-thread leaving worker warn send     
-expiring exceeded session timeout of info    
-expiring exceeded session timeout of info    
-expiring exceeded session timeout of info    
-expiring exceeded session timeout of info    
-expiring exceeded session timeout of info    
-expiring exceeded session timeout of info    
-expiring exceeded session timeout of info    
-for info negotiated session timeout with client established  
-thread leaving worker warn send     
-thread leaving worker warn send     
-expiring exceeded session timeout of info    
-expiring exceeded session timeout of info    
-npeerepoch nround nsid state nstate nzxid nleader notification my looking
-client at to info attempting     
-npeerepoch nround nsid state nstate nzxid nleader notification my looking
-npeerepoch nround nsid state nstate nzxid nleader notification my looking
-thread leaving worker warn send     
 message on queue waiting warn while for interrupted  
-end caught stream warn of exception    
+warn waiting for message interrupted while on queue worker send
+warn waiting for message interrupted while on queue worker send
+info session for sessionid termination processed connection client at to
+info session for sessionid termination processed connection client at to
+info client connection for attempting to from socket at session
+info client connection for attempting to from socket at session
 message on queue waiting warn while for interrupted  
-npeerepoch nround nsid state nstate nzxid nleader notification my looking
+info warn at to 3888 accepted goodbye election connection from
 message on queue waiting warn while for interrupted  
-end caught stream warn of exception    
-npeerepoch nround nsid state nstate nzxid nleader notification my looking
-identifier info server smaller so the dropping have connection 
-identifier info server smaller so the dropping have connection 
-for info negotiated session timeout with client established  
-for info negotiated session timeout with client established  
-notification info time out      
-notification info time out      
-notification info time out      
+expiring exceeded session timeout of info    
+warn from connection info accepted goodbye socket election old mode
+info warn at to 3888 accepted goodbye election connection from
+expiring exceeded session timeout of info    
+info client connection for attempting to from socket at session
 id connection my for warn broken error 188978561024  
-identifier info server smaller so the dropping have connection 
-npeerepoch nround nsid state nstate nzxid nleader notification my looking
-connection info socket client for closed had sessionid which from
-info connection socket client accepted received from goodbye request warn
-npeerepoch nround nsid state nstate nzxid nleader notification my looking
-npeerepoch nround nsid state nstate nzxid nleader notification my looking
-npeerepoch nround nsid state nstate nzxid nleader notification my looking
-npeerepoch nround nsid state nstate nzxid nleader notification my looking
-id connection 188978561024 broken error for my warn smaller server
-client at to info attempting     
-notification info time out      
+warn interrupting sendworker interrupted waiting on for message queue while
+expiring exceeded session timeout of info    
+expiring exceeded session timeout of info    
+expiring exceeded session timeout of info    
+expiring exceeded session timeout of info    
 id connection my for warn broken error 188978561024  
+warn interrupting sendworker interrupted waiting on for message queue while
+warn from connection info accepted goodbye socket election old mode
 id connection my for warn broken error 188978561024  
-id connection my for warn broken error 188978561024  
-id connection my for warn broken error 188978561024  
-id connection my for warn broken error 188978561024  
-id connection my for warn broken error 188978561024  
-npeerepoch nround nsid state nstate nzxid nleader notification my looking
-message on queue waiting warn while for interrupted  
-npeerepoch nround nsid state nstate nzxid nleader notification my looking
-id connection my for warn broken error 188978561024  
-identifier info server smaller so the dropping have connection 
-end caught stream warn of exception    
-interrupting warn sendworker       
-interrupting warn sendworker       
-message on queue waiting warn while for interrupted  
-end caught stream warn of exception    
-interrupting warn sendworker       
-end caught stream warn of exception    
-message on queue waiting warn while for interrupted  
-end caught stream warn of exception    
-message on queue waiting warn while for interrupted  
-message on queue waiting warn while for interrupted  
-end caught stream warn of exception    
-end caught stream warn of exception    
-message on queue waiting warn while for interrupted  
-identifier info server smaller so the dropping have connection 
-identifier info server smaller so the dropping have connection 
-npeerepoch nround nsid state nstate nzxid nleader notification my looking
-npeerepoch nround nsid state nstate nzxid nleader notification my looking
-info server environment usrsharejavaxmlparserapisjar usrsharejavaxercesimpljar javaclasspath usrsharejavajlinejar usrsharejavaslf4japijar usrsharejavalog4j12jar usrsharejavanettyjar
-info server environment usrsharejavaxmlparserapisjar usrsharejavaxercesimpljar javaclasspath usrsharejavajlinejar usrsharejavaslf4japijar usrsharejavalog4j12jar usrsharejavanettyjar
-info server environment usrsharejavaxmlparserapisjar usrsharejavaxercesimpljar javaclasspath usrsharejavajlinejar usrsharejavaslf4japijar usrsharejavalog4j12jar usrsharejavanettyjar
-id connection my for warn broken error 188978561024  
-info server environment usrsharejavaxmlparserapisjar usrsharejavaxercesimpljar javaclasspath usrsharejavajlinejar usrsharejavaslf4japijar usrsharejavalog4j12jar usrsharejavanettyjar
-id connection my for warn broken error 188978561024  
-info server environment usrsharejavaxmlparserapisjar usrsharejavaxercesimpljar javaclasspath usrsharejavajlinejar usrsharejavaslf4japijar usrsharejavalog4j12jar usrsharejavanettyjar
-info server environment usrsharejavaxmlparserapisjar usrsharejavaxercesimpljar javaclasspath usrsharejavajlinejar usrsharejavaslf4japijar usrsharejavalog4j12jar usrsharejavanettyjar
-info server environment usrsharejavaxmlparserapisjar usrsharejavaxercesimpljar javaclasspath usrsharejavajlinejar usrsharejavaslf4japijar usrsharejavalog4j12jar usrsharejavanettyjar
-info server environment usrsharejavaxmlparserapisjar usrsharejavaxercesimpljar javaclasspath usrsharejavajlinejar usrsharejavaslf4japijar usrsharejavalog4j12jar usrsharejavanettyjar
-id connection 188978561024 broken error for my warn smaller server
-info server environment usrsharejavaxmlparserapisjar usrsharejavaxercesimpljar javaclasspath usrsharejavajlinejar usrsharejavaslf4japijar usrsharejavalog4j12jar usrsharejavanettyjar
-id connection 188978561024 broken error for my warn smaller server
-info server environment usrsharejavaxmlparserapisjar usrsharejavaxercesimpljar javaclasspath usrsharejavajlinejar usrsharejavaslf4japijar usrsharejavalog4j12jar usrsharejavanettyjar
-info server environment usrsharejavaxmlparserapisjar usrsharejavaxercesimpljar javaclasspath usrsharejavajlinejar usrsharejavaslf4japijar usrsharejavalog4j12jar usrsharejavanettyjar
-warn connection goodbye client be closed from mode is info
-info server environment usrsharejavaxmlparserapisjar usrsharejavaxercesimpljar javaclasspath usrsharejavajlinejar usrsharejavaslf4japijar usrsharejavalog4j12jar usrsharejavanettyjar
-info server environment usrsharejavaxmlparserapisjar usrsharejavaxercesimpljar javaclasspath usrsharejavajlinejar usrsharejavaslf4japijar usrsharejavalog4j12jar usrsharejavanettyjar
-id connection my for warn broken error 188978561024  
-info server environment usrsharejavaxmlparserapisjar usrsharejavaxercesimpljar javaclasspath usrsharejavajlinejar usrsharejavaslf4japijar usrsharejavalog4j12jar usrsharejavanettyjar
-info server environment usrsharejavaxmlparserapisjar usrsharejavaxercesimpljar javaclasspath usrsharejavajlinejar usrsharejavaslf4japijar usrsharejavalog4j12jar usrsharejavanettyjar
-warn connection goodbye client be closed from mode is info
-notification info time out      
-connection info socket client for closed had sessionid which from
-notification info time out      
-connection info socket client for closed had sessionid which from
-notification info time out      
-warn connection goodbye client be closed from mode is info
-warn connection goodbye client be closed from mode is info
-connection info request socket from client received accepted warn at
-connection info request socket from client received accepted warn at
-connection info socket client for closed had sessionid which from
-connection info socket client for closed had sessionid which from
-notification info time out      
-notification info time out      
-notification info time out      
-notification info time out      
-id connection 188978561024 broken error for my warn smaller server
-warn connection goodbye client be closed from mode is info
-connection info socket from client accepted had closed which sessionid
-connection info socket from client accepted had closed which sessionid
-connection info socket from client accepted had closed which sessionid
-identifier info server smaller so the dropping have connection 
-info attempting client at to accepted from connection socket 
-client at to info attempting     
-warn connection goodbye client be closed from mode is info
-info for client 0x100001546 closed hdfsmesoshdfs socket error nodeexists processing
-warn connection goodbye client be closed from mode is info
-warn connection goodbye client be closed from mode is info
-client at to info attempting     
-client at to info attempting     
-client at to info attempting     
-client at to info attempting     
-info attempting client at to accepted from connection socket 
-info attempting client at to accepted from connection socket 
-info attempting client at to accepted from connection socket 
-client at to info attempting     
-client at to info attempting     
-client at to info attempting     
-client at to info attempting     
-client at to info attempting     
-info connection client which had received request for sessionid socket
-info for client 0x100001546 closed hdfsmesoshdfs socket error nodeexists processing
-info attempting client at to accepted from connection socket 
-connection info socket from client accepted had closed which sessionid
-info session sessionid for termination processed environment server expiring exceeded
-info connection client which had received request for sessionid socket
-client at to info attempting     
-info connection client which had received request for sessionid socket
-info attempting client at to accepted from connection socket 
-info attempting client at to accepted from connection socket 
-client at to info attempting     
-client at to info attempting     
-client at to info attempting     
-client at to info attempting     
-info attempting client at to accepted from connection socket 
-info attempting client at to accepted from connection socket 
-info attempting client at to accepted from connection socket 
-client at to info attempting     
-client at to info attempting     
-message on queue waiting warn while for interrupted  
-info attempting client at to accepted from connection socket 
-client at to info attempting     
-client at to info attempting     
-info session processed for termination sessionid expiring exceeded timeout of
-client at to info attempting     
-info for client 0x100001546 closed hdfsmesoshdfs socket error nodeexists processing
-info connection client which had received request for sessionid socket
-client for info connection negotiated established session timeout with sessionid
-info connection client which had received request for sessionid socket
-client at to info attempting     
-client at to info attempting     
-client at to info attempting     
-info attempting client at to accepted from connection socket 
-info connection client which had received request for sessionid socket
+warn interrupting sendworker interrupted waiting on for message queue while
+info for session server environment client id established processed negotiated
+info for session server environment client id established processed negotiated
